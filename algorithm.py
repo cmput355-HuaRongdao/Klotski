@@ -1,3 +1,7 @@
+# Author: Shway Wang
+# Date: 2020, September 15th
+# Location: China Ningxia Yinchuan
+
 # orientation of Jiang objects:
 HOR = 0
 VER = 1
@@ -29,6 +33,7 @@ class Huarongdao:
 			x, y = self.zhen.bingList[i].position
 			self.huarongdao[x][y] = '@'	# @ represents a soldier
 
+	# displays the board to the terminal
 	def display(self):
 		for i in range(5):
 			for j in range(4):
@@ -66,7 +71,6 @@ class Jiang:
 class Bing:
 	def __init__(self, position):
 		self.position = position
-
 
 
 def main():
