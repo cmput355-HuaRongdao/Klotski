@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/shway/Desktop/2020fallcourses/CMPUT355/assignments/asn4/implementation/test/env"
+VIRTUAL_ENV="/home/shway/Desktop/2020fallcourses/CMPUT355/assignments/asn4/implementation/Huarongdao/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
