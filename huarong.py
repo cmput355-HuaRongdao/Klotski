@@ -11,6 +11,7 @@ LEFT_b = WIDTH/12
 RIGHT_b = LEFT_b + 4*UNIT
 UP_b = HEIGHT/12
 DOWN_b = UP_b + 5*UNIT
+
 # bonuses:
 unit_plt = UNIT + 10
 right_short_arm_start = LEFT_b + 3*UNIT
@@ -18,9 +19,6 @@ two_units = 2*UNIT
 three_units = 3*UNIT
 four_units = 4*UNIT
 five_units = 5*UNIT
-
-# character scales:
-
 
 # colors:
 RED = (255, 0, 0)
