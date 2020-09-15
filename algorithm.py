@@ -35,7 +35,7 @@ class Solver:
 
 def main():
 	# Zhen form:
-	zhen = TZYY()	# from games.py
+	zhen = BYHF()	# from games.py
 	# init the puzzle object:
 	hrd = Huarongdao(zhen)
 	# display the puzzle:
