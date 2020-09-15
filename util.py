@@ -140,7 +140,22 @@ class Huarongdao:
 					newState.getJiangByName(name).pos[0] -= 1	# can move left one
 					nextStates.append(newState)
 			# see if some bings can move:
-
+			if p[1] >= 1 and self.hrd[p[0]][p[1] - 1] == '@':	# see if bing can move down
+				newState = copy.deepcopy(self.curState)
+				newState.getBingByPos(p).pos[1] += 1	# can move down one
+				nextStates.append(newState)
+			elif p[1] <= 3 and self.hrd[p[0]][p[1] + 1] == '@':	# see if bing can move up
+				newState = copy.deepcopy(self.curState)
+				newState.getBingByPos(p).pos[1] -= 1	# can move up one
+				nextStates.append(newState)
+			if p[0] >= 1 and self.hrd[p[0] - 1][p[1]] == '@':	# see if bing can move right
+				newState = copy.deepcopy(self.curState)
+				newState.getBingByPos(p).pos[0] += 1	# can move right one
+				nextStates.append(newState)
+			elif p[0] <= 2 and self.hrd[p[0] + 1][p[1]] == '@':	# see if bing can move left
+				newState = copy.deepcopy(self.curState)
+				newState.getBingByPos(p).pos[0] -= 1	# can move left one
+				nextStates.append(newState)
 
 	# displays the board to the terminal
 	def display(self):
@@ -199,6 +214,7 @@ class Jiang:
 class Bing:
 	def __init__(self, pos):
 		self.pos = pos
+		self.id = id(self)
 
 	def __eq__(self, other):
 		if not isinstance(other, Bing):

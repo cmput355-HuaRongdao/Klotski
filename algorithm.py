@@ -18,14 +18,14 @@ class Solver:
 	def isSuccess(self):
 		return self.curState.caoCao.pos == [2, 4]
 
-
-
 	def solve(self):
+		'''
 		# while Cao Cao is not at the exit
 		while not self.isSuccess():
 			# gather available next states:
 			# go to a next state
 			pass
+		'''
 			
 
 def main():
