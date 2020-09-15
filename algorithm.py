@@ -8,9 +8,9 @@ import copy
 class Solver:
 	stateHistory = []
 	choiceHistory = []
-	def __init__(self, huarongdao):
-		self.huarongdao = huarongdao
-		self.curState = self.huarongdao.zhen
+	def __init__(self, hrd):
+		self.hrd = hrd
+		self.curState = self.hrd.zhen
 		# add the first state into history
 		self.stateHistory.append(self.curState)
 
@@ -19,6 +19,10 @@ class Solver:
 		return self.curState.caoCao.pos == [2, 4]
 
 	def solve(self):
+		nextStates = self.hrd.getNextStates()
+		for state in nextStates:
+			self.hrd.buZhen(state)
+			self.hrd.display()
 		'''
 		# while Cao Cao is not at the exit
 		while not self.isSuccess():
@@ -32,14 +36,14 @@ def main():
 	# Zhen form:
 	zhen = TZYY()	# from games.py
 	# init the puzzle object:
-	huarongdao = Huarongdao(zhen)
+	hrd = Huarongdao(zhen)
 	# display the puzzle:
-	huarongdao.display();
+	hrd.display();
 	# solve the puzzle:
-	Solver(huarongdao).solve()
+	Solver(hrd).solve()
 	# display solving result:
 	print("success!")
-	huarongdao.display()
+	#hrd.display()
 
 if __name__ == '__main__':
 	main()
