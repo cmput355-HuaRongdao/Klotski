@@ -3,24 +3,30 @@
 # Location: China Ningxia Yinchuan
 from util import *
 from games import *
+import copy
 
 class Solver:
-	history = []
+	stateHistory = []
+	choiceHistory = []
 	def __init__(self, huarongdao):
 		self.huarongdao = huarongdao
 		self.curState = self.huarongdao.zhen
 		# add the first state into history
-		self.history.append(self.curState)
+		self.stateHistory.append(self.curState)
 
+	# returns true is Cao Cao is at the escape point
 	def isSuccess(self):
-		return self.curState.caoCao.position == [2, 4]
+		return self.curState.caoCao.pos == [2, 4]
 
 	def solve(self):
+		'''
 		# while Cao Cao is not at the exit
 		while not self.isSuccess():
 			# gather available next states:
 			# go to a next state
 			pass
+		'''
+			
 
 def main():
 	# Zhen form:
