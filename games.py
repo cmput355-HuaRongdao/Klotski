@@ -28,7 +28,7 @@ def WHZZ():
 	caoCao = CaoCao([0, 2])
 	# Jiangs:
 	zhaoYun = Jiang([2, 1], VER, 'y')
-	guanYu = Jiang([2, 3], HOR, 'g')
+	guanYu = Jiang([2, 3], VER, 'g')
 	maChao = Jiang([1, 0], VER, 'm')
 	huangZhong = Jiang([0, 0], VER, 'h')
 	zhangFei = Jiang([3, 1], VER, 'z')
@@ -46,11 +46,11 @@ def JDHL():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
 	# Jiangs:
-	zhaoYun = Jiang([0, 2], VER, 'y')
+	zhaoYun = Jiang([0, 2], HOR, 'y')
 	guanYu = Jiang([0, 0], HOR, 'g')
-	maChao = Jiang([0, 3], VER, 'm')
-	huangZhong = Jiang([2, 2], VER, 'h')
-	zhangFei = Jiang([0, 1], VER, 'z')
+	maChao = Jiang([0, 3], HOR, 'm')
+	huangZhong = Jiang([2, 2], HOR, 'h')
+	zhangFei = Jiang([0, 1], HOR, 'z')
 	jiangList = [zhaoYun, guanYu, maChao, huangZhong, zhangFei]
 	# Bings:
 	b1 = Bing([0, 4])
@@ -65,15 +65,15 @@ def QHHY():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
 	# Jiangs:
-	zhaoYun = Jiang([2, 2], VER, 'y')
+	zhaoYun = Jiang([2, 2], HOR, 'y')
 	guanYu = Jiang([0, 1], HOR, 'g')
-	maChao = Jiang([0, 3], VER, 'm')
-	huangZhong = Jiang([2, 3], VER, 'h')
-	zhangFei = Jiang([0, 2], VER, 'z')
+	maChao = Jiang([0, 3], HOR, 'm')
+	huangZhong = Jiang([2, 3], HOR, 'h')
+	zhangFei = Jiang([0, 2], HOR, 'z')
 	jiangList = [zhaoYun, guanYu, maChao, huangZhong, zhangFei]
 	# Bings:
 	b1 = Bing([0, 0])
-	b2 = Bing([0, 1])
+	b2 = Bing([1, 0])
 	b3 = Bing([2, 4])
 	b4 = Bing([3, 4])
 	bingList = [b1, b2, b3, b4]
