@@ -23,6 +23,7 @@ class Solver:
 		for state in nextStates:
 			self.hrd.buZhen(state)
 			self.hrd.display()
+			print('')
 		'''
 		# while Cao Cao is not at the exit
 		while not self.isSuccess():
@@ -38,7 +39,8 @@ def main():
 	# init the puzzle object:
 	hrd = Huarongdao(zhen)
 	# display the puzzle:
-	hrd.display();
+	hrd.display()
+	print('')
 	# solve the puzzle:
 	Solver(hrd).solve()
 	# display solving result:

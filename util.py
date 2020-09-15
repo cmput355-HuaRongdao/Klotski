@@ -7,13 +7,13 @@ HOR = 0
 VER = 1
 
 class Huarongdao:
-	hrd = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
 	def __init__(self, zhen):
 		self.zhen = zhen
 		self.buZhen(self.zhen)
 
 	# according to the objects' information, fill in the hrd data structure the characters
 	def buZhen(self, zhen):
+		self.hrd = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
 		caoCaox = zhen.caoCao.pos[0]
 		caoCaoy = zhen.caoCao.pos[1]
 		self.hrd[caoCaox][caoCaoy] = '$'	# "$" represents caoCao
