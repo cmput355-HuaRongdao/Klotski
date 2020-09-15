@@ -5,20 +5,22 @@ from util import *
 from games import *
 
 class Solver:
+	history = []
 	def __init__(self, huarongdao):
 		self.huarongdao = huarongdao
-		# establish the start vertex
-		self.start = self.huarongdao.zhen
+		self.curState = self.huarongdao.zhen
+		# add the first state into history
+		self.history.append(self.curState)
 
 	def isSuccess(self):
-		return self.zhen.caoCao.position == [2, 4]
+		return self.curState.caoCao.position == [2, 4]
 
 	def solve(self):
 		# while Cao Cao is not at the exit
-		while !self.isSuccess():
+		while not self.isSuccess():
 			# gather available next states:
 			# go to a next state
-			
+			pass
 
 def main():
 	# Zhen form:
