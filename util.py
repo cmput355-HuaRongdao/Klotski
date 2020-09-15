@@ -32,8 +32,6 @@ class Huarongdao:
 			x, y = self.zhen.bingList[i].position
 			self.huarongdao[x][y] = '@'	# @ represents a soldier
 
-
-
 	# displays the board to the terminal
 	def display(self):
 		for i in range(5):
