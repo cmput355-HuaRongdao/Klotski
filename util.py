@@ -1,6 +1,7 @@
 # Author: Shway Wang
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
+import copy
 # ori of Jiang objects:
 HOR = 0
 VER = 1
@@ -40,16 +41,6 @@ class Huarongdao:
 					emptySpaces.append([i, j])
 		return emptySpaces
 
-	def getJiangByName(self, name):
-		for jiang in self.zhen.jiangList:
-			if jiang.name == name:
-				return jiang
-
-	def getBingByPos(self, pos):
-		for bing in self.zhen.bingList:
-			if bing.pos == pos:
-				return bing
-
 	def getNextStates(self):
 		nextStates = []
 		a, b = self.getEmptySpaces()	# will always be two empty spaces
@@ -58,54 +49,54 @@ class Huarongdao:
 			# see if CaoCao can move:
 			if (a[1] >= 2 and self.hrd[a[0]][a[1] - 1] == '$' 
 			and self.hrd[b[0]][b[1] - 1] == '$'):	# see if CaoCao can move down
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] += 1	# can move down one
 				nextStates.append(newState)
 			elif (a[1] <= 2 and self.hrd[a[0]][a[1] + 1] == '$' 
 			and self.hrd[b[0]][b[1] + 1] == '$'):	# see if CaoCao can move up
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] -= 1	# can move up one
 				nextStates.append(newState)
 			# see if some Jiangs can move:
-			if (a[1] >= 1 and self.hrd[a[0]][a[1] - 1] != '@' 
+			if (a[1] >= 1 and self.hrd[a[0]][a[1] - 1] not in ['@', '$'] 
 			and self.hrd[b[0]][b[1] - 1] != '@' 
 			and self.hrd[a[0]][a[1] - 1] == self.hrd[b[0]][b[1] - 1]):	# see if jiang can move down
 				name = self.hrd[a[0]][a[1] - 1]
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[1] += 1	# can move down one
 				nextStates.append(newState)
-			elif (a[1] <= 4 and self.hrd[a[0]][a[1] + 1] != '@' 
+			elif (a[1] <= 3 and self.hrd[a[0]][a[1] + 1] not in ['@', '$'] 
 			and self.hrd[b[0]][b[1] + 1] != '@' 
 			and self.hrd[a[0]][a[1] + 1] == self.hrd[b[0]][b[1] + 1]):	# see if jiang can move up
 				name = self.hrd[a[0]][a[1] + 1]
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[1] -= 1	# can move up one
 				nextStates.append(newState)
 		elif (abs(a[1] - b[1]) == 1 and a[0] == b[0]):	# one empty above another empty
 			# see if CaoCao can move:
 			if (a[0] >= 2 and self.hrd[a[0] - 1][a[1]] == '$' 
 			and self.hrd[b[0] - 1][b[1]] == '$'):	# see if CaoCao can move right
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] += 1	# can move right one
 				nextStates.append(newState)
 			elif (a[0] <= 1 and self.hrd[a[0] + 1][a[1]] == '$' 
 			and self.hrd[b[0] + 1][b[1]] == '$'):	# see if CaoCao can move left
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] -= 1	# can move left one
 				nextStates.append(newState)
 			# see if some Jiangs can move:
-			if (a[0] >= 1 and self.hrd[a[0] - 1][a[1]] != '@' 
+			if (a[0] >= 1 and self.hrd[a[0] - 1][a[1]] not in ['@', '$']  
 			and self.hrd[b[0] - 1][b[1]] != '@' 
 			and self.hrd[a[0] - 1][a[1]] == self.hrd[b[0] - 1][b[1]]):	# see if jiang can move right
 				name = self.hrd[a[0] - 1][a[1]]
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[0] += 1	# can move right one
 				nextStates.append(newState)
-			elif (a[0] <= 2 and self.hrd[a[0] + 1][a[1]] != '@' 
+			elif (a[0] <= 2 and self.hrd[a[0] + 1][a[1]] not in ['@', '$']  
 			and self.hrd[b[0] + 1][b[1]] != '@' 
 			and self.hrd[a[0] + 1][a[1]] == self.hrd[b[0] + 1][b[1]]):	# see if jiang can move left
 				name = self.hrd[a[0] + 1][a[1]]
-				newState = copy.deepcopy(self.curState)
+				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[0] -= 1	# can move left one
 				nextStates.append(newState)
 		# if the empties are separated:
@@ -113,49 +104,50 @@ class Huarongdao:
 			# see if some Jiangs can move:
 			if p[1] >= 2 and self.hrd[p[0]][p[1] - 1] not in ['@', '$', '.']:	# see if jiang can move down
 				name = self.hrd[p[0]][p[1] - 1]
-				jiang = self.curState.getJiangByName(name)
+				jiang = self.zhen.getJiangByName(name)
 				if jiang.ori == VER:
-					newState = copy.deepcopy(self.curState)
+					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[1] += 1	# can move down one
 					nextStates.append(newState)
 			elif p[1] <= 2 and self.hrd[p[0]][p[1] + 1] not in ['@', '$', '.']:	# see if jiang can move up
 				name = self.hrd[p[0]][p[1] + 1]
-				jiang = self.curState.getJiangByName(name)
+				jiang = self.zhen.getJiangByName(name)
 				if jiang.ori == VER:
-					newState = copy.deepcopy(self.curState)
+					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[1] -= 1	# can move up one
 					nextStates.append(newState)
 			if p[0] >= 2 and self.hrd[p[0] - 1][p[1]] not in ['@', '$', '.']:	# see if jiang can move right
 				name = self.hrd[p[0] - 1][p[1]]
-				jiang = self.curState.getJiangByName(name)
+				jiang = self.zhen.getJiangByName(name)
 				if jiang.ori == HOR:
-					newState = copy.deepcopy(self.curState)
+					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[0] += 1	# can move right one
 					nextStates.append(newState)
 			elif p[0] <= 1 and self.hrd[p[0] + 1][p[1]] not in ['@', '$', '.']:	# see if jiang can move left
 				name = self.hrd[p[0] + 1][p[1]]
-				jiang = self.curState.getJiangByName(name)
+				jiang = self.zhen.getJiangByName(name)
 				if jiang.ori == HOR:
-					newState = copy.deepcopy(self.curState)
+					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[0] -= 1	# can move left one
 					nextStates.append(newState)
 			# see if some bings can move:
 			if p[1] >= 1 and self.hrd[p[0]][p[1] - 1] == '@':	# see if bing can move down
-				newState = copy.deepcopy(self.curState)
-				newState.getBingByPos(p).pos[1] += 1	# can move down one
+				newState = copy.deepcopy(self.zhen)
+				newState.getBingByPos([p[0], p[1] - 1]).pos[1] += 1	# can move down one
 				nextStates.append(newState)
 			elif p[1] <= 3 and self.hrd[p[0]][p[1] + 1] == '@':	# see if bing can move up
-				newState = copy.deepcopy(self.curState)
-				newState.getBingByPos(p).pos[1] -= 1	# can move up one
+				newState = copy.deepcopy(self.zhen)
+				newState.getBingByPos([p[0], p[1] + 1]).pos[1] -= 1	# can move up one
 				nextStates.append(newState)
 			if p[0] >= 1 and self.hrd[p[0] - 1][p[1]] == '@':	# see if bing can move right
-				newState = copy.deepcopy(self.curState)
-				newState.getBingByPos(p).pos[0] += 1	# can move right one
+				newState = copy.deepcopy(self.zhen)
+				newState.getBingByPos([p[0] - 1, p[1]]).pos[0] += 1	# can move right one
 				nextStates.append(newState)
 			elif p[0] <= 2 and self.hrd[p[0] + 1][p[1]] == '@':	# see if bing can move left
-				newState = copy.deepcopy(self.curState)
-				newState.getBingByPos(p).pos[0] -= 1	# can move left one
+				newState = copy.deepcopy(self.zhen)
+				newState.getBingByPos([p[0] + 1, p[1]]).pos[0] -= 1	# can move left one
 				nextStates.append(newState)
+		return nextStates
 
 	# displays the board to the terminal
 	def display(self):
@@ -182,6 +174,16 @@ class Zhen:
 			if not (self.bingList[i] == other.bingList[i]):
 				return False
 		return True
+
+	def getJiangByName(self, name):
+		for jiang in self.jiangList:
+			if jiang.name == name:
+				return jiang
+
+	def getBingByPos(self, pos):
+		for bing in self.bingList:
+			if bing.pos == pos:
+				return bing
 
 # the characters:
 class CaoCao:
