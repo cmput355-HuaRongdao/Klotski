@@ -23,7 +23,7 @@ def TZYY():
 	return Zhen(caoCao, jiangList, bingList)
 
 # 无横之局:
-def WHZZ():
+def WHZJ():
 	# caoCao:
 	caoCao = CaoCao([0, 2])
 	# Jiangs:
