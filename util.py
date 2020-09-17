@@ -54,7 +54,7 @@ class Huarongdao:
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] += 1	# can move down one
 				nextStates.append(newState)
-			elif (a[1] <= 2 and self.hrd[a[0]][a[1] + 1] == '$' 
+			if (a[1] <= 2 and self.hrd[a[0]][a[1] + 1] == '$' 
 			and self.hrd[b[0]][b[1] + 1] == '$'):	# see if CaoCao can move up
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] -= 1	# can move up one
@@ -67,7 +67,7 @@ class Huarongdao:
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[1] += 1	# can move down one
 				nextStates.append(newState)
-			elif (a[1] <= 3 and self.hrd[a[0]][a[1] + 1] not in ['@', '$'] 
+			if (a[1] <= 3 and self.hrd[a[0]][a[1] + 1] not in ['@', '$'] 
 			and self.hrd[b[0]][b[1] + 1] != '@' 
 			and self.hrd[a[0]][a[1] + 1] == self.hrd[b[0]][b[1] + 1]):	# see if jiang can move up
 				name = self.hrd[a[0]][a[1] + 1]
@@ -81,7 +81,7 @@ class Huarongdao:
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] += 1	# can move right one
 				nextStates.append(newState)
-			elif (a[0] <= 1 and self.hrd[a[0] + 1][a[1]] == '$' 
+			if (a[0] <= 1 and self.hrd[a[0] + 1][a[1]] == '$' 
 			and self.hrd[b[0] + 1][b[1]] == '$'):	# see if CaoCao can move left
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] -= 1	# can move left one
@@ -94,7 +94,7 @@ class Huarongdao:
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[0] += 1	# can move right one
 				nextStates.append(newState)
-			elif (a[0] <= 2 and self.hrd[a[0] + 1][a[1]] not in ['@', '$']  
+			if (a[0] <= 2 and self.hrd[a[0] + 1][a[1]] not in ['@', '$']  
 			and self.hrd[b[0] + 1][b[1]] != '@' 
 			and self.hrd[a[0] + 1][a[1]] == self.hrd[b[0] + 1][b[1]]):	# see if jiang can move left
 				name = self.hrd[a[0] + 1][a[1]]
