@@ -79,8 +79,8 @@ def QHHY():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 比翼横飞:
-def BYHF():
+# 比翼横空:
+def BYHK():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
 	# Jiangs:
@@ -95,5 +95,62 @@ def BYHF():
 	b2 = Bing([0, 4])
 	b3 = Bing([2, 3])
 	b4 = Bing([2, 4])
+	bingList = [b1, b2, b3, b4]
+	return Zhen(caoCao, jiangList, bingList)
+
+# 巧过五关:
+def QGWG():
+	# caoCao:
+	caoCao = CaoCao([1, 0])
+	# Jiangs:
+	zhaoYun = Jiang([0, 3], HOR, 'y')
+	guanYu = Jiang([0, 2], HOR, 'g')
+	maChao = Jiang([2, 3], HOR, 'm')
+	huangZhong = Jiang([1, 4], HOR, 'h')
+	zhangFei = Jiang([2, 2], HOR, 'z')
+	jiangList = [zhaoYun, guanYu, maChao, huangZhong, zhangFei]
+	# Bings:
+	b1 = Bing([0, 0])
+	b2 = Bing([0, 1])
+	b3 = Bing([3, 0])
+	b4 = Bing([3, 1])
+	bingList = [b1, b2, b3, b4]
+	return Zhen(caoCao, jiangList, bingList)
+
+# 五将逼宫:
+def WJBG():
+	# caoCao:
+	caoCao = CaoCao([1, 1])
+	# Jiangs:
+	zhaoYun = Jiang([1, 3], HOR, 'y')
+	guanYu = Jiang([0, 0], HOR, 'g')
+	maChao = Jiang([0, 1], VER, 'm')
+	huangZhong = Jiang([3, 1], VER, 'h')
+	zhangFei = Jiang([2, 0], HOR, 'z')
+	jiangList = [zhaoYun, guanYu, maChao, huangZhong, zhangFei]
+	# Bings:
+	b1 = Bing([0, 3])
+	b2 = Bing([0, 4])
+	b3 = Bing([3, 3])
+	b4 = Bing([3, 4])
+	bingList = [b1, b2, b3, b4]
+	return Zhen(caoCao, jiangList, bingList)
+
+# 横刀立马2:
+def HDLM2():
+	# caoCao:
+	caoCao = CaoCao([1, 0])
+	# Jiangs:
+	zhaoYun = Jiang([0, 3], VER, 'y')
+	guanYu = Jiang([1, 2], HOR, 'g')
+	maChao = Jiang([3, 0], VER, 'm')
+	huangZhong = Jiang([0, 0], VER, 'h')
+	zhangFei = Jiang([3, 3], VER, 'z')
+	jiangList = [zhaoYun, guanYu, maChao, huangZhong, zhangFei]
+	# Bings:
+	b1 = Bing([0, 2])
+	b2 = Bing([1, 3])
+	b3 = Bing([2, 3])
+	b4 = Bing([3, 2])
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
