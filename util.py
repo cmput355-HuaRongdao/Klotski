@@ -2,7 +2,7 @@
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
 import copy
-# ori of Jiang objects:
+# ori. of Jiang objects:
 HOR = 0
 VER = 1
 
@@ -42,6 +42,8 @@ class Huarongdao:
 		return emptySpaces
 
 	def getNextStates(self):
+		# Note: this method is run based on the hrd data structure
+		# this method can only be used after buZhen(self, zhen) is called
 		nextStates = []
 		a, b = self.getEmptySpaces()	# will always be two empty spaces
 		# see if the empties are together or separate:
