@@ -6,7 +6,53 @@ import copy
 HOR = 0
 VER = 1
 
-class Huarongdao:
+class Solver(object):
+	def __init__(self, hrd):
+		self.hrd = hrd
+		self.zhenCollection = []
+		self.zhenHistory = []
+		self.choiceHistory = []
+		# add the first zhen into history
+		# there is always one more element in zhenHistory than choiceHistory:
+		self.zhenHistory.append(self.hrd.zhen)
+		self.zhenCollection.append(self.hrd.zhen)
+
+	# returns true is Cao Cao is at the escape point
+	def isSuccess(self):
+		return self.hrd.zhen.caoCao.pos == [1, 3]
+
+	def getNextStatesByZhen(self, zhen):
+		self.hrd.buZhen(zhen)
+		return self.hrd.getNextStates()
+	
+	def abstractBuZhen(self, zhen):
+		board = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
+		caoCaox = zhen.caoCao.pos[0]
+		caoCaoy = zhen.caoCao.pos[1]
+		board[caoCaox][caoCaoy] = '$'	# "$" represents caoCao
+		board[caoCaox + 1][caoCaoy] = '$'
+		board[caoCaox][caoCaoy + 1] = '$'
+		board[caoCaox + 1][caoCaoy + 1] = '$'
+		for i in range(5):	# there are in total 5 Jiangs
+			jiang = zhen.jiangList[i]
+			x, y = jiang.pos
+			board[x][y] = '#'	# '#' represents Jiang object
+			if jiang.ori == HOR:	# the Jiang is placed horizontally
+				board[x + 1][y] = '#'
+			else:	# the Jiang is placed vertically
+				board[x][y + 1] = '#'
+		for i in range(4):	# there are in total 4 Bings
+			x, y = zhen.bingList[i].pos
+			board[x][y] = '@'	# @ represents a soldier
+		return board
+
+	def addToZhenCollection(self, zhen):
+		self.zhenCollection.append(self.abstractBuZhen(zhen))
+
+	def checkDup(self, zhen):
+		return self.abstractBuZhen(zhen) in self.zhenCollection
+
+class Huarongdao(object):
 	def __init__(self, zhen):
 		self.zhen = zhen
 		self.buZhen(self.zhen)
@@ -158,7 +204,7 @@ class Huarongdao:
 				print(self.hrd[j][i] + '  ', end = '')
 			print('')
 
-class Zhen:
+class Zhen(object):
 	def __init__(self, caoCao, jiangList, bingList):
 		self.caoCao = caoCao
 		self.jiangList = jiangList
@@ -178,17 +224,19 @@ class Zhen:
 		return True
 
 	def getJiangByName(self, name):
+		# get the Jiao object by its name
 		for jiang in self.jiangList:
 			if jiang.name == name:
 				return jiang
 
 	def getBingByPos(self, pos):
+		# get the Bing object by its position
 		for bing in self.bingList:
 			if bing.pos == pos:
 				return bing
 
 # the characters:
-class CaoCao:
+class CaoCao(object):
 	def __init__(self, pos):
 		self.pos = pos
 
@@ -199,7 +247,7 @@ class CaoCao:
 			return False
 		return True
 
-class Jiang:
+class Jiang(object):
 	def __init__(self, pos, ori, name):
 		self.pos = pos
 		self.ori = ori
@@ -215,7 +263,7 @@ class Jiang:
 		return True
 
 
-class Bing:
+class Bing(object):
 	def __init__(self, pos):
 		self.pos = pos
 		self.id = id(self)
