@@ -3,8 +3,6 @@
 # Location: China Ningxia Yinchuan
 
 from games import *
-from heuristic import *
-from a_star import *
 import copy
 import time
 
