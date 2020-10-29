@@ -1,8 +1,10 @@
 # Author: Shway Wang
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
-from util import *
+
 from games import *
+from heuristic import *
+from a_star import *
 import copy
 import time
 
