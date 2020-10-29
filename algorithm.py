@@ -29,111 +29,6 @@ class Solver:
 		# and put it into the zhenCollection
 		self.zhenCollection.append(zhen)
 
-	# DEPRECATED:
-	def dfs(self):
-		zhenHistory = []	# stores the current paths
-		choiceHistory = []	# for dfs only
-		# add the first zhen into history
-		# there is always one more element in zhenHistory than choiceHistory:
-		zhenHistory.append(self.hrd.zhen)
-		self.addToZhenCollection(self.hrd.zhen)
-		# this variable is set to true if it's not the first time the search is at this node
-		recursed = False
-		step_count = 0
-		# while Cao Cao is not at the exit
-		# do a DFS:
-		while not self.isSuccess(self.hrd.zhen):
-			# gather available next zhens:
-			nextZhens = self.getNextStatesByZhen(self.hrd.zhen)
-			numOfNextZhens = len(nextZhens)
-			# go to a next zhen:
-			# case 1, make the next choice at this state:
-			if recursed:
-				if choiceHistory[-1] == numOfNextZhens: 
-					if len(zhenHistory) == 1:
-						print('No solution is found for this puzzle...')
-						# update the data structure for displaying the result:
-						self.hrd.buZhen(self.hrd.zhen)
-						return [step_count, len(self.zhenCollection), choiceHistory,
-						self.max_counter, self.max_len_history]
-					# all paths explored for this node or if must recurse, recurse again:
-					zhenHistory.pop()
-					self.hrd.zhen = zhenHistory[-1]
-					choiceHistory.pop()
-					choiceHistory[-1] += 1
-					recursed = True
-				elif self.checkDup(nextZhens[choiceHistory[-1]]):
-					choiceHistory[-1] += 1
-					recursed = True
-				else:
-					# go explore the next branch:
-					flag = False
-					choice = choiceHistory[-1]
-					for i in range(choice, numOfNextZhens):
-						if not self.checkDup(nextZhens[i]):
-							self.hrd.zhen = nextZhens[i]
-							zhenHistory.append(self.hrd.zhen)
-							self.addToZhenCollection(self.hrd.zhen)
-							choiceHistory[-1] = i
-							recursed = False
-							flag = True
-							break
-					if flag: continue
-
-			# case 2, first time down this path:
-			elif numOfNextZhens > 0:
-				flag = False
-				for i in range(numOfNextZhens):
-					if not self.checkDup(nextZhens[i]):
-						choiceHistory.append(i)
-						self.hrd.zhen = nextZhens[i]	# explore the chosen path
-						zhenHistory.append(self.hrd.zhen)
-						self.addToZhenCollection(self.hrd.zhen)
-						recursed = False
-						flag = True
-						break
-				if flag:
-					# a new zhen is chosen apart from any old ones
-					step_count += 1
-					continue
-				# go explore the next branch:
-				choiceHistory[-1] += 1
-				# all paths explored for this branch, recurse:
-				zhenHistory.pop()
-				self.hrd.zhen = zhenHistory[-1]
-				recursed = True
-			# case 3, the search stucks and goal is not reached:
-			else:
-				# go explore the next branch:
-				choiceHistory[-1] += 1
-				# all paths explored for this branch, recurse:
-				zhenHistory.pop()
-				self.hrd.zhen = zhenHistory[-1]	# go to the previous state
-				recursed = True
-			# one step is taken
-			step_count += 1
-		# update the data structure for displaying the result:
-		self.hrd.buZhen(self.hrd.zhen)
-		print('success!')
-		return [step_count, len(self.zhenCollection), choiceHistory]
-
-	# DEPRECATED:
-	def dfs_game(self, title):
-		print('================================================')
-		print('=========', title, '=============================')
-		print('================================================')
-		# display the puzzle:
-		self.hrd.display()
-		print('')
-		# solve the puzzle:
-		step_count, zhenCollectionSize, choiceHistory = self.dfs()
-		# display solving result:
-		self.hrd.display()
-		print('choiceHistory: ', choiceHistory)
-		print('size of choiceHistory: ', len(choiceHistory))
-		print('size of zhen collection: ', zhenCollectionSize)
-		print("total step count: ", step_count)
-
 	def bfs(self):
 		zhenSet = {self.hrd.zhen}
 		# while Cao Cao is not at the exit
@@ -277,32 +172,55 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('逃之夭夭')
+	Solver(Huarongdao(zhen)).a_star_game('逃之夭夭')
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('无横之局')
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('将当后路')
+	Solver(Huarongdao(zhen)).a_star_game('将当后路')
 	# Zhen form:
 	zhen = QHHY()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('前呼后拥')
+	Solver(Huarongdao(zhen)).a_star_game('前呼后拥')
 	# Zhen form:
 	zhen = BYHK()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('比翼横空')
+	Solver(Huarongdao(zhen)).a_star_game('比翼横空')
 	# Zhen form:
 	zhen = QGWG()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('巧过五关')
 	# Zhen form:
-	zhen = QGWG()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('巧过五关')
-	# Zhen form:
 	zhen = WJBG()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('五将逼宫')
+	# Zhen form:
+	zhen = BLCY()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('兵临曹营')
+	# Zhen form:
+	zhen = SJLG()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('四将连关')
+	# Zhen form:
+	zhen = XJZZC()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('新近在咫尺')
+	# Zhen form:
+	zhen = XLQB()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('星罗棋布')
+	# Zhen form:
+	zhen = SMBF()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('四面八方')
 	'''
+	# Zhen form:
+	zhen = NQCT()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('牛气冲天')
+	'''
+	# Zhen form:
+	zhen = DBQJ()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('调兵谴将')
+	# Zhen form:
+	zhen = BSZL()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('背水列阵')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('横刀立马2')
+	'''
 
 if __name__ == '__main__':
 	main()
