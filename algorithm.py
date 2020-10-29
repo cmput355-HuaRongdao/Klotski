@@ -2,6 +2,7 @@
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
 
+from heapq import *
 from games import *
 import copy
 import time
@@ -20,18 +21,13 @@ class Solver:
 		# set as the zhen object past in:
 		self.hrd.zhen = zhen
 		self.hrd.buZhen(zhen)
-		nextStates = self.hrd.getNextStates()
-		for state in nextStates: state.setParent(zhen)
+		nextStates = self.hrd.getNextStatesAndSetParent(zhen)
 		return nextStates
 
 	def addToZhenCollection(self, zhen):
 		# generalize the state(zhen past in) to represent all of its equivalences,
 		# and put it into the zhenCollection
 		self.zhenCollection.append(zhen)
-
-	def checkDup(self, zhen):
-		# check if a state or its abstract equivalence has already been explored:
-		return zhen in self.zhenCollection
 
 	# DEPRECATED:
 	def dfs(self):
@@ -139,27 +135,26 @@ class Solver:
 		print("total step count: ", step_count)
 
 	def bfs(self):
+		zhenSet = {self.hrd.zhen}
 		# while Cao Cao is not at the exit
 		# do a BFS:
-		while True:
-			# gather available next zhens:
-			self.addToZhenCollection(self.hrd.zhen)
-			while len(self.zhenCollection) > 0:
-				print(len(self.zhenCollection))
-				current_zhen = self.zhenCollection.pop(0)
-				nextZhens = self.getNextStatesByZhen(current_zhen)
-				for state in nextZhens:
-					# if the state is new, add it to the collection:
-					if not self.checkDup(state):
-						if self.isSuccess(state):
-							return state
-						else:
-							self.addToZhenCollection(state)
-
+		# gather available next zhens:
+		self.addToZhenCollection(self.hrd.zhen)
+		while len(self.zhenCollection) > 0:
+			current_zhen = self.zhenCollection.pop(0)
+			nextZhens = self.getNextStatesByZhen(current_zhen)	# parents of each state set here
+			for state in nextZhens:
+				# if the state is new, add it to the collection:
+				if state not in zhenSet:
+					if self.isSuccess(state):
+						return state
+					else:
+						zhenSet.add(state)
+						self.addToZhenCollection(state)
 
 	def bfs_game(self, title):
 		print('================================================')
-		print('=========', title, '=============================')
+		print('=========', title, ' by BFS =====================')
 		print('================================================')
 		# display the puzzle:
 		self.hrd.display()
@@ -167,6 +162,51 @@ class Solver:
 		# solve the puzzle:
 		start_time = time.time()
 		zhen = self.bfs()
+		elapsed_time = time.time() - start_time
+		# get the solution path:
+		path = [zhen]
+		while zhen.getParent() is not None:
+			zhen = zhen.getParent()
+			path.append(zhen)
+		# reverse the path:
+		path.reverse()
+		# display the path:
+		print('========= Solution =============================')
+		print('Total number of steps: ', len(path) - 1)
+		print('Total time used: ', elapsed_time)
+		for state in path:
+			self.hrd.buZhen(state)
+			self.hrd.display()
+			print('')
+
+	def a_star(self):
+		zhenSet = {self.hrd.zhen}
+		heap = [(self.hrd.zhen.getFValue(), self.hrd.zhen)]
+		# while Cao Cao is not at the exit
+		# do a_star search:
+		# gather available next zhens:
+		while len(heap) > 0:
+			current_zhen = heappop(heap)[1]
+			nextZhens = self.getNextStatesByZhen(current_zhen)	# parents of each state set here
+			for state in nextZhens:
+				# if the state is new, add it to the collection:
+				if state not in zhenSet:
+					if self.isSuccess(state):
+						return state
+					else:
+						zhenSet.add(state)
+						heappush(heap, (state.getFValue(), state))
+
+	def a_star_game(self, title):
+		print('================================================')
+		print('=========', title, ' by A* ======================')
+		print('================================================')
+		# display the puzzle:
+		self.hrd.display()
+		print('')
+		# solve the puzzle:
+		start_time = time.time()
+		zhen = self.a_star()
 		elapsed_time = time.time() - start_time
 		# get the solution path:
 		path = [zhen]
@@ -192,7 +232,7 @@ def main():
 	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('无横之局')
+	Solver(Huarongdao(zhen)).a_star_game('无横之局')
 	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
@@ -205,13 +245,16 @@ def main():
 	Solver(Huarongdao(zhen)).bfs_game('比翼横空')
 	# Zhen form:
 	zhen = QGWG()	# from games.py
+	Solver(Huarongdao(zhen)).a_star_game('巧过五关')
+	# Zhen form:
+	zhen = QGWG()	# from games.py
 	Solver(Huarongdao(zhen)).bfs_game('巧过五关')
 	# Zhen form:
 	zhen = WJBG()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('五将逼宫')
+	Solver(Huarongdao(zhen)).a_star_game('五将逼宫')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
-	Solver(Huarongdao(zhen)).bfs_game('横刀立马')
+	Solver(Huarongdao(zhen)).a_star_game('横刀立马2')
 	'''
 
 if __name__ == '__main__':

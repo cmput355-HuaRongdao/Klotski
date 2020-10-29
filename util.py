@@ -41,7 +41,7 @@ class Huarongdao(object):
 					emptySpaces.append([i, j])
 		return emptySpaces
 
-	def getNextStates(self):
+	def getNextStatesAndSetParent(self, parent):
 		# Note: this method is run based on the hrd data structure
 		# this method can only be used after buZhen(self, zhen) is called
 		nextStates = []
@@ -53,11 +53,13 @@ class Huarongdao(object):
 			and self.hrd[b[0]][b[1] - 1] == '$'):	# see if CaoCao can move down
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] += 1	# can move down one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if (a[1] <= 2 and self.hrd[a[0]][a[1] + 1] == '$' 
 			and self.hrd[b[0]][b[1] + 1] == '$'):	# see if CaoCao can move up
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[1] -= 1	# can move up one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			# see if some Jiangs can move:
 			if (a[1] >= 1 and self.hrd[a[0]][a[1] - 1] not in ['@', '$'] 
@@ -66,6 +68,7 @@ class Huarongdao(object):
 				name = self.hrd[a[0]][a[1] - 1]
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[1] += 1	# can move down one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if (a[1] <= 3 and self.hrd[a[0]][a[1] + 1] not in ['@', '$'] 
 			and self.hrd[b[0]][b[1] + 1] != '@' 
@@ -73,6 +76,7 @@ class Huarongdao(object):
 				name = self.hrd[a[0]][a[1] + 1]
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[1] -= 1	# can move up one
+				newState.setParent(parent)
 				nextStates.append(newState)
 		elif (abs(a[1] - b[1]) == 1 and a[0] == b[0]):	# one empty above another empty
 			# see if CaoCao can move:
@@ -80,11 +84,13 @@ class Huarongdao(object):
 			and self.hrd[b[0] - 1][b[1]] == '$'):	# see if CaoCao can move right
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] += 1	# can move right one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if (a[0] <= 1 and self.hrd[a[0] + 1][a[1]] == '$' 
 			and self.hrd[b[0] + 1][b[1]] == '$'):	# see if CaoCao can move left
 				newState = copy.deepcopy(self.zhen)
 				newState.caoCao.pos[0] -= 1	# can move left one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			# see if some Jiangs can move:
 			if (a[0] >= 1 and self.hrd[a[0] - 1][a[1]] not in ['@', '$']  
@@ -93,6 +99,7 @@ class Huarongdao(object):
 				name = self.hrd[a[0] - 1][a[1]]
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[0] += 1	# can move right one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if (a[0] <= 2 and self.hrd[a[0] + 1][a[1]] not in ['@', '$']  
 			and self.hrd[b[0] + 1][b[1]] != '@' 
@@ -100,6 +107,7 @@ class Huarongdao(object):
 				name = self.hrd[a[0] + 1][a[1]]
 				newState = copy.deepcopy(self.zhen)
 				newState.getJiangByName(name).pos[0] -= 1	# can move left one
+				newState.setParent(parent)
 				nextStates.append(newState)
 		# if the empties are separated:
 		for p in [a, b]:
@@ -110,6 +118,7 @@ class Huarongdao(object):
 				if jiang.ori == VER:
 					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[1] += 1	# can move down one
+					newState.setParent(parent)
 					nextStates.append(newState)
 			if p[1] <= 2 and self.hrd[p[0]][p[1] + 1] not in ['@', '$', '.']:	# see if jiang can move up
 				name = self.hrd[p[0]][p[1] + 1]
@@ -117,6 +126,7 @@ class Huarongdao(object):
 				if jiang.ori == VER:
 					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[1] -= 1	# can move up one
+					newState.setParent(parent)
 					nextStates.append(newState)
 			if p[0] >= 2 and self.hrd[p[0] - 1][p[1]] not in ['@', '$', '.']:	# see if jiang can move right
 				name = self.hrd[p[0] - 1][p[1]]
@@ -124,6 +134,7 @@ class Huarongdao(object):
 				if jiang.ori == HOR:
 					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[0] += 1	# can move right one
+					newState.setParent(parent)
 					nextStates.append(newState)
 			if p[0] <= 1 and self.hrd[p[0] + 1][p[1]] not in ['@', '$', '.']:	# see if jiang can move left
 				name = self.hrd[p[0] + 1][p[1]]
@@ -131,23 +142,28 @@ class Huarongdao(object):
 				if jiang.ori == HOR:
 					newState = copy.deepcopy(self.zhen)
 					newState.getJiangByName(name).pos[0] -= 1	# can move left one
+					newState.setParent(parent)
 					nextStates.append(newState)
 			# see if some bings can move:
 			if p[1] >= 1 and self.hrd[p[0]][p[1] - 1] == '@':	# see if bing can move down
 				newState = copy.deepcopy(self.zhen)
 				newState.getBingByPos([p[0], p[1] - 1]).pos[1] += 1	# can move down one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if p[1] <= 3 and self.hrd[p[0]][p[1] + 1] == '@':	# see if bing can move up
 				newState = copy.deepcopy(self.zhen)
 				newState.getBingByPos([p[0], p[1] + 1]).pos[1] -= 1	# can move up one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if p[0] >= 1 and self.hrd[p[0] - 1][p[1]] == '@':	# see if bing can move right
 				newState = copy.deepcopy(self.zhen)
 				newState.getBingByPos([p[0] - 1, p[1]]).pos[0] += 1	# can move right one
+				newState.setParent(parent)
 				nextStates.append(newState)
 			if p[0] <= 2 and self.hrd[p[0] + 1][p[1]] == '@':	# see if bing can move left
 				newState = copy.deepcopy(self.zhen)
 				newState.getBingByPos([p[0] + 1, p[1]]).pos[0] -= 1	# can move left one
+				newState.setParent(parent)
 				nextStates.append(newState)
 		return nextStates
 
@@ -161,14 +177,38 @@ class Huarongdao(object):
 class Zhen:
 	def __init__(self, caoCao, jiangList, bingList, parent = None):
 		self.parent = parent
+		if self.parent is not None:
+			self.cost = self.parent.getCost() + 1
+		else:
+			self.cost = 0
 		self.caoCao = caoCao
 		self.jiangList = jiangList
 		self.bingList = bingList
+
+	def __lt__(self, other):
+		return self.getFValue() < other.getFValue()
 
 	def __eq__(self, other):
 		if not isinstance(other, Zhen):
 			return NotImplemented
 		return other.getAbstract() == self.getAbstract()
+
+	def __hash__(self):
+		return hash(self.getAbstract())
+
+	def getH(self):
+		p = self.caoCao.pos
+		return abs(p[0] - 1) + abs(p[1] - 3)
+
+	def getFValue(self):
+		return self.getH() + self.cost
+
+	def setParent(self, parent):
+		self.cost = parent.cost + 1
+		self.parent = parent
+
+	def getParent(self):
+		return self.parent
 
 	def getAbstract(self):
 		# this function generalize all Jiangs to be the same on the board.
@@ -190,13 +230,11 @@ class Zhen:
 		for i in range(4):	# there are in total 4 Bings
 			x, y = self.bingList[i].pos
 			board[x][y] = '@'	# @ represents a soldier
-		return board
-
-	def setParent(self, parent):
-		self.parent = parent
-
-	def getParent(self):
-		return self.parent
+		serial = ''
+		for i in range(len(board)):
+			for j in range(len(board[0])):
+				serial += board[i][j]
+		return serial
 
 	def getJiangByName(self, name):
 		# get the Jiao object by its name
