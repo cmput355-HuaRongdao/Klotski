@@ -204,14 +204,9 @@ class Huarongdao(object):
 				print(self.hrd[j][i] + '  ', end = '')
 			print('')
 
-<<<<<<< HEAD
-class Zhen(object):
-	def __init__(self, caoCao, jiangList, bingList):
-=======
 class Zhen:
 	def __init__(self, caoCao, jiangList, bingList, parent = None):
 		self.parent = parent
->>>>>>> ebad039e5c92630d23715905a8352e36498d4ab8
 		self.caoCao = caoCao
 		self.jiangList = jiangList
 		self.bingList = bingList
