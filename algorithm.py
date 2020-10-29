@@ -170,6 +170,30 @@ class Solver:
 			path.append(zhen)
 		# reverse the path:
 		path.reverse()
+
+		# write down the results:
+		f = open("testFile.txt", 'w')
+		f.write('================================================\n')
+		f.write('=========' + title + ' by BFS ===================\n')
+		f.write('================================================\n')
+		# display the puzzle:
+		for i in range(5):
+			for j in range(4):
+				f.write(self.hrd.hrd[j][i] + '  ')
+			f.write('\n')
+		f.write('\n')
+		f.write('========= Solution =============================\n')
+		f.write('Total number of steps: ' + str(len(path) - 1))
+		f.write('Total time used: ' + str(elapsed_time))
+		for state in path:
+			self.hrd.buZhen(state)
+			for i in range(5):
+				for j in range(4):
+					f.write(self.hrd.hrd[j][i] + '  ')
+				f.write('')
+			f.write('')
+		f.close()
+
 		# display the path:
 		print('========= Solution =============================')
 		print('Total number of steps: ', len(path) - 1)
@@ -215,6 +239,31 @@ class Solver:
 			path.append(zhen)
 		# reverse the path:
 		path.reverse()
+
+		# write down the results:
+		f = open("testFile.txt", 'w')
+		f.write('================================================\n')
+		f.write('=========' + title + ' by A* =========================\n')
+		f.write('================================================\n')
+		# display the puzzle:
+		for i in range(5):
+			for j in range(4):
+				f.write(self.hrd.hrd[j][i] + '  ')
+			f.write('\n')
+		f.write('\n')
+		f.write('========= Solution =============================\n')
+		f.write('Total number of steps: ' + str(len(path) - 1) + '\n')
+		f.write('Total time used: ' + str(elapsed_time) + '\n')
+		for state in path:
+			self.hrd.buZhen(state)
+			for i in range(5):
+				for j in range(4):
+					f.write(self.hrd.hrd[j][i] + '  ')
+				f.write('\n')
+			f.write('\n')
+		f.close()
+
+
 		# display the path:
 		print('========= Solution =============================')
 		print('Total number of steps: ', len(path) - 1)
@@ -229,11 +278,9 @@ def main():
 	# Zhen form:
 	zhen = TZYY()	# from games.py
 	Solver(Huarongdao(zhen)).bfs_game('逃之夭夭')
-	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('无横之局')
-	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
 	Solver(Huarongdao(zhen)).bfs_game('将当后路')
@@ -252,10 +299,10 @@ def main():
 	# Zhen form:
 	zhen = WJBG()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('五将逼宫')
+	'''
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
 	Solver(Huarongdao(zhen)).a_star_game('横刀立马2')
-	'''
 
 if __name__ == '__main__':
 	main()
