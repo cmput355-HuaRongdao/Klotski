@@ -159,7 +159,8 @@ class Huarongdao:
 			print('')
 
 class Zhen:
-	def __init__(self, caoCao, jiangList, bingList):
+	def __init__(self, caoCao, jiangList, bingList, parent = None):
+		self.parent = parent
 		self.caoCao = caoCao
 		self.jiangList = jiangList
 		self.bingList = bingList
@@ -167,15 +168,35 @@ class Zhen:
 	def __eq__(self, other):
 		if not isinstance(other, Zhen):
 			return NotImplemented
-		if not (self.caoCao == other.caoCao):
-			return False
-		for i in range(len(self.jiangList)):
-			if not (self.jiangList[i] == other.jiangList[i]):
-				return False
-		for i in range(len(self.bingList)):
-			if not (self.bingList[i] == other.bingList[i]):
-				return False
-		return True
+		return other.getAbstract() == self.getAbstract()
+
+	def getAbstract(self):
+		# this function generalize all Jiangs to be the same on the board.
+		board = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
+		caoCaox = self.caoCao.pos[0]
+		caoCaoy = self.caoCao.pos[1]
+		board[caoCaox][caoCaoy] = '$'	# "$" represents caoCao
+		board[caoCaox + 1][caoCaoy] = '$'
+		board[caoCaox][caoCaoy + 1] = '$'
+		board[caoCaox + 1][caoCaoy + 1] = '$'
+		for i in range(5):	# there are in total 5 Jiangs
+			jiang = self.jiangList[i]
+			x, y = jiang.pos
+			board[x][y] = '#'	# '#' represents Jiang object
+			if jiang.ori == HOR:	# the Jiang is placed horizontally
+				board[x + 1][y] = '#'
+			else:	# the Jiang is placed vertically
+				board[x][y + 1] = '#'
+		for i in range(4):	# there are in total 4 Bings
+			x, y = self.bingList[i].pos
+			board[x][y] = '@'	# @ represents a soldier
+		return board
+
+	def setParent(self, parent):
+		self.parent = parent
+
+	def getParent(self):
+		return self.parent
 
 	def getJiangByName(self, name):
 		for jiang in self.jiangList:
