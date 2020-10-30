@@ -1,0 +1,348 @@
+================================================
+=========四将连关 by A* =========================
+================================================
+$  $  g  g  
+$  $  z  z  
+m  h  y  y  
+m  h  @  @  
+@  .  .  @  
+
+========= Solution =============================
+Total number of steps: 55
+Total time used: 20.660825967788696
+$  $  g  g  
+$  $  z  z  
+m  h  y  y  
+m  h  @  @  
+@  .  .  @  
+
+$  $  g  g  
+$  $  z  z  
+m  .  y  y  
+m  h  @  @  
+@  h  .  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  .  
+m  h  @  @  
+@  h  .  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  h  @  .  
+@  h  .  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  h  .  @  
+@  h  .  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  .  h  @  
+@  .  h  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  .  h  @  
+.  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+.  y  y  @  
+m  .  h  @  
+m  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+y  y  .  @  
+m  .  h  @  
+m  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+y  y  .  @  
+m  @  h  @  
+m  .  h  @  
+
+$  $  g  g  
+$  $  z  z  
+y  y  h  @  
+m  @  h  @  
+m  .  .  @  
+
+$  $  g  g  
+$  $  z  z  
+y  y  h  @  
+m  @  h  @  
+m  .  @  .  
+
+$  $  g  g  
+$  $  z  z  
+y  y  h  @  
+m  @  h  @  
+m  @  .  .  
+
+$  $  g  g  
+$  $  z  z  
+y  y  .  @  
+m  @  h  @  
+m  @  h  .  
+
+$  $  g  g  
+$  $  z  z  
+.  y  y  @  
+m  @  h  @  
+m  @  h  .  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  @  h  @  
+.  @  h  .  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  @  h  @  
+@  .  h  .  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  .  h  @  
+@  @  h  .  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  @  
+m  .  h  .  
+@  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+m  y  y  .  
+m  .  h  @  
+@  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+m  .  y  y  
+m  .  h  @  
+@  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+.  m  y  y  
+.  m  h  @  
+@  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+.  m  y  y  
+@  m  h  @  
+.  @  h  @  
+
+$  $  g  g  
+$  $  z  z  
+.  m  y  y  
+@  m  h  @  
+@  .  h  @  
+
+$  $  g  g  
+$  $  z  z  
+.  .  y  y  
+@  m  h  @  
+@  m  h  @  
+
+.  .  g  g  
+$  $  z  z  
+$  $  y  y  
+@  m  h  @  
+@  m  h  @  
+
+.  g  g  .  
+$  $  z  z  
+$  $  y  y  
+@  m  h  @  
+@  m  h  @  
+
+g  g  .  .  
+$  $  z  z  
+$  $  y  y  
+@  m  h  @  
+@  m  h  @  
+
+g  g  z  z  
+$  $  .  .  
+$  $  y  y  
+@  m  h  @  
+@  m  h  @  
+
+g  g  z  z  
+$  $  y  y  
+$  $  .  .  
+@  m  h  @  
+@  m  h  @  
+
+g  g  z  z  
+$  $  y  y  
+$  $  .  @  
+@  m  h  .  
+@  m  h  @  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  .  
+@  m  h  .  
+@  m  h  @  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  .  
+@  m  h  @  
+@  m  h  .  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  @  
+@  m  h  .  
+@  m  h  .  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  @  
+@  m  .  h  
+@  m  .  h  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  @  
+@  .  m  h  
+@  .  m  h  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  @  
+.  @  m  h  
+@  .  m  h  
+
+g  g  z  z  
+$  $  y  y  
+$  $  @  @  
+.  .  m  h  
+@  @  m  h  
+
+g  g  z  z  
+.  .  y  y  
+$  $  @  @  
+$  $  m  h  
+@  @  m  h  
+
+g  g  z  z  
+.  y  y  .  
+$  $  @  @  
+$  $  m  h  
+@  @  m  h  
+
+g  g  z  z  
+y  y  .  .  
+$  $  @  @  
+$  $  m  h  
+@  @  m  h  
+
+g  g  z  z  
+y  y  @  .  
+$  $  .  @  
+$  $  m  h  
+@  @  m  h  
+
+g  g  z  z  
+y  y  @  .  
+$  $  @  .  
+$  $  m  h  
+@  @  m  h  
+
+g  g  z  z  
+y  y  @  .  
+$  $  @  h  
+$  $  m  h  
+@  @  m  .  
+
+g  g  z  z  
+y  y  @  h  
+$  $  @  h  
+$  $  m  .  
+@  @  m  .  
+
+g  g  z  z  
+y  y  @  h  
+$  $  @  h  
+$  $  .  m  
+@  @  .  m  
+
+g  g  z  z  
+y  y  @  h  
+$  $  .  h  
+$  $  @  m  
+@  @  .  m  
+
+g  g  z  z  
+y  y  @  h  
+$  $  .  h  
+$  $  .  m  
+@  @  @  m  
+
+g  g  z  z  
+y  y  @  h  
+.  $  $  h  
+.  $  $  m  
+@  @  @  m  
+
+g  g  z  z  
+y  y  @  h  
+.  $  $  h  
+@  $  $  m  
+.  @  @  m  
+
+g  g  z  z  
+y  y  @  h  
+@  $  $  h  
+.  $  $  m  
+.  @  @  m  
+
+g  g  z  z  
+y  y  @  h  
+@  $  $  h  
+.  $  $  m  
+@  .  @  m  
+
+g  g  z  z  
+y  y  @  h  
+@  $  $  h  
+@  $  $  m  
+.  .  @  m  
+
+g  g  z  z  
+y  y  @  h  
+@  $  $  h  
+@  $  $  m  
+.  @  .  m  
+
+g  g  z  z  
+y  y  @  h  
+@  $  $  h  
+@  $  $  m  
+@  .  .  m  
+
+g  g  z  z  
+y  y  @  h  
+@  .  .  h  
+@  $  $  m  
+@  $  $  m  
+

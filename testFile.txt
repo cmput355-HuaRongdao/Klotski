@@ -1,0 +1,432 @@
+================================================
+=========牛气冲天 by A* =========================
+================================================
+h  @  z  z  
+h  g  g  m  
+y  y  @  m  
+@  .  $  $  
+@  .  $  $  
+
+========= Solution =============================
+Total number of steps: 69
+Total time used: 175.2736852169037
+@  .  .  @  
+g  g  z  z  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+.  @  .  @  
+g  g  z  z  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+.  .  @  @  
+g  g  z  z  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+g  g  @  @  
+.  .  z  z  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+g  g  @  @  
+.  z  z  .  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+g  g  @  @  
+z  z  .  .  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+g  g  .  @  
+z  z  @  .  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+g  g  .  .  
+z  z  @  @  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+.  g  g  .  
+z  z  @  @  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+.  .  g  g  
+z  z  @  @  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+z  z  g  g  
+.  .  @  @  
+h  $  $  m  
+h  $  $  m  
+@  y  y  @  
+
+z  z  g  g  
+h  .  @  @  
+h  $  $  m  
+.  $  $  m  
+@  y  y  @  
+
+z  z  g  g  
+h  .  @  @  
+h  $  $  m  
+@  $  $  m  
+.  y  y  @  
+
+z  z  g  g  
+h  .  @  @  
+h  $  $  m  
+@  $  $  m  
+y  y  .  @  
+
+z  z  g  g  
+h  .  @  @  
+h  $  $  m  
+@  $  $  m  
+y  y  @  .  
+
+z  z  g  g  
+h  .  @  @  
+h  $  $  .  
+@  $  $  m  
+y  y  @  m  
+
+z  z  g  g  
+h  .  @  .  
+h  $  $  @  
+@  $  $  m  
+y  y  @  m  
+
+z  z  g  g  
+h  .  .  @  
+h  $  $  @  
+@  $  $  m  
+y  y  @  m  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  @  
+@  .  .  m  
+y  y  @  m  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  @  
+.  @  .  m  
+y  y  @  m  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  @  
+.  @  @  m  
+y  y  .  m  
+
+z  z  g  g  
+.  $  $  @  
+h  $  $  @  
+h  @  @  m  
+y  y  .  m  
+
+z  z  g  g  
+.  $  $  @  
+h  $  $  @  
+h  @  @  m  
+.  y  y  m  
+
+z  z  g  g  
+.  $  $  @  
+.  $  $  @  
+h  @  @  m  
+h  y  y  m  
+
+z  z  g  g  
+$  $  .  @  
+$  $  .  @  
+h  @  @  m  
+h  y  y  m  
+
+z  z  g  g  
+$  $  .  @  
+$  $  @  .  
+h  @  @  m  
+h  y  y  m  
+
+z  z  g  g  
+$  $  .  @  
+$  $  @  m  
+h  @  @  m  
+h  y  y  .  
+
+z  z  g  g  
+$  $  @  .  
+$  $  @  m  
+h  @  @  m  
+h  y  y  .  
+
+z  z  g  g  
+$  $  @  m  
+$  $  @  m  
+h  @  @  .  
+h  y  y  .  
+
+z  z  g  g  
+$  $  @  m  
+$  $  @  m  
+h  @  .  @  
+h  y  y  .  
+
+z  z  g  g  
+$  $  @  m  
+$  $  @  m  
+h  @  .  .  
+h  y  y  @  
+
+z  z  g  g  
+$  $  @  .  
+$  $  @  m  
+h  @  .  m  
+h  y  y  @  
+
+z  z  g  g  
+$  $  @  .  
+$  $  .  m  
+h  @  @  m  
+h  y  y  @  
+
+z  z  g  g  
+$  $  .  @  
+$  $  .  m  
+h  @  @  m  
+h  y  y  @  
+
+z  z  g  g  
+.  $  $  @  
+.  $  $  m  
+h  @  @  m  
+h  y  y  @  
+
+z  z  g  g  
+.  $  $  @  
+h  $  $  m  
+h  @  @  m  
+.  y  y  @  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  m  
+.  @  @  m  
+.  y  y  @  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  m  
+@  .  @  m  
+.  y  y  @  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  m  
+@  .  @  m  
+y  y  .  @  
+
+z  z  g  g  
+h  $  $  @  
+h  $  $  m  
+@  .  .  m  
+y  y  @  @  
+
+z  z  g  g  
+h  .  .  @  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+z  z  g  g  
+h  .  @  .  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+z  z  g  g  
+h  @  .  .  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+z  z  .  .  
+h  @  g  g  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+.  z  z  .  
+h  @  g  g  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+.  .  z  z  
+h  @  g  g  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+.  @  z  z  
+h  .  g  g  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+.  @  z  z  
+h  g  g  .  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+@  .  z  z  
+h  g  g  .  
+h  $  $  m  
+@  $  $  m  
+y  y  @  @  
+
+@  .  z  z  
+h  g  g  m  
+h  $  $  m  
+@  $  $  .  
+y  y  @  @  
+
+@  z  z  .  
+h  g  g  m  
+h  $  $  m  
+@  $  $  .  
+y  y  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  $  $  .  
+@  $  $  .  
+y  y  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  .  $  $  
+@  .  $  $  
+y  y  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  .  $  $  
+.  @  $  $  
+y  y  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+.  .  $  $  
+y  y  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+y  y  $  $  
+.  .  @  @  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+y  y  $  $  
+.  @  .  @  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+y  y  $  $  
+@  .  .  @  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+y  y  $  $  
+@  .  @  .  
+
+@  z  z  m  
+h  g  g  m  
+h  @  $  $  
+y  y  $  $  
+@  @  .  .  
+
+@  z  z  m  
+h  g  g  m  
+h  @  .  .  
+y  y  $  $  
+@  @  $  $  
+
+@  z  z  m  
+h  g  g  m  
+h  .  @  .  
+y  y  $  $  
+@  @  $  $  
+
+@  z  z  .  
+h  g  g  m  
+h  .  @  m  
+y  y  $  $  
+@  @  $  $  
+
+@  .  z  z  
+h  g  g  m  
+h  .  @  m  
+y  y  $  $  
+@  @  $  $  
+
+.  @  z  z  
+h  g  g  m  
+h  .  @  m  
+y  y  $  $  
+@  @  $  $  
+
+h  @  z  z  
+h  g  g  m  
+.  .  @  m  
+y  y  $  $  
+@  @  $  $  
+
+h  @  z  z  
+h  g  g  m  
+y  y  @  m  
+.  .  $  $  
+@  @  $  $  
+
+h  @  z  z  
+h  g  g  m  
+y  y  @  m  
+.  @  $  $  
+@  .  $  $  
+
+h  @  z  z  
+h  g  g  m  
+y  y  @  m  
+@  .  $  $  
+@  .  $  $  
+
+h  @  z  z  
+h  g  g  m  
+y  y  @  m  
+@  $  $  .  
+@  $  $  .  
+
