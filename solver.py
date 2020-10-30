@@ -1,13 +1,12 @@
 # Author: Shway Wang
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
-
 from heapq import *
 from games import *
 import copy
 import time
 
-class Solver:
+class Search_Solver:
 	def __init__(self, hrd):
 		self.hrd = hrd
 		self.zhenCollection = []	# stores the visited states
@@ -48,12 +47,6 @@ class Solver:
 						self.addToZhenCollection(state)
 
 	def bfs_game(self, title):
-		print('================================================')
-		print('=========', title, ' by BFS =====================')
-		print('================================================')
-		# display the puzzle:
-		self.hrd.display()
-		print('')
 		# solve the puzzle:
 		start_time = time.time()
 		zhen = self.bfs()
@@ -65,9 +58,9 @@ class Solver:
 			path.append(zhen)
 		# reverse the path:
 		path.reverse()
-
+		self.hrd.buZhen(path[0])
 		# write down the results:
-		f = open("testFile.txt", 'w')
+		f = open("./solutions/" + title + ".txt", 'w')
 		f.write('================================================\n')
 		f.write('=========' + title + ' by BFS ===================\n')
 		f.write('================================================\n')
@@ -89,15 +82,6 @@ class Solver:
 			f.write('')
 		f.close()
 
-		# display the path:
-		print('========= Solution =============================')
-		print('Total number of steps: ', len(path) - 1)
-		print('Total time used: ', elapsed_time)
-		for state in path:
-			self.hrd.buZhen(state)
-			self.hrd.display()
-			print('')
-
 	def a_star(self):
 		zhenSet = {self.hrd.zhen}
 		heap = [(self.hrd.zhen.getFValue(), self.hrd.zhen)]
@@ -117,15 +101,9 @@ class Solver:
 						heappush(heap, (state.getFValue(), state))
 
 	def a_star_game(self, title):
-		print('================================================')
-		print('=========', title, ' by A* ======================')
-		print('================================================')
-		# display the puzzle:
-		self.hrd.display()
-		print('')
 		# solve the puzzle:
 		start_time = time.time()
-		zhen = self.a_star()
+		zhen = self.bfs()
 		elapsed_time = time.time() - start_time
 		# get the solution path:
 		path = [zhen]
@@ -134,9 +112,9 @@ class Solver:
 			path.append(zhen)
 		# reverse the path:
 		path.reverse()
-
+		self.hrd.buZhen(path[0])
 		# write down the results:
-		f = open("testFile.txt", 'w')
+		f = open("./solutions/" + title + ".txt", 'w')
 		f.write('================================================\n')
 		f.write('=========' + title + ' by A* =========================\n')
 		f.write('================================================\n')
@@ -157,70 +135,3 @@ class Solver:
 				f.write('\n')
 			f.write('\n')
 		f.close()
-
-
-		# display the path:
-		print('========= Solution =============================')
-		print('Total number of steps: ', len(path) - 1)
-		print('Total time used: ', elapsed_time)
-		for state in path:
-			self.hrd.buZhen(state)
-			self.hrd.display()
-			print('')
-
-def main():
-	'''
-	# Zhen form:
-	zhen = TZYY()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('逃之夭夭')
-	# Zhen form:
-	zhen = WHZJ()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('无横之局')
-	# Zhen form:
-	zhen = JDHL()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('将当后路')
-	# Zhen form:
-	zhen = QHHY()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('前呼后拥')
-	# Zhen form:
-	zhen = BYHK()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('比翼横空')
-	# Zhen form:
-	zhen = QGWG()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('巧过五关')
-	# Zhen form:
-	zhen = WJBG()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('五将逼宫')
-	# Zhen form:
-	zhen = BLCY()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('兵临曹营')
-	# Zhen form:
-	zhen = SJLG()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('四将连关')
-	# Zhen form:
-	zhen = XJZZC()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('新近在咫尺')
-	# Zhen form:
-	zhen = XLQB()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('星罗棋布')
-	# Zhen form:
-	zhen = SMBF()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('四面八方')
-	'''
-	# Zhen form:
-	zhen = NQCT()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('牛气冲天')
-	'''
-	# Zhen form:
-	zhen = DBQJ()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('调兵谴将')
-	# Zhen form:
-	zhen = BSZL()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('背水列阵')
-	# Zhen form:
-	zhen = HDLM2()	# from games.py
-	Solver(Huarongdao(zhen)).a_star_game('横刀立马2')
-	'''
-
-if __name__ == '__main__':
-	main()

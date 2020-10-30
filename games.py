@@ -270,7 +270,7 @@ def DBQJ():
 	return Zhen(caoCao, jiangList, bingList)
 
 # 背水列阵:
-def BSLZ():
+def BSZL():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
 	# Jiangs:
