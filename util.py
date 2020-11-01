@@ -6,6 +6,25 @@ import copy
 HOR = 0
 VER = 1
 
+class StateActionValueTable(object):
+	def __init__(self):
+		self.savt = {}
+
+	def addNewStateActionSet(self, cur_state, action_values):
+		# cur_state is a Zhen object
+		# action_values is a dictionary of action values
+		# with keys the decendent Zhen objects
+		self.savt[cur_state] = action_values
+
+	def getAllNextStates(self, cur_state):
+		return self.savt[cur_state]
+
+	def getStateActionValue(self, state, action):
+		return self.savt[state][action]
+
+	def setStateActionValue(self, state, action, value):
+		self.savt[state][action] = value
+
 class Huarongdao(object):
 	def __init__(self, zhen = None):
 		self.zhen = zhen
@@ -275,7 +294,6 @@ class Jiang(object):
 		if not (self.ori == other.ori):
 			return False
 		return True
-
 
 class Bing(object):
 	def __init__(self, pos):

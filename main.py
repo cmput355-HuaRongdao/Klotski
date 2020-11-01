@@ -17,7 +17,7 @@ def bfs_game(zhen, title):
 	path.reverse()
 	hrd = Huarongdao(path[0])
 	# write down the results:
-	f = open("./solutions/" + title + ".txt", 'w')
+	f = open("./search_solutions/" + title + ".txt", 'w')
 	f.write('================================================\n')
 	f.write('=========' + title + ' by BFS ===================\n')
 	f.write('================================================\n')
@@ -53,9 +53,51 @@ def a_star_game(zhen, title):
 	path.reverse()
 	hrd = Huarongdao(path[0])
 	# write down the results:
-	f = open("./solutions/" + title + ".txt", 'w')
+	f = open("./search_solutions/" + title + ".txt", 'w')
 	f.write('================================================\n')
 	f.write('=========' + title + ' by A* =========================\n')
+	f.write('================================================\n')
+	# display the puzzle:
+	for i in range(5):
+		for j in range(4):
+			f.write(hrd.hrd[j][i] + '  ')
+		f.write('\n')
+	f.write('\n')
+	f.write('========= Solution =============================\n')
+	f.write('Total number of steps: ' + str(len(path) - 1) + '\n')
+	f.write('Total time used: ' + str(elapsed_time) + '\n')
+	for state in path:
+		hrd.buZhen(state)
+		for i in range(5):
+			for j in range(4):
+				f.write(hrd.hrd[j][i] + '  ')
+			f.write('\n')
+		f.write('\n')
+	f.close()
+
+def sarsa_game(hrd, num_episodes, title):
+	# solve the puzzle:
+	start_time = time.time()
+	result = RL_Solver(hrd, num_episodes).sarsa()
+	elapsed_time = time.time() - start_time
+	# get the solution path:
+	zhen = result[1]
+	path = [zhen]
+	while zhen.getParent() is not None:
+		zhen = zhen.getParent()
+		path.append(zhen)
+	# reverse the path:
+	path.reverse()
+	hrd = Huarongdao(path[0])
+	# write down the results:
+	f = open("./rl_solutions/" + title + ".txt", 'w')
+	f.write('================================================\n')
+	f.write('=========' + title + ' by sarsa ======================\n')
+	if result[2]:
+		f.write('succeeded!\n')
+	else:
+		f.write('NOT successful......\n')
+	f.write('the return for each episode: ' + str(result[0]) + '\n')
 	f.write('================================================\n')
 	# display the puzzle:
 	for i in range(5):
@@ -80,12 +122,13 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
-	a_star_game(Huarongdao(zhen), '逃之夭夭')
+	sarsa_game(Huarongdao(zhen), 20, '逃之夭夭')
 	print('finished 逃之夭夭')
 	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	a_star_game(Huarongdao(zhen), '无横之局')
+	#a_star_game(Huarongdao(zhen), '无横之局')
+	sarsa_game(Huarongdao(zhen), 5, '无横之局')
 	print('finished 无横之局')
 	'''
 	# Zhen form:

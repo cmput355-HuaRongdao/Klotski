@@ -1,0 +1,168 @@
+================================================
+=========将当后路 by A* =========================
+================================================
+h  m  @  @  
+h  m  y  z  
+$  $  y  z  
+$  $  g  @  
+@  .  g  .  
+
+========= Solution =============================
+Total number of steps: 25
+Total time used: 0.8007431030273438
+h  m  @  @  
+h  m  y  z  
+$  $  y  z  
+$  $  g  @  
+@  .  g  .  
+
+h  m  @  @  
+h  m  y  z  
+$  $  y  z  
+$  $  g  .  
+@  .  g  @  
+
+h  m  @  @  
+h  m  y  .  
+$  $  y  z  
+$  $  g  z  
+@  .  g  @  
+
+h  m  @  .  
+h  m  y  @  
+$  $  y  z  
+$  $  g  z  
+@  .  g  @  
+
+h  m  .  @  
+h  m  y  @  
+$  $  y  z  
+$  $  g  z  
+@  .  g  @  
+
+h  m  y  @  
+h  m  y  @  
+$  $  .  z  
+$  $  g  z  
+@  .  g  @  
+
+h  m  y  @  
+h  m  y  @  
+$  $  g  z  
+$  $  g  z  
+@  .  .  @  
+
+h  m  y  @  
+h  m  y  @  
+$  $  g  z  
+$  $  g  z  
+@  .  @  .  
+
+h  m  y  @  
+h  m  y  @  
+$  $  g  z  
+$  $  g  z  
+@  @  .  .  
+
+h  m  y  @  
+h  m  y  @  
+$  $  g  .  
+$  $  g  z  
+@  @  .  z  
+
+h  m  y  @  
+h  m  y  @  
+$  $  .  .  
+$  $  g  z  
+@  @  g  z  
+
+h  m  y  @  
+h  m  y  .  
+$  $  .  @  
+$  $  g  z  
+@  @  g  z  
+
+h  m  y  @  
+h  m  y  .  
+$  $  @  .  
+$  $  g  z  
+@  @  g  z  
+
+h  m  y  @  
+h  m  y  .  
+$  $  @  z  
+$  $  g  z  
+@  @  g  .  
+
+h  m  y  @  
+h  m  y  z  
+$  $  @  z  
+$  $  g  .  
+@  @  g  .  
+
+h  m  y  @  
+h  m  y  z  
+$  $  @  z  
+$  $  .  g  
+@  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+$  $  .  z  
+$  $  @  g  
+@  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+$  $  .  z  
+$  $  .  g  
+@  @  @  g  
+
+h  m  y  @  
+h  m  y  z  
+.  $  $  z  
+.  $  $  g  
+@  @  @  g  
+
+h  m  y  @  
+h  m  y  z  
+.  $  $  z  
+@  $  $  g  
+.  @  @  g  
+
+h  m  y  @  
+h  m  y  z  
+.  $  $  z  
+@  $  $  g  
+@  .  @  g  
+
+h  m  y  @  
+h  m  y  z  
+.  $  $  z  
+@  $  $  g  
+@  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+@  $  $  z  
+.  $  $  g  
+@  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+@  $  $  z  
+@  $  $  g  
+.  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+@  $  $  z  
+@  $  $  g  
+@  .  .  g  
+
+h  m  y  @  
+h  m  y  z  
+@  .  .  z  
+@  $  $  g  
+@  $  $  g  
+
