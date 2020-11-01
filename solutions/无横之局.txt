@@ -9,7 +9,7 @@ $  $  g  @
 
 ========= Solution =============================
 Total number of steps: 25
-Total time used: 0.8583078384399414
+Total time used: 0.7962155342102051
 h  m  @  @  
 h  m  y  z  
 $  $  y  z  
@@ -66,9 +66,9 @@ $  $  g  z
 
 h  m  y  @  
 h  m  y  @  
-$  $  .  z  
+$  $  g  .  
 $  $  g  z  
-@  @  g  .  
+@  @  .  z  
 
 h  m  y  @  
 h  m  y  @  
@@ -132,21 +132,21 @@ h  m  y  z
 
 h  m  y  @  
 h  m  y  z  
-@  $  $  z  
-.  $  $  g  
-.  @  @  g  
-
-h  m  y  @  
-h  m  y  z  
-@  $  $  z  
-.  $  $  g  
+.  $  $  z  
+@  $  $  g  
 @  .  @  g  
 
 h  m  y  @  
 h  m  y  z  
-@  $  $  z  
+.  $  $  z  
 @  $  $  g  
-.  .  @  g  
+@  @  .  g  
+
+h  m  y  @  
+h  m  y  z  
+@  $  $  z  
+.  $  $  g  
+@  @  .  g  
 
 h  m  y  @  
 h  m  y  z  

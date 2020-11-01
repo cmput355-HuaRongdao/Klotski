@@ -9,7 +9,7 @@ y  .  .  z
 
 ========= Solution =============================
 Total number of steps: 100
-Total time used: 284.6093182563782
+Total time used: 301.30932545661926
 h  $  $  m  
 h  $  $  m  
 @  g  g  @  
@@ -25,594 +25,594 @@ y  @  .  z
 h  $  $  m  
 h  $  $  m  
 @  g  g  @  
-y  @  .  z  
-y  @  .  z  
+y  .  @  z  
+y  .  @  z  
 
 h  $  $  m  
 h  $  $  m  
 @  g  g  @  
-y  @  z  .  
-y  @  z  .  
+.  y  @  z  
+.  y  @  z  
 
 h  $  $  m  
 h  $  $  m  
-@  g  g  .  
-y  @  z  @  
-y  @  z  .  
+.  g  g  @  
+@  y  @  z  
+.  y  @  z  
 
-h  $  $  .  
 h  $  $  m  
-@  g  g  m  
-y  @  z  @  
-y  @  z  .  
-
-h  $  $  .  
 h  $  $  m  
-@  g  g  m  
-y  @  z  .  
-y  @  z  @  
+.  g  g  @  
+.  y  @  z  
+@  y  @  z  
 
-h  $  $  .  
-h  $  $  .  
-@  g  g  m  
-y  @  z  m  
-y  @  z  @  
+.  $  $  m  
+h  $  $  m  
+h  g  g  @  
+.  y  @  z  
+@  y  @  z  
 
-h  .  $  $  
-h  .  $  $  
-@  g  g  m  
-y  @  z  m  
-y  @  z  @  
+.  $  $  m  
+.  $  $  m  
+h  g  g  @  
+h  y  @  z  
+@  y  @  z  
 
-.  h  $  $  
-.  h  $  $  
-@  g  g  m  
-y  @  z  m  
-y  @  z  @  
+$  $  .  m  
+$  $  .  m  
+h  g  g  @  
+h  y  @  z  
+@  y  @  z  
 
-.  h  $  $  
-@  h  $  $  
-.  g  g  m  
-y  @  z  m  
-y  @  z  @  
+$  $  m  .  
+$  $  m  .  
+h  g  g  @  
+h  y  @  z  
+@  y  @  z  
 
-@  h  $  $  
-.  h  $  $  
-.  g  g  m  
-y  @  z  m  
-y  @  z  @  
+$  $  m  .  
+$  $  m  @  
+h  g  g  .  
+h  y  @  z  
+@  y  @  z  
 
-@  h  $  $  
-.  h  $  $  
-y  g  g  m  
-y  @  z  m  
-.  @  z  @  
+$  $  m  .  
+$  $  m  @  
+h  g  g  z  
+h  y  @  z  
+@  y  @  .  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-.  @  z  m  
-.  @  z  @  
+$  $  m  @  
+$  $  m  .  
+h  g  g  z  
+h  y  @  z  
+@  y  @  .  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-@  .  z  m  
-.  @  z  @  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  y  @  .  
+@  y  @  .  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-@  .  z  m  
-@  .  z  @  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  y  @  .  
+@  y  .  @  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-@  z  .  m  
-@  z  .  @  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  y  .  @  
+@  y  .  @  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-@  z  .  m  
-@  z  @  .  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  .  y  @  
+@  .  y  @  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  m  
-@  z  @  m  
-@  z  .  .  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  .  y  @  
+.  @  y  @  
 
-@  h  $  $  
-y  h  $  $  
-y  g  g  .  
-@  z  @  m  
-@  z  .  m  
+$  $  m  @  
+$  $  m  z  
+h  g  g  z  
+h  @  y  @  
+.  .  y  @  
 
-@  h  $  $  
-y  h  $  $  
-y  .  g  g  
-@  z  @  m  
-@  z  .  m  
+$  $  m  @  
+$  $  m  z  
+.  g  g  z  
+h  @  y  @  
+h  .  y  @  
 
-@  h  $  $  
-y  h  $  $  
-y  z  g  g  
-@  z  @  m  
-@  .  .  m  
+$  $  m  @  
+$  $  m  z  
+g  g  .  z  
+h  @  y  @  
+h  .  y  @  
 
-@  h  $  $  
-y  h  $  $  
-y  z  g  g  
-@  z  @  m  
-.  @  .  m  
+$  $  m  @  
+$  $  m  z  
+g  g  y  z  
+h  @  y  @  
+h  .  .  @  
 
-@  h  $  $  
-y  h  $  $  
-y  z  g  g  
-@  z  @  m  
-.  .  @  m  
+$  $  m  @  
+$  $  m  z  
+g  g  y  z  
+h  @  y  @  
+h  .  @  .  
 
-@  h  $  $  
-y  h  $  $  
-y  .  g  g  
-@  z  @  m  
-.  z  @  m  
+$  $  m  @  
+$  $  m  z  
+g  g  y  z  
+h  @  y  @  
+h  @  .  .  
 
-@  .  $  $  
-y  h  $  $  
-y  h  g  g  
-@  z  @  m  
-.  z  @  m  
+$  $  m  @  
+$  $  m  z  
+g  g  .  z  
+h  @  y  @  
+h  @  y  .  
 
-.  @  $  $  
-y  h  $  $  
-y  h  g  g  
-@  z  @  m  
-.  z  @  m  
+$  $  .  @  
+$  $  m  z  
+g  g  m  z  
+h  @  y  @  
+h  @  y  .  
 
-y  @  $  $  
-y  h  $  $  
+$  $  @  .  
+$  $  m  z  
+g  g  m  z  
+h  @  y  @  
+h  @  y  .  
+
+$  $  @  z  
+$  $  m  z  
+g  g  m  .  
+h  @  y  @  
+h  @  y  .  
+
+$  $  @  z  
+$  $  m  z  
+g  g  m  @  
+h  @  y  .  
+h  @  y  .  
+
+$  $  @  z  
+$  $  m  z  
+g  g  m  @  
+h  @  .  y  
+h  @  .  y  
+
+$  $  @  z  
+$  $  .  z  
+g  g  m  @  
+h  @  m  y  
+h  @  .  y  
+
+$  $  @  z  
+$  $  .  z  
+g  g  .  @  
+h  @  m  y  
+h  @  m  y  
+
+$  $  @  z  
+$  $  .  z  
+g  g  @  .  
+h  @  m  y  
+h  @  m  y  
+
+$  $  @  z  
+$  $  @  z  
+g  g  .  .  
+h  @  m  y  
+h  @  m  y  
+
+$  $  @  z  
+$  $  @  z  
+.  g  g  .  
+h  @  m  y  
+h  @  m  y  
+
+$  $  @  z  
+$  $  @  z  
+h  g  g  .  
+h  @  m  y  
+.  @  m  y  
+
+$  $  @  z  
+$  $  @  z  
+h  g  g  .  
+h  @  m  y  
+@  .  m  y  
+
+$  $  @  z  
+$  $  @  z  
+h  .  g  g  
+h  @  m  y  
+@  .  m  y  
+
+$  $  @  z  
+$  $  @  z  
+h  .  g  g  
+h  .  m  y  
+@  @  m  y  
+
+$  $  @  z  
+$  $  @  z  
 .  h  g  g  
-@  z  @  m  
-.  z  @  m  
+.  h  m  y  
+@  @  m  y  
 
-y  @  $  $  
-y  h  $  $  
-@  h  g  g  
-.  z  @  m  
-.  z  @  m  
+$  $  @  z  
+$  $  @  z  
+.  h  g  g  
+@  h  m  y  
+.  @  m  y  
 
-y  @  $  $  
-y  h  $  $  
-@  h  g  g  
-z  .  @  m  
-z  .  @  m  
+$  $  @  z  
+$  $  @  z  
+.  h  g  g  
+@  h  m  y  
+@  .  m  y  
 
-y  @  $  $  
-y  .  $  $  
-@  h  g  g  
-z  h  @  m  
-z  .  @  m  
-
-y  @  $  $  
-y  .  $  $  
-@  .  g  g  
-z  h  @  m  
-z  h  @  m  
-
-y  @  $  $  
-y  .  $  $  
-.  @  g  g  
-z  h  @  m  
-z  h  @  m  
-
-y  @  $  $  
-y  @  $  $  
+$  $  @  z  
+$  $  @  z  
 .  .  g  g  
-z  h  @  m  
-z  h  @  m  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
+$  $  @  z  
+$  $  @  z  
 .  g  g  .  
-z  h  @  m  
-z  h  @  m  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  .  .  
-z  h  @  m  
-z  h  @  m  
+$  $  @  .  
+$  $  @  z  
+.  g  g  z  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  .  m  
-z  h  @  m  
-z  h  @  .  
+$  $  @  .  
+$  $  @  z  
+g  g  .  z  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  .  m  
-z  h  @  m  
-z  h  .  @  
+$  $  .  @  
+$  $  @  z  
+g  g  .  z  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  .  m  
-z  h  .  m  
-z  h  @  @  
+$  $  @  @  
+$  $  .  z  
+g  g  .  z  
+@  h  m  y  
+@  h  m  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  m  .  
-z  h  m  .  
-z  h  @  @  
+$  $  @  @  
+$  $  .  z  
+g  g  m  z  
+@  h  m  y  
+@  h  .  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  m  .  
-z  h  m  @  
-z  h  @  .  
+$  $  @  @  
+$  $  m  z  
+g  g  m  z  
+@  h  .  y  
+@  h  .  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  m  .  
-z  h  m  @  
-z  h  .  @  
+$  $  @  @  
+$  $  m  z  
+g  g  m  z  
+@  .  h  y  
+@  .  h  y  
 
-y  @  $  $  
-y  @  $  $  
-g  g  .  .  
-z  h  m  @  
-z  h  m  @  
+$  $  @  @  
+$  $  m  z  
+g  g  m  z  
+@  .  h  y  
+.  @  h  y  
 
-y  @  $  $  
-y  @  $  $  
-.  g  g  .  
-z  h  m  @  
-z  h  m  @  
+$  $  @  @  
+$  $  m  z  
+g  g  m  z  
+.  .  h  y  
+@  @  h  y  
 
-.  @  $  $  
-y  @  $  $  
-y  g  g  .  
-z  h  m  @  
-z  h  m  @  
+$  $  @  @  
+$  $  m  z  
+.  .  m  z  
+g  g  h  y  
+@  @  h  y  
 
+.  .  @  @  
+$  $  m  z  
+$  $  m  z  
+g  g  h  y  
+@  @  h  y  
+
+.  @  .  @  
+$  $  m  z  
+$  $  m  z  
+g  g  h  y  
+@  @  h  y  
+
+@  .  .  @  
+$  $  m  z  
+$  $  m  z  
+g  g  h  y  
+@  @  h  y  
+
+@  .  @  .  
+$  $  m  z  
+$  $  m  z  
+g  g  h  y  
+@  @  h  y  
+
+@  .  @  z  
+$  $  m  z  
+$  $  m  .  
+g  g  h  y  
+@  @  h  y  
+
+@  @  .  z  
+$  $  m  z  
+$  $  m  .  
+g  g  h  y  
+@  @  h  y  
+
+@  @  .  z  
+$  $  m  z  
+$  $  m  y  
+g  g  h  y  
+@  @  h  .  
+
+@  @  m  z  
+$  $  m  z  
+$  $  .  y  
+g  g  h  y  
+@  @  h  .  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+g  g  h  y  
+@  @  .  .  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+g  g  h  y  
+@  .  @  .  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+g  g  h  y  
+@  .  .  @  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+g  g  h  y  
+.  @  .  @  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+g  g  h  y  
+.  .  @  @  
+
+@  @  m  z  
+$  $  m  z  
+$  $  h  y  
+.  .  h  y  
+g  g  @  @  
+
+@  @  m  z  
+.  .  m  z  
+$  $  h  y  
+$  $  h  y  
+g  g  @  @  
+
+@  .  m  z  
+.  @  m  z  
+$  $  h  y  
+$  $  h  y  
+g  g  @  @  
+
+@  .  m  z  
+@  .  m  z  
+$  $  h  y  
+$  $  h  y  
+g  g  @  @  
+
+@  m  .  z  
+@  m  .  z  
+$  $  h  y  
+$  $  h  y  
+g  g  @  @  
+
+@  m  .  z  
+@  m  h  z  
+$  $  h  y  
+$  $  .  y  
+g  g  @  @  
+
+@  m  h  z  
+@  m  h  z  
+$  $  .  y  
+$  $  .  y  
+g  g  @  @  
+
+@  m  h  z  
+@  m  h  z  
+.  $  $  y  
+.  $  $  y  
+g  g  @  @  
+
+@  m  h  z  
+.  m  h  z  
+@  $  $  y  
+.  $  $  y  
+g  g  @  @  
+
+@  m  h  z  
+.  m  h  z  
+.  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+.  m  h  z  
+@  m  h  z  
+.  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+.  m  h  z  
+.  m  h  z  
+@  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+m  .  h  z  
+m  .  h  z  
+@  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+m  h  .  z  
+m  h  .  z  
+@  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+m  h  z  .  
+m  h  z  .  
+@  $  $  y  
+@  $  $  y  
+g  g  @  @  
+
+m  h  z  .  
+m  h  z  y  
+@  $  $  y  
+@  $  $  .  
+g  g  @  @  
+
+m  h  z  y  
+m  h  z  y  
+@  $  $  .  
+@  $  $  .  
+g  g  @  @  
+
+m  h  z  y  
+m  h  z  y  
 @  .  $  $  
-y  @  $  $  
-y  g  g  .  
-z  h  m  @  
-z  h  m  @  
+@  .  $  $  
+g  g  @  @  
 
+m  h  z  y  
+m  h  z  y  
+@  .  $  $  
+.  @  $  $  
+g  g  @  @  
+
+m  h  z  y  
+m  h  z  y  
 @  @  $  $  
-y  .  $  $  
-y  g  g  .  
-z  h  m  @  
-z  h  m  @  
+.  .  $  $  
+g  g  @  @  
 
+m  h  z  y  
+m  h  z  y  
 @  @  $  $  
-y  .  $  $  
-y  .  g  g  
-z  h  m  @  
-z  h  m  @  
-
-@  @  $  $  
-y  .  $  $  
-y  h  g  g  
-z  h  m  @  
-z  .  m  @  
-
-@  @  $  $  
-y  h  $  $  
-y  h  g  g  
-z  .  m  @  
-z  .  m  @  
-
-@  @  $  $  
-y  h  $  $  
-y  h  g  g  
-z  m  .  @  
-z  m  .  @  
-
-@  @  $  $  
-y  h  $  $  
-y  h  g  g  
-z  m  @  .  
-z  m  .  @  
-
-@  @  $  $  
-y  h  $  $  
-y  h  g  g  
-z  m  .  .  
-z  m  @  @  
-
-@  @  $  $  
-y  h  $  $  
-y  h  .  .  
-z  m  g  g  
-z  m  @  @  
-
-@  @  .  .  
-y  h  $  $  
-y  h  $  $  
-z  m  g  g  
-z  m  @  @  
-
-@  .  @  .  
-y  h  $  $  
-y  h  $  $  
-z  m  g  g  
-z  m  @  @  
-
-.  @  @  .  
-y  h  $  $  
-y  h  $  $  
-z  m  g  g  
-z  m  @  @  
-
-y  @  @  .  
-y  h  $  $  
-.  h  $  $  
-z  m  g  g  
-z  m  @  @  
-
-y  @  @  .  
-y  h  $  $  
-z  h  $  $  
-z  m  g  g  
-.  m  @  @  
-
-y  @  .  @  
-y  h  $  $  
-z  h  $  $  
-z  m  g  g  
-.  m  @  @  
-
-y  .  @  @  
-y  h  $  $  
-z  h  $  $  
-z  m  g  g  
-.  m  @  @  
-
-y  h  @  @  
-y  h  $  $  
-z  .  $  $  
-z  m  g  g  
-.  m  @  @  
-
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  g  g  
+g  g  $  $  
 .  .  @  @  
 
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  g  g  
+m  h  z  y  
+m  h  z  y  
+@  @  $  $  
+g  g  $  $  
 .  @  .  @  
 
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  g  g  
+m  h  z  y  
+m  h  z  y  
+@  @  $  $  
+g  g  $  $  
 @  .  .  @  
 
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  g  g  
+m  h  z  y  
+m  h  z  y  
+@  @  $  $  
+g  g  $  $  
 @  .  @  .  
 
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  g  g  
+m  h  z  y  
+m  h  z  y  
+@  @  $  $  
+g  g  $  $  
 @  @  .  .  
 
-y  h  @  @  
-y  h  $  $  
-z  m  $  $  
-z  m  .  .  
-@  @  g  g  
-
-y  h  @  @  
-y  h  .  .  
-z  m  $  $  
-z  m  $  $  
-@  @  g  g  
-
-y  h  .  @  
-y  h  @  .  
-z  m  $  $  
-z  m  $  $  
-@  @  g  g  
-
-y  h  .  @  
-y  h  .  @  
-z  m  $  $  
-z  m  $  $  
-@  @  g  g  
-
-y  .  h  @  
-y  .  h  @  
-z  m  $  $  
-z  m  $  $  
-@  @  g  g  
-
-y  .  h  @  
-y  m  h  @  
-z  m  $  $  
-z  .  $  $  
-@  @  g  g  
-
-y  m  h  @  
-y  m  h  @  
-z  .  $  $  
-z  .  $  $  
-@  @  g  g  
-
-y  m  h  @  
-y  m  h  @  
-z  $  $  .  
-z  $  $  .  
-@  @  g  g  
-
-y  m  h  @  
-y  m  h  .  
-z  $  $  @  
-z  $  $  .  
-@  @  g  g  
-
-y  m  h  .  
-y  m  h  @  
-z  $  $  @  
-z  $  $  .  
-@  @  g  g  
-
-y  m  h  .  
-y  m  h  @  
-z  $  $  .  
-z  $  $  @  
-@  @  g  g  
-
-y  m  h  .  
-y  m  h  .  
-z  $  $  @  
-z  $  $  @  
-@  @  g  g  
-
-y  m  .  h  
-y  m  .  h  
-z  $  $  @  
-z  $  $  @  
-@  @  g  g  
-
-y  .  m  h  
-y  .  m  h  
-z  $  $  @  
-z  $  $  @  
-@  @  g  g  
-
-.  y  m  h  
-.  y  m  h  
-z  $  $  @  
-z  $  $  @  
-@  @  g  g  
-
-.  y  m  h  
-z  y  m  h  
-z  $  $  @  
-.  $  $  @  
-@  @  g  g  
-
-z  y  m  h  
-z  y  m  h  
-.  $  $  @  
-.  $  $  @  
-@  @  g  g  
-
-z  y  m  h  
-z  y  m  h  
-$  $  .  @  
-$  $  .  @  
-@  @  g  g  
-
-z  y  m  h  
-z  y  m  h  
-$  $  @  .  
-$  $  .  @  
-@  @  g  g  
-
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  .  .  
-@  @  g  g  
-
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  g  g  
+m  h  z  y  
+m  h  z  y  
 @  @  .  .  
+g  g  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  g  g  
+m  h  z  y  
+m  h  z  y  
 @  .  @  .  
+g  g  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  g  g  
-.  @  @  .  
-
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  g  g  
-.  @  .  @  
-
-z  y  m  h  
-z  y  m  h  
-$  $  @  @  
-$  $  g  g  
-.  .  @  @  
-
-z  y  m  h  
-z  y  m  h  
-.  .  @  @  
-$  $  g  g  
-$  $  @  @  
-
-z  y  m  h  
-z  y  m  h  
-.  @  .  @  
-$  $  g  g  
-$  $  @  @  
-
-z  y  m  h  
-z  y  m  h  
+m  h  z  y  
+m  h  z  y  
 @  .  .  @  
-$  $  g  g  
-$  $  @  @  
+g  g  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  .  @  .  
-$  $  g  g  
-$  $  @  @  
+m  h  z  y  
+m  h  z  y  
+.  @  .  @  
+g  g  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  @  .  .  
-$  $  g  g  
-$  $  @  @  
+m  h  z  y  
+m  h  z  y  
+.  .  @  @  
+g  g  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  @  g  g  
-$  $  .  .  
-$  $  @  @  
+m  h  z  y  
+m  h  z  y  
+g  g  @  @  
+.  .  $  $  
+@  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  @  g  g  
-$  $  @  .  
-$  $  .  @  
+m  h  z  y  
+m  h  z  y  
+g  g  @  @  
+@  .  $  $  
+.  @  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  @  g  g  
-$  $  .  @  
-$  $  .  @  
+m  h  z  y  
+m  h  z  y  
+g  g  @  @  
+@  .  $  $  
+@  .  $  $  
 
-z  y  m  h  
-z  y  m  h  
-@  @  g  g  
-.  $  $  @  
-.  $  $  @  
+m  h  z  y  
+m  h  z  y  
+g  g  @  @  
+@  $  $  .  
+@  $  $  .  
 
