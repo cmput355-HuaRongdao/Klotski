@@ -6,14 +6,81 @@ import copy
 HOR = 0
 VER = 1
 
+class StateActionValueTable(object):
+	def __init__(self):
+		self.savt = {}
+
+	def addNewStateActionSet(self, cur_state, action_values):
+		# cur_state is a Zhen object
+		# action_values is a dictionary of action values
+		# with keys the decendent Zhen objects
+		self.savt[cur_state] = action_values
+
+	def getAllNextStates(self, cur_state):
+		return self.savt[cur_state]
+
+	def getStateActionValue(self, state, action):
+		return self.savt[state][action]
+
+	def setStateActionValue(self, state, action, value):
+		self.savt[state][action] = value
+
+	def serialize(self, zhen):
+		# this function serialize the board into a string
+		board = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
+		caoCaox = zhen.caoCao.pos[0]
+		caoCaoy = zhen.caoCao.pos[1]
+		board[caoCaox][caoCaoy] = '$'	# "$" represents caoCao
+		board[caoCaox + 1][caoCaoy] = '$'
+		board[caoCaox][caoCaoy + 1] = '$'
+		board[caoCaox + 1][caoCaoy + 1] = '$'
+		for i in range(5):	# there are in total 5 Jiangs
+			jiang = zhen.jiangList[i]
+			x, y = jiang.pos
+			board[x][y] = jiang.name
+			if jiang.ori == HOR:	# the Jiang is placed horizontally
+				board[x + 1][y] = jiang.name
+			else:	# the Jiang is placed vertically
+				board[x][y + 1] = jiang.name
+		for i in range(4):	# there are in total 4 Bings
+			x, y = zhen.bingList[i].pos
+			board[x][y] = '@'	# @ represents a soldier
+		serial = ''
+		for j in range(len(board[0])):
+			for i in range(len(board)):
+				serial += board[i][j]
+		return serial
+
+	def deserialize(self, serial):
+		# this function deserialize a string into a Zhen object
+		caoCao = None
+		jiangList = []
+		jiangNameSet = set()
+		bingList = []
+		for i in range(len(serial)):
+			c = serial[i]
+			if caoCao is None and c == '$':
+				caoCao = CaoCao([i % 4, int(i / 4)])
+			elif c == '@':
+				bingList.append(Bing([i % 4, int(i / 4)]))
+			elif c != '.' and c != '$' and c not in jiangNameSet:
+				ori = None
+				if i % 4 < 3 and serial[i + 1] == c:
+					ori = HOR
+				else: ori = VER
+				jiangNameSet.add(c)
+				jiangList.append(Jiang([i % 4, int(i / 4)], ori, c))
+		return Zhen(caoCao, jiangList, bingList)
+
 class Huarongdao(object):
-	def __init__(self, zhen):
+	def __init__(self, zhen = None):
 		self.zhen = zhen
 		self.buZhen(self.zhen)
 
 	# according to the objects' information, fill in the hrd data structure the characters
 	def buZhen(self, zhen):
 		self.hrd = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
+		if zhen is None: return
 		caoCaox = zhen.caoCao.pos[0]
 		caoCaoy = zhen.caoCao.pos[1]
 		self.hrd[caoCaox][caoCaoy] = '$'	# "$" represents caoCao
@@ -274,7 +341,6 @@ class Jiang(object):
 		if not (self.ori == other.ori):
 			return False
 		return True
-
 
 class Bing(object):
 	def __init__(self, pos):

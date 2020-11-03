@@ -1,4 +1,4 @@
-now: algorithm.py
-	python3 algorithm.py
+now: main.py
+	python3 main.py
 huarong: huarong.py
 	python3 huarong.py
