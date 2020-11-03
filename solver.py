@@ -8,6 +8,7 @@ import copy
 import time
 from rlagents import *
 from util import *
+import sys
 
 class Solver(object):
 	def __init__(self, hrd):
@@ -92,15 +93,23 @@ class RL_Solver(Solver):
 			# a normal step is taken
 			return -1
 
-	def sarsa(self):
-		visitedStates = {}
-		savt = StateActionValueTable()
+	def sarsa(self, memoryPath):
+		# set recursion limit:
+		sys.setrecursionlimit(10**9)
+		# load the previous memory:
+		savt = StateActionValueTable(memoryPath)	# load memory is also done here
 		rewardList = []
 		# set up the agent:
 		alpha = 0.3	# alpha is the step size
 		gamma = 1
 		agent = Sarsa_Agent(alpha, gamma)
+		temp_episode_count = 0
 		for i in range(self.k):
+			if temp_episode_count >= 10:
+				# save the learnt result:
+				savt.saveStateActionValueTable(memoryPath)
+				# reset episode count:
+				temp_episode_count = 0
 			print('doing episode ' + str(i + 1) + ' ......', end='')
 			epsilon = 1 / (i + 1)
 			agent.epsilon = epsilon
@@ -108,7 +117,7 @@ class RL_Solver(Solver):
 			deadend_count = 1	# terminate after a number of dead ends
 			ret_curepisode = 0
 			cur_state = self.start_state
-			while deadend_count >= 0 and not self.isSuccess(cur_state): #and ret_curepisode > -200:
+			while deadend_count >= 0 and not self.isSuccess(cur_state): # and ret_curepisode > -2000:
 				# get the set of next states
 				state_options = self.getNeighborsAndOrUpdateSavt(cur_state, savt)
 				# let the agent select an action:
@@ -126,8 +135,13 @@ class RL_Solver(Solver):
 				agent.updateActionValue(savt, cur_state, next_state, next_state, next_action, ret)
 				# go to next state:
 				cur_state = next_state
+			# display reward after each episode:
 			print('reward is ' + str(ret_curepisode))
 			rewardList.append(ret_curepisode)
+			# count episode:
+			temp_episode_count += 1
+		# save the learnt result:
+		savt.saveStateActionValueTable(memoryPath)
 		return (rewardList, cur_state, self.isSuccess(cur_state))
 
 				

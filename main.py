@@ -76,9 +76,11 @@ def a_star_game(zhen, title):
 	f.close()
 
 def sarsa_game(hrd, num_episodes, title):
+	# specify the memory:
+	memoryPath = './rl_training_results/td_sarsa_savt.txt'
 	# solve the puzzle:
 	start_time = time.time()
-	result = RL_Solver(hrd, num_episodes).sarsa()
+	result = RL_Solver(hrd, num_episodes).sarsa(memoryPath)
 	elapsed_time = time.time() - start_time
 	# get the solution path:
 	zhen = result[1]
@@ -119,22 +121,21 @@ def sarsa_game(hrd, num_episodes, title):
 
 def main():
 	start_time = time.time()
-	'''
 	# Zhen form:
+	'''
 	zhen = TZYY()	# from games.py
 	sarsa_game(Huarongdao(zhen), 20, '逃之夭夭')
 	print('finished 逃之夭夭')
-	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	#a_star_game(Huarongdao(zhen), '无横之局')
-	sarsa_game(Huarongdao(zhen), 433, '无横之局')
+	sarsa_game(Huarongdao(zhen), 500, '无横之局')
 	print('finished 无横之局')
 	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	a_star_game(Huarongdao(zhen), '将当后路')
+	sarsa_game(Huarongdao(zhen), 500, '将当后路')
 	print('finished 将当后路')
+	'''
 	# Zhen form:
 	zhen = QHHY()	# from games.py
 	a_star_game(Huarongdao(zhen), '前呼后拥')
