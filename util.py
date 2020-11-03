@@ -143,7 +143,7 @@ class Huarongdao(object):
 					emptySpaces.append([i, j])
 		return emptySpaces
 
-	def getNextStatesAndSetParent(self, parent):
+	def getNextStates(self, parent):
 		# Note: this method is run based on the hrd data structure
 		# this method can only be used after buZhen(self, zhen) is called
 		nextStates = []
@@ -286,6 +286,7 @@ class Zhen:
 		self.caoCao = caoCao
 		self.jiangList = jiangList
 		self.bingList = bingList
+		self.decendents = set()
 
 	def __lt__(self, other):
 		return self.getFValue() < other.getFValue()
@@ -311,6 +312,9 @@ class Zhen:
 
 	def getParent(self):
 		return self.parent
+
+	def setDecendents(self, decendents):
+		self.decendents = set(decendents)
 
 	def getAbstract(self):
 		# this function generalize all Jiangs to be the same on the board.

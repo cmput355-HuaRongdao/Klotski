@@ -1,3 +1,2 @@
 elements = ['first', 'second', 'third']
-print(elements.pop(0))
-print(elements)
+print(set(elements))

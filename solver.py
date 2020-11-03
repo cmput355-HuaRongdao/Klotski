@@ -22,7 +22,7 @@ class Solver(object):
 		# set as the zhen object past in:
 		self.hrd.zhen = zhen
 		self.hrd.buZhen(zhen)
-		nextStates = self.hrd.getNextStatesAndSetParent(zhen)
+		nextStates = self.hrd.getNextStates(zhen)
 		return nextStates
 
 class Search_Solver(Solver):
@@ -85,7 +85,7 @@ class RL_Solver(Solver):
 	def getReturn(self, state, deadendReached):
 		if self.isSuccess(state):
 			# goal reached
-			return 0
+			return 1000
 		elif deadendReached:
 			# a dead end has been reached
 			return -1000
@@ -97,17 +97,24 @@ class RL_Solver(Solver):
 		# set recursion limit:
 		sys.setrecursionlimit(10**9)
 		# load the previous memory:
+		print('loading memory ......')
 		savt = StateActionValueTable(memoryPath)	# load memory is also done here
+		print('memory loaded!')
 		rewardList = []
 		# set up the agent:
-		alpha = 0.3	# alpha is the step size
+		alpha = 0.5	# alpha is the step size
 		gamma = 1
 		agent = Sarsa_Agent(alpha, gamma)
+		# want to save result every 10 episodes:
 		temp_episode_count = 0
+		# need a max_steps to save time:
+		max_steps = 100 + self.k
 		for i in range(self.k):
 			if temp_episode_count >= 10:
 				# save the learnt result:
+				print('saving memory......')
 				savt.saveStateActionValueTable(memoryPath)
+				print('memory saved.')
 				# reset episode count:
 				temp_episode_count = 0
 			print('doing episode ' + str(i + 1) + ' ......', end='')
@@ -115,9 +122,11 @@ class RL_Solver(Solver):
 			agent.epsilon = epsilon
 			# set up terminal conditions:
 			deadend_count = 1	# terminate after a number of dead ends
+			# set up initial conditions:
 			ret_curepisode = 0
 			cur_state = self.start_state
-			while deadend_count >= 0 and not self.isSuccess(cur_state): # and ret_curepisode > -2000:
+			steps_taken = 0
+			while deadend_count > 0 and not self.isSuccess(cur_state) and steps_taken <= max_steps:
 				# get the set of next states
 				state_options = self.getNeighborsAndOrUpdateSavt(cur_state, savt)
 				# let the agent select an action:
@@ -135,13 +144,18 @@ class RL_Solver(Solver):
 				agent.updateActionValue(savt, cur_state, next_state, next_state, next_action, ret)
 				# go to next state:
 				cur_state = next_state
+				steps_taken += 1
 			# display reward after each episode:
 			print('reward is ' + str(ret_curepisode))
 			rewardList.append(ret_curepisode)
 			# count episode:
 			temp_episode_count += 1
+			# decrement max_steps:
+			max_steps -= 1
 		# save the learnt result:
+		print('saving memory......')
 		savt.saveStateActionValueTable(memoryPath)
+		print('memory saved.')
 		return (rewardList, cur_state, self.isSuccess(cur_state))
 
 				
