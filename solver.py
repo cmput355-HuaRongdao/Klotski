@@ -87,7 +87,7 @@ class RL_Solver(Solver):
 			return 0
 		elif deadendReached:
 			# a dead end has been reached
-			return -100
+			return -1000
 		else:
 			# a normal step is taken
 			return -1
