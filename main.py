@@ -39,7 +39,7 @@ def bfs_game(zhen, title):
 		f.write('\n')
 	f.close()
 
-def sarsa_game(zhen, title):
+def a_star_game(zhen, title):
 	#  500,solve the puzzle:
 	start_time = time.time()
 	zhen = Search_Solver(zhen).a_star()
