@@ -9,7 +9,7 @@ y  y  m  m
 
 ========= Solution =============================
 Total number of steps: 39
-Total time used: 8.980823755264282
+Total time used: 9.375639915466309
 g  g  $  $  
 z  z  $  $  
 y  y  m  m  
@@ -145,8 +145,8 @@ y  y  $  $
 z  z  g  g  
 m  m  $  $  
 y  y  $  $  
-@  h  @  .  
 @  h  .  @  
+@  h  @  .  
 
 z  z  g  g  
 m  m  $  $  
@@ -229,8 +229,8 @@ h  $  $  .
 z  z  g  g  
 y  y  m  m  
 h  $  $  @  
-h  $  $  .  
-@  .  @  @  
+h  $  $  @  
+@  @  .  .  
 
 z  z  g  g  
 y  y  m  m  

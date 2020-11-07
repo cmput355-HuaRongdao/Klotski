@@ -40,7 +40,7 @@ def bfs_game(zhen, title):
 	f.close()
 
 def a_star_game(zhen, title):
-	# solve the puzzle:
+	#  500,solve the puzzle:
 	start_time = time.time()
 	zhen = Search_Solver(zhen).a_star()
 	elapsed_time = time.time() - start_time
@@ -76,9 +76,11 @@ def a_star_game(zhen, title):
 	f.close()
 
 def sarsa_game(hrd, num_episodes, title):
+	# specify the memory:
+	memoryPath = './rl_training_results/td_sarsa_savt' + title + '.txt'
 	# solve the puzzle:
 	start_time = time.time()
-	result = RL_Solver(hrd, num_episodes).sarsa()
+	result = RL_Solver(hrd, num_episodes).sarsa(memoryPath)
 	elapsed_time = time.time() - start_time
 	# get the solution path:
 	zhen = result[1]
@@ -122,70 +124,69 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
-	sarsa_game(Huarongdao(zhen), 20, '逃之夭夭')
+	sarsa_game(Huarongdao(zhen), 500, '逃之夭夭')
 	print('finished 逃之夭夭')
-	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	#a_star_game(Huarongdao(zhen), '无横之局')
 	sarsa_game(Huarongdao(zhen), 500, '无横之局')
 	print('finished 无横之局')
-	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	a_star_game(Huarongdao(zhen), '将当后路')
+	sarsa_game(Huarongdao(zhen), 500, '将当后路')
 	print('finished 将当后路')
 	# Zhen form:
 	zhen = QHHY()	# from games.py
-	a_star_game(Huarongdao(zhen), '前呼后拥')
+	sarsa_game(Huarongdao(zhen), 500, '前呼后拥')
 	print('finished 前呼后拥')
+	'''
 	# Zhen form:
 	zhen = BYHK()	# from games.py
-	a_star_game(Huarongdao(zhen), '比翼横空')
+	sarsa_game(Huarongdao(zhen), 500, '比翼横空')
 	print('finished 比翼横空')
+	'''
 	# Zhen form:
 	zhen = QGWG()	# from games.py
-	a_star_game(Huarongdao(zhen), '巧过五关')
+	sarsa_game(Huarongdao(zhen), 500, '巧过五关')
 	print('finished 巧过五关')
 	# Zhen form:
 	zhen = WJBG()	# from games.py
-	a_star_game(Huarongdao(zhen), '五将逼宫')
+	sarsa_game(Huarongdao(zhen), 500, '五将逼宫')
 	print('finished 五将逼宫')
 	# Zhen form:
 	zhen = BLCY()	# from games.py
-	a_star_game(Huarongdao(zhen), '兵临曹营')
+	sarsa_game(Huarongdao(zhen), 500, '兵临曹营')
 	print('finished 兵临曹营')
 	# Zhen form:
 	zhen = SJLG()	# from games.py
-	a_star_game(Huarongdao(zhen), '四将连关')
+	sarsa_game(Huarongdao(zhen), 500, '四将连关')
 	print('finished 四将连关')
 	# Zhen form:
 	zhen = XJZZC()	# from games.py
-	a_star_game(Huarongdao(zhen), '新近在咫尺')
+	sarsa_game(Huarongdao(zhen), 500, '新近在咫尺')
 	print('finished 新近在咫尺')
 	# Zhen form:
 	zhen = XLQB()	# from games.py
-	a_star_game(Huarongdao(zhen), '星罗棋布')
+	sarsa_game(Huarongdao(zhen), 500, '星罗棋布')
 	print('finished 星罗棋布')
 	# Zhen form:
 	zhen = SMBF()	# from games.py
-	a_star_game(Huarongdao(zhen), '四面八方')
+	sarsa_game(Huarongdao(zhen), 500, '四面八方')
 	print('finished 四面八方')
 	# Zhen form:
 	zhen = NQCT()	# from games.py
-	a_star_game(Huarongdao(zhen), '牛气冲天')
+	sarsa_game(Huarongdao(zhen), 500, '牛气冲天')
 	print('finished 牛气冲天')
 	# Zhen form:
 	zhen = DBQJ()	# from games.py
-	a_star_game(Huarongdao(zhen), '调兵谴将')
+	sarsa_game(Huarongdao(zhen), 500, '调兵谴将')
 	print('finished 调兵谴将')
 	# Zhen form:
 	zhen = BSZL()	# from games.py
-	a_star_game(Huarongdao(zhen), '背水列阵')
+	sarsa_game(Huarongdao(zhen), 500, '背水列阵')
 	print('finished 背水列阵')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
-	a_star_game(Huarongdao(zhen), '横刀立马2')
+	sarsa_game(Huarongdao(zhen), 500, '横刀立马2')
 	print('finished 横刀立马2')
 	'''
 	print('finished all!')

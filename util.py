@@ -2,13 +2,17 @@
 # Date: 2020, September 15th
 # Location: China Ningxia Yinchuan
 import copy
+import os.path
 # ori. of Jiang objects:
 HOR = 0
 VER = 1
 
 class StateActionValueTable(object):
-	def __init__(self):
-		self.savt = {}
+	def __init__(self, path = None):
+		if path is None or not os.path.isfile(path):
+			self.savt = {}
+		else:
+			self.loadStateActionValueTable(path)
 
 	def addNewStateActionSet(self, cur_state, action_values):
 		# cur_state is a Zhen object
@@ -23,6 +27,7 @@ class StateActionValueTable(object):
 		return self.savt[state][action]
 
 	def setStateActionValue(self, state, action, value):
+		action.setParent(state)
 		self.savt[state][action] = value
 
 	def serialize(self, zhen):
@@ -72,6 +77,36 @@ class StateActionValueTable(object):
 				jiangList.append(Jiang([i % 4, int(i / 4)], ori, c))
 		return Zhen(caoCao, jiangList, bingList)
 
+	def saveStateActionValueTable(self, path):
+		# this function serialize all states in savt and store it
+		# in a file specified by path
+		with open(path, 'w') as f:
+			for i in self.savt:
+				line = ''
+				line += self.serialize(i) + ' '
+				for j in self.savt[i]:
+					line += self.serialize(j) + ':' + str(self.savt[i][j]) + ' '
+				f.write(line + '\n')
+
+	def loadStateActionValueTable(self, path):
+		# this function reads content specified by path and
+		# deserialize it and puts it into memory
+		# context manager closes the file for us
+		with open(path, 'r') as f:
+			savt = {}
+			f_content = f.readline()
+			while f_content:
+				elements = f_content.split()
+				key = self.deserialize(elements.pop(0))
+				value = {}
+				for i in elements:
+					subkey_subvalue = i.split(':')
+					realSubkey = self.deserialize(subkey_subvalue[0])
+					value[realSubkey] = float(subkey_subvalue[1])
+				savt[key] = value
+				f_content = f.readline()
+		self.savt = savt
+
 class Huarongdao(object):
 	def __init__(self, zhen = None):
 		self.zhen = zhen
@@ -108,7 +143,7 @@ class Huarongdao(object):
 					emptySpaces.append([i, j])
 		return emptySpaces
 
-	def getNextStatesAndSetParent(self, parent):
+	def getNextStates(self, parent):
 		# Note: this method is run based on the hrd data structure
 		# this method can only be used after buZhen(self, zhen) is called
 		nextStates = []
@@ -251,6 +286,7 @@ class Zhen:
 		self.caoCao = caoCao
 		self.jiangList = jiangList
 		self.bingList = bingList
+		self.decendents = set()
 
 	def __lt__(self, other):
 		return self.getFValue() < other.getFValue()
@@ -276,6 +312,9 @@ class Zhen:
 
 	def getParent(self):
 		return self.parent
+
+	def setDecendents(self, decendents):
+		self.decendents = set(decendents)
 
 	def getAbstract(self):
 		# this function generalize all Jiangs to be the same on the board.

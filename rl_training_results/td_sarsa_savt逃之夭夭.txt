@@ -1,0 +1,157 @@
+zggyz@@ym$$hm$$h@..@ zggyz@@ym..hm$$h@$$@:1000.0 zggyz@@ym$$hm$$h.@.@:829.8220197753906 zggyz@@ym$$hm$$h@.@.:497.5929865234375 
+zggyz@@ym..hm$$h@$$@ zggyz@@ym$$hm$$h@..@:0.0 zggyz.@ym@.hm$$h@$$@:0.0 zggyz@.ym.@hm$$h@$$@:0.0 
+zggyz@@ym$$hm$$h@.@. zggyz@@ym$$hm$$h.@@.:-1.3535 zggyz@@ym$$hm$$h@@..:-1.833875 zggyz@@ym$$.m$$h@.@h:-2.125625 zggyz@@ym$$hm$$h@..@:873.837265625 
+zggyz@@ym$$hm$$h@@.. zggyz@@ym$$hm$$h@.@.:-1.1284999999999998 zggyz@@ym$$.m$$h@@.h:-1.6625 
+zggyz@@ym$$hm$$h.@.@ zggyz@@y.$$hm$$hm@.@:-1.375 zggyz@@ym$$hm$$h@..@:971.6152926269531 zggyz@@ym$$hm$$h..@@:-1.3225 zggyz@@ym$$hm$$h.@@.:-1.2000000000000002 
+zggyz@@ym$$hm$$h.@@. zggyz@@y.$$hm$$hm@@.:-1.155 zggyz@@ym$$hm$$h@.@.:-1.1 zggyz@@ym$$.m$$h.@@h:-1.05 zggyz@@ym$$hm$$h.@.@:-0.95 
+zggyz@@ym$$.m$$h@.@h zggyz@@ym$$.m$$h.@@h:-1.7600000000000002 zggyz@@ym$$.m$$h@@.h:-2.91375 zgg.z@@ym$$ym$$h@.@h:-1.675 zggyz@@ym$$hm$$h@.@.:-2.26228125 
+zggyz@@ym$$.m$$h@@.h zggyz@@ym$$.m$$h@.@h:-2.7982187499999998 zgg.z@@ym$$ym$$h@@.h:-1.15 zggyz@@ym$$hm$$h@@..:-0.95 
+zggyz@@ym$$.m$$h.@@h zggyz@@y.$$.m$$hm@@h:-0.9950000000000001 zggyz@@ym$$.m$$h@.@h:-2.0066249999999997 zgg.z@@ym$$ym$$h.@@h:-1.3 zggyz@@ym$$hm$$h.@@.:-1.2000000000000002 
+zgg.z@@ym$$ym$$h@.@h zgg.z@@ym$$ym$$h.@@h:-1.475 zgg.z@@ym$$ym$$h@@.h:-1.155 zggyz@@ym$$.m$$h@.@h:-1.670375 z.ggz@@ym$$ym$$h@.@h:-1.35 
+z.ggz@@ym$$ym$$h@.@h zgg.z@@ym$$ym$$h@.@h:-1.7091249999999998 z@ggz.@ym$$ym$$h@.@h:-0.8 z.ggz@@ym$$ym$$h.@@h:-0.8 z.ggz@@ym$$ym$$h@@.h:-1.1 
+z@ggz.@ym$$ym$$h@.@h z.ggz@@ym$$ym$$h@.@h:-0.8 z@ggz@.ym$$ym$$h@.@h:-1.275 z@ggz.@ym$$ym$$h.@@h:-0.9750000000000001 z@ggz.@ym$$ym$$h@@.h:-1.225 
+z@ggz.@ym$$ym$$h@@.h z.ggz@@ym$$ym$$h@@.h:-1.46 z@ggz@.ym$$ym$$h@@.h:-1.15 z@ggz.@ym$$ym$$h@.@h:-1.125 
+z.ggz@@ym$$ym$$h@@.h zgg.z@@ym$$ym$$h@@.h:-1.125 z@ggz.@ym$$ym$$h@@.h:-1.075 z.ggz@@ym$$ym$$h@.@h:-1.3225 
+zgg.z@@ym$$ym$$h@@.h zgg.z@@ym$$ym$$h@.@h:-1.3050000000000002 zggyz@@ym$$.m$$h@@.h:-1.075 z.ggz@@ym$$ym$$h@@.h:-1.225 
+z@ggz@.ym$$ym$$h@@.h z@ggz.@ym$$ym$$h@@.h:-1.4 z@ggz@.ym$$ym$$h@.@h:-1.005 
+z@ggz@.ym$$ym$$h@.@h z@ggz@.ym$$ym$$h.@@h:-1.2000000000000002 z@ggz@.ym$$ym$$h@@.h:-0.9500000000000001 z@ggz.@ym$$ym$$h@.@h:-1.075 
+z@ggz@.ym$$ym$$h.@@h z@ggz@.y.$$ym$$hm@@h:-1.1 z@ggz@.ym$$ym$$h@.@h:-0.9450000000000001 z@ggz.@ym$$ym$$h.@@h:-1.3 
+z@ggz.@ym$$ym$$h.@@h z@ggz.@y.$$ym$$hm@@h:-0.8 z@ggz.@ym$$ym$$h@.@h:-1.3 z.ggz@@ym$$ym$$h.@@h:-0.8 z@ggz@.ym$$ym$$h.@@h:-1.225 
+z@ggz@.y.$$ym$$hm@@h .@ggz@.yz$$ym$$hm@@h:-0.8 z@ggz@.ym$$ym$$h.@@h:-0.945 z@ggz.@y.$$ym$$hm@@h:-0.95 
+z@ggz.@y.$$ym$$hm@@h .@ggz.@yz$$ym$$hm@@h:-0.8 z@ggz.@ym$$ym$$h.@@h:-1.08 z.ggz@@y.$$ym$$hm@@h:-0.845 z@ggz@.y.$$ym$$hm@@h:-0.845 
+z.ggz@@y.$$ym$$hm@@h ..ggz@@yz$$ym$$hm@@h:-1.3 z.ggz@@ym$$ym$$h.@@h:-0.8 zgg.z@@y.$$ym$$hm@@h:-0.845 z@ggz.@y.$$ym$$hm@@h:-0.9500000000000001 
+z.ggz@@ym$$ym$$h.@@h z.ggz@@y.$$ym$$hm@@h:-0.8 z.ggz@@ym$$ym$$h@.@h:-1.055 zgg.z@@ym$$ym$$h.@@h:-0.8 z@ggz.@ym$$ym$$h.@@h:-0.8 
+zgg.z@@ym$$ym$$h.@@h zgg.z@@y.$$ym$$hm@@h:-1.2000000000000002 zgg.z@@ym$$ym$$h@.@h:-1.225 zggyz@@ym$$.m$$h.@@h:-1.3 z.ggz@@ym$$ym$$h.@@h:-1.0550000000000002 
+zgg.z@@y.$$ym$$hm@@h .gg.z@@yz$$ym$$hm@@h:-1.3 zgg.z@@ym$$ym$$h.@@h:-0.905 zggyz@@y.$$.m$$hm@@h:-1.055 z.ggz@@y.$$ym$$hm@@h:-1.345 
+.gg.z@@yz$$ym$$hm@@h zgg.z@@y.$$ym$$hm@@h:-1.3225 gg..z@@yz$$ym$$hm@@h:-1.01 .ggyz@@yz$$.m$$hm@@h:-0.995 ..ggz@@yz$$ym$$hm@@h:-0.8 
+..ggz@@yz$$ym$$hm@@h z.ggz@@y.$$ym$$hm@@h:-0.8 .gg.z@@yz$$ym$$hm@@h:-0.845 .@ggz.@yz$$ym$$hm@@h:-1.155 
+.@ggz.@yz$$ym$$hm@@h z@ggz.@y.$$ym$$hm@@h:-0.905 @.ggz.@yz$$ym$$hm@@h:-0.755 ..ggz@@yz$$ym$$hm@@h:-1.05 .@ggz@.yz$$ym$$hm@@h:-0.845 
+@.ggz.@yz$$ym$$hm@@h @gg.z.@yz$$ym$$hm@@h:-0.75 .@ggz.@yz$$ym$$hm@@h:-0.51 @.ggz@.yz$$ym$$hm@@h:-0.8 
+@.ggz@.yz$$ym$$hm@@h @gg.z@.yz$$ym$$hm@@h:-1.25 @@ggz..yz$$ym$$hm@@h:-1.275 .@ggz@.yz$$ym$$hm@@h:-0.8 @.ggz.@yz$$ym$$hm@@h:-0.8999999999999999 
+.@ggz@.yz$$ym$$hm@@h z@ggz@.y.$$ym$$hm@@h:-0.845 @.ggz@.yz$$ym$$hm@@h:-0.6499999999999999 .@ggz.@yz$$ym$$hm@@h:-0.845 
+@@ggz..yz$$ym$$hm@@h @@ggz$$yz$$ym..hm@@h:-1.375 @.ggz@.yz$$ym$$hm@@h:-0.8999999999999999 
+zggyz@@y.$$.m$$hm@@h .ggyz@@yz$$.m$$hm@@h:-0.905 zggyz@@ym$$.m$$h.@@h:-1.0950000000000002 zgg.z@@y.$$ym$$hm@@h:-1.155 zggyz@@y.$$hm$$hm@@.:-1.2824999999999998 
+zggyz@@y.$$hm$$hm@@. .ggyz@@yz$$hm$$hm@@.:-1.2000000000000002 zggyz@@ym$$hm$$h.@@.:-0.845 zggyz@@y.$$.m$$hm@@h:-1.055 zggyz@@y.$$hm$$hm@.@:-1.0550000000000002 
+.ggyz@@yz$$.m$$hm@@h zggyz@@y.$$.m$$hm@@h:-0.905 gg.yz@@yz$$.m$$hm@@h:-0.8 .gg.z@@yz$$ym$$hm@@h:-1.055 .ggyz@@yz$$hm$$hm@@.:-1.1 
+zggyz@@y.$$hm$$hm@.@ .ggyz@@yz$$hm$$hm@.@:-0.8 zggyz@@ym$$hm$$h.@.@:-1.2000000000000002 zggyz@@y.$$hm$$hm.@@:-1.3 zggyz@@y.$$hm$$hm@@.:-1.1 
+.ggyz@@yz$$hm$$hm@@. zggyz@@y.$$hm$$hm@@.:-0.995 gg.yz@@yz$$hm$$hm@@.:-0.8 .ggyz@@yz$$.m$$hm@@h:-1.1 .ggyz@@yz$$hm$$hm@.@:-0.6499999999999999 
+.ggyz@@yz$$hm$$hm@.@ zggyz@@y.$$hm$$hm@.@:-0.8 gg.yz@@yz$$hm$$hm@.@:-1.075 .ggyz@@yz$$hm$$hm.@@:-0.8 .ggyz@@yz$$hm$$hm@@.:-0.8 
+.ggyz@@yz$$hm$$hm.@@ zggyz@@y.$$hm$$hm.@@:-0.8 gg.yz@@yz$$hm$$hm.@@:-1.075 .ggyz@@yz$$hm$$hm@.@:-0.8 
+gg.yz@@yz$$hm$$hm.@@ gg.yz@@yz$$hm$$hm@.@:-1.0 .ggyz@@yz$$hm$$hm.@@:-0.8 gg@yz@.yz$$hm$$hm.@@:-0.8 
+gg@yz@.yz$$hm$$hm.@@ gg@yz@.yz$$hm$$hm@.@:-0.6499999999999999 gg.yz@@yz$$hm$$hm.@@:-0.8 gg@yz.@yz$$hm$$hm.@@:-0.8999999999999999 
+gg@yz.@yz$$hm$$hm.@@ gg@yz@.yz$$hm$$hm.@@:-0.8 gg@yz.@yz$$hm$$hm@.@:-1.0 
+gg@yz@.yz$$hm$$hm@.@ gg.yz@@yz$$hm$$hm@.@:-1.0 gg@yz.@yz$$hm$$hm@.@:-1.0 gg@yz@.yz$$hm$$hm.@@:-0.8 gg@yz@.yz$$hm$$hm@@.:-1.0 
+zggyz@@y.$$hm$$hm.@@ .ggyz@@yz$$hm$$hm.@@:-1.225 zggyz@@ym$$hm$$h..@@:-1.4249999999999998 zggyz@@y.$$hm$$hm@.@:-0.995 
+zggyz@@ym$$hm$$h..@@ zggyz@@y.$$hm$$hm.@@:-1.3225 zggyz@@ym$$hm$$h.@.@:-1.5 
+gg.yz@@yz$$.m$$hm@@h .ggyz@@yz$$.m$$hm@@h:-0.8 gg@yz@.yz$$.m$$hm@@h:-0.8 gg..z@@yz$$ym$$hm@@h:-0.845 gg.yz@@yz$$hm$$hm@@.:-0.8999999999999999 
+gg@yz@.yz$$.m$$hm@@h gg.yz@@yz$$.m$$hm@@h:-0.8 gg@yz.@yz$$.m$$hm@@h:-0.75 gg@.z@.yz$$ym$$hm@@h:-0.8 gg@yz@.yz$$hm$$hm@@.:-1.0 
+gg.yz@@yz$$hm$$hm@@. .ggyz@@yz$$hm$$hm@@.:-0.845 gg@yz@.yz$$hm$$hm@@.:-0.75 gg.yz@@yz$$.m$$hm@@h:-0.8 gg.yz@@yz$$hm$$hm@.@:-1.075 
+gg..z@@yz$$ym$$hm@@h .gg.z@@yz$$ym$$hm@@h:-0.8 gg@.z@.yz$$ym$$hm@@h:-0.905 gg.yz@@yz$$.m$$hm@@h:-0.845 
+gg@.z@.yz$$ym$$hm@@h gg..z@@yz$$ym$$hm@@h:-0.8 gg@.z.@yz$$ym$$hm@@h:-0.8999999999999999 gg@yz@.yz$$.m$$hm@@h:-0.8999999999999999 gg.@z@.yz$$ym$$hm@@h:-0.51 
+gg@.z.@yz$$ym$$hm@@h gg@.z@.yz$$ym$$hm@@h:-0.8 gg@yz.@yz$$.m$$hm@@h:-1.0 gg.@z.@yz$$ym$$hm@@h:-0.9 
+gg.@z@.yz$$ym$$hm@@h .gg@z@.yz$$ym$$hm@@h:-0.51 gg@.z@.yz$$ym$$hm@@h:-0.39 gg.@z.@yz$$ym$$hm@@h:-0.3 
+.gg@z@.yz$$ym$$hm@@h zgg@z@.y.$$ym$$hm@@h:-0.5 gg.@z@.yz$$ym$$hm@@h:-0.39 .gg@z.@yz$$ym$$hm@@h:-0.65 
+gg.@z.@yz$$ym$$hm@@h gg.@z@.yz$$ym$$hm@@h:-0.39 .gg@z.@yz$$ym$$hm@@h:-0.6499999999999999 gg@@z..yz$$ym$$hm@@h:-0.6499999999999999 gg@.z.@yz$$ym$$hm@@h:-0.75 
+.gg@z.@yz$$ym$$hm@@h zgg@z.@y.$$ym$$hm@@h:-0.3 gg.@z.@yz$$ym$$hm@@h:-0.8 .gg@z@.yz$$ym$$hm@@h:-0.5 
+zgg@z.@y.$$ym$$hm@@h .gg@z.@yz$$ym$$hm@@h:-0.3 zgg@z.@ym$$ym$$h.@@h:-0.3 zgg@z@.y.$$ym$$hm@@h:-0.5 
+zgg@z.@ym$$ym$$h.@@h zgg@z.@y.$$ym$$hm@@h:-0.3 zgg@z.@ym$$ym$$h@.@h:0.0 zgg@z@.ym$$ym$$h.@@h:0.0 
+gg@@z..yz$$ym$$hm@@h gg@@z$$yz$$ym..hm@@h:-0.5 gg.@z.@yz$$ym$$hm@@h:-0.3 
+gg.yz@@yz$$hm$$hm@.@ .ggyz@@yz$$hm$$hm@.@:-1.075 gg@yz@.yz$$hm$$hm@.@:-1.0 gg.yz@@yz$$hm$$hm.@@:-0.65 gg.yz@@yz$$hm$$hm@@.:-1.25 
+gg@yz@.yz$$hm$$hm@@. gg.yz@@yz$$hm$$hm@@.:-0.5 gg@yz.@yz$$hm$$hm@@.:-1.125 gg@yz@.yz$$.m$$hm@@h:-0.9 gg@yz@.yz$$hm$$hm@.@:-1.0 
+gg@yz.@yz$$hm$$hm@.@ gg@yz@.yz$$hm$$hm@.@:-1.075 gg@yz.@yz$$hm$$hm.@@:-0.9 gg@yz.@yz$$hm$$hm@@.:-1.0 
+@gg.z@.yz$$ym$$hm@@h @gg.z.@yz$$ym$$hm@@h:-1.0 @ggyz@.yz$$.m$$hm@@h:-1.75 @.ggz@.yz$$ym$$hm@@h:-1.3624999999999998 
+@gg.z.@yz$$ym$$hm@@h @gg.z@.yz$$ym$$hm@@h:-0.75 @ggyz.@yz$$.m$$hm@@h:-0.75 @.ggz.@yz$$ym$$hm@@h:-0.65 
+@@ggz$$yz$$ym..hm@@h @@ggz..yz$$ym$$hm@@h:-1.2000000000000002 @@ggz$$yz$$ym@.hm.@h:-1.25 @@ggz$$yz$$ym.@hm@.h:-1.0 
+gg@yz.@yz$$.m$$hm@@h gg@yz@.yz$$.m$$hm@@h:-1.0 gg@.z.@yz$$ym$$hm@@h:-1.125 gg@yz.@yz$$hm$$hm@@.:-0.5 
+gg@yz.@yz$$hm$$hm@@. gg@yz@.yz$$hm$$hm@@.:-0.75 gg@yz.@yz$$.m$$hm@@h:-1.125 gg@yz.@yz$$hm$$hm@.@:-1.075 
+zgg@z@.y.$$ym$$hm@@h .gg@z@.yz$$ym$$hm@@h:-0.5 zgg@z@.ym$$ym$$h.@@h:0.0 zgg@z.@y.$$ym$$hm@@h:-0.5 
+gg@@z$$yz$$ym..hm@@h gg@@z..yz$$ym$$hm@@h:0.0 gg@@z$$yz$$ym@.hm.@h:-0.5 gg@@z$$yz$$ym.@hm@.h:-0.5 
+gg@@z$$yz$$ym.@hm@.h gg@@z$$yz$$ym@@hm..h:-0.5 gg@@z$$yz$$ym@.hm@.h:0.0 gg@@z$$yz$$ym..hm@@h:-0.5 gg@@z$$yz$$ym.@hm.@h:-0.5 
+gg@@z$$yz$$ym@@hm..h gg@@z$$yz$$ym.@hm@.h:-0.5 gg@@z$$yz$$ym@.hm.@h:-0.5 
+gg@@z$$yz$$ym@.hm.@h gg@@z$$yz$$ym..hm@@h:0.0 gg@@z$$yz$$ym@.hm@.h:-0.5 gg@@z$$yz$$ym@@hm..h:-0.5 gg@@z$$yz$$ym.@hm.@h:-0.5 
+gg@@z$$yz$$ym@.hm@.h gg@@z$$yz$$ym@h.m@h.:0.0 gg@@z$$yz$$ym.@hm@.h:0.0 gg@@z$$yz$$ym@.hm.@h:-0.5 
+gg@@z$$yz$$ym.@hm.@h gg@@z$$yz$$y.m@h.m@h:-0.5 gg@@z$$yz$$ym@.hm.@h:0.0 gg@@z$$yz$$ym.@hm@.h:-0.5 
+gg@@z$$yz$$y.m@h.m@h gg@@z$$yz$$ym.@hm.@h:0.0 gg@@.$$yz$$yzm@h.m@h:-0.5 
+gg@@.$$yz$$yzm@h.m@h gg@@z$$yz$$y.m@h.m@h:0.0 gg@@.$$y.$$yzm@hzm@h:-0.5 
+gg@@.$$y.$$yzm@hzm@h gg@@$$.y$$.yzm@hzm@h:0.0 gg@@.$$yz$$yzm@h.m@h:-0.5 
+@ggyz.@yz$$.m$$hm@@h @ggyz@.yz$$.m$$hm@@h:-1.55625 @gg.z.@yz$$ym$$hm@@h:-0.75 @ggyz.@yz$$hm$$hm@@.:-1.6875 
+@ggyz@.yz$$.m$$hm@@h @ggyz.@yz$$.m$$hm@@h:-1.4375 @gg.z@.yz$$ym$$hm@@h:-1.68125 @ggyz@.yz$$hm$$hm@@.:-1.5 
+@ggyz.@yz$$hm$$hm@@. @ggyz@.yz$$hm$$hm@@.:-1.625 @ggyz.@yz$$.m$$hm@@h:-1.4375 @ggyz.@yz$$hm$$hm@.@:-1.5 
+@ggyz@.yz$$hm$$hm@@. @ggyz.@yz$$hm$$hm@@.:-1.5 @ggyz@.yz$$.m$$hm@@h:-1.6625 @ggyz@.yz$$hm$$hm@.@:-1.75 
+@ggyz.@yz$$hm$$hm@.@ @ggyz@.yz$$hm$$hm@.@:-1.5 @ggyz.@yz$$hm$$hm.@@:-1.5 @ggyz.@yz$$hm$$hm@@.:-1.875 
+@ggyz@.yz$$hm$$hm@.@ @ggyz.@yz$$hm$$hm@.@:-1.6875 @ggyz@.yz$$hm$$hm.@@:-1.5 @ggyz@.yz$$hm$$hm@@.:-1.8125 
+@ggyz@.yz$$hm$$hm.@@ @ggyz@.yz$$hm$$hm@.@:-1.5625 @ggyz.@yz$$hm$$hm.@@:-1.0 
+@ggyz.@yz$$hm$$hm.@@ @ggyz@.yz$$hm$$hm.@@:-1.0 @ggyz.@yz$$hm$$hm@.@:-1.375 
+@@ggz$$yz$$ym.@hm@.h @@ggz$$yz$$ym@@hm..h:-1.0 @@ggz$$yz$$ym@.hm@.h:-1.0 @@ggz$$yz$$ym..hm@@h:-1.2 @@ggz$$yz$$ym.@hm.@h:-1.0 
+@@ggz$$yz$$ym.@hm.@h @@ggz$$yz$$y.m@h.m@h:-1.125 @@ggz$$yz$$ym@.hm.@h:-1.25 @@ggz$$yz$$ym.@hm@.h:-1.375 
+@@ggz$$yz$$y.m@h.m@h @@ggz$$yz$$ym.@hm.@h:-1.125 @@gg.$$yz$$yzm@h.m@h:-1.25 
+@@ggz$$yz$$ym@.hm.@h @@ggz$$yz$$ym..hm@@h:-1.0 @@ggz$$yz$$ym@.hm@.h:-1.0 @@ggz$$yz$$ym@@hm..h:-1.0 @@ggz$$yz$$ym.@hm.@h:-1.25 
+@@ggz$$yz$$ym@.hm@.h @@ggz$$yz$$ym@h.m@h.:-1.0 @@ggz$$yz$$ym.@hm@.h:-1.0 @@ggz$$yz$$ym@.hm.@h:-1.0 
+@@ggz$$yz$$ym@@hm..h @@ggz$$yz$$ym.@hm@.h:-1.0 @@ggz$$yz$$ym@.hm.@h:-1.0 
+@@ggz$$yz$$ym@h.m@h. @@ggz$$yz$$ym@.hm@.h:-1.25 @@ggz$$.z$$ym@hym@h.:-1.0 
+@@ggz$$.z$$ym@hym@h. @@ggz$$yz$$ym@h.m@h.:-1.0 @@ggz$$.z$$.m@hym@hy:-1.0 
+@@ggz$$.z$$.m@hym@hy @@ggz.$$z.$$m@hym@hy:-0.5 @@ggz$$.z$$ym@hym@h.:-1.0 
+@@ggz.$$z.$$m@hym@hy @@ggz$$.z$$.m@hym@hy:-0.5 @@gg.z$$.z$$m@hym@hy:0.0 @.ggz@$$z.$$m@hym@hy:-0.5 @@ggz.$$z@$$m.hym@hy:0.0 
+@.ggz@$$z.$$m@hym@hy @gg.z@$$z.$$m@hym@hy:0.0 @@ggz.$$z.$$m@hym@hy:-0.5 .@ggz@$$z.$$m@hym@hy:0.0 @.ggz.$$z@$$m@hym@hy:0.0 @.ggz@$$z@$$m.hym@hy:0.0 
+@@gg.$$yz$$yzm@h.m@h @@ggz$$yz$$y.m@h.m@h:-1.25 .@gg@$$yz$$yzm@h.m@h:-1.5 @@gg.$$y.$$yzm@hzm@h:-1.25 
+.@gg@$$yz$$yzm@h.m@h @@gg.$$yz$$yzm@h.m@h:-1.375 @.gg@$$yz$$yzm@h.m@h:-1.625 .@gg@$$y.$$yzm@hzm@h:-1.5 
+.@gg@$$y.$$yzm@hzm@h @@gg.$$y.$$yzm@hzm@h:-1.625 @.gg@$$y.$$yzm@hzm@h:-1.5 .@gg@$$yz$$yzm@h.m@h:-1.625 .@gg.$$y@$$yzm@hzm@h:-1.5625 
+@.gg@$$y.$$yzm@hzm@h @.gg@$$yz$$yzm@h.m@h:-1.75 @.gg.$$y@$$yzm@hzm@h:-1.6875 @gg.@$$y.$$yzm@hzm@h:-1.25 .@gg@$$y.$$yzm@hzm@h:-1.5 
+@.gg.$$y@$$yzm@hzm@h ..gg@$$y@$$yzm@hzm@h:-1.625 @.gg@$$y.$$yzm@hzm@h:-1.5 @gg..$$y@$$yzm@hzm@h:-1.5625 .@gg.$$y@$$yzm@hzm@h:-2.03125 
+.@gg.$$y@$$yzm@hzm@h @.gg.$$y@$$yzm@hzm@h:-1.625 .@gg@$$y.$$yzm@hzm@h:-1.96875 
+@gg..$$y@$$yzm@hzm@h .gg.@$$y@$$yzm@hzm@h:-1.375 @gg.@$$y.$$yzm@hzm@h:-1.6875 @ggy.$$y@$$.zm@hzm@h:-1.5 @.gg.$$y@$$yzm@hzm@h:-1.5625 
+@gg.@$$y.$$yzm@hzm@h @gg.@$$yz$$yzm@h.m@h:-1.375 @gg..$$y@$$yzm@hzm@h:-1.375 @ggy@$$y.$$.zm@hzm@h:-1.6875 @.gg@$$y.$$yzm@hzm@h:-1.625 
+@.gg@$$yz$$yzm@h.m@h @.gg@$$y.$$yzm@hzm@h:-1.625 @gg.@$$yz$$yzm@h.m@h:-1.5625 .@gg@$$yz$$yzm@h.m@h:-1.5 
+@gg.@$$yz$$yzm@h.m@h @gg.@$$y.$$yzm@hzm@h:-1.625 @ggy@$$yz$$.zm@h.m@h:-1.375 @.gg@$$yz$$yzm@h.m@h:-1.25 
+@ggy@$$yz$$.zm@h.m@h @ggy@$$y.$$.zm@hzm@h:-1.5 @gg.@$$yz$$yzm@h.m@h:-1.5625 @ggy@$$yz$$hzm@h.m@.:-1.625 
+@ggy@$$yz$$hzm@h.m@. @ggy@$$y.$$hzm@hzm@.:-1.0 @ggy@$$yz$$.zm@h.m@h:-1.5625 @ggy@$$yz$$hzm@h.m.@:-1.5625 
+@ggy@$$y.$$hzm@hzm@. @ggy@$$yz$$hzm@h.m@.:-1.0 @ggy.$$y@$$hzm@hzm@.:-1.5 @ggy@$$y.$$.zm@hzm@h:-1.5 @ggy@$$y.$$hzm@hzm.@:-1.875 
+@ggy@$$y.$$hzm@hzm.@ @ggy@$$yz$$hzm@h.m.@:-1.25 @ggy.$$y@$$hzm@hzm.@:-1.5 @ggy@$$y.$$hzm.hzm@@:-1.6875 @ggy@$$y.$$hzm@hzm@.:-1.625 
+@ggy.$$y@$$hzm@hzm.@ .ggy@$$y@$$hzm@hzm.@:-1.375 @ggy@$$y.$$hzm@hzm.@:-1.625 @ggy.$$y@$$hzm.hzm@@:-1.5 @ggy.$$y@$$hzm@hzm@.:-1.25 
+@ggy.$$y@$$hzm@hzm@. .ggy@$$y@$$hzm@hzm@.:-1.875 @ggy@$$y.$$hzm@hzm@.:-1.5 @ggy.$$y@$$.zm@hzm@h:-1.5 @ggy.$$y@$$hzm@hzm.@:-1.5 
+@ggy@$$y.$$.zm@hzm@h @ggy@$$yz$$.zm@h.m@h:-1.5625 @ggy.$$y@$$.zm@hzm@h:-1.5 @gg.@$$y.$$yzm@hzm@h:-1.5 @ggy@$$y.$$hzm@hzm@.:-1.625 
+@ggy.$$y@$$.zm@hzm@h .ggy@$$y@$$.zm@hzm@h:-1.5 @ggy@$$y.$$.zm@hzm@h:-1.5 @gg..$$y@$$yzm@hzm@h:-1.5 @ggy.$$y@$$hzm@hzm@.:-1.875 
+.ggy@$$y@$$.zm@hzm@h gg.y@$$y@$$.zm@hzm@h:-1.5 @ggy.$$y@$$.zm@hzm@h:-1.625 .gg.@$$y@$$yzm@hzm@h:-1.6875 .ggy@$$y@$$hzm@hzm@.:-1.5 
+gg.y@$$y@$$.zm@hzm@h .ggy@$$y@$$.zm@hzm@h:-1.6875 gg..@$$y@$$yzm@hzm@h:-1.25 gg.y@$$y@$$hzm@hzm@.:-1.375 
+gg.y@$$y@$$hzm@hzm@. .ggy@$$y@$$hzm@hzm@.:-1.5 gg.y@$$y@$$.zm@hzm@h:-1.375 gg.y@$$y@$$hzm@hzm.@:-1.0 
+gg..@$$y@$$yzm@hzm@h .gg.@$$y@$$yzm@hzm@h:-1.25 gg.y@$$y@$$.zm@hzm@h:-1.0 
+.gg.@$$y@$$yzm@hzm@h gg..@$$y@$$yzm@hzm@h:-1.25 @gg..$$y@$$yzm@hzm@h:-1.5625 .ggy@$$y@$$.zm@hzm@h:-1.5 ..gg@$$y@$$yzm@hzm@h:-1.625 
+..gg@$$y@$$yzm@hzm@h @.gg.$$y@$$yzm@hzm@h:-1.78125 .gg.@$$y@$$yzm@hzm@h:-1.625 
+.ggy@$$y@$$hzm@hzm@. gg.y@$$y@$$hzm@hzm@.:-1.5 @ggy.$$y@$$hzm@hzm@.:-1.625 .ggy@$$y@$$.zm@hzm@h:-1.9375 .ggy@$$y@$$hzm@hzm.@:-1.5 
+.ggy@$$y@$$hzm@hzm.@ gg.y@$$y@$$hzm@hzm.@:-1.125 @ggy.$$y@$$hzm@hzm.@:-1.5 .ggy@$$y@$$hzm.hzm@@:-1.75 .ggy@$$y@$$hzm@hzm@.:-1.625 
+.ggy@$$y@$$hzm.hzm@@ gg.y@$$y@$$hzm.hzm@@:-1.6875 @ggy.$$y@$$hzm.hzm@@:-1.5 .ggy@$$y@$$hzm@hzm.@:-1.5625 
+@ggy.$$y@$$hzm.hzm@@ .ggy@$$y@$$hzm.hzm@@:-1.5625 @ggy@$$y.$$hzm.hzm@@:-1.25 @ggy.$$y@$$hzm@hzm.@:-1.5625 
+@ggy@$$y.$$hzm.hzm@@ @ggy@$$yz$$hzm.h.m@@:-1.78125 @ggy.$$y@$$hzm.hzm@@:-1.625 @ggy@$$y.$$hzm@hzm.@:-1.25 
+gg.y@$$y@$$hzm.hzm@@ .ggy@$$y@$$hzm.hzm@@:-1.375 gg.y@$$y@$$hzm@hzm.@:-1.4375 
+gg.y@$$y@$$hzm@hzm.@ .ggy@$$y@$$hzm@hzm.@:-1.0 gg.y@$$y@$$hzm.hzm@@:-1.25 gg.y@$$y@$$hzm@hzm@.:-1.125 
+@@gg.$$y.$$yzm@hzm@h @@gg$$.y$$.yzm@hzm@h:-1.25 .@gg@$$y.$$yzm@hzm@h:-1.25 @@gg.$$yz$$yzm@h.m@h:-1.375 
+@@gg$$.y$$.yzm@hzm@h @@gg.$$y.$$yzm@hzm@h:-1.0 @@gg$$y.$$y.zm@hzm@h:-1.0 @@gg$$.y$$@yzm.hzm@h:-1.0 
+@@gg$$.y$$@yzm.hzm@h @@gg$$@y$$.yzm.hzm@h:-1.0 @@gg$$.y$$.yzm@hzm@h:-0.5 @@gg$$.y$$@yzm@hzm.h:-0.75 
+@@gg$$@y$$.yzm.hzm@h @@gg$$.y$$@yzm.hzm@h:-0.5 @@gg$$@y$$.yzm@hzm.h:-1.0 
+@@gg$$.y$$@yzm@hzm.h @@gg$$@y$$.yzm@hzm.h:-0.5 @@gg$$.y$$@yzm.hzm@h:-1.0 
+@@gg$$y.$$y.zm@hzm@h @@gg$$.y$$.yzm@hzm@h:-1.25 @@gg$$y.$$yhzm@hzm@.:-0.5 
+@@gg$$y.$$yhzm@hzm@. @@gg$$yh$$yhzm@.zm@.:-0.5 @@gg$$y.$$y.zm@hzm@h:-0.5 @@gg$$y.$$yhzm@hzm.@:0.0 
+@@gg$$yh$$yhzm@.zm@. @@gg$$y.$$yhzm@hzm@.:-0.5 @@gg$$yh$$yhzm.@zm@.:0.0 @@gg$$yh$$yhzm@.zm.@:-0.5 
+@@gg$$yh$$yhzm@.zm.@ @@gg$$yh$$yhzm..zm@@:-0.5 @@gg$$yh$$yhzm@.zm@.:-0.75 @@gg$$y.$$yhzm@hzm.@:-0.5 @@gg$$yh$$yhzm@@zm..:-0.5 @@gg$$yh$$yhzm.@zm.@:-0.5 
+@@gg$$yh$$yhzm@@zm.. @@gg$$yh$$yhzm.@zm@.:0.0 @@gg$$yh$$yhzm@.zm.@:-0.5 
+@@gg$$yh$$yhzm.@zm.@ @@gg$$yh$$yhz.m@z.m@:0.0 @@gg$$.h$$yhzmy@zm.@:0.0 @@gg$$yh$$yhzm@.zm.@:-0.5 @@gg$$yh$$yhzm.@zm@.:0.0 
+@@gg$$yh$$yhzm..zm@@ @@gg$$.h$$yhzmy.zm@@:0.0 @@gg$$yh$$yhzm@.zm.@:-0.5 @@gg$$y.$$yhzm.hzm@@:0.0 @@gg$$yh$$yhzm.@zm@.:-0.5 
+@@gg$$yh$$yhzm.@zm@. @@gg$$.h$$yhzmy@zm@.:0.0 @@gg$$yh$$yhzm@@zm..:0.0 @@gg$$yh$$yhzm@.zm@.:0.0 @@gg$$yh$$yhzm..zm@@:-0.5 @@gg$$yh$$yhzm.@zm.@:0.0 
+@@gg$$y.$$yhzm@hzm.@ @@gg$$y.$$yhzm.hzm@@:-0.5 @@gg$$y.$$yhzm@hzm@.:0.0 @@gg$$yh$$yhzm@.zm.@:-0.5 
+@@gg$$y.$$yhzm.hzm@@ @@gg$$..$$yhzmyhzm@@:0.0 @@gg$$y.$$yhzm@hzm.@:-0.5 @@gg$$yh$$yhzm..zm@@:0.0 
+@ggy@$$yz$$hzm@h.m.@ @ggy@$$y.$$hzm@hzm.@:-1.625 @ggy@$$yz$$hzm.h.m@@:-1.5625 @ggy@$$yz$$hzm@h.m@.:-1.375 
+@ggy@$$yz$$hzm.h.m@@ @ggy@$$y.$$hzm.hzm@@:-1.5625 @ggy@$$yz$$hzm@h.m.@:-1.84375 
+@@gg$$@y$$.yzm@hzm.h @@gg$$.y$$@yzm@hzm.h:-0.75 @@gg$$@y$$@yzm.hzm.h:-0.75 @@gg$$@y$$.yzm.hzm@h:-0.75 
+@@gg$$@y$$@yzm.hzm.h @@gg$$@y$$@yz.mhz.mh:-0.5 @@gg$$@y$$@yzmh.zmh.:-0.75 @@gg$$@y$$.yzm@hzm.h:-0.5 
+@@gg$$@y$$@yz.mhz.mh @@gg$$@y$$@y.zmh.zmh:0.0 @@gg$$@y$$@yzm.hzm.h:-0.5 
+@@gg$$@y$$@yzmh.zmh. @@gg$$@y$$@yzm.hzm.h:-0.75 @@gg$$@.$$@yzmhyzmh.:-0.75 
+@@gg$$@.$$@yzmhyzmh. @@gg$$@y$$@yzmh.zmh.:-0.75 @@gg$$.@$$@yzmhyzmh.:0.0 @@gg$$@.$$@.zmhyzmhy:-0.5 
+@@gg$$@.$$@.zmhyzmhy @@gg$$.@$$@.zmhyzmhy:0.0 @@gg$$@.$$@yzmhyzmh.:0.0 @@gg$$@.$$.@zmhyzmhy:-0.5 
+@@gg$$@.$$.@zmhyzmhy @@gg$$@.$$h@zmhyzm.y:-0.5 @@gg$$..$$@@zmhyzmhy:-0.5 @@gg$$@.$$@.zmhyzmhy:0.0 @@gg$$@@$$..zmhyzmhy:0.0 @@gg$$.@$$.@zmhyzmhy:0.0 
+@@gg$$@.$$h@zmhyzm.y @@gg$$@.$$.@zmhyzmhy:-0.5 @@gg$$@@$$h.zmhyzm.y:-0.5 @@gg$$.@$$h@zmhyzm.y:-0.5 
+@@gg$$@@$$h.zmhyzm.y @@gg$$@@$$..zmhyzmhy:0.0 @@gg$$@@$$hyzmhyzm..:0.0 @@gg$$@.$$h@zmhyzm.y:-0.5 
+@@gg$$.@$$h@zmhyzm.y @@gg$$h@$$h@zm.yzm.y:0.0 @@gg$$@.$$h@zmhyzm.y:-0.5 @@gg$$.@$$.@zmhyzmhy:-0.5 
+@@gg$$.@$$.@zmhyzmhy @@gg.$$@.$$@zmhyzmhy:-0.5 @@gg$$@.$$.@zmhyzmhy:0.0 @@gg$$.@$$h@zmhyzm.y:-0.5 @@gg$$.@$$@.zmhyzmhy:0.0 
+@@gg.$$@.$$@zmhyzmhy @@gg$$.@$$.@zmhyzmhy:-0.5 .@gg@$$@.$$@zmhyzmhy:0.0 @@gg.$$@z$$@zmhy.mhy:0.0 
+@@gg$$..$$@@zmhyzmhy @@..$$gg$$@@zmhyzmhy:-0.5 @@gg$$@.$$.@zmhyzmhy:-0.5 @@gg$$.@$$@.zmhyzmhy:0.0 
+@@..$$gg$$@@zmhyzmhy @@gg$$..$$@@zmhyzmhy:-0.5 @.@.$$gg$$@@zmhyzmhy:0.0 
