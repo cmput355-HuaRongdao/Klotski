@@ -128,7 +128,7 @@ def main():
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
 	#a_star_game(Huarongdao(zhen), '无横之局')
-	sarsa_game(Huarongdao(zhen), 433, '无横之局')
+	sarsa_game(Huarongdao(zhen), 500, '无横之局')
 	print('finished 无横之局')
 	'''
 	# Zhen form:
