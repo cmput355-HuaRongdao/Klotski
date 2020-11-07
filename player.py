@@ -49,8 +49,8 @@ tile_group.add(hor_tile_1)
 tile_group.add(caocao_block)
 
 
-def display_rect(block):
-	pygame.draw.rect(window, block.color, (block.position_x, block.position_y, block.width, block.height))
+def display_rect(tile):
+	pygame.draw.rect(window, tile.color, (tile.position_x, tile.position_y, tile.width, tile.height))
     
 pygame.init()
 window_size = window_width, window_height = 1024, 864
