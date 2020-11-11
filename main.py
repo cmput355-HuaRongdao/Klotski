@@ -209,19 +209,21 @@ def RTHS_game(hrd, num_episodes, title):
 
 def main():
 	start_time = time.time()
+	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
 	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
 	print('finished 逃之夭夭')
-	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
 	RTHS_game(Huarongdao(zhen), 100, '无横之局')
 	print('finished 无横之局')
+	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '将当后路')
+	RTHS_game(Huarongdao(zhen), 100, '将当后路')
 	print('finished 将当后路')
+	'''
 	# Zhen form:
 	zhen = QHHY()	# from games.py
 	RTHS_game(Huarongdao(zhen), 500, '前呼后拥')
