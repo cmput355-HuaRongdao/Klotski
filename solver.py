@@ -229,9 +229,75 @@ class RTHS_Solver(Solver):
 		self.hrd = hrd
 		self.k = num_of_episodes	# k is the number of episodes
 		self.start_state = self.hrd.zhen
+		# set recursion limit:
+		sys.setrecursionlimit(10**9)
 		np.random.seed(0)
 
+	def isDeadendReached(self, state):
+		nextStates = self.getNextStatesByZhen(state)
+		return (len(nextStates) == 1 and nextStates[0] == state.getParent());
+
+	def getNeighborsAndOrUpdateHeuristic(self, cur_state, h_table):
+		# returns the neighbors of cur_state as a
+		# dictionary with keys being state and value being return
+		if cur_state not in h_table.heuristic:
+			h_table.heuristic[cur_state] = 0
+		neighbors = self.getNextStatesByZhen(cur_state)
+		for i in neighbors:
+			if i not in h_table.heuristic:
+				h_table.heuristic[i] = 0
+		return neighbors
+
+	def getNextOptStates(self, state_options, h_table):
+		# state_options is a dictionary with:
+		# key: state pointer
+		# value: return, i.e. Q(s,a)
+		ans = []
+		temp = h_table.heuristic[state_options[0]]
+		for i in state_options:
+			if h_table.heuristic[i] < temp:
+				temp = h_table.heuristic[i]
+		for i in state_options:
+			if h_table.heuristic[i] == temp:
+				ans.append(i)
+		return ans
+
 	def real_time_heuristic_search(self, memoryPath):
+		# load the previous memory if there is any:
+		print('loading memory ......')
+		h_table = HeuristicTable(memoryPath)
+		print('memory loaded!')
+		step_list = []
+		temp_episode_count = 0
+		for i in range(self.k):
+			if temp_episode_count >= 10:
+				# save the learnt result:
+				print('saving memory......')
+				h_table.saveHeuristicTable(memoryPath)
+				print('memory saved.')
+				# reset episode count:
+				temp_episode_count = 0
+			print('doing episode ' + str(i + 1) + ' ......', end='')
+			# count the steps taken:
+			steps_taken = 0
+			# start with the start_state
+			cur_state = self.start_state
+			while not self.isSuccess(cur_state):
+				# look around for neighbors:
+				neighbors = self.getNeighborsAndOrUpdateHeuristic(cur_state, h_table)
+				# select the neighbor with lowest h, with random tie break:
+				next_state = np.random.choice(self.getNextOptStates(neighbors, h_table))
+				# update h of current state with the lowest f among any neighbors:
+				h_table.heuristic[cur_state] = 1 + h_table.heuristic[next_state]
+				# move to the lowest-f neighbor:
+				cur_state = next_state
+				steps_taken += 1
+			temp_episode_count += 1
+			step_list.append(steps_taken)
+			print('steps taken is ' + str(steps_taken))
+		# save the learnt result:
+		print('saving memory......')
+		h_table.saveHeuristicTable(memoryPath)
+		print('memory saved.')
+		return (step_list, cur_state, self.isSuccess(cur_state))
 
-
-				
