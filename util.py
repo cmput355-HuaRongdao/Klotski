@@ -32,6 +32,7 @@ class StateActionValueTable(object):
 
 	def serialize(self, zhen):
 		# this function serialize the board into a string
+		# return: serialized board as the string
 		board = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
 		caoCaox = zhen.caoCao.pos[0]
 		caoCaoy = zhen.caoCao.pos[1]
@@ -58,6 +59,7 @@ class StateActionValueTable(object):
 
 	def deserialize(self, serial):
 		# this function deserialize a string into a Zhen object
+		# return: a zhen object with information from the serial string 
 		caoCao = None
 		jiangList = []
 		jiangNameSet = set()
