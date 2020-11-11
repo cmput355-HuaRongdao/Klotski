@@ -7,31 +7,10 @@ import os.path
 HOR = 0
 VER = 1
 
-class StateActionValueTable(object):
-	def __init__(self, path = None):
-		if path is None or not os.path.isfile(path):
-			self.savt = {}
-		else:
-			self.loadStateActionValueTable(path)
-
-	def addNewStateActionSet(self, cur_state, action_values):
-		# cur_state is a Zhen object
-		# action_values is a dictionary of action values
-		# with keys the decendent Zhen objects
-		self.savt[cur_state] = action_values
-
-	def getAllNextStates(self, cur_state):
-		return self.savt[cur_state]
-
-	def getStateActionValue(self, state, action):
-		return self.savt[state][action]
-
-	def setStateActionValue(self, state, action, value):
-		action.setParent(state)
-		self.savt[state][action] = value
-
+class DataStructure(object):
 	def serialize(self, zhen):
 		# this function serialize the board into a string
+		# return: serialized board as the string
 		board = [['.' for i in range(5)] for j in range(4)]	# huarongdao is a 4x5 board
 		caoCaox = zhen.caoCao.pos[0]
 		caoCaoy = zhen.caoCao.pos[1]
@@ -58,6 +37,7 @@ class StateActionValueTable(object):
 
 	def deserialize(self, serial):
 		# this function deserialize a string into a Zhen object
+		# return: a zhen object with information from the serial string 
 		caoCao = None
 		jiangList = []
 		jiangNameSet = set()
@@ -75,7 +55,30 @@ class StateActionValueTable(object):
 				else: ori = VER
 				jiangNameSet.add(c)
 				jiangList.append(Jiang([i % 4, int(i / 4)], ori, c))
-		return Zhen(caoCao, jiangList, bingList)
+		return Zhen(caoCao, jiangList, bingList)	
+
+class StateActionValueTable(DataStructure):
+	def __init__(self, path = None):
+		if path is None or not os.path.isfile(path):
+			self.savt = {}
+		else:
+			self.loadStateActionValueTable(path)
+
+	def addNewStateActionSet(self, cur_state, action_values):
+		# cur_state is a Zhen object
+		# action_values is a dictionary of action values
+		# with keys the decendent Zhen objects
+		self.savt[cur_state] = action_values
+
+	def getAllNextStates(self, cur_state):
+		return self.savt[cur_state]
+
+	def getStateActionValue(self, state, action):
+		return self.savt[state][action]
+
+	def setStateActionValue(self, state, action, value):
+		action.setParent(state)
+		self.savt[state][action] = value
 
 	def saveStateActionValueTable(self, path):
 		# this function serialize all states in savt and store it
@@ -106,6 +109,36 @@ class StateActionValueTable(object):
 				savt[key] = value
 				f_content = f.readline()
 		self.savt = savt
+
+class HeuristicTable(DataStructure):
+	def __init__(self, path = None):
+		if path is None or not os.path.isfile(path):
+			self.heuristic = {}
+		else:
+			self.loadHeuristicTable(path)
+
+	def saveHeuristicTable(self, path):
+		# this function serialize all states in savt and store it
+		# in a file specified by path
+		with open(path, 'w') as f:
+			for i in self.heuristic:
+				line = self.serialize(i) + ':' + str(self.heuristic[i])
+				f.write(line + '\n')
+
+	def loadHeuristicTable(self, path):
+		# this function reads content specified by path and
+		# deserialize it and puts it into memory
+		# context manager closes the file for us
+		with open(path, 'r') as f:
+			heuristic = {}
+			f_content = f.readline()
+			while f_content:
+				elements = f_content.split(':')
+				key = self.deserialize(elements.pop(0))
+				value = elements[0]
+				heuristic[key] = int(value)
+				f_content = f.readline()
+		self.heuristic = heuristic
 
 class Huarongdao(object):
 	def __init__(self, zhen = None):
