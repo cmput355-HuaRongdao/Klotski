@@ -47,13 +47,13 @@ class Tile(pygame.sprite.Sprite):
 		self.rect.x = new_x
 		self.rect.y = new_y
 		if self.rect.x>=384:
-                        self.rect.x=384
-                elif self.rect.x<=0:
-                        self.rect.x =0
-                if self.rect.y>=512:
-                        self.rect.y = 512
-                elif self.rect.y<=0:
-                        self.rect.y = 0 
+			self.rect.x=384
+		elif self.rect.x<=0:
+			self.rect.x =0
+		if self.rect.y>=512:
+			self.rect.y = 512
+		elif self.rect.y<=0:
+			self.rect.y = 0 
 
 ver_tile_1 = Tile(yellow, 128, 256,0,0,"left.jpg")
 caocao_block = Tile(red, 256, 256,128,0,"cube.jpg")
