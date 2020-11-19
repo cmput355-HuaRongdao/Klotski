@@ -14,8 +14,6 @@ class Tile(pygame.sprite.Sprite):
 		self.rect.y = position_y
 		self.previous_x = 0
 		self.previous_y = 0
-		self.hspeed = 0
-		self.vspeed = 0
 
 	def check_collision(self,previous_pos,tile_group):
 		collision_list = pygame.sprite.spritecollide(self, tile_group, False)
