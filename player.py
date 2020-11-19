@@ -13,7 +13,6 @@ lightPurple = pygame.Color(153,0,153)
 def display_rect(tile):
 	pygame.draw.rect(window, tile.color, (tile.rect.x, tile.rect.y, tile.width, tile.height))
 
-<<<<<<< HEAD
 window_size = window_width, window_height = 1024, 864
 window = pygame.display.set_mode(window_size, pygame.RESIZABLE)
 pygame.display.set_caption("Klotski")
