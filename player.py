@@ -27,13 +27,11 @@ class Tile(pygame.sprite.Sprite):
 		self.color = color
 		self.image = pygame.image.load(file)
 		self.rect = self.image.get_rect()
-		
 		self.rect.x = position_x
 		self.rect.y = position_y
 		self.previous_x = 0
 		self.previous_y = 0
-		self.hspeed = 0
-		self.vspeed = 0
+		
 
 	def check_collision(self,previous_pos):
 		collision_list = pygame.sprite.spritecollide(self, tile_group, False)
