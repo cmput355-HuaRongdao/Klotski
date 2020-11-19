@@ -269,6 +269,8 @@ class RTHS_Solver(Solver):
 		print('memory loaded!')
 		step_list = []
 		temp_episode_count = 0
+		# set a limit to the max steps
+		explore_limit = 100
 		for i in range(self.k):
 			if temp_episode_count >= 10:
 				# save the learnt result:
@@ -282,7 +284,7 @@ class RTHS_Solver(Solver):
 			steps_taken = 0
 			# start with the start_state
 			cur_state = self.start_state
-			while not self.isSuccess(cur_state):
+			while not self.isSuccess(cur_state) and steps_taken <= explore_limit:
 				# look around for neighbors:
 				neighbors = self.getNeighborsAndOrUpdateHeuristic(cur_state, h_table)
 				# select the neighbor with lowest h, with random tie break:
