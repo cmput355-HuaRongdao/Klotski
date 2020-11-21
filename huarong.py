@@ -53,9 +53,8 @@ def draw_characters(screen):
     pygame.draw.rect(screen, blue, (LEFT_b + three_units, UP_b + four_units, UNIT, UNIT))  # bin
 
 
-def main():
+def solve(f):
     pygame.init()
-    f = open("背水列阵.txt")
     lines = f.readlines()
     temp_list = []
     row_num = 0
@@ -108,6 +107,6 @@ def main():
         pygame.display.update()
 
 
-if __name__ == '__main__':
-    main()
-    sys.exit()
+# if __name__ == '__main__':
+#     main()
+#     sys.exit()
