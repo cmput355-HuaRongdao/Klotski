@@ -212,68 +212,68 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
-	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
-	print('finished 逃之夭夭')
+	RTHS_game(Huarongdao(zhen), 100, 'game_1')
+	print('finished game_1')
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	RTHS_game(Huarongdao(zhen), 100, '无横之局')
-	print('finished 无横之局')
+	RTHS_game(Huarongdao(zhen), 100, 'game_2')
+	print('finished game_2')
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '将当后路')
-	print('finished 将当后路')
+	RTHS_game(Huarongdao(zhen), 500, 'game_3')
+	print('finished game_3')
 	# Zhen form:
 	zhen = QHHY()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '前呼后拥')
-	print('finished 前呼后拥')
+	RTHS_game(Huarongdao(zhen), 500, 'game_4')
+	print('finished game_4')
 	# Zhen form:
 	zhen = BYHK()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '比翼横空')
-	print('finished 比翼横空')
+	RTHS_game(Huarongdao(zhen), 500, 'game_5')
+	print('finished game_5')
 	# Zhen form:
 	zhen = QGWG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '巧过五关')
-	print('finished 巧过五关')
+	RTHS_game(Huarongdao(zhen), 500, 'game_6')
+	print('finished game_6')
 	# Zhen form:
 	zhen = WJBG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '五将逼宫')
-	print('finished 五将逼宫')
+	RTHS_game(Huarongdao(zhen), 500, 'game_7')
+	print('finished game_7')
 	# Zhen form:
 	zhen = BLCY()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '兵临曹营')
-	print('finished 兵临曹营')
+	RTHS_game(Huarongdao(zhen), 500, 'game_8')
+	print('finished game_8')
 	# Zhen form:
 	zhen = SJLG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '四将连关')
-	print('finished 四将连关')
+	RTHS_game(Huarongdao(zhen), 500, 'game_9')
+	print('finished game_9')
 	# Zhen form:
 	zhen = XJZZC()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '新近在咫尺')
-	print('finished 新近在咫尺')
+	RTHS_game(Huarongdao(zhen), 500, 'game_10')
+	print('finished game_10')
 	# Zhen form:
 	zhen = XLQB()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '星罗棋布')
-	print('finished 星罗棋布')
+	RTHS_game(Huarongdao(zhen), 500, 'game_11')
+	print('finished game_11')
 	# Zhen form:
 	zhen = SMBF()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '四面八方')
-	print('finished 四面八方')
+	RTHS_game(Huarongdao(zhen), 500, 'game_12')
+	print('finished game_12')
 	# Zhen form:
 	zhen = NQCT()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '牛气冲天')
-	print('finished 牛气冲天')
+	RTHS_game(Huarongdao(zhen), 500, 'game_13')
+	print('finished game_13')
 	# Zhen form:
 	zhen = DBQJ()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '调兵谴将')
-	print('finished 调兵谴将')
+	RTHS_game(Huarongdao(zhen), 500, 'game_14')
+	print('finished game_14')
 	# Zhen form:
 	zhen = BSZL()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '背水列阵')
-	print('finished 背水列阵')
+	RTHS_game(Huarongdao(zhen), 500, 'game_15')
+	print('finished game_15')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '横刀立马2')
-	print('finished 横刀立马2')
+	RTHS_game(Huarongdao(zhen), 500, 'game_16')
+	print('finished game_16')
 	'''
 	print('finished all!')
 	time_elapsed = time.time() - start_time
