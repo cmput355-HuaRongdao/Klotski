@@ -75,7 +75,6 @@ def solve(f):
     for row in range(5):
         for column in range(1,5):
             current_ch = display_list[list_index][column]
-            print  (current_ch)
         list_index = list_index + 1
     list_index = 0
 
@@ -107,6 +106,80 @@ def solve(f):
         pygame.display.update()
 
 
+def solve2(f):
+    pygame.init()
+    lines = f.readlines()
+    temp_list = []
+    row_num = 0
+    for line in lines:
+        if row_num > 11 or (row_num > 2 and row_num < 8) and row_num:
+            line = line.replace("\n" or "[" or ']', "")
+            if line != '':
+                temp_list.append(line)
+        row_num += 1
+    temp_list = str(temp_list)
+    temp_list = temp_list.replace(" " or "\n", "")
+    display_list = temp_list.strip("[")
+    display_list = display_list.strip("]")
+    display_list = display_list.split(",")
+    screen = pygame.display.set_mode((WIDTH, HEIGHT))
+    pygame.display.set_caption("Klotski")
+    list_index = 0
+    print(display_list)
+    for row in range(5):
+        for column in range(1,5):
+            current_ch = display_list[list_index][column]
+        list_index = list_index + 1
+    list_index = 0
+
+    color = black
+
+    check_huang = 0
+    check_cao = 0
+    check_ma = 0
+    check_yun = 0
+    check_guan = 0
+    check_bing = 0
+    check_zhang = 0
+
+    draw_border(screen)
+    draw_characters(screen)
+    while True:
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                sys.exit()
+        if list_index < len(display_list):
+            for x in range(5):
+                for y in range(1, 5):
+                    current_ch = display_list[list_index][y]
+                    if current_ch == "h": color = yellow
+                    elif current_ch == "$": color = white
+                    elif current_ch == "m": color = silver
+                    elif current_ch == "y": color = grey
+                    elif current_ch == "g": color = red
+                    elif current_ch == "@": color = blue
+                    elif current_ch == "z": color = green
+                    else: color = black
+                    try:
+                        if current_ch == "h" and check_huang == 0 and display_list[list_index][y+1] == "h":
+                            img = pygame.image.load("image/huang_2.jpeg")
+                            screen.blit(img, (LEFT_b + UNIT * (y-1), UP_b + UNIT * x , UNIT, UNIT))
+                    except:
+                        continue
+                    pygame.draw.rect(screen, color, (LEFT_b + UNIT * (y-1), UP_b + UNIT * x , UNIT, UNIT))
+
+                list_index = list_index + 1
+                check_huang = 0
+                check_cao = 0
+                check_ma = 0
+                check_yun = 0
+                check_guan = 0
+                check_bing = 0
+                check_zhang = 0
+        else:
+            sys.exit()
+        pygame.time.delay(300)
+        pygame.display.update()
 # if __name__ == '__main__':
 #     main()
 #     sys.exit()
