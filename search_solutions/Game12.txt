@@ -1,0 +1,252 @@
+================================================
+=========比翼横空 by A* =========================
+================================================
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+@  .  @  h  
+@  .  @  h  
+
+========= Solution =============================
+Total number of steps: 39
+Total time used: 9.375639915466309
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+@  .  @  h  
+@  .  @  h  
+
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+.  @  @  h  
+@  .  @  h  
+
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+.  .  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+.  .  m  m  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+.  m  m  .  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  .  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  @  h  
+@  @  @  .  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  @  h  
+@  @  .  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  .  h  
+@  @  @  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  .  
+@  @  @  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  @  
+@  @  @  .  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  @  
+@  @  .  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  .  
+y  y  h  @  
+@  @  h  @  
+
+g  g  .  .  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+.  g  g  .  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+.  .  g  g  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+.  .  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+.  .  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+.  .  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  .  h  @  
+.  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  .  h  @  
+@  .  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  .  @  
+@  h  .  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  .  @  
+@  h  @  .  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  .  .  
+@  h  @  @  
+
+z  z  g  g  
+m  m  .  .  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+.  m  m  .  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+.  .  m  m  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  .  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+@  h  $  $  
+@  .  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+@  h  $  $  
+.  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+.  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  .  $  $  
+h  .  $  $  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  .  
+h  $  $  .  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  .  
+h  $  $  @  
+@  @  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  .  
+@  @  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  .  
+@  @  .  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  @  
+@  @  .  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  @  
+@  .  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  @  
+@  .  .  @  
+
+z  z  g  g  
+y  y  m  m  
+h  .  .  @  
+h  $  $  @  
+@  $  $  @  
+

@@ -1,0 +1,294 @@
+================================================
+=========巧过五关 by A* =========================
+================================================
+@  $  $  @  
+@  $  $  @  
+g  g  z  z  
+y  y  m  m  
+.  h  h  .  
+
+========= Solution =============================
+Total number of steps: 46
+Total time used: 16.1851806640625
+@  $  $  @  
+@  $  $  @  
+g  g  z  z  
+y  y  m  m  
+.  h  h  .  
+
+@  $  $  @  
+@  $  $  @  
+g  g  z  z  
+y  y  m  m  
+h  h  .  .  
+
+@  $  $  @  
+@  $  $  @  
+g  g  z  z  
+y  y  .  .  
+h  h  m  m  
+
+@  $  $  @  
+@  $  $  @  
+g  g  .  .  
+y  y  z  z  
+h  h  m  m  
+
+@  $  $  @  
+@  $  $  .  
+g  g  .  @  
+y  y  z  z  
+h  h  m  m  
+
+@  $  $  @  
+@  $  $  .  
+g  g  @  .  
+y  y  z  z  
+h  h  m  m  
+
+@  $  $  .  
+@  $  $  @  
+g  g  @  .  
+y  y  z  z  
+h  h  m  m  
+
+@  $  $  .  
+@  $  $  .  
+g  g  @  @  
+y  y  z  z  
+h  h  m  m  
+
+@  .  $  $  
+@  .  $  $  
+g  g  @  @  
+y  y  z  z  
+h  h  m  m  
+
+.  @  $  $  
+@  .  $  $  
+g  g  @  @  
+y  y  z  z  
+h  h  m  m  
+
+@  @  $  $  
+.  .  $  $  
+g  g  @  @  
+y  y  z  z  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+.  .  @  @  
+y  y  z  z  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+y  y  @  @  
+.  .  z  z  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+y  y  @  @  
+.  z  z  .  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+y  y  @  @  
+z  z  .  .  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+y  y  .  @  
+z  z  @  .  
+h  h  m  m  
+
+@  @  $  $  
+g  g  $  $  
+y  y  .  .  
+z  z  @  @  
+h  h  m  m  
+
+@  @  .  .  
+g  g  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+@  .  @  .  
+g  g  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+.  @  @  .  
+g  g  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+.  @  .  @  
+g  g  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+.  .  @  @  
+g  g  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+g  g  @  @  
+.  .  $  $  
+y  y  $  $  
+z  z  @  @  
+h  h  m  m  
+
+g  g  @  @  
+y  y  $  $  
+.  .  $  $  
+z  z  @  @  
+h  h  m  m  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+.  .  @  @  
+h  h  m  m  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  @  @  
+.  .  m  m  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  @  @  
+.  m  m  .  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  @  @  
+m  m  .  .  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  .  @  
+m  m  @  .  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  .  .  
+m  m  @  @  
+
+g  g  @  @  
+y  y  .  .  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+.  y  y  .  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+.  .  y  y  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+.  .  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+.  .  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+.  .  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+.  @  .  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+@  .  .  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+@  .  @  .  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+@  @  .  .  
+
+g  g  @  @  
+z  z  y  y  
+h  h  .  .  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+.  h  h  .  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+.  .  h  h  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+.  .  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+@  .  $  $  
+.  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+@  .  $  $  
+@  .  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+@  $  $  .  
+@  $  $  .  
+

@@ -1,0 +1,312 @@
+================================================
+=========兵临曹营 by A* =========================
+================================================
+@  $  $  @  
+@  $  $  @  
+z  g  g  y  
+z  m  h  y  
+.  m  h  .  
+
+========= Solution =============================
+Total number of steps: 49
+Total time used: 11.664387464523315
+@  $  $  @  
+@  $  $  @  
+z  g  g  y  
+z  m  h  y  
+.  m  h  .  
+
+@  $  $  @  
+@  $  $  @  
+.  g  g  y  
+z  m  h  y  
+z  m  h  .  
+
+@  $  $  @  
+@  $  $  @  
+g  g  .  y  
+z  m  h  y  
+z  m  h  .  
+
+@  $  $  @  
+@  $  $  @  
+g  g  .  .  
+z  m  h  y  
+z  m  h  y  
+
+@  $  $  @  
+@  $  $  .  
+g  g  .  @  
+z  m  h  y  
+z  m  h  y  
+
+@  $  $  @  
+@  $  $  .  
+g  g  @  .  
+z  m  h  y  
+z  m  h  y  
+
+@  $  $  .  
+@  $  $  @  
+g  g  @  .  
+z  m  h  y  
+z  m  h  y  
+
+@  $  $  .  
+@  $  $  .  
+g  g  @  @  
+z  m  h  y  
+z  m  h  y  
+
+@  .  $  $  
+@  .  $  $  
+g  g  @  @  
+z  m  h  y  
+z  m  h  y  
+
+.  @  $  $  
+@  .  $  $  
+g  g  @  @  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+.  .  $  $  
+g  g  @  @  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+g  g  $  $  
+.  .  @  @  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+g  g  $  $  
+.  @  .  @  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+g  g  $  $  
+@  .  .  @  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+g  g  $  $  
+@  .  @  .  
+z  m  h  y  
+z  m  h  y  
+
+@  @  $  $  
+g  g  $  $  
+@  @  .  .  
+z  m  h  y  
+z  m  h  y  
+
+@  @  .  .  
+g  g  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+@  .  @  .  
+g  g  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+.  @  @  .  
+g  g  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+.  @  .  @  
+g  g  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+.  .  @  @  
+g  g  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+g  g  @  @  
+.  .  $  $  
+@  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+g  g  @  @  
+@  .  $  $  
+.  @  $  $  
+z  m  h  y  
+z  m  h  y  
+
+g  g  @  @  
+@  .  $  $  
+z  @  $  $  
+z  m  h  y  
+.  m  h  y  
+
+g  g  @  @  
+.  @  $  $  
+z  @  $  $  
+z  m  h  y  
+.  m  h  y  
+
+g  g  @  @  
+z  @  $  $  
+z  @  $  $  
+.  m  h  y  
+.  m  h  y  
+
+g  g  @  @  
+z  @  $  $  
+z  @  $  $  
+m  .  h  y  
+m  .  h  y  
+
+g  g  @  @  
+z  @  $  $  
+z  .  $  $  
+m  @  h  y  
+m  .  h  y  
+
+g  g  @  @  
+z  .  $  $  
+z  @  $  $  
+m  @  h  y  
+m  .  h  y  
+
+g  g  @  @  
+z  .  $  $  
+z  @  $  $  
+m  .  h  y  
+m  @  h  y  
+
+g  g  @  @  
+z  .  $  $  
+z  .  $  $  
+m  @  h  y  
+m  @  h  y  
+
+g  g  @  @  
+z  $  $  .  
+z  $  $  .  
+m  @  h  y  
+m  @  h  y  
+
+g  g  @  @  
+z  $  $  .  
+z  $  $  y  
+m  @  h  y  
+m  @  h  .  
+
+g  g  @  @  
+z  $  $  y  
+z  $  $  y  
+m  @  h  .  
+m  @  h  .  
+
+g  g  @  @  
+z  $  $  y  
+z  $  $  y  
+m  @  .  h  
+m  @  .  h  
+
+g  g  @  @  
+z  $  $  y  
+z  $  $  y  
+m  .  @  h  
+m  @  .  h  
+
+g  g  @  @  
+z  $  $  y  
+z  $  $  y  
+m  .  .  h  
+m  @  @  h  
+
+g  g  @  @  
+z  .  .  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+g  g  .  @  
+z  .  @  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+g  g  .  @  
+z  @  .  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+g  g  @  .  
+z  @  .  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+g  g  .  .  
+z  @  @  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+.  g  g  .  
+z  @  @  y  
+z  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+z  g  g  .  
+z  @  @  y  
+.  $  $  y  
+m  $  $  h  
+m  @  @  h  
+
+z  g  g  .  
+z  @  @  y  
+m  $  $  y  
+m  $  $  h  
+.  @  @  h  
+
+z  g  g  .  
+z  @  @  y  
+m  $  $  y  
+m  $  $  h  
+@  .  @  h  
+
+z  g  g  y  
+z  @  @  y  
+m  $  $  .  
+m  $  $  h  
+@  .  @  h  
+
+z  g  g  y  
+z  @  @  y  
+m  $  $  h  
+m  $  $  h  
+@  .  @  .  
+
+z  g  g  y  
+z  @  @  y  
+m  $  $  h  
+m  $  $  h  
+@  .  .  @  
+
+z  g  g  y  
+z  @  @  y  
+m  .  .  h  
+m  $  $  h  
+@  $  $  @  
+

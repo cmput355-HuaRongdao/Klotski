@@ -1,0 +1,204 @@
+================================================
+=========前呼后拥 by A* =========================
+================================================
+@  @  $  $  
+g  g  $  $  
+z  z  y  y  
+m  m  h  h  
+.  .  @  @  
+
+========= Solution =============================
+Total number of steps: 31
+Total time used: 2.464026689529419
+@  @  $  $  
+g  g  $  $  
+z  z  y  y  
+m  m  h  h  
+.  .  @  @  
+
+@  @  $  $  
+g  g  $  $  
+z  z  y  y  
+.  .  h  h  
+m  m  @  @  
+
+@  @  $  $  
+g  g  $  $  
+.  .  y  y  
+z  z  h  h  
+m  m  @  @  
+
+@  @  $  $  
+g  g  $  $  
+.  y  y  .  
+z  z  h  h  
+m  m  @  @  
+
+@  @  $  $  
+g  g  $  $  
+y  y  .  .  
+z  z  h  h  
+m  m  @  @  
+
+@  @  .  .  
+g  g  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+@  .  @  .  
+g  g  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+@  .  .  @  
+g  g  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+.  @  .  @  
+g  g  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+.  .  @  @  
+g  g  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+g  g  @  @  
+.  .  $  $  
+y  y  $  $  
+z  z  h  h  
+m  m  @  @  
+
+g  g  @  @  
+y  y  $  $  
+.  .  $  $  
+z  z  h  h  
+m  m  @  @  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+.  .  h  h  
+m  m  @  @  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+.  h  h  .  
+m  m  @  @  
+
+g  g  @  @  
+y  y  $  $  
+z  z  $  $  
+h  h  .  .  
+m  m  @  @  
+
+g  g  @  @  
+y  y  .  .  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+.  y  y  .  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+.  .  y  y  
+z  z  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+.  .  $  $  
+h  h  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+.  .  $  $  
+m  m  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+.  .  @  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+.  @  .  @  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+.  @  @  .  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+@  .  @  .  
+
+g  g  @  @  
+z  z  y  y  
+h  h  $  $  
+m  m  $  $  
+@  @  .  .  
+
+g  g  @  @  
+z  z  y  y  
+h  h  .  .  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+.  h  h  .  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+.  .  h  h  
+m  m  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+.  .  $  $  
+@  @  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+.  @  $  $  
+@  .  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+@  .  $  $  
+@  .  $  $  
+
+g  g  @  @  
+z  z  y  y  
+m  m  h  h  
+@  $  $  .  
+@  $  $  .  
+

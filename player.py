@@ -2,13 +2,13 @@ import pygame
 import pygame.rect
 import sys
 import playMode
+from huarong import solve
 
 pygame.init()
 white = pygame.Color(255, 255, 255)
 black = pygame.Color(0, 0, 0)
 red = pygame.Color(240,128,128)
 lightPurple = pygame.Color(153,0,153)
-
 
 def display_rect(tile):
 	pygame.draw.rect(window, tile.color, (tile.rect.x, tile.rect.y, tile.width, tile.height))
@@ -17,8 +17,10 @@ window_size = window_width, window_height = 1024, 864
 window = pygame.display.set_mode(window_size, pygame.RESIZABLE)
 pygame.display.set_caption("Klotski")
 menuFont = pygame.font.SysFont("comicsansms",24)
+num = None
 
 def startMenu():
+	global num
 	while True:
 		window.fill(white)
 		largeText = pygame.font.SysFont("comicsansms",80)
@@ -52,18 +54,25 @@ def startMenu():
 			elif event.type == pygame.MOUSEBUTTONDOWN: 
 				# start game
 				if 200 < mouse_x < 200+200 and 450 < mouse_y < 450+50:
-					return choose()
+					mode, num = choose()
+					return mode
 				# end game
 				elif 650 < mouse_x < 650+200 and 450 < mouse_y < 450+50:
 					pygame.quit() 
 					sys.exit()
 		pygame.display.update()
 
+
+
 def choose():
 	while True:
 		window.fill(white)
 		text = pygame.font.SysFont("comicsansms",40)
-		textList = ['Hengdaolima','Binglincaoying','Wujiangbigong','Qianhuhouyong','Sijianglianguan','Qiaoguowuguan','Jiangdanghoulu','Simianbafang','Jinzaizhichi','Xingluoqibu','Biyihengkong','Niuqichongtian','Beishuiliuzhen','Diaobingqianjiang', 'Taozhiyaoyao']
+		listLength = 16
+		textList = []
+		for i in range(0,listLength):
+			num = str(i+1)
+			textList.append('Game'+num)
 		position = []
 		for i in range(len(textList)):
 			position.append((0,50*i))
@@ -89,8 +98,10 @@ def choose():
 					# start game
 					if position[i][1] < mouse_y < position[i][1]+40:
 						method = getattr(playMode, textList[i])
-						return  method()
+						return method(),textList[i]
 		pygame.display.update()
+		
+		
 
 def success():
 	while True:
@@ -121,6 +132,7 @@ def success():
 				if rect[0] < mouse_x < rect[0]+text_width and rect[1] < mouse_y < rect[1]+text_height:
 					return True
 		pygame.display.update()
+# def solution_button():
 
 # main game 
 def game(tileList,tile_group):
@@ -133,6 +145,8 @@ def game(tileList,tile_group):
 				game_over = True
 			elif event.type == pygame.MOUSEBUTTONDOWN:
 					mouse_x, mouse_y = event.pos
+					
+					
 					for i in tile_group:
 						if mouse_x<=i.rect.x+i.width and \
 							mouse_x>=i.rect.x and mouse_y<=i.rect.y+i.height and\
@@ -146,9 +160,14 @@ def game(tileList,tile_group):
 									current.check_collision(previous_pos,tile_group)
 					
 					# quit game
-					if 128 < mouse_x < 128+256 and 700 < mouse_y < 700+50:
+					if 64 < mouse_x < 256 and 700 < mouse_y < 700+50:
 						game_over = True
 						return game_over
+					if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
+						f = open('search_solutions/'+num+'.txt')
+						solve(f)
+						return game_over
+
 			elif event.type == pygame.MOUSEBUTTONUP:
 				current = None
 
@@ -161,15 +180,20 @@ def game(tileList,tile_group):
 			display_rect(item)
 		
 		mouse_x, mouse_y = pygame.mouse.get_pos()
-		if 128 < mouse_x <128+256 and 700 < mouse_y < 700+50:
-			pygame.draw.rect(window, lightPurple, (128, 700, 256, 50))
+		if 64 < mouse_x <256 and 700 < mouse_y < 700+50:
+			pygame.draw.rect(window, lightPurple, (64, 700, 128, 50))
 		else:
-			pygame.draw.rect(window, red, (128, 700, 256, 50))
+			pygame.draw.rect(window, red, (64, 700, 128, 50))
+		if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
+			pygame.draw.rect(window, lightPurple, (320, 700, 128, 50))
+		else:
+			pygame.draw.rect(window, red, (320, 700, 128, 50))
 
 		# set button text
 		quitGame = menuFont.render('QUIT', True, white)
-		window.blit(quitGame,(220, 710))
-		
+		solution_button = menuFont.render('ANSWER', True, white)
+		window.blit(quitGame,(90, 710))
+		window.blit(solution_button,(330, 710))
 		pygame.display.update()
 		clock.tick(200)
 
