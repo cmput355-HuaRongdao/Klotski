@@ -66,19 +66,19 @@ def solve(f):
         row_num += 1
     temp_list = str(temp_list)
     temp_list = temp_list.replace(" " or "\n", "")
-    displaylist = temp_list.strip("[")
-    displaylist = displaylist.strip("]")
-    displaylist = displaylist.split(",")
-    print(displaylist)
+    display_list = temp_list.strip("[")
+    display_list = display_list.strip("]")
+    display_list = display_list.split(",")
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Klotski")
     list_index = 0
     for row in range(5):
         for column in range(1,5):
-            current_ch = displaylist[list_index][column]
+            current_ch = display_list[list_index][column]
             print  (current_ch)
         list_index = list_index + 1
     list_index = 0
+
     color = black
 
     draw_border(screen)
@@ -87,10 +87,10 @@ def solve(f):
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 sys.exit()
-        if list_index <= len(displaylist):
+        if list_index < len(display_list):
             for x in range(5):
                 for y in range(1, 5):
-                    current_ch = displaylist[list_index][y]
+                    current_ch = display_list[list_index][y]
                     if current_ch == "h": color = yellow
                     elif current_ch == "$": color = white
                     elif current_ch == "m": color = silver

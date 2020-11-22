@@ -1,6 +1,8 @@
 import pygame
 import pygame.rect
 #https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Sprite
+
+
 class Tile(pygame.sprite.Sprite):
 	def __init__(self, color=0, width=0, height=0,position_x = 0,position_y = 0,file = None):
 		pygame.sprite.Sprite.__init__(self)
@@ -21,6 +23,7 @@ class Tile(pygame.sprite.Sprite):
 			self.rect.x = self.previous_x
 			self.rect.y = self.previous_y
 			return False
+		
 	def update_pos(self, new_x, new_y,current_offset_x,current_offset_y):
 		self.previous_x = self.rect.x
 		self.previous_y = self.rect.y
