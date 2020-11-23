@@ -240,7 +240,7 @@ def solve(f):
             check_zhang = 0
             pygame.display.update()
         else:
-            sys.exit()
+            break
         pygame.time.delay(300)
         pygame.display.update()
 # if __name__ == '__main__':
