@@ -30,14 +30,16 @@ class Tile(pygame.sprite.Sprite):
 		self.rect.x = new_x
 		self.rect.y = new_y
 
+		print(current_offset_x,current_offset_y)
+
 		# check for clicked position
-		if current_offset_x < -100 and -100 < current_offset_y < -30:
+		if current_offset_x < -self.width/4*3 and -self.height/4*3 < current_offset_y < -self.height/4:
 			self.rect.x = self.previous_x + 128
-		elif current_offset_x > -30 and -100 < current_offset_y < -30:
+		elif current_offset_x > -self.width/4 and -self.height/4*3 < current_offset_y < -self.height/4:
 			self.rect.x = self.previous_x - 128
-		elif current_offset_y < -100 and -100 < current_offset_x < -30 :
+		elif current_offset_y < -self.height/4*3 and -self.width/4*3 < current_offset_x < -self.width/4 :
 			self.rect.y = self.previous_y + 128
-		elif current_offset_y > -30 and -100 < current_offset_x < -30:
+		elif current_offset_y > -self.width/4 and -self.width/4*3 < current_offset_x < -self.width/4:
 			self.rect.y = self.previous_y - 128
 		
 

@@ -197,8 +197,6 @@ def game(tileList,tile_group):
 		pygame.display.update()
 		clock.tick(200)
 
-	
-
 def main():
 	while True:
 		modeTiles = startMenu()
