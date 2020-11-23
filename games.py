@@ -3,7 +3,7 @@
 # Location: China Ningxia Yinchuan
 from util import *
 
-# 逃之夭夭:
+# 逃之夭夭: game 1
 def TZYY():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
@@ -22,7 +22,7 @@ def TZYY():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 无横之局:
+# 无横之局: game 2
 def WHZJ():
 	# caoCao:
 	caoCao = CaoCao([0, 2])
@@ -41,7 +41,7 @@ def WHZJ():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 将当后路:
+# 将当后路: game 3
 def JDHL():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
@@ -60,7 +60,7 @@ def JDHL():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 前呼后拥:
+# 前呼后拥: game 4
 def QHHY():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
@@ -79,7 +79,7 @@ def QHHY():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 比翼横空:
+# 比翼横空: game 5
 def BYHK():
 	# caoCao:
 	caoCao = CaoCao([2, 0])
@@ -98,7 +98,7 @@ def BYHK():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 巧过五关:
+# 巧过五关: gmae 6
 def QGWG():
 	# caoCao:
 	caoCao = CaoCao([1, 0])
@@ -117,7 +117,7 @@ def QGWG():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 五将逼宫:
+# 五将逼宫: game 7
 def WJBG():
 	# caoCao:
 	caoCao = CaoCao([1, 1])
@@ -136,7 +136,7 @@ def WJBG():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 兵临曹营:
+# 兵临曹营: game 8
 def BLCY():
 	# caoCao:
 	caoCao = CaoCao([1, 0])
@@ -155,7 +155,7 @@ def BLCY():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 四将连关:
+# 四将连关: game 9
 def SJLG():
 	# caoCao:
 	caoCao = CaoCao([0, 0])
@@ -174,7 +174,7 @@ def SJLG():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 新近在咫尺:
+# 新近在咫尺: game 10
 def XJZZC():
 	# caoCao:
 	caoCao = CaoCao([0, 3])
@@ -193,7 +193,7 @@ def XJZZC():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 星罗棋布:
+# 星罗棋布: game 11
 def XLQB():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
@@ -212,7 +212,7 @@ def XLQB():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 四面八方:
+# 四面八方: game 12
 def SMBF():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
@@ -231,7 +231,7 @@ def SMBF():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 牛气冲天:
+# 牛气冲天: game 13
 def NQCT():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
@@ -250,7 +250,7 @@ def NQCT():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 调兵谴将:
+# 调兵谴将: game 14
 def DBQJ():
 	# caoCao:
 	caoCao = CaoCao([0, 0])
@@ -269,7 +269,7 @@ def DBQJ():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 背水列阵:
+# 背水列阵: game 15
 def BSZL():
 	# caoCao:
 	caoCao = CaoCao([1, 2])
@@ -288,7 +288,7 @@ def BSZL():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-# 横刀立马2:
+# 横刀立马2: game 16
 def HDLM2():
 	# caoCao:
 	caoCao = CaoCao([1, 0])

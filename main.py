@@ -214,10 +214,12 @@ def main():
 	zhen = TZYY()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_1')
 	print('finished game_1')
+	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_2')
+	q_learning_game(Huarongdao(zhen), 500 'game_2')
 	print('finished game_2')
+	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_3')
@@ -250,7 +252,6 @@ def main():
 	zhen = XJZZC()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_10')
 	print('finished game_10')
-	'''
 	# Zhen form:
 	zhen = XLQB()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_11')
@@ -275,6 +276,7 @@ def main():
 	zhen = HDLM2()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_16')
 	print('finished game_16')
+	'''
 
 	print('finished all!')
 	time_elapsed = time.time() - start_time
