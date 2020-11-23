@@ -180,6 +180,7 @@ def solve2(f):
             sys.exit()
         pygame.time.delay(300)
         pygame.display.update()
+
 # if __name__ == '__main__':
 #     main()
 #     sys.exit()

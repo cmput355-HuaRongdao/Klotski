@@ -288,7 +288,6 @@ def BSZL():
 	bingList = [b1, b2, b3, b4]
 	return Zhen(caoCao, jiangList, bingList)
 
-
 # 横刀立马2:
 def HDLM2():
 	# caoCao:
