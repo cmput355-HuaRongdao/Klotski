@@ -1,0 +1,252 @@
+================================================
+=========game_5 by BFS ===================
+================================================
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+@  .  @  h  
+@  .  @  h  
+
+========= Solution =============================
+Total number of steps: 39
+Total time used: 12.230354070663452
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+@  .  @  h  
+@  .  @  h  
+
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+.  @  @  h  
+@  .  @  h  
+
+g  g  $  $  
+z  z  $  $  
+y  y  m  m  
+.  .  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+.  .  m  m  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+.  m  m  .  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  .  
+y  y  @  h  
+@  @  @  h  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  @  h  
+@  @  @  .  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  @  h  
+@  @  .  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  h  
+y  y  .  h  
+@  @  @  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  .  
+@  @  @  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  @  
+@  @  @  .  
+
+g  g  $  $  
+z  z  $  $  
+m  m  h  .  
+y  y  h  @  
+@  @  .  @  
+
+g  g  $  $  
+z  z  $  $  
+m  m  .  .  
+y  y  h  @  
+@  @  h  @  
+
+g  g  .  .  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+.  g  g  .  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+.  .  g  g  
+z  z  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+.  .  $  $  
+m  m  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+.  .  $  $  
+y  y  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+.  .  h  @  
+@  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  .  h  @  
+.  @  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  .  h  @  
+@  .  h  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  .  @  
+@  h  .  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  @  .  
+@  h  .  @  
+
+z  z  g  g  
+m  m  $  $  
+y  y  $  $  
+@  h  .  .  
+@  h  @  @  
+
+z  z  g  g  
+m  m  .  .  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+.  m  m  .  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+.  .  m  m  
+y  y  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  .  $  $  
+@  h  $  $  
+@  h  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+@  h  $  $  
+@  .  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+@  h  $  $  
+.  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+.  h  $  $  
+.  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  .  $  $  
+h  .  $  $  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  .  
+h  $  $  .  
+@  @  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  .  
+h  $  $  @  
+@  @  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  .  
+@  @  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  .  
+@  @  .  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  .  
+@  .  @  @  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  @  
+@  .  @  .  
+
+z  z  g  g  
+y  y  m  m  
+h  $  $  @  
+h  $  $  @  
+@  .  .  @  
+
+z  z  g  g  
+y  y  m  m  
+h  .  .  @  
+h  $  $  @  
+@  $  $  @  
+

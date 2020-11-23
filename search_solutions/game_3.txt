@@ -1,0 +1,198 @@
+================================================
+=========game_3 by BFS ===================
+================================================
+g  g  $  $  
+z  z  $  $  
+y  y  h  h  
+m  m  @  @  
+@  @  .  .  
+
+========= Solution =============================
+Total number of steps: 30
+Total time used: 7.769229888916016
+g  g  $  $  
+z  z  $  $  
+y  y  h  h  
+m  m  @  @  
+@  @  .  .  
+
+g  g  $  $  
+z  z  $  $  
+y  y  h  h  
+m  m  .  @  
+@  @  @  .  
+
+g  g  $  $  
+z  z  $  $  
+y  y  h  h  
+m  m  .  .  
+@  @  @  @  
+
+g  g  $  $  
+z  z  $  $  
+y  y  .  .  
+m  m  h  h  
+@  @  @  @  
+
+g  g  .  .  
+z  z  $  $  
+y  y  $  $  
+m  m  h  h  
+@  @  @  @  
+
+.  g  g  .  
+z  z  $  $  
+y  y  $  $  
+m  m  h  h  
+@  @  @  @  
+
+.  .  g  g  
+z  z  $  $  
+y  y  $  $  
+m  m  h  h  
+@  @  @  @  
+
+z  z  g  g  
+.  .  $  $  
+y  y  $  $  
+m  m  h  h  
+@  @  @  @  
+
+z  z  g  g  
+y  y  $  $  
+.  .  $  $  
+m  m  h  h  
+@  @  @  @  
+
+z  z  g  g  
+y  y  $  $  
+m  m  $  $  
+.  .  h  h  
+@  @  @  @  
+
+z  z  g  g  
+y  y  $  $  
+m  m  $  $  
+.  h  h  .  
+@  @  @  @  
+
+z  z  g  g  
+y  y  $  $  
+m  m  $  $  
+h  h  .  .  
+@  @  @  @  
+
+z  z  g  g  
+y  y  .  .  
+m  m  $  $  
+h  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+.  y  y  .  
+m  m  $  $  
+h  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+.  .  y  y  
+m  m  $  $  
+h  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+m  m  y  y  
+.  .  $  $  
+h  h  $  $  
+@  @  @  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+.  .  $  $  
+@  @  @  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  .  $  $  
+.  @  @  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  .  $  $  
+@  .  @  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  .  $  $  
+@  @  .  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  @  $  $  
+@  .  .  @  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  @  $  $  
+@  .  @  .  
+
+z  z  g  g  
+m  m  y  y  
+h  h  $  $  
+@  @  $  $  
+@  @  .  .  
+
+z  z  g  g  
+m  m  y  y  
+h  h  .  .  
+@  @  $  $  
+@  @  $  $  
+
+z  z  g  g  
+m  m  y  y  
+.  h  h  .  
+@  @  $  $  
+@  @  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  h  h  .  
+.  @  $  $  
+@  @  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  h  h  .  
+@  @  $  $  
+.  @  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  h  h  .  
+@  @  $  $  
+@  .  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  .  h  h  
+@  @  $  $  
+@  .  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  @  h  h  
+@  .  $  $  
+@  .  $  $  
+
+z  z  g  g  
+m  m  y  y  
+@  @  h  h  
+@  $  $  .  
+@  $  $  .  
+
