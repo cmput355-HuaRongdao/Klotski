@@ -2,7 +2,7 @@ import pygame
 import pygame.rect
 import sys
 import playMode
-from huarong import solve
+#from huarong import solve
 
 pygame.init()
 white = pygame.Color(255, 255, 255)
@@ -163,10 +163,10 @@ def game(tileList,tile_group):
 					if 64 < mouse_x < 256 and 700 < mouse_y < 700+50:
 						game_over = True
 						return game_over
-					if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
+					'''if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
 						f = open('search_solutions/'+num+'.txt')
 						solve(f)
-						return game_over
+						return game_over'''
 
 			elif event.type == pygame.MOUSEBUTTONUP:
 				current = None
@@ -196,8 +196,6 @@ def game(tileList,tile_group):
 		window.blit(solution_button,(330, 710))
 		pygame.display.update()
 		clock.tick(200)
-
-	
 
 def main():
 	while True:
