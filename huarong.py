@@ -32,6 +32,9 @@ blue = pygame.Color(0, 0, 255)
 yellow = pygame.Color(255, 255, 0)
 
 
+# create our windows
+
+
 def draw_border(screen):
     pygame.draw.rect(screen, black, (LEFT_b, UP_b, 10, five_units))
     pygame.draw.rect(screen, black, (LEFT_b, UP_b, four_units, 10))
@@ -40,20 +43,12 @@ def draw_border(screen):
     pygame.draw.rect(screen, black, (right_short_arm_start, DOWN_b, unit_plt, 10))
 
 
-def draw_characters(screen):
-    pygame.draw.rect(screen, red, (LEFT_b + UNIT, UP_b, two_units, two_units))  # cao cao
-    pygame.draw.rect(screen, green, (LEFT_b, UP_b, UNIT, two_units))  # zhang fei
-    pygame.draw.rect(screen, white, (LEFT_b + three_units, UP_b, UNIT, two_units))  # zhao yun
-    pygame.draw.rect(screen, grey, (LEFT_b, UP_b + two_units, UNIT, two_units))  # ma chao
-    pygame.draw.rect(screen, silver, (LEFT_b + UNIT, UP_b + two_units, two_units, UNIT))  # guan yu
-    pygame.draw.rect(screen, yellow, (LEFT_b + three_units, UP_b + two_units, UNIT, two_units))  # huang zhong
-    pygame.draw.rect(screen, blue, (LEFT_b, UP_b + four_units, UNIT, UNIT))  # bin
-    pygame.draw.rect(screen, blue, (LEFT_b + UNIT, UP_b + three_units, UNIT, UNIT))  # bin
-    pygame.draw.rect(screen, blue, (LEFT_b + two_units, UP_b + three_units, UNIT, UNIT))  # bin
-    pygame.draw.rect(screen, blue, (LEFT_b + three_units, UP_b + four_units, UNIT, UNIT))  # bin
+# This function is our first method to display our solution of the game, we use coloured rectangular to represent
+# different chesses. Caocao was represent by white, Huangzhong to yellow, Machao to silver, Zhaoyun to grey,
+# Guanyu to red, Bing to blue, Zhangfei to green.
+# file f comes from search_solution.
 
-
-def solve(f):
+def solve_no_picture(f):
     pygame.init()
     lines = f.readlines()
     temp_list = []
@@ -78,10 +73,7 @@ def solve(f):
         list_index = list_index + 1
     list_index = 0
 
-    color = black
-
     draw_border(screen)
-    draw_characters(screen)
     while True:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -105,6 +97,8 @@ def solve(f):
         pygame.time.delay(300)
         pygame.display.update()
 
+
+# Same logic of solve_no_picture, but added pictures. Pictures come from http://www.4399.com/flash/2546_1.htm.
 
 def solve(f):
     pygame.init()
@@ -139,6 +133,8 @@ def solve(f):
     check_yun = 0
     check_guan = 0
     check_zhang = 0
+
+    # convert the images to a proper size.
 
     img_huang1 = pygame.image.load("image/huang_1.png")
     img_huang1 = pygame.transform.scale(img_huang1, (int(UNIT), int(2*UNIT)))
@@ -180,6 +176,8 @@ def solve(f):
             for x in range(5):
                 for y in range(1, 5):
                     current_ch = display_list[list_index][y]
+
+                    # add graph
                     try:
                         if current_ch == "h" and check_huang == 0 and display_list[list_index][y+1] == "h":
                             screen.blit(img_huang2, (LEFT_b + UNIT * (y-1), UP_b + UNIT * x , UNIT, UNIT))
