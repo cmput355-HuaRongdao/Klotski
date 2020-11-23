@@ -53,7 +53,7 @@ def draw_characters(screen):
     pygame.draw.rect(screen, blue, (LEFT_b + three_units, UP_b + four_units, UNIT, UNIT))  # bin
 
 
-def solve1(f):
+def solve(f):
     pygame.init()
     lines = f.readlines()
     temp_list = []
