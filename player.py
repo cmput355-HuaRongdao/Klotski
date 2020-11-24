@@ -72,7 +72,7 @@ def choose():
 		textList = []
 		for i in range(0,listLength):
 			num = str(i+1)
-			textList.append('game_'+num)
+			textList.append('Game'+num)
 		position = []
 		for i in range(len(textList)):
 			position.append((0,50*i))
