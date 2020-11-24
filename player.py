@@ -93,12 +93,14 @@ def choose():
 			if event.type == pygame.QUIT:
 				pygame.quit()
 				sys.exit
-			elif event.type == pygame.MOUSEBUTTONDOWN: 
-				for i in range(len(textList)):
-					# start game
-					if position[i][1] < mouse_y < position[i][1]+40:
-						method = getattr(playMode, textList[i])
-						return method(),textList[i]
+			elif event.type == pygame.MOUSEBUTTONDOWN:
+				# mouse left click
+				if event.button == 1:
+					for i in range(len(textList)):
+						# start game
+						if position[i][1] < mouse_y < position[i][1]+40:
+							method = getattr(playMode, textList[i])
+							return method(),textList[i]
 		pygame.display.update()
 		
 		
