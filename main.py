@@ -214,10 +214,12 @@ def main():
 	zhen = TZYY()	# from games.py
 	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
 	print('finished 逃之夭夭')
+	'''
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	RTHS_game(Huarongdao(zhen), 100, '无横之局')
+	RTHS_game(Huarongdao(zhen), 500, '无横之局')
 	print('finished 无横之局')
+	'''
 	# Zhen form:
 	zhen = JDHL()	# from games.py
 	RTHS_game(Huarongdao(zhen), 500, '将当后路')

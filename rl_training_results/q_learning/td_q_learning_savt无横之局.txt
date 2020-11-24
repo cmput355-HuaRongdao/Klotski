@@ -1,65 +1,65 @@
-hm@@hmyz$$yz$$g@@.g. hm@@hmyz$$yz$$g@.@g.:-18.54151092047851 hm@@hmyz$$yz$$g.@.g@:976.0 
-hm@@hmyz$$yz$$g@.@g. hm@@hmyz$$yz$$g@@.g.:-18.222928447551492 hm@@hmyz$$yz$$g..@g@:-17.972738179747004 
-hm@@hmyz$$yz$$g.@.g@ hm@@hmyz$$yz$$g..@g@:479.7408928072791 hm@@hmy.$$yz$$gz@.g@:977.0 hm@@hmyz$$yz$$g@@.g.:-17.50676080446752 
-hm@@hmyz$$yz$$g..@g@ hm@@hmyz$$yz$$g.@.g@:-17.399298349711767 hm@@hmy.$$yz$$gz.@g@:-17.426890168980947 hm@@hmyz$$yz$$g@.@g.:-17.75857427607601 
-hm@@hmy.$$yz$$gz.@g@ hm@@hmy.$$yz$$gz@.g@:-16.78517376954879 hm@@hmyz$$yz$$g..@g@:-16.903299568795134 hm@.hmy@$$yz$$gz.@g@:30.035009510974245 
-hm@@hmy.$$yz$$gz@.g@ hm@@hmy.$$yz$$gz.@g@:-16.831200368641323 hm@@hmyz$$yz$$g.@.g@:-16.991885888332586 hm@.hmy@$$yz$$gz@.g@:978.0 
-hm@.hmy@$$yz$$gz.@g@ hm@.hmy@$$yz$$gz@.g@:-16.03731990440077 hm@@hmy.$$yz$$gz.@g@:-16.32333252185519 hm.@hmy@$$yz$$gz.@g@:325.4928375578381 
-hm@.hmy@$$yz$$gz@.g@ hm@.hmy@$$yz$$gz.@g@:480.4836434929746 hm@@hmy.$$yz$$gz@.g@:481.591182741593 hm.@hmy@$$yz$$gz@.g@:979.0 
-hm.@hmy@$$yz$$gz.@g@ hm.@hmy@$$yz$$gz@.g@:776.6862366792325 hmy@hmy@$$.z$$gz.@g@:-14.860194690092744 hm@.hmy@$$yz$$gz.@g@:-14.821110180726722 
-hm.@hmy@$$yz$$gz@.g@ hm.@hmy@$$yz$$gz.@g@:222.15474525486874 hmy@hmy@$$.z$$gz@.g@:980.0 hm@.hmy@$$yz$$gz@.g@:499.49142609169246 
-hmy@hmy@$$.z$$gz@.g@ hmy@hmy@$$.z$$gz.@g@:52.25764218244575 hm.@hmy@$$yz$$gz@.g@:-14.525441331951203 hmy@hmy@$$gz$$gz@..@:981.0 
-hmy@hmy@$$.z$$gz.@g@ hmy@hmy@$$.z$$gz@.g@:-14.102390848703276 hm.@hmy@$$yz$$gz.@g@:-14.2727864159866 hmy@hmy@$$gz$$gz.@.@:-9.551939993799984 
-hmy@hmy@$$gz$$gz.@.@ hmy@hmy@$$gz$$gz@..@:519.1208577042788 hmy@hmy@$$.z$$gz.@g@:-13.736848899283036 hmy@hmy@$$gz$$gz..@@:-13.672250581604093 hmy@hmy@$$gz$$gz.@@.:-13.26935579449648 
-hmy@hmy@$$gz$$gz@..@ hmy@hmy@$$gz$$gz.@.@:484.4615327970277 hmy@hmy@$$.z$$gz@.g@:484.1578055712444 hmy@hmy@$$gz$$gz@.@.:982.0 
-hmy@hmy@$$gz$$gz@.@. hmy@hmy@$$gz$$gz.@@.:-12.53438104006213 hmy@hmy@$$gz$$gz@@..:-11.940749428462055 hmy@hmy@$$g.$$gz@.@z:983.0 hmy@hmy@$$gz$$gz@..@:-12.615606608222855 
-hmy@hmy@$$gz$$gz.@@. hmy@hmy@$$gz$$gz@.@.:-12.543730287611314 hmy@hmy@$$g.$$gz.@@z:-10.364730657454933 hmy@hmy@$$gz$$gz.@.@:-12.720305317662302 
-hmy@hmy@$$g.$$gz.@@z hmy@hmy@$$g.$$gz@.@z:738.9881587533091 hmy@hmy@$$gz$$gz.@@.:-12.230290511228969 hmy@hmy.$$g@$$gz.@@z:-11.752008214446384 
-hmy@hmy@$$g.$$gz@.@z hmy@hmy@$$g.$$gz.@@z:735.0830800621 hmy@hmy@$$g.$$gz@@.z:984.0 hmy@hmy@$$gz$$gz@.@.:-11.677063962337197 hmy@hmy.$$g@$$gz@.@z:-11.108184041758477 
-hmy@hmy@$$gz$$gz..@@ hmy@hmy@..gz$$gz$$@@:-13.636193973528268 hmy@hmy@$$gz$$gz.@.@:-13.760244274874054 
-hmy@hmy.$$g@$$gz.@@z hmy@hmy.$$g@$$gz@.@z:-11.089301124952858 hmy.hmy@$$g@$$gz.@@z:-11.306063184987579 hmy@hmy@$$g.$$gz.@@z:-11.589707084018983 
-hmy@hmy@..gz$$gz$$@@ hmy@hmy@$$gz$$gz..@@:-13.786587278866104 .my@hmy@h.gz$$gz$$@@:-13.40688400990521 h.y@hmy@.mgz$$gz$$@@:-13.654955283556124 
+hm@@hmyz$$yz$$g@@.g. hm@@hmyz$$yz$$g@.@g.:968.127304922695 hm@@hmyz$$yz$$g.@.g@:972.0 
+hm@@hmyz$$yz$$g@.@g. hm@@hmyz$$yz$$g@@.g.:933.4168472319532 hm@@hmyz$$yz$$g..@g@:369.553563752866 
+hm@@hmyz$$yz$$g.@.g@ hm@@hmyz$$yz$$g..@g@:971.0631379387066 hm@@hmy.$$yz$$gz@.g@:973.0 hm@@hmyz$$yz$$g@@.g.:972.8700861551429 
+hm@@hmyz$$yz$$g..@g@ hm@@hmyz$$yz$$g.@.g@:365.0850627080613 hm@@hmy.$$yz$$gz.@g@:324.5740144728319 hm@@hmyz$$yz$$g@.@g.:669.4815723369549 
+hm@@hmy.$$yz$$gz.@g@ hm@@hmy.$$yz$$gz@.g@:348.28335101386494 hm@@hmyz$$yz$$g..@g@:445.65811516343535 hm@.hmy@$$yz$$gz.@g@:350.25015947607426 
+hm@@hmy.$$yz$$gz@.g@ hm@@hmy.$$yz$$gz.@g@:958.5017944363215 hm@@hmyz$$yz$$g.@.g@:973.0315591293995 hm@.hmy@$$yz$$gz@.g@:974.0 
+hm@.hmy@$$yz$$gz.@g@ hm@.hmy@$$yz$$gz@.g@:960.5007776102833 hm@@hmy.$$yz$$gz.@g@:960.5023172978384 hm.@hmy@$$yz$$gz.@g@:976.0 
+hm@.hmy@$$yz$$gz@.g@ hm@.hmy@$$yz$$gz.@g@:975.0 hm@@hmy.$$yz$$gz@.g@:950.3292749610149 hm.@hmy@$$yz$$gz@.g@:971.1104854695263 
+hm.@hmy@$$yz$$gz.@g@ hm.@hmy@$$yz$$gz@.g@:892.681740675298 hmy@hmy@$$.z$$gz.@g@:977.0 hm@.hmy@$$yz$$gz.@g@:915.0028932975164 
+hm.@hmy@$$yz$$gz@.g@ hm.@hmy@$$yz$$gz.@g@:847.6577161787087 hmy@hmy@$$.z$$gz@.g@:973.5289344935952 hm@.hmy@$$yz$$gz@.g@:477.49734089793196 
+hmy@hmy@$$.z$$gz@.g@ hmy@hmy@$$.z$$gz.@g@:976.9227643601454 hm.@hmy@$$yz$$gz@.g@:915.0077483977241 hmy@hmy@$$gz$$gz@..@:945.9995183939201 
+hmy@hmy@$$.z$$gz.@g@ hmy@hmy@$$.z$$gz@.g@:976.2900048542898 hm.@hmy@$$yz$$gz.@g@:963.5848513530395 hmy@hmy@$$gz$$gz.@.@:978.0 
+hmy@hmy@$$gz$$gz.@.@ hmy@hmy@$$gz$$gz@..@:483.30645431080444 hmy@hmy@$$.z$$gz.@g@:953.08967517227 hmy@hmy@$$gz$$gz..@@:731.073983223311 hmy@hmy@$$gz$$gz.@@.:979.0 
+hmy@hmy@$$gz$$gz@..@ hmy@hmy@$$gz$$gz.@.@:728.345061520911 hmy@hmy@$$.z$$gz@.g@:694.2692582891013 hmy@hmy@$$gz$$gz@.@.:870.1217034465482 
+hmy@hmy@$$gz$$gz@.@. hmy@hmy@$$gz$$gz.@@.:976.7546551050889 hmy@hmy@$$gz$$gz@@..:917.0242072825841 hmy@hmy@$$g.$$gz@.@z:855.0378002883317 hmy@hmy@$$gz$$gz@..@:591.1166929273718 
+hmy@hmy@$$gz$$gz.@@. hmy@hmy@$$gz$$gz@.@.:976.2536489942295 hmy@hmy@$$g.$$gz.@@z:980.0 hmy@hmy@$$gz$$gz.@.@:917.9806509460742 
+hmy@hmy@$$g.$$gz.@@z hmy@hmy@$$g.$$gz@.@z:967.9139570809804 hmy@hmy@$$gz$$gz.@@.:918.9283548569878 hmy@hmy.$$g@$$gz.@@z:981.0 
+hmy@hmy@$$g.$$gz@.@z hmy@hmy@$$g.$$gz.@@z:976.6031682875207 hmy@hmy@$$g.$$gz@@.z:487.3414068040182 hmy@hmy@$$gz$$gz@.@.:856.4231015594512 hmy@hmy.$$g@$$gz@.@z:-11.108184041758477 
+hmy@hmy@$$gz$$gz..@@ hmy@hmy@..gz$$gz$$@@:-14.021538991716739 hmy@hmy@$$gz$$gz.@.@:730.0974425782169 
+hmy@hmy.$$g@$$gz.@@z hmy@hmy.$$g@$$gz@.@z:966.7759994488174 hmy.hmy@$$g@$$gz.@@z:982.0 hmy@hmy@$$g.$$gz.@@z:974.2565102427113 
+hmy@hmy@..gz$$gz$$@@ hmy@hmy@$$gz$$gz..@@:-14.222704793352333 .my@hmy@h.gz$$gz$$@@:-13.40688400990521 h.y@hmy@.mgz$$gz$$@@:-14.306251603416621 
 .my@hmy@h.gz$$gz$$@@ hmy@hmy@..gz$$gz$$@@:-13.71526297881122 ..y@hmy@hmgz$$gz$$@@:-13.466928578291046 
-h.y@hmy@.mgz$$gz$$@@ ..y@hmy@hmgz$$gz$$@@:-13.782017066263421 hmy@hmy@..gz$$gz$$@@:-13.358571943821158 
-..y@hmy@hmgz$$gz$$@@ h.y@hmy@.mgz$$gz$$@@:-13.404779748873988 .my@hmy@h.gz$$gz$$@@:-13.70621323441936 
-hmy@hmy@$$g.$$gz@@.z hmy@hmy@$$..$$gz@@gz:-10.424951906935235 hmy@hmy@$$g.$$gz@.@z:486.97306280684336 hmy@hmy@$$gz$$gz@@..:487.02714968775445 hmy@hmy.$$g@$$gz@@.z:985.0 
-hmy@hmy@$$..$$gz@@gz hm.@hmy@$$y.$$gz@@gz:-9.955200171010802 hmy@hmy@$$g.$$gz@@.z:-9.91141308049555 hmy@hmy@$$.z$$gz@@g.:-10.125973084257566 hmy@hmy.$$.@$$gz@@gz:489.5232283989846 
-hmy@hmy@$$.z$$gz@@g. hm.@hmy@$$yz$$gz@@g.:-10.55023917319977 hmy@hmy@$$gz$$gz@@..:-10.964323193290284 hmy@hmy@$$..$$gz@@gz:-10.38734390096809 
-hmy@hmy.$$.@$$gz@@gz hm.@hmy.$$y@$$gz@@gz:-9.296607731649601 hmy@hmy.$$g@$$gz@@.z:-8.984014182438841 hmy@hmy.$$@.$$gz@@gz:987.0 hmy.hmy@$$.@$$gz@@gz:-9.226944789319532 hmy@hmy@$$..$$gz@@gz:488.83253785160286 
-hmy@hmy@$$gz$$gz@@.. hmy@hmy@$$.z$$gz@@g.:-11.149383571129135 hmy@hmy@$$gz$$gz@.@.:-11.91119618533618 hmy@hmy@$$g.$$gz@@.z:-11.886601627584398 
-hm.@hmy@$$y.$$gz@@gz hmy@hmy@$$..$$gz@@gz:-9.542866602132563 hm@.hmy@$$y.$$gz@@gz:-9.768241885685711 hm.@hmy@$$yz$$gz@@g.:-9.852775277919136 hm.@hmy.$$y@$$gz@@gz:-9.624925991345663 
-hmy@hmy.$$g@$$gz@@.z hmy@hmy.$$.@$$gz@@gz:986.0 hmy@hmy.$$g@$$gz@.@z:-10.005175762140425 hmy.hmy@$$g@$$gz@@.z:-9.713332733954303 hmy@hmy@$$g.$$gz@@.z:488.15785795300326 
-hmy@hmy.$$g@$$gz@.@z hmy@hmy.$$g@$$gz.@@z:-10.974280941620236 hmy@hmy.$$g@$$gz@@.z:-9.818644945337443 hmy.hmy@$$g@$$gz@.@z:-10.422441278016777 hmy@hmy@$$g.$$gz@.@z:-10.651794987301855 
-hmy.hmy@$$g@$$gz.@@z hmy.hmy@$$g@$$gz@.@z:-10.907286691593981 hmy@hmy.$$g@$$gz.@@z:-11.077137978331848 
-hmy.hmy@$$g@$$gz@.@z hmy.hmy@$$g@$$gz.@@z:-10.694923703814311 hmy.hmy@$$g@$$gz@@.z:-10.356299662929814 hmy@hmy.$$g@$$gz@.@z:-10.278860274931503 
-hmy.hmy@$$g@$$gz@@.z hmy.hmy@$$.@$$gz@@gz:-9.747948720907516 hmy.hmy@$$g@$$gz@.@z:-10.153672944259597 hmy@hmy.$$g@$$gz@@.z:-9.80004372259246 
-hmy.hmy@$$.@$$gz@@gz hm..hmy@$$y@$$gz@@gz:-9.455090098868823 hmy.hmy@$$g@$$gz@@.z:-9.508976972429082 hmy.hmy@$$@.$$gz@@gz:-9.139964173366025 hmy@hmy.$$.@$$gz@@gz:-9.083029120847641 
-hm..hmy@$$y@$$gz@@gz hmy.hmy@$$.@$$gz@@gz:-9.491742133679509 hm.@hmy.$$y@$$gz@@gz:-9.515589110553265 
-hm.@hmy.$$y@$$gz@@gz hmy@hmy.$$.@$$gz@@gz:-9.354434588040931 hm@.hmy.$$y@$$gz@@gz:-9.527470688335598 hm..hmy@$$y@$$gz@@gz:-9.445543179754168 hm.@hmy@$$y.$$gz@@gz:-9.683276283729356 
-hm.@hmy@$$yz$$gz@@g. hmy@hmy@$$.z$$gz@@g.:-9.964764833908703 hm@.hmy@$$yz$$gz@@g.:-9.948635587119497 hm.@hmy@$$y.$$gz@@gz:-10.178470863320399 
-hm@.hmy.$$y@$$gz@@gz hm.@hmy.$$y@$$gz@@gz:-9.354700290132314 hm@.hmy@$$y.$$gz@@gz:-9.409034357406199 
-hm@.hmy@$$y.$$gz@@gz hm@@hmy.$$y.$$gz@@gz:-9.295383058837615 hm.@hmy@$$y.$$gz@@gz:-9.20942741225008 hm@.hmy@$$yz$$gz@@g.:-9.170230410061777 hm@.hmy.$$y@$$gz@@gz:-9.263355419971049 
-hmy@hmy.$$@.$$gz@@gz hmy.hmy@$$@.$$gz@@gz:489.8964676215546 hmy@hmy.$$@z$$gz@@g.:988.0 hmy@hmy.$$.@$$gz@@gz:-8.717725567228626 
-hmy.hmy@$$@.$$gz@@gz hmy@hmy.$$@.$$gz@@gz:505.269902698352 hmy.hmy@$$@z$$gz@@g.:-8.337098120115115 hmy.hmy.$$@@$$gz@@gz:-8.5221815421246 hmy.hmy@$$.@$$gz@@gz:-8.856243702350184 
-hmy.hmy@$$@z$$gz@@g. hmy@hmy.$$@z$$gz@@g.:490.1200421715598 hmy.hmy@$$@.$$gz@@gz:-8.025797037174925 
-hmy.hmy.$$@@$$gz@@gz hm.yhm.y$$@@$$gz@@gz:-8.069244652986526 hmy.hmy@$$@.$$gz@@gz:-8.33039125893265 
-hm.yhm.y$$@@$$gz@@gz h.myh.my$$@@$$gz@@gz:-7.41873562335968 hmy.hmy.$$@@$$gz@@gz:-7.912448913790286 hm.yhm@y$$.@$$gz@@gz:-7.519131928682327 
-h.myh.my$$@@$$gz@@gz .hmy.hmy$$@@$$gz@@gz:-500.0 hm.yhm.y$$@@$$gz@@gz:-7.432815313339233 
-.hmy.hmy$$@@$$gz@@gz h.myh.my$$@@$$gz@@gz:0 
-hm@.hmy@$$yz$$gz@@g. hm@@hmy.$$yz$$gz@@g.:-9.34677078295499 hm.@hmy@$$yz$$gz@@g.:-9.926876928773709 hm@.hmy@$$y.$$gz@@gz:-9.321753121446818 
-hm@@hmy.$$yz$$gz@@g. hm@@hmyz$$yz$$g.@@g.:-8.642001159489155 hm@.hmy@$$yz$$gz@@g.:-9.208502475637943 hm@@hmy.$$y.$$gz@@gz:-8.937861617421731 
-hm@@hmy.$$y.$$gz@@gz hm@@hm.y$$.y$$gz@@gz:-8.694810561020859 hm@.hmy@$$y.$$gz@@gz:-8.811035249382257 hm@@hmy.$$yz$$gz@@g.:-8.706214793026447 
-hm@@hm.y$$.y$$gz@@gz hm@@hmy.$$y.$$gz@@gz:-8.253062881529331 hm.@hm@y$$.y$$gz@@gz:-8.378454834222794 hm@@hm.y$$gy$$gz@@.z:-8.279022246599197 
-hmy@hmy.$$@z$$gz@@g. hmy@hmyz$$@z$$g.@@g.:989.0 hmy.hmy@$$@z$$gz@@g.:490.73384341380734 hmy@hmy.$$@.$$gz@@gz:739.9513523147762 
-hmy@hmyz$$@z$$g.@@g. hmy@hmyz$$@z$$.g@@.g:990.0 hmy@hmy.$$@z$$gz@@g.:-6.398236941196956 
-hmy@hmyz$$@z$$.g@@.g hmy@hmyz$$@z$$g.@@g.:-6.077269341320061 hmy@hmyz$$.z$$@g@@.g:991.0 hmy@hmyz$$@z$$.g@.@g:-5.382713794708252 
-hmy@hmyz$$@z$$.g@.@g hmy@hmyz$$@z$$.g.@@g:-4.731689453125 hmy@hmyz$$@z$$.g@@.g:-4.763412237167358 hmy@hmyz$$.z$$@g@.@g:-5.082786560058594 hmy@hmyz$$@z$$@g@..g:-4.75482177734375 
-hmy@hmyz$$@z$$.g.@@g hmy@hmyz$$@z$$.g@.@g:-4.5085906982421875 hmy@hmyz$$.z$$@g.@@g:-4.47698974609375 hmy@hmyz$$@z$$@g.@.g:-4.67938232421875 
-hmy@hmyz$$@z$$@g@..g hmy@hmyz$$@z$$@g.@.g:-4.81524658203125 hmy@hmyz$$@z$$.g@.@g:-4.826194763183594 
-hmy@hmyz$$.z$$@g.@@g hmy@hmyz$$.z$$@g@.@g:-4.6082916259765625 hm.@hmyz$$yz$$@g.@@g:-4.53271484375 hmy@hmyz$$@z$$.g.@@g:-4.8071136474609375 
-hmy@hmyz$$.z$$@g@.@g hmy@hmyz$$.z$$@g.@@g:-4.8326416015625 hmy@hmyz$$.z$$@g@@.g:-4.87896728515625 hm.@hmyz$$yz$$@g@.@g:-4.56689453125 hmy@hmyz$$@z$$.g@.@g:-4.6234588623046875 
-hm.@hmyz$$yz$$@g.@@g hm.@hmyz$$yz$$@g@.@g:-4.119140625 hmy@hmyz$$.z$$@g.@@g:-4.5579833984375 hm@.hmyz$$yz$$@g.@@g:-4.1328125 
-hmy@hmyz$$@z$$@g.@.g hmy@hmyz$$@z$$@g@..g:-4.2952880859375 hmy@hmyz$$@z$$.g.@@g:-4.107879638671875 hmy@hmyz$$@z$$@g..@g:-4.24029541015625 
+h.y@hmy@.mgz$$gz$$@@ ..y@hmy@hmgz$$gz$$@@:-14.093398407568705 hmy@hmy@..gz$$gz$$@@:-14.123277001732639 
+..y@hmy@hmgz$$gz$$@@ h.y@hmy@.mgz$$gz$$@@:-14.122224871217027 .my@hmy@h.gz$$gz$$@@:-13.70621323441936 
+hmy@hmy@$$g.$$gz@@.z hmy@hmy@$$..$$gz@@gz:224.12030441115485 hmy@hmy@$$g.$$gz@.@z:121.5247633441034 hmy@hmy@$$gz$$gz@@..:147.2866140618999 hmy@hmy.$$g@$$gz@@.z:154.46790958342223 
+hmy@hmy@$$..$$gz@@gz hm.@hmy@$$y.$$gz@@gz:-9.955200171010802 hmy@hmy@$$g.$$gz@@.z:223.7869710778215 hmy@hmy@$$.z$$gz@@g.:-10.125973084257566 hmy@hmy.$$.@$$gz@@gz:147.9285586993245 
+hmy@hmy@$$.z$$gz@@g. hm.@hmy@$$yz$$gz@@g.:-10.242927285869882 hmy@hmy@$$gz$$gz@@..:-10.964323193290284 hmy@hmy@$$..$$gz@@gz:-10.38734390096809 
+hmy@hmy.$$.@$$gz@@gz hm.@hmy.$$y@$$gz@@gz:567.2939332304894 hmy@hmy.$$g@$$gz@@.z:567.3720816177921 hmy@hmy.$$@.$$gz@@gz:982.3835743590524 hmy.hmy@$$.@$$gz@@gz:792.3865062562166 hmy@hmy@$$..$$gz@@gz:567.2844626458137 
+hmy@hmy@$$gz$$gz@@.. hmy@hmy@$$.z$$gz@@g.:-11.055839856388388 hmy@hmy@$$gz$$gz@.@.:-11.253368987424043 hmy@hmy@$$g.$$gz@@.z:-11.247955991664528 
+hm.@hmy@$$y.$$gz@@gz hmy@hmy@$$..$$gz@@gz:95.432150829245 hm@.hmy@$$y.$$gz@@gz:-9.768241885685711 hm.@hmy@$$yz$$gz@@g.:-9.852775277919136 hm.@hmy.$$y@$$gz@@gz:-9.624925991345663 
+hmy@hmy.$$g@$$gz@@.z hmy@hmy.$$.@$$gz@@gz:746.4159003131049 hmy@hmy.$$g@$$gz@.@z:740.1979905482889 hmy.hmy@$$g@$$gz@@.z:873.1086380099323 hmy@hmy@$$g.$$gz@@.z:502.22550877306344 
+hmy@hmy.$$g@$$gz@.@z hmy@hmy.$$g@$$gz.@@z:755.4030636461821 hmy@hmy.$$g@$$gz@@.z:-9.818644945337443 hmy.hmy@$$g@$$gz@.@z:951.8985644699655 hmy@hmy@$$g.$$gz@.@z:734.5870512531745 
+hmy.hmy@$$g@$$gz.@@z hmy.hmy@$$g@$$gz@.@z:983.0 hmy@hmy.$$g@$$gz.@@z:979.1231919156187 
+hmy.hmy@$$g@$$gz@.@z hmy.hmy@$$g@$$gz.@@z:846.4248281218247 hmy.hmy@$$g@$$gz@@.z:984.0 hmy@hmy.$$g@$$gz@.@z:571.6718721982925 
+hmy.hmy@$$g@$$gz@@.z hmy.hmy@$$.@$$gz@@gz:985.0 hmy.hmy@$$g@$$gz@.@z:864.9237715732982 hmy@hmy.$$g@$$gz@@.z:875.9736405816462 
+hmy.hmy@$$.@$$gz@@gz hm..hmy@$$y@$$gz@@gz:872.522744376885 hmy.hmy@$$g@$$gz@@.z:689.2227100601518 hmy.hmy@$$@.$$gz@@gz:986.0 hmy@hmy.$$.@$$gz@@gz:948.5018071324414 
+hm..hmy@$$y@$$gz@@gz hmy.hmy@$$.@$$gz@@gz:24.898999154752403 hm.@hmy.$$y@$$gz@@gz:46.28525023530945 
+hm.@hmy.$$y@$$gz@@gz hmy@hmy.$$.@$$gz@@gz:21.02469184582246 hm@.hmy.$$y@$$gz@@gz:24.412138338165924 hm..hmy@$$y@$$gz@@gz:-9.445543179754168 hm.@hmy@$$y.$$gz@@gz:7.731937688191522 
+hm.@hmy@$$yz$$gz@@g. hmy@hmy@$$.z$$gz@@g.:-9.964764833908703 hm@.hmy@$$yz$$gz@@g.:-9.948635587119497 hm.@hmy@$$y.$$gz@@gz:-9.857551060529659 
+hm@.hmy.$$y@$$gz@@gz hm.@hmy.$$y@$$gz@@gz:24.62661557984382 hm@.hmy@$$y.$$gz@@gz:7.3850613164136405 
+hm@.hmy@$$y.$$gz@@gz hm@@hmy.$$y.$$gz@@gz:-9.295383058837615 hm.@hmy@$$y.$$gz@@gz:7.218314129281659 hm@.hmy@$$yz$$gz@@g.:-9.745991765754297 hm@.hmy.$$y@$$gz@@gz:-9.408514216192998 
+hmy@hmy.$$@.$$gz@@gz hmy.hmy@$$@.$$gz@@gz:984.9224435724961 hmy@hmy.$$@z$$gz@@g.:988.0 hmy@hmy.$$.@$$gz@@gz:934.9668425561648 
+hmy.hmy@$$@.$$gz@@gz hmy@hmy.$$@.$$gz@@gz:987.0 hmy.hmy@$$@z$$gz@@g.:960.1365002196159 hmy.hmy.$$@@$$gz@@gz:959.9974241959633 hmy.hmy@$$.@$$gz@@gz:954.5169000852604 
+hmy.hmy@$$@z$$gz@@g. hmy@hmy.$$@z$$gz@@g.:983.3162252089973 hmy.hmy@$$@.$$gz@@gz:592.3676009475586 
+hmy.hmy.$$@@$$gz@@gz hm.yhm.y$$@@$$gz@@gz:-8.650412360206246 hmy.hmy@$$@.$$gz@@gz:488.7933929497085 
+hm.yhm.y$$@@$$gz@@gz h.myh.my$$@@$$gz@@gz:-8.549203790957108 hmy.hmy.$$@@$$gz@@gz:-8.64374908292666 hm.yhm@y$$.@$$gz@@gz:-8.180976931005716 
+h.myh.my$$@@$$gz@@gz .hmy.hmy$$@@$$gz@@gz:-500.0 hm.yhm.y$$@@$$gz@@gz:-8.688513290369883 
+.hmy.hmy$$@@$$gz@@gz h.myh.my$$@@$$gz@@gz:0.0 
+hm@.hmy@$$yz$$gz@@g. hm@@hmy.$$yz$$gz@@g.:-9.34677078295499 hm.@hmy@$$yz$$gz@@g.:-9.926876928773709 hm@.hmy@$$y.$$gz@@gz:-9.765590266848449 
+hm@@hmy.$$yz$$gz@@g. hm@@hmyz$$yz$$g.@@g.:-9.26979470346123 hm@.hmy@$$yz$$gz@@g.:-9.208502475637943 hm@@hmy.$$y.$$gz@@gz:-9.402952269883826 
+hm@@hmy.$$y.$$gz@@gz hm@@hm.y$$.y$$gz@@gz:-9.025703157822136 hm@.hmy@$$y.$$gz@@gz:-8.811035249382257 hm@@hmy.$$yz$$gz@@g.:-9.756917247083038 
+hm@@hm.y$$.y$$gz@@gz hm@@hmy.$$y.$$gz@@gz:-9.01207216642797 hm.@hm@y$$.y$$gz@@gz:-8.847328446805477 hm@@hm.y$$gy$$gz@@.z:-8.436961725354195 
+hmy@hmy.$$@z$$gz@@g. hmy@hmyz$$@z$$g.@@g.:989.0 hmy.hmy@$$@z$$gz@@g.:915.674679145897 hmy@hmy.$$@.$$gz@@gz:981.9684015243356 
+hmy@hmyz$$@z$$g.@@g. hmy@hmyz$$@z$$.g@@.g:990.0 hmy@hmy.$$@z$$gz@@g.:943.37976131818 
+hmy@hmyz$$@z$$.g@@.g hmy@hmyz$$@z$$g.@@g.:974.1477096116364 hmy@hmyz$$.z$$@g@@.g:991.0 hmy@hmyz$$@z$$.g@.@g:922.1594702620012 
+hmy@hmyz$$@z$$.g@.@g hmy@hmyz$$@z$$.g.@@g:-5.104339599609375 hmy@hmyz$$@z$$.g@@.g:-5.289329409599304 hmy@hmyz$$.z$$@g@.@g:727.2834982793606 hmy@hmyz$$@z$$@g@..g:-5.2850341796875 
+hmy@hmyz$$@z$$.g.@@g hmy@hmyz$$@z$$.g@.@g:-5.295688629150391 hmy@hmyz$$.z$$@g.@@g:-4.631363404166498 hmy@hmyz$$@z$$@g.@.g:-4.67938232421875 
+hmy@hmyz$$@z$$@g@..g hmy@hmyz$$@z$$@g.@.g:-4.9615631103515625 hmy@hmyz$$@z$$.g@.@g:-4.826194763183594 
+hmy@hmyz$$.z$$@g.@@g hmy@hmyz$$.z$$@g@.@g:-3.1777885390334277 hm.@hmyz$$yz$$@g.@@g:-1.8837490573398217 hmy@hmyz$$@z$$.g.@@g:-4.8071136474609375 
+hmy@hmyz$$.z$$@g@.@g hmy@hmyz$$.z$$@g.@@g:-5.506927490234375 hmy@hmyz$$.z$$@g@@.g:982.3396773531288 hm.@hmyz$$yz$$@g@.@g:-4.806884765625 hmy@hmyz$$@z$$.g@.@g:-5.177574157714844 
+hm.@hmyz$$yz$$@g.@@g hm.@hmyz$$yz$$@g@.@g:-4.119140625 hmy@hmyz$$.z$$@g.@@g:-0.5592661641347325 hm@.hmyz$$yz$$@g.@@g:-4.1328125 
+hmy@hmyz$$@z$$@g.@.g hmy@hmyz$$@z$$@g@..g:-4.2952880859375 hmy@hmyz$$@z$$.g.@@g:-4.808235168457031 hmy@hmyz$$@z$$@g..@g:-4.24029541015625 
 hmy@hmyz$$@z$$@g..@g hmy@hmyz..@z$$@g$$@g:-3.7114105224609375 hmy@hmyz$$@z$$@g.@.g:-3.5367431640625 
 hmy@hmyz..@z$$@g$$@g hmy@hmyz$$@z$$@g..@g:-3.383758544921875 .my@hmyzh.@z$$@g$$@g:-3.19140625 h.y@hmyz.m@z$$@g$$@g:-3.34326171875 hmy@hmyz.@.z$$@g$$@g:-3.118408203125 
 hmy@hmyz.@.z$$@g$$@g .my@hmyzh@.z$$@g$$@g:-2.4140625 hmy@hmyz@..z$$@g$$@g:-2.9140625 hm.@hmyz.@yz$$@g$$@g:-2.59375 hmy@hmyz.@@z$$.g$$@g:-2.671875 hmy@hmyz..@z$$@g$$@g:-2.78759765625 
@@ -70,81 +70,81 @@ hmy@hmyz.@.z$$@g$$@g .my@hmyzh@.z$$@g$$@g:-2.4140625 hmy@hmyz@..z$$@g$$@g:-2.914
 .my@hmyzh@@z$$.g$$@g hmy@hmyz.@@z$$.g$$@g:-2.0625 .my@hmyzh@.z$$@g$$@g:-2.375 .my@hmyzh@@z$$@g$$.g:-2.25 
 hmy@hmyz.@@z$$.g$$@g .my@hmyzh@@z$$.g$$@g:-2.375 hmy@hmyz@.@z$$.g$$@g:-2.1875 hmy@hmyz.@.z$$@g$$@g:-2.15625 hmy@hmyz.@@z$$@g$$.g:-2.4375 
 h.y@hmyz.m@z$$@g$$@g ..y@hmyzhm@z$$@g$$@g:-3.2578125 hmy@hmyz..@z$$@g$$@g:-3.445068359375 
-hmy@hmyz$$.z$$@g@@.g hm.@hmyz$$yz$$@g@@.g:58.01548943475893 hmy@hmyz$$@z$$.g@@.g:-4.3612518310546875 hmy@hmyz$$.z$$.g@@@g:992.0 hmy@hmyz$$.z$$@g@.@g:-4.85809326171875 
-hm.@hmyz$$yz$$@g@@.g hmy@hmyz$$.z$$@g@@.g:52.58438031693785 hm@.hmyz$$yz$$@g@@.g:-4.408203125 hm.@hmyz$$yz$$.g@@@g:-4.1875 hm.@hmyz$$yz$$@g@.@g:-4.2662353515625 
-hmy@hmyz$$.z$$.g@@@g hmy@hmyz.$$z.$$g@@@g:993.0 hm.@hmyz$$yz$$.g@@@g:494.548828125 hmy@hmyz$$.z$$@g@@.g:494.58134460449025 
-hm.@hmyz$$yz$$@g@.@g hm.@hmyz$$yz$$@g.@@g:-4.2158203125 hm.@hmyz$$yz$$@g@@.g:-4.046875 hmy@hmyz$$.z$$@g@.@g:-4.31591796875 hm@.hmyz$$yz$$@g@.@g:-4.294921875 
-hm.@hmyz$$yz$$.g@@@g hmy@hmyz$$.z$$.g@@@g:495.81646994194443 hm@.hmyz$$yz$$.g@@@g:-4.076171875 hm.@hm.z$$yz$$yg@@@g:-4.291015625 hm.@hmyz$$yz$$@g@@.g:-3.956298828125 
-hmy@hmyz.$$z.$$g@@@g hmy@hmyz$$.z$$.g@@@g:744.7486399545382 .my@hmyzh$$z.$$g@@@g:-2.9921875 hmy@hmyz.$$z@$$g.@@g:994.0 
+hmy@hmyz$$.z$$@g@@.g hm.@hmyz$$yz$$@g@@.g:921.6064830292718 hmy@hmyz$$@z$$.g@@.g:867.4548435211182 hmy@hmyz$$.z$$.g@@@g:992.0 hmy@hmyz$$.z$$@g@.@g:924.6986550661682 
+hm.@hmyz$$yz$$@g@@.g hmy@hmyz$$.z$$@g@@.g:909.3465590019064 hm@.hmyz$$yz$$@g@@.g:-4.408203125 hm.@hmyz$$yz$$.g@@@g:-4.1875 hm.@hmyz$$yz$$@g@.@g:-4.2662353515625 
+hmy@hmyz$$.z$$.g@@@g hmy@hmyz.$$z.$$g@@@g:993.0 hm.@hmyz$$yz$$.g@@@g:975.9053582435024 hmy@hmyz$$.z$$@g@@.g:868.2827114173489 
+hm.@hmyz$$yz$$@g@.@g hm.@hmyz$$yz$$@g.@@g:23.684280002218927 hm.@hmyz$$yz$$@g@@.g:-4.046875 hmy@hmyz$$.z$$@g@.@g:-4.31591796875 hm@.hmyz$$yz$$@g@.@g:-4.294921875 
+hm.@hmyz$$yz$$.g@@@g hmy@hmyz$$.z$$.g@@@g:958.4896723188842 hm@.hmyz$$yz$$.g@@@g:-4.076171875 hm.@hm.z$$yz$$yg@@@g:453.87277934770407 hm.@hmyz$$yz$$@g@@.g:-3.956298828125 
+hmy@hmyz.$$z.$$g@@@g hmy@hmyz$$.z$$.g@@@g:869.37451171875 .my@hmyzh$$z.$$g@@@g:742.0723201726546 hmy@hmyz.$$z@$$g.@@g:994.0 
 hm@.hmyz$$yz$$@g@@.g hm@.hmyz$$yz$$.g@@@g:-3.966796875 hm@.hmyz$$yz$$@g@.@g:-3.71484375 hm@zhmyz$$y.$$@g@@.g:-4.1669921875 hm.@hmyz$$yz$$@g@@.g:-4.1484375 
 hm@.hmyz$$yz$$.g@@@g hm@.hm.z$$yz$$yg@@@g:-3.8935546875 hm@.hmyz$$yz$$@g@@.g:-4.0751953125 hm@zhmyz$$y.$$.g@@@g:-4.0654296875 hm.@hmyz$$yz$$.g@@@g:-4.310791015625 
-hm.@hm.z$$yz$$yg@@@g h.m@h.mz$$yz$$yg@@@g:-4.5859375 hm@.hm.z$$yz$$yg@@@g:-4.23828125 hm.@hmyz$$yz$$.g@@@g:-4.5263671875 
-hm@.hm.z$$yz$$yg@@@g hm@.hmyz$$yz$$.g@@@g:-4.0244140625 hm..hm@z$$yz$$yg@@@g:-4.1953125 hm@zhm.z$$y.$$yg@@@g:-3.931640625 hm.@hm.z$$yz$$yg@@@g:-4.48046875 
+hm.@hm.z$$yz$$yg@@@g h.m@h.mz$$yz$$yg@@@g:-4.5859375 hm@.hm.z$$yz$$yg@@@g:-4.5849609375 hm.@hmyz$$yz$$.g@@@g:-4.5263671875 
+hm@.hm.z$$yz$$yg@@@g hm@.hmyz$$yz$$.g@@@g:-4.0244140625 hm..hm@z$$yz$$yg@@@g:-4.1953125 hm@zhm.z$$y.$$yg@@@g:-4.2333984375 hm.@hm.z$$yz$$yg@@@g:-4.48046875 
 hm..hm@z$$yz$$yg@@@g hm@.hm.z$$yz$$yg@@@g:-4.3818359375 hm.zhm@z$$y.$$yg@@@g:-4.1884765625 
-hm@zhm.z$$y.$$yg@@@g hm@zhmyz$$y.$$.g@@@g:-4.037109375 hm.zhm@z$$y.$$yg@@@g:-3.8671875 hm@.hm.z$$yz$$yg@@@g:-3.875 hm@zhm.z$$yg$$yg@@@.:-3.53515625 
+hm@zhm.z$$y.$$yg@@@g hm@zhmyz$$y.$$.g@@@g:-4.037109375 hm.zhm@z$$y.$$yg@@@g:-3.8671875 hm@.hm.z$$yz$$yg@@@g:-3.875 hm@zhm.z$$yg$$yg@@@.:-4.0234375 
 hm@zhmyz$$y.$$.g@@@g hm@zhm.z$$y.$$yg@@@g:-3.9404296875 hm@zhmyz$$y.$$@g@@.g:-3.939453125 hm@.hmyz$$yz$$.g@@@g:-4.181884765625 hm@zhmyz$$yg$$.g@@@.:-3.888671875 
 hm@.hmyz$$yz$$@g@.@g hm@.hmyz$$yz$$@g.@@g:-4.20703125 hm@.hmyz$$yz$$@g@@.g:-4.009765625 hm@zhmyz$$y.$$@g@.@g:-4.279296875 hm.@hmyz$$yz$$@g@.@g:-3.84765625 
-hm@zhmyz$$y.$$@g@.@g hm@zhmyz$$y.$$@g.@@g:-4.1611328125 hm@zhmyz$$y.$$@g@@.g:-4.1513671875 hm@.hmyz$$yz$$@g@.@g:-4.2763671875 hm@zhmyz$$yg$$@g@.@.:-4.2822265625 
-hm@zhmyz$$y.$$@g@@.g hm@zhmyz$$y.$$.g@@@g:-4.0029296875 hm@zhmyz$$y.$$@g@.@g:-4.3369140625 hm@.hmyz$$yz$$@g@@.g:-3.77734375 hm@zhmyz$$yg$$@g@@..:-3.736328125 
-hm@zhmyz$$y.$$@g.@@g hm@zhmyz$$y.$$@g@.@g:-4.2373046875 hm@.hmyz$$yz$$@g.@@g:-3.86328125 hm@zhmyz$$yg$$@g.@@.:-3.9716796875 
-hm@zhmyz$$yg$$@g@@.. hm@zhmyz$$yg$$.g@@@.:-3.8828125 hm@zhmyz$$yg$$@g@.@.:-4.0322265625 hm@zhmyz$$y.$$@g@@.g:-3.625 
-hm@zhmyz$$yg$$@g@.@. hm@zhmyz$$yg$$@g.@@.:-4.0029296875 hm@zhmyz$$yg$$@g@@..:-3.962890625 hm@zhmyz$$y.$$@g@.@g:-4.083984375 hm@zhmyz$$yg$$@g@..@:-4.0849609375 
-hm@zhmyz$$yg$$.g@@@. hm@zhm.z$$yg$$yg@@@.:-3.734375 hm@zhmyz$$yg$$@g@@..:-3.720703125 hm@zhmyz$$y.$$.g@@@g:-4.0283203125 hm@zhmyz$$yg$$.g@@.@:-3.869140625 
-hm@zhmyz$$yg$$@g.@@. hm@zhmyz$$yg$$@g@.@.:-4.037109375 hm@zhmyz$$y.$$@g.@@g:-3.681640625 hm@zhmyz$$yg$$@g.@.@:-3.7587890625 
+hm@zhmyz$$y.$$@g@.@g hm@zhmyz$$y.$$@g.@@g:-4.1611328125 hm@zhmyz$$y.$$@g@@.g:-4.44384765625 hm@.hmyz$$yz$$@g@.@g:-4.2763671875 hm@zhmyz$$yg$$@g@.@.:-4.2822265625 
+hm@zhmyz$$y.$$@g@@.g hm@zhmyz$$y.$$.g@@@g:-4.0029296875 hm@zhmyz$$y.$$@g@.@g:-4.3369140625 hm@.hmyz$$yz$$@g@@.g:-3.77734375 hm@zhmyz$$yg$$@g@@..:-4.44775390625 
+hm@zhmyz$$y.$$@g.@@g hm@zhmyz$$y.$$@g@.@g:-4.602783203125 hm@.hmyz$$yz$$@g.@@g:-4.5872802734375 hm@zhmyz$$yg$$@g.@@.:-3.9716796875 
+hm@zhmyz$$yg$$@g@@.. hm@zhmyz$$yg$$.g@@@.:-4.3017578125 hm@zhmyz$$yg$$@g@.@.:-4.591064453125 hm@zhmyz$$y.$$@g@@.g:-4.201171875 
+hm@zhmyz$$yg$$@g@.@. hm@zhmyz$$yg$$@g.@@.:-4.380859375 hm@zhmyz$$yg$$@g@@..:-4.2939453125 hm@zhmyz$$y.$$@g@.@g:-4.083984375 hm@zhmyz$$yg$$@g@..@:-4.0849609375 
+hm@zhmyz$$yg$$.g@@@. hm@zhm.z$$yg$$yg@@@.:-3.734375 hm@zhmyz$$yg$$@g@@..:-4.4609375 hm@zhmyz$$y.$$.g@@@g:-4.0283203125 hm@zhmyz$$yg$$.g@@.@:-3.869140625 
+hm@zhmyz$$yg$$@g.@@. hm@zhmyz$$yg$$@g@.@.:-4.037109375 hm@zhmyz$$y.$$@g.@@g:-4.31591796875 hm@zhmyz$$yg$$@g.@.@:-3.7587890625 
 hm@zhmyz$$yg$$@g@..@ hm@zhmyz$$yg$$@g.@.@:-3.69140625 hm@zhmyz$$yg$$.g@.@@:-3.7900390625 hm@zhmyz$$yg$$@g@.@.:-3.919921875 
-hm@zhmyz$$yg$$@g.@.@ hm@zhmyz$$yg$$@g@..@:-3.84375 hm@zhmyz$$yg$$.g.@@@:-3.359375 hm@zhmyz$$yg$$@g..@@:-3.447265625 hm@zhmyz$$yg$$@g.@@.:-3.4375 
+hm@zhmyz$$yg$$@g.@.@ hm@zhmyz$$yg$$@g@..@:-3.84375 hm@zhmyz$$yg$$.g.@@@:-3.359375 hm@zhmyz$$yg$$@g..@@:-3.447265625 hm@zhmyz$$yg$$@g.@@.:-4.12353515625 
 hm.zhm@z$$y.$$yg@@@g hm@zhm.z$$y.$$yg@@@g:-3.900390625 hm..hm@z$$yz$$yg@@@g:-4.3154296875 hm.zhm@z$$yg$$yg@@@.:-3.8359375 
-hm.zhm@z$$yg$$yg@@@. hm@zhm.z$$yg$$yg@@@.:-3.9287109375 hm.zhm@z$$y.$$yg@@@g:-3.701171875 hm.zhm@z$$yg$$yg@@.@:-3.4970703125 
+hm.zhm@z$$yg$$yg@@@. hm@zhm.z$$yg$$yg@@@.:-3.9287109375 hm.zhm@z$$y.$$yg@@@g:-3.701171875 hm.zhm@z$$yg$$yg@@.@:-3.92626953125 
 h.m@h.mz$$yz$$yg@@@g .hm@.hmz$$yz$$yg@@@g:-500.0 hm.@hm.z$$yz$$yg@@@g:-4.61328125 
-.hm@.hmz$$yz$$yg@@@g h.m@h.mz$$yz$$yg@@@g:0 
-hm@@hmyz$$yz$$g.@@g. hm@@hmyz$$yz$$.g@@.g:-8.190252274274826 hm@@hmy.$$yz$$gz@@g.:-8.12407948076725 
-hm@@hm.y$$gy$$gz@@.z hm@@hmgy$$gy$$.z@@.z:-7.590013027191162 hm.@hm@y$$gy$$gz@@.z:-7.922547340393066 hm@@hm.y$$.y$$gz@@gz:-8.321858912706375 hm@@hm.y$$gy$$gz@.@z:-7.594901204109192 
-hm.@hm@y$$.y$$gz@@gz hm@@hm.y$$.y$$gz@@gz:-8.188290506601334 hm@.hm@y$$.y$$gz@@gz:-7.763181686401367 hm.@hm@y$$gy$$gz@@.z:-8.038618564605713 hm.@hm.y$$@y$$gz@@gz:-8.16188895702362 
-hm@@hm.y$$gy$$gz@.@z hm@@hm.y$$gy$$gz.@@z:-7.4779133796691895 hm@@hm.y$$gy$$gz@@.z:-7.31992769241333 hm@@hmgy$$gy$$.z@.@z:-7.526896119117737 hm.@hm@y$$gy$$gz@.@z:-7.436958312988281 
-hm.@hm@y$$gy$$gz@.@z hm.@hm@y$$gy$$gz.@@z:-7.311893463134766 hm.@hm@y$$gy$$gz@@.z:-7.844473361968994 hm@@hm.y$$gy$$gz@.@z:-7.353769302368164 hm@.hm@y$$gy$$gz@.@z:-7.525564193725586 
-hm@@hm.y$$gy$$gz.@@z hm@@hm.y$$gy$$gz@.@z:-7.3080291748046875 hm@@hmgy$$gy$$.z.@@z:-7.443907737731934 hm.@hm@y$$gy$$gz.@@z:-7.383293151855469 
-hm@.hm@y$$gy$$gz@.@z hm@.hm@y$$gy$$gz.@@z:-7.185707092285156 hm@.hm@y$$gy$$gz@@.z:-7.6676836013793945 hm@yhm@y$$g.$$gz@.@z:-7.45534610748291 hm.@hm@y$$gy$$gz@.@z:-7.465797424316406 
+.hm@.hmz$$yz$$yg@@@g h.m@h.mz$$yz$$yg@@@g:0.0 
+hm@@hmyz$$yz$$g.@@g. hm@@hmyz$$yz$$.g@@.g:-8.486399911344051 hm@@hmy.$$yz$$gz@@g.:-8.659596922807395 
+hm@@hm.y$$gy$$gz@@.z hm@@hmgy$$gy$$.z@@.z:-8.267389357089996 hm.@hm@y$$gy$$gz@@.z:-8.329851686954498 hm@@hm.y$$.y$$gz@@gz:-8.410006124526262 hm@@hm.y$$gy$$gz@.@z:-7.957414448261261 
+hm.@hm@y$$.y$$gz@@gz hm@@hm.y$$.y$$gz@@gz:-8.372984997928143 hm@.hm@y$$.y$$gz@@gz:-8.06198787689209 hm.@hm@y$$gy$$gz@@.z:-8.21368932723999 hm.@hm.y$$@y$$gz@@gz:-8.2775319814682 
+hm@@hm.y$$gy$$gz@.@z hm@@hm.y$$gy$$gz.@@z:-7.930603265762329 hm@@hm.y$$gy$$gz@@.z:-8.121237516403198 hm@@hmgy$$gy$$.z@.@z:-7.526896119117737 hm.@hm@y$$gy$$gz@.@z:-7.981261253356934 
+hm.@hm@y$$gy$$gz@.@z hm.@hm@y$$gy$$gz.@@z:-8.174261212348938 hm.@hm@y$$gy$$gz@@.z:-7.844473361968994 hm@@hm.y$$gy$$gz@.@z:-7.895363807678223 hm@.hm@y$$gy$$gz@.@z:-7.855635643005371 
+hm@@hm.y$$gy$$gz.@@z hm@@hm.y$$gy$$gz@.@z:-7.8929712772369385 hm@@hmgy$$gy$$.z.@@z:-7.443907737731934 hm.@hm@y$$gy$$gz.@@z:-8.04600191116333 
+hm@.hm@y$$gy$$gz@.@z hm@.hm@y$$gy$$gz.@@z:-7.655141830444336 hm@.hm@y$$gy$$gz@@.z:-7.689261436462402 hm@yhm@y$$g.$$gz@.@z:-7.738985538482666 hm.@hm@y$$gy$$gz@.@z:-7.744211196899414 
 hm@@hmgy$$gy$$.z.@@z hm@@hmgy$$gy$$.z@.@z:-7.118011474609375 hm@@hm.y$$gy$$gz.@@z:-7.144447326660156 hm@@hmgy$$gy$$@z.@.z:-6.99456661939621 
 hm@@hmgy$$gy$$@z.@.z hm@@hmgy$$gy$$@z@..z:-6.444187164306641 hm@@hmgy$$gy$$.z.@@z:-6.8891143798828125 hm@@hmgy$$gy$$@z..@z:-6.364660203456879 
 hm@@hmgy$$gy$$.z@.@z hm@@hmgy$$gy$$.z.@@z:-7.092675447463989 hm@@hmgy$$gy$$.z@@.z:-7.513999342918396 hm@@hm.y$$gy$$gz@.@z:-7.652701497077942 hm@@hmgy$$gy$$@z@..z:-7.130518794059753 
 hm@@hmgy$$gy$$@z@..z hm@@hmgy$$gy$$@z.@.z:-6.717748403549194 hm@@hmgy$$gy$$.z@.@z:-6.854944229125977 
-hm@@hmgy$$gy$$.z@@.z hm@@hmgy$$gy$$z.@@z.:-7.767389893531799 hm@@hm.y$$gy$$gz@@.z:-7.795330047607422 hm@@hmgy$$gy$$.z@.@z:-7.5851157903671265 
-hm.@hm@y$$gy$$gz@@.z hm@@hm.y$$gy$$gz@@.z:-7.891602635383606 hm@.hm@y$$gy$$gz@@.z:-7.981139659881592 hm.@hm@y$$.y$$gz@@gz:-7.847399353981018 hm.@hm@y$$gy$$gz@.@z:-7.693208694458008 
-hm@.hm@y$$gy$$gz@@.z hm@.hm@y$$.y$$gz@@gz:-7.516029357910156 hm@.hm@y$$gy$$gz@.@z:-7.606966018676758 hm@yhm@y$$g.$$gz@@.z:-7.604523658752441 hm.@hm@y$$gy$$gz@@.z:-7.760475277900696 
-hm@.hm@y$$.y$$gz@@gz hm@.hm@y$$gy$$gz@@.z:-7.68043327331543 hm@.hm.y$$@y$$gz@@gz:-7.790552854537964 hm@yhm@y$$..$$gz@@gz:-7.3607940673828125 hm.@hm@y$$.y$$gz@@gz:-7.994329929351807 
-hm@yhm@y$$..$$gz@@gz hm@yhm@y$$g.$$gz@@.z:-7.3548126220703125 hm@yhm.y$$@.$$gz@@gz:-7.294122695922852 hm@.hm@y$$.y$$gz@@gz:-7.591775894165039 hm@yhm@y$$.z$$gz@@g.:-7.027278900146484 
-hm@yhm.y$$@.$$gz@@gz hm.yhm@y$$@.$$gz@@gz:-7.483781814575195 hm@yhm@y$$..$$gz@@gz:-7.348329544067383 hm@.hm.y$$@y$$gz@@gz:-7.29313850402832 hm@yhm.y$$@z$$gz@@g.:-7.081256866455078 hm@yhm.y$$.@$$gz@@gz:-6.9422197341918945 
-hm@.hm.y$$@y$$gz@@gz hm..hm@y$$@y$$gz@@gz:-7.77825665473938 hm@.hm@y$$.y$$gz@@gz:-7.695322036743164 hm@yhm.y$$@.$$gz@@gz:-7.461391448974609 hm.@hm.y$$@y$$gz@@gz:-7.624299049377441 
-hm.@hm.y$$@y$$gz@@gz h.m@h.my$$@y$$gz@@gz:-7.726960182189941 hm@.hm.y$$@y$$gz@@gz:-7.889895439147949 hm.@hm@y$$.y$$gz@@gz:-7.7083985805511475 
-hm@yhm@y$$g.$$gz@@.z hm@yhm@y$$..$$gz@@gz:-7.399959564208984 hm@yhm@y$$g.$$gz@.@z:-7.208871841430664 hm@.hm@y$$gy$$gz@@.z:-7.307659149169922 hm@yhm@y$$gz$$gz@@..:-7.140277862548828 
-hm.@hm@y$$gy$$gz.@@z hm.@hm@y$$gy$$gz@.@z:-7.281696319580078 hm@@hm.y$$gy$$gz.@@z:-7.551727533340454 hm@.hm@y$$gy$$gz.@@z:-7.292844772338867 
-hm@.hm@y$$gy$$gz.@@z hm@.hm@y$$gy$$gz@.@z:-7.41349983215332 hm@yhm@y$$g.$$gz.@@z:-7.124576568603516 hm.@hm@y$$gy$$gz.@@z:-7.264847755432129 
-hm@yhm@y$$g.$$gz@.@z hm@yhm@y$$g.$$gz.@@z:-7.2847747802734375 hm@yhm@y$$g.$$gz@@.z:-7.116987228393555 hm@.hm@y$$gy$$gz@.@z:-7.274822235107422 hm@yhm@y$$gz$$gz@.@.:-7.022624969482422 
-hm@yhm@y$$g.$$gz.@@z hm@yhm@y$$g.$$gz@.@z:-6.923797607421875 hm@.hm@y$$gy$$gz.@@z:-7.250958442687988 hm@yhm@y$$gz$$gz.@@.:-6.975892066955566 
-hm@yhm@y$$.z$$gz@@g. hm@yhm@y$$gz$$gz@@..:-6.8985748291015625 hm@yhm.y$$@z$$gz@@g.:-6.560325622558594 hm@yhm@y$$..$$gz@@gz:-6.857879638671875 
-hm@yhm.y$$.@$$gz@@gz hm.yhm@y$$.@$$gz@@gz:-7.190103054046631 hm@yhm.y$$g@$$gz@@.z:-6.746787071228027 hm@yhm.y$$@.$$gz@@gz:-6.896125793457031 
-hm.yhm@y$$@.$$gz@@gz hm@yhm.y$$@.$$gz@@gz:-7.43228816986084 hm..hm@y$$@y$$gz@@gz:-7.456599235534668 hm.yhm@y$$@z$$gz@@g.:-7.511556625366211 hm.yhm@y$$.@$$gz@@gz:-7.533409476280212 
-hm.yhm@y$$.@$$gz@@gz hm@yhm.y$$.@$$gz@@gz:-7.157559394836426 hm.yhm@y$$g@$$gz@@.z:-7.167562365531921 hm.yhm.y$$@@$$gz@@gz:-7.428264081478119 hm.yhm@y$$@.$$gz@@gz:-7.335777282714844 
-hm@yhm.y$$g@$$gz@@.z hm@yhmgy$$g@$$.z@@.z:-6.5018205642700195 hm.yhm@y$$g@$$gz@@.z:-6.604774475097656 hm@yhm.y$$.@$$gz@@gz:-6.706528663635254 hm@yhm.y$$g@$$gz@.@z:-6.7353668212890625 
-hm.yhm@y$$g@$$gz@@.z hm@yhm.y$$g@$$gz@@.z:-6.935267448425293 hm.yhm@y$$.@$$gz@@gz:-6.6372270584106445 hm.yhm@y$$g@$$gz@.@z:-6.827960014343262 
-hm..hm@y$$@y$$gz@@gz hm@.hm.y$$@y$$gz@@gz:-7.525280952453613 hm.yhm@y$$@.$$gz@@gz:-7.597659587860107 
-hm@yhm.y$$@z$$gz@@g. hm.yhm@y$$@z$$gz@@g.:-6.980171203613281 hm@yhm@y$$.z$$gz@@g.:-6.8704071044921875 hm@yhm.y$$@.$$gz@@gz:-7.1934003829956055 
-hm@yhm@y$$gz$$gz@.@. hm@yhm@y$$gz$$gz.@@.:-6.563503265380859 hm@yhm@y$$gz$$gz@@..:-6.885311126708984 hm@yhm@y$$g.$$gz@.@z:-7.132986068725586 hm@yhm@y$$gz$$gz@..@:-6.554557800292969 
-hm.yhm@y$$@z$$gz@@g. hm@yhm.y$$@z$$gz@@g.:-7.133541107177734 hm.yhm@y$$@.$$gz@@gz:-7.58312463760376 
-h.m@h.my$$@y$$gz@@gz .hm@.hmy$$@y$$gz@@gz:-500.0 hm.@hm.y$$@y$$gz@@gz:-7.730119705200195 
-.hm@.hmy$$@y$$gz@@gz h.m@h.my$$@y$$gz@@gz:0 
-hm@.hmyz$$yz$$@g.@@g hm@.hmyz$$yz$$@g@.@g:-4.1171875 hm@zhmyz$$y.$$@g.@@g:-4.126953125 hm.@hmyz$$yz$$@g.@@g:-3.96826171875 
+hm@@hmgy$$gy$$.z@@.z hm@@hmgy$$gy$$z.@@z.:-8.011354058980942 hm@@hm.y$$gy$$gz@@.z:-8.018339097499847 hm@@hmgy$$gy$$.z@.@z:-7.5851157903671265 
+hm.@hm@y$$gy$$gz@@.z hm@@hm.y$$gy$$gz@@.z:-8.327392160892487 hm@.hm@y$$gy$$gz@@.z:-7.898844242095947 hm.@hm@y$$.y$$gz@@gz:-8.288316249847412 hm.@hm@y$$gy$$gz@.@z:-8.002551078796387 
+hm@.hm@y$$gy$$gz@@.z hm@.hm@y$$.y$$gz@@gz:-7.938411712646484 hm@.hm@y$$gy$$gz@.@z:-7.606966018676758 hm@yhm@y$$g.$$gz@@.z:-8.133726596832275 hm.@hm@y$$gy$$gz@@.z:-8.161412715911865 
+hm@.hm@y$$.y$$gz@@gz hm@.hm@y$$gy$$gz@@.z:-7.862401962280273 hm@.hm.y$$@y$$gz@@gz:-8.66354912519455 hm@yhm@y$$..$$gz@@gz:-7.3607940673828125 hm.@hm@y$$.y$$gz@@gz:-8.468047261238098 
+hm@yhm@y$$..$$gz@@gz hm@yhm@y$$g.$$gz@@.z:-8.008871078491211 hm@yhm.y$$@.$$gz@@gz:-7.907042741775513 hm@.hm@y$$.y$$gz@@gz:-7.959479331970215 hm@yhm@y$$.z$$gz@@g.:-8.795386210083961 
+hm@yhm.y$$@.$$gz@@gz hm.yhm@y$$@.$$gz@@gz:-7.976975977420807 hm@yhm@y$$..$$gz@@gz:-8.313401639461517 hm@.hm.y$$@y$$gz@@gz:-8.048980593681335 hm@yhm.y$$@z$$gz@@g.:-8.097138702869415 hm@yhm.y$$.@$$gz@@gz:-8.013769805431366 
+hm@.hm.y$$@y$$gz@@gz hm..hm@y$$@y$$gz@@gz:-8.530965596437454 hm@.hm@y$$.y$$gz@@gz:-8.150706768035889 hm@yhm.y$$@.$$gz@@gz:-8.33615356683731 hm.@hm.y$$@y$$gz@@gz:-8.313438355922699 
+hm.@hm.y$$@y$$gz@@gz h.m@h.my$$@y$$gz@@gz:-8.966958060860634 hm@.hm.y$$@y$$gz@@gz:-8.63184118270874 hm.@hm@y$$.y$$gz@@gz:-7.7083985805511475 
+hm@yhm@y$$g.$$gz@@.z hm@yhm@y$$..$$gz@@gz:-7.97402811050415 hm@yhm@y$$g.$$gz@.@z:-7.973852157592773 hm@.hm@y$$gy$$gz@@.z:-8.165712118148804 hm@yhm@y$$gz$$gz@@..:-8.085798263549805 
+hm.@hm@y$$gy$$gz.@@z hm.@hm@y$$gy$$gz@.@z:-7.817732810974121 hm@@hm.y$$gy$$gz.@@z:-7.929878354072571 hm@.hm@y$$gy$$gz.@@z:-8.116448879241943 
+hm@.hm@y$$gy$$gz.@@z hm@.hm@y$$gy$$gz@.@z:-7.934422969818115 hm@yhm@y$$g.$$gz.@@z:-7.723992347717285 hm.@hm@y$$gy$$gz.@@z:-7.594322681427002 
+hm@yhm@y$$g.$$gz@.@z hm@yhm@y$$g.$$gz.@@z:-7.630333423614502 hm@yhm@y$$g.$$gz@@.z:-7.8551154136657715 hm@.hm@y$$gy$$gz@.@z:-7.414690017700195 hm@yhm@y$$gz$$gz@.@.:-7.288591384887695 
+hm@yhm@y$$g.$$gz.@@z hm@yhm@y$$g.$$gz@.@z:-7.473211288452148 hm@.hm@y$$gy$$gz.@@z:-7.636791706085205 hm@yhm@y$$gz$$gz.@@.:-7.635152578353882 
+hm@yhm@y$$.z$$gz@@g. hm@yhm@y$$gz$$gz@@..:-8.695226967334747 hm@yhm.y$$@z$$gz@@g.:-8.528958141803741 hm@yhm@y$$..$$gz@@gz:-8.42105233669281 
+hm@yhm.y$$.@$$gz@@gz hm.yhm@y$$.@$$gz@@gz:-7.678832709789276 hm@yhm.y$$g@$$gz@@.z:-7.249798059463501 hm@yhm.y$$@.$$gz@@gz:-8.00793993473053 
+hm.yhm@y$$@.$$gz@@gz hm@yhm.y$$@.$$gz@@gz:-8.05958403646946 hm..hm@y$$@y$$gz@@gz:-7.923094987869263 hm.yhm@y$$@z$$gz@@g.:-8.134304124861956 hm.yhm@y$$.@$$gz@@gz:-7.533409476280212 
+hm.yhm@y$$.@$$gz@@gz hm@yhm.y$$.@$$gz@@gz:-7.673831224441528 hm.yhm@y$$g@$$gz@@.z:-7.4977611899375916 hm.yhm.y$$@@$$gz@@gz:-7.428264081478119 hm.yhm@y$$@.$$gz@@gz:-7.850575804710388 
+hm@yhm.y$$g@$$gz@@.z hm@yhmgy$$g@$$.z@@.z:-6.958164364099503 hm.yhm@y$$g@$$gz@@.z:-6.824369430541992 hm@yhm.y$$.@$$gz@@gz:-6.906296014785767 hm@yhm.y$$g@$$gz@.@z:-6.4978485107421875 
+hm.yhm@y$$g@$$gz@@.z hm@yhm.y$$g@$$gz@@.z:-7.1210198402404785 hm.yhm@y$$.@$$gz@@gz:-7.397393226623535 hm.yhm@y$$g@$$gz@.@z:-7.082149028778076 
+hm..hm@y$$@y$$gz@@gz hm@.hm.y$$@y$$gz@@gz:-8.486562013626099 hm.yhm@y$$@.$$gz@@gz:-8.06553453207016 
+hm@yhm.y$$@z$$gz@@g. hm.yhm@y$$@z$$gz@@g.:-8.531776428222656 hm@yhm@y$$.z$$gz@@g.:-8.618894934654236 hm@yhm.y$$@.$$gz@@gz:-8.534921199083328 
+hm@yhm@y$$gz$$gz@.@. hm@yhm@y$$gz$$gz.@@.:-7.109880447387695 hm@yhm@y$$gz$$gz@@..:-7.588726997375488 hm@yhm@y$$g.$$gz@.@z:-7.132986068725586 hm@yhm@y$$gz$$gz@..@:-7.249720573425293 
+hm.yhm@y$$@z$$gz@@g. hm@yhm.y$$@z$$gz@@g.:-8.504339814186096 hm.yhm@y$$@.$$gz@@gz:-8.409634470939636 
+h.m@h.my$$@y$$gz@@gz .hm@.hmy$$@y$$gz@@gz:-663.7891236692667 hm.@hm.y$$@y$$gz@@gz:-8.643208533525467 
+.hm@.hmy$$@y$$gz@@gz h.m@h.my$$@y$$gz@@gz:-7.18351386487484 
+hm@.hmyz$$yz$$@g.@@g hm@.hmyz$$yz$$@g@.@g:-4.1171875 hm@zhmyz$$y.$$@g.@@g:1.9680975884453566 hm.@hmyz$$yz$$@g.@@g:-4.469970703125 
 hm@zhmyz$$yg$$.g@@.@ hm@zhm.z$$yg$$yg@@.@:-3.37109375 hm@zhmyz$$yg$$.g@.@@:-3.791015625 hm@zhmyz$$yg$$.g@@@.:-3.626953125 
-hm@zhm.z$$yg$$yg@@@. hm@zhmyz$$yg$$.g@@@.:-3.9248046875 hm.zhm@z$$yg$$yg@@@.:-3.568359375 hm@zhm.z$$y.$$yg@@@g:-3.51171875 hm@zhm.z$$yg$$yg@@.@:-3.59375 
-hm@zhm.z$$yg$$yg@@.@ hm@zhmyz$$yg$$.g@@.@:-3.37109375 hm.zhm@z$$yg$$yg@@.@:-3.6728515625 hm@zhm.z$$.g$$yg@@y@:-3.6083984375 hm@zhm.z$$yg$$yg@.@@:-3.32421875 hm@zhm.z$$yg$$yg@@@.:-3.5078125 
-hm.zhm@z$$yg$$yg@@.@ hm@zhm.z$$yg$$yg@@.@:-3.35546875 hm.zhm@z$$.g$$yg@@y@:-3.7890625 hm.zhm@z$$yg$$yg@.@@:-3.7333984375 hm.zhm@z$$yg$$yg@@@.:-3.56640625 
+hm@zhm.z$$yg$$yg@@@. hm@zhmyz$$yg$$.g@@@.:-3.9248046875 hm.zhm@z$$yg$$yg@@@.:-4.2177734375 hm@zhm.z$$y.$$yg@@@g:-3.51171875 hm@zhm.z$$yg$$yg@@.@:-3.59375 
+hm@zhm.z$$yg$$yg@@.@ hm@zhmyz$$yg$$.g@@.@:-3.37109375 hm.zhm@z$$yg$$yg@@.@:-3.6728515625 hm@zhm.z$$.g$$yg@@y@:-4.09716796875 hm@zhm.z$$yg$$yg@.@@:-3.955078125 hm@zhm.z$$yg$$yg@@@.:-3.5078125 
+hm.zhm@z$$yg$$yg@@.@ hm@zhm.z$$yg$$yg@@.@:-3.83984375 hm.zhm@z$$.g$$yg@@y@:-3.7890625 hm.zhm@z$$yg$$yg@.@@:-3.7333984375 hm.zhm@z$$yg$$yg@@@.:-3.56640625 
 hm.zhm@z$$yg$$yg@.@@ hm.zhm@z$$yg$$yg.@@@:-3.39453125 hm.zhm@z$$yg$$yg@@.@:-3.81005859375 hm@zhm.z$$yg$$yg@.@@:-3.79296875 
-hm@zhm.z$$yg$$yg@.@@ hm@zhm.z$$yg$$yg.@@@:-3.78515625 hm@zhm.z$$yg$$yg@@.@:-3.8017578125 hm@zhmyz$$yg$$.g@.@@:-3.5859375 hm.zhm@z$$yg$$yg@.@@:-3.787109375 
+hm@zhm.z$$yg$$yg@.@@ hm@zhm.z$$yg$$yg.@@@:-3.78515625 hm@zhm.z$$yg$$yg@@.@:-3.8017578125 hm@zhmyz$$yg$$.g@.@@:-4.0693359375 hm.zhm@z$$yg$$yg@.@@:-3.787109375 
 hm.zhm@z$$yg$$yg.@@@ hm.zhm@z$$yg$$yg@.@@:-3.416015625 hm@zhm.z$$yg$$yg.@@@:-3.810546875 
 hm@zhm.z$$yg$$yg.@@@ hm@zhm.z$$yg$$yg@.@@:-3.896484375 hm@zhmyz$$yg$$.g.@@@:-3.7958984375 hm.zhm@z$$yg$$yg.@@@:-3.7958984375 
-hm@zhmyz$$yg$$.g.@@@ hm@zhmyz$$yg$$.g@.@@:-3.8095703125 hm@zhm.z$$yg$$yg.@@@:-3.8349609375 hm@zhmyz$$yg$$@g.@.@:-3.2890625 
-hm@zhmyz$$yg$$.g@.@@ hm@zhmyz$$yg$$.g.@@@:-3.763671875 hm@zhmyz$$yg$$.g@@.@:-3.75390625 hm@zhm.z$$yg$$yg@.@@:-3.8212890625 hm@zhmyz$$yg$$@g@..@:-3.552734375 
-hm@zhm.z$$.g$$yg@@y@ hm.zhm@z$$.g$$yg@@y@:-3.458984375 hm@zhm.z$$yg$$yg@@.@:-3.4013671875 
+hm@zhmyz$$yg$$.g.@@@ hm@zhmyz$$yg$$.g@.@@:-3.8095703125 hm@zhm.z$$yg$$yg.@@@:-3.8349609375 hm@zhmyz$$yg$$@g.@.@:-3.82421875 
+hm@zhmyz$$yg$$.g@.@@ hm@zhmyz$$yg$$.g.@@@:-4.2275390625 hm@zhmyz$$yg$$.g@@.@:-3.75390625 hm@zhm.z$$yg$$yg@.@@:-3.8212890625 hm@zhmyz$$yg$$@g@..@:-3.552734375 
+hm@zhm.z$$.g$$yg@@y@ hm.zhm@z$$.g$$yg@@y@:-3.458984375 hm@zhm.z$$yg$$yg@@.@:-3.86279296875 
 hm.zhm@z$$.g$$yg@@y@ hm@zhm.z$$.g$$yg@@y@:-3.3232421875 hm.zhm@z$$yg$$yg@@.@:-3.623046875 hm.zhm.z$$@g$$yg@@y@:-3.51904296875 
 hm.zhm.z$$@g$$yg@@y@ h.mzh.mz$$@g$$yg@@y@:-3.453125 hmz.hmz.$$@g$$yg@@y@:-3.3798828125 hm.zhm@z$$.g$$yg@@y@:-3.443359375 
 hmz.hmz.$$@g$$yg@@y@ hm.zhm.z$$@g$$yg@@y@:-3.298828125 hmz.hmzg$$@g$$y.@@y@:-2.9140625 
@@ -206,10 +206,10 @@ h@y.hmyz.m@z$$@g$$@g .@y.hmyzhm@z$$@g$$@g:-2.75 h@yzhmyz.m@.$$@g$$@g:-2.3125
 @my.hmyzh@gz$$g@$$@. @myzhmyzh@g.$$g@$$@.:-0.75 @my.hmyzh@gz$$g.$$@@:-1.0 @my.hmyzh@gz$$g@$$.@:-1.0 
 @my.hmyzh@gz$$g@$$.@ @my.hmyzh@.z$$g@$$g@:-0.5 @my.hmyzh@gz$$g@$$@.:-1.0 @myzhmyzh@g.$$g@$$.@:-1.0 
 @myzhmyzh@g.$$g@$$.@ @myzhmyzh@..$$g@$$g@:-1.0 @myzhmyzh@g.$$g@$$@.:-0.5 @my.hmyzh@gz$$g@$$.@:-1.0 @myzhmyzh@g@$$g.$$.@:-0.5 
-@my.hmyzh@.z$$g@$$g@ @m..hmyzh@yz$$g@$$g@:0 @my.hmyzh@gz$$g@$$.@:-0.5 @my.hmyzh.@z$$g@$$g@:-0.5 @myzhmyzh@..$$g@$$g@:-0.5 
+@my.hmyzh@.z$$g@$$g@ @m..hmyzh@yz$$g@$$g@:0.0 @my.hmyzh@gz$$g@$$.@:-0.5 @my.hmyzh.@z$$g@$$g@:-0.5 @myzhmyzh@..$$g@$$g@:-0.5 
 @myzhmyzh@..$$g@$$g@ @m.zhmyzh@y.$$g@$$g@:-0.5 @myzhmyzh@g.$$g@$$.@:-0.5 @myzhmyzh.@.$$g@$$g@:-0.5 @my.hmyzh@.z$$g@$$g@:-0.5 @myzhmyzh@.@$$g.$$g@:-0.75 
 @myzhmyzh@.@$$g.$$g@ @m.zhmyzh@y@$$g.$$g@:-0.75 @myzhmyzh@g@$$g.$$.@:-0.5 @myzhmyzh.@@$$g.$$g@:-0.5 @myzhmyzh@@.$$g.$$g@:-0.75 @myzhmyzh@..$$g@$$g@:-0.5 @myzhmyzh@.@$$g@$$g.:-0.75 
-@m.zhmyzh@y.$$g@$$g@ @myzhmyzh@..$$g@$$g@:-0.5 @m..hmyzh@yz$$g@$$g@:0 @m.zhmyzh@y@$$g.$$g@:-0.75 
+@m.zhmyzh@y.$$g@$$g@ @myzhmyzh@..$$g@$$g@:-0.5 @m..hmyzh@yz$$g@$$g@:0.0 @m.zhmyzh@y@$$g.$$g@:-0.75 
 @m.zhmyzh@y@$$g.$$g@ @myzhmyzh@.@$$g.$$g@:-0.75 @m.zhmyzh@y.$$g@$$g@:-0.75 @m.zhmyzh@y@$$g@$$g.:-1.0 
 @myzhmyzh.@.$$g@$$g@ @.yzhmyzhm@.$$g@$$g@:-0.5 @myzhmyzh@..$$g@$$g@:-0.5 @my.hmyzh.@z$$g@$$g@:-0.5 @myzhmyzh.@@$$g.$$g@:-0.75 @myzhmyzh..@$$g@$$g@:-0.5 
 @myzhmyzh@g@$$g.$$.@ @myzhmyzh@.@$$g.$$g@:-0.5 @myzhmyzh@g@$$g.$$@.:-1.0 @myzhmyzh@g.$$g@$$.@:-1.0 @myzhmyzh@g@$$g@$$..:-1.0 
@@ -218,33 +218,33 @@ h@y.hmyz.m@z$$@g$$@g .@y.hmyzhm@z$$@g$$@g:-2.75 h@yzhmyz.m@.$$@g$$@g:-2.3125
 .@yzhmyzhm@.$$g@$$g@ h@yzhmyz.m@.$$g@$$g@:-0.5 @.yzhmyzhm@.$$g@$$g@:-0.5 .@y.hmyzhm@z$$g@$$g@:-0.5 .@yzhmyzhm@@$$g.$$g@:-0.75 .@yzhmyzhm.@$$g@$$g@:-1.0 
 .@yzhmyzhm@@$$g.$$g@ h@yzhmyz.m@@$$g.$$g@:-1.0 @.yzhmyzhm@@$$g.$$g@:-1.0 .@yzhmyzhm@.$$g@$$g@:-0.75 .@yzhmyzhm@@$$g@$$g.:-0.5 
 h@yzhmyz.m@@$$g.$$g@ .@yzhmyzhm@@$$g.$$g@:-1.0 h@yzhmyz.m@.$$g@$$g@:-1.0 h@yzhmyz.m@@$$g@$$g.:-0.5 
-.@yzhmyzhm@@$$g@$$g. h@yzhmyz.m@@$$g@$$g.:0 @.yzhmyzhm@@$$g@$$g.:-0.5 .@yzhmyzhm@@$$g.$$g@:-0.5 
-h@yzhmyz.m@@$$g@$$g. .@yzhmyzhm@@$$g@$$g.:0 h@yzhmyz.m@@$$g.$$g@:-0.75 
+.@yzhmyzhm@@$$g@$$g. h@yzhmyz.m@@$$g@$$g.:0.0 @.yzhmyzhm@@$$g@$$g.:-0.5 .@yzhmyzhm@@$$g.$$g@:-0.5 
+h@yzhmyz.m@@$$g@$$g. .@yzhmyzhm@@$$g@$$g.:0.0 h@yzhmyz.m@@$$g.$$g@:-0.75 
 h@yzhmyz.m@.$$g@$$g@ .@yzhmyzhm@.$$g@$$g@:-1.0 h@y.hmyz.m@z$$g@$$g@:-1.125 h@yzhmyz.m@@$$g.$$g@:-1.125 h@yzhmyz.m.@$$g@$$g@:-1.125 
 .@yzhmyzhm.@$$g@$$g@ h@yzhmyz.m.@$$g@$$g@:-1.0 @.yzhmyzhm.@$$g@$$g@:-0.5 .@.zhmyzhmy@$$g@$$g@:-0.75 .@yzhmyzhmg@$$g@$$.@:-0.75 .@yzhmyzhm@.$$g@$$g@:-0.5 
 h@yzhmyz.m.@$$g@$$g@ .@yzhmyzhm.@$$g@$$g@:-0.5 h@.zhmyz.my@$$g@$$g@:-0.5 h@yzhmyz.mg@$$g@$$.@:-0.5 h@yzhmyz.m@.$$g@$$g@:-1.125 
-h@.zhmyz.my@$$g@$$g@ .@.zhmyzhmy@$$g@$$g@:0 h@yzhmyz.m.@$$g@$$g@:-0.5 h.@zhmyz.my@$$g@$$g@:-0.5 
+h@.zhmyz.my@$$g@$$g@ .@.zhmyzhmy@$$g@$$g@:0.0 h@yzhmyz.m.@$$g@$$g@:-0.5 h.@zhmyz.my@$$g@$$g@:-0.5 
 .@y.hmyzhm@z$$g@$$g@ h@y.hmyz.m@z$$g@$$g@:-0.5 @.y.hmyzhm@z$$g@$$g@:-0.5 .@yzhmyzhm@.$$g@$$g@:-0.5 
 @.yzhmyzhm.@$$g@$$g@ @myzhmyzh..@$$g@$$g@:-0.5 .@yzhmyzhm.@$$g@$$g@:-1.0 @..zhmyzhmy@$$g@$$g@:-0.5 @.yzhmyzhmg@$$g@$$.@:-0.5 @.yzhmyzhm@.$$g@$$g@:-0.5 
 @.yzhmyzhm@@$$g.$$g@ @myzhmyzh.@@$$g.$$g@:-0.75 .@yzhmyzhm@@$$g.$$g@:-1.0 @.yzhmyzhm@.$$g@$$g@:-0.75 @.yzhmyzhm@@$$g@$$g.:-0.5 
 @myzhmyzh.@@$$g.$$g@ @.yzhmyzhm@@$$g.$$g@:-1.0 @myzhmyzh@.@$$g.$$g@:-0.5 @myzhmyzh.@.$$g@$$g@:-0.75 @myzhmyzh.@@$$g@$$g.:-1.0 
 @myzhmyzh.@@$$g@$$g. @.yzhmyzhm@@$$g@$$g.:-1.0 @myzhmyzh@.@$$g@$$g.:-0.5 @myzhmyzh.@@$$g.$$g@:-1.0 
-@myzhmyzh..@$$g@$$g@ @.yzhmyzhm.@$$g@$$g@:-0.5 @m.zhmyzh.y@$$g@$$g@:0 @myzhmyzh.g@$$g@$$.@:-0.5 @myzhmyzh.@.$$g@$$g@:-0.5 
+@myzhmyzh..@$$g@$$g@ @.yzhmyzhm.@$$g@$$g@:-0.5 @m.zhmyzh.y@$$g@$$g@:0.0 @myzhmyzh.g@$$g@$$.@:-0.5 @myzhmyzh.@.$$g@$$g@:-0.5 
 @.y.hmyzhm@z$$g@$$g@ @my.hmyzh.@z$$g@$$g@:-0.75 .@y.hmyzhm@z$$g@$$g@:-0.5 @.yzhmyzhm@.$$g@$$g@:-0.5 
-@m..hmyzh@yz$$g@$$g@ @my.hmyzh@.z$$g@$$g@:0 @m.zhmyzh@y.$$g@$$g@:0 
+@m..hmyzh@yz$$g@$$g@ @my.hmyzh@.z$$g@$$g@:0.0 @m.zhmyzh@y.$$g@$$g@:0.0 
 @.yzhmyzhm@@$$g@$$g. @myzhmyzh.@@$$g@$$g.:-0.5 .@yzhmyzhm@@$$g@$$g.:-0.5 @.yzhmyzhm@@$$g.$$g@:-1.0 
 @myzhmyzh@.@$$g@$$g. @m.zhmyzh@y@$$g@$$g.:-0.75 @myzhmyzh@g@$$g@$$..:-1.0 @myzhmyzh.@@$$g@$$g.:-1.0 @myzhmyzh@@.$$g@$$g.:-1.0 @myzhmyzh@.@$$g.$$g@:-0.5 
 @m.zhmyzh@y@$$g@$$g. @myzhmyzh@.@$$g@$$g.:-0.75 @m.zhmyzh@y@$$g.$$g@:-1.0 
-@.yzhmyzhmg@$$g@$$.@ @myzhmyzh.g@$$g@$$.@:0 .@yzhmyzhmg@$$g@$$.@:0 @.yzhmyzhm.@$$g@$$g@:-0.5 @.yzhmyzhmg@$$g@$$@.:-0.5 
+@.yzhmyzhmg@$$g@$$.@ @myzhmyzh.g@$$g@$$.@:0.0 .@yzhmyzhmg@$$g@$$.@:0.0 @.yzhmyzhm.@$$g@$$g@:-0.5 @.yzhmyzhmg@$$g@$$@.:-0.5 
 @..zhmyzhmy@$$g@$$g@ @m.zhmyzh.y@$$g@$$g@:-0.5 .@.zhmyzhmy@$$g@$$g@:-0.5 @.yzhmyzhm.@$$g@$$g@:-0.75 
-@.yzhmyzhmg@$$g@$$@. @myzhmyzh.g@$$g@$$@.:0 .@yzhmyzhmg@$$g@$$@.:-0.5 @.yzhmyzhmg@$$g.$$@@:0 @.yzhmyzhmg@$$g@$$.@:-0.5 
-@myzhmyzh.g@$$g@$$.@ @.yzhmyzhmg@$$g@$$.@:0 @myzhmyzh..@$$g@$$g@:-0.5 @myzhmyzh.g@$$g@$$@.:0 
-@m.zhmyzh.y@$$g@$$g@ @..zhmyzhmy@$$g@$$g@:-0.5 @myzhmyzh..@$$g@$$g@:0 
+@.yzhmyzhmg@$$g@$$@. @myzhmyzh.g@$$g@$$@.:0.0 .@yzhmyzhmg@$$g@$$@.:-0.5 @.yzhmyzhmg@$$g.$$@@:0.0 @.yzhmyzhmg@$$g@$$.@:-0.5 
+@myzhmyzh.g@$$g@$$.@ @.yzhmyzhmg@$$g@$$.@:0.0 @myzhmyzh..@$$g@$$g@:-0.5 @myzhmyzh.g@$$g@$$@.:0.0 
+@m.zhmyzh.y@$$g@$$g@ @..zhmyzhmy@$$g@$$g@:-0.5 @myzhmyzh..@$$g@$$g@:0.0 
 .@.zhmyzhmy@$$g@$$g@ h@.zhmyz.my@$$g@$$g@:-0.5 @..zhmyzhmy@$$g@$$g@:-0.5 .@yzhmyzhm.@$$g@$$g@:-0.75 ..@zhmyzhmy@$$g@$$g@:-0.5 
-.@yzhmyzhmg@$$g@$$.@ h@yzhmyz.mg@$$g@$$.@:-0.5 @.yzhmyzhmg@$$g@$$.@:0 .@yzhmyzhm.@$$g@$$g@:-0.5 .@yzhmyzhmg@$$g@$$@.:-0.5 
+.@yzhmyzhmg@$$g@$$.@ h@yzhmyz.mg@$$g@$$.@:-0.5 @.yzhmyzhmg@$$g@$$.@:0.0 .@yzhmyzhm.@$$g@$$g@:-0.5 .@yzhmyzhmg@$$g@$$@.:-0.5 
 h@yzhmyz.mg@$$g@$$.@ .@yzhmyzhmg@$$g@$$.@:-0.5 h@yzhmyz.m.@$$g@$$g@:-0.5 h@yzhmyz.mg@$$g@$$@.:-0.5 
-h@yzhmyz.mg@$$g@$$@. .@yzhmyzhmg@$$g@$$@.:0 h@yzhmyz.mg@$$g.$$@@:0 h@yzhmyz.mg@$$g@$$.@:-0.5 
-.@yzhmyzhmg@$$g@$$@. h@yzhmyz.mg@$$g@$$@.:0 @.yzhmyzhmg@$$g@$$@.:-0.5 .@yzhmyzhmg@$$g.$$@@:0 .@yzhmyzhmg@$$g@$$.@:0 
+h@yzhmyz.mg@$$g@$$@. .@yzhmyzhmg@$$g@$$@.:0.0 h@yzhmyz.mg@$$g.$$@@:0.0 h@yzhmyz.mg@$$g@$$.@:-0.5 
+.@yzhmyzhmg@$$g@$$@. h@yzhmyz.mg@$$g@$$@.:0.0 @.yzhmyzhmg@$$g@$$@.:-0.5 .@yzhmyzhmg@$$g.$$@@:0.0 .@yzhmyzhmg@$$g@$$.@:0.0 
 h@y.hmyz.m@z$$g@$$g@ .@y.hmyzhm@z$$g@$$g@:-0.75 h@yzhmyz.m@.$$g@$$g@:-1.125 
 @myzhmyzh@g@$$g@$$.. @myzhmyzh@.@$$g@$$g.:-1.125 @myzhmyzh@g@$$g.$$.@:-1.0 
 @myzhmyzh@g@$$g.$$@. @myzhmyzh@g.$$g@$$@.:-0.5 @myzhmyzh@g@$$g.$$.@:-1.25 
@@ -254,14 +254,14 @@ h@y.hmyz.m@z$$g@$$g@ .@y.hmyzhm@z$$g@$$g@:-0.75 h@yzhmyz.m@.$$g@$$g@:-1.125
 @my.hmyzh@@z$$g@$$g. @myzhmyzh@@.$$g@$$g.:-0.5 @my.hmyzh@@z$$g.$$g@:-1.0 
 @myzhmyzh@@@$$g.$$g. @myzhmyzh@@@$$.g$$.g:-0.5 @myzhmyzh@@.$$g@$$g.:-0.5 
 @myzhmyzh@@@$$.g$$.g @myzhmyzh@@@.$$g.$$g:875.0 @myzhmyzh@@@$$g.$$g.:-0.5 @myzhmyzh@.@$$@g$$.g:-0.5 
-@my.hmy.h@@z$$gz$$g@ @m.yhm.yh@@z$$gz$$g@:0 @my.hmyzh@@z$$g.$$g@:-0.5 
-@m.yhm.yh@@z$$gz$$g@ @.myh.myh@@z$$gz$$g@:0 @my.hmy.h@@z$$gz$$g@:0 @m.yhm@yh@.z$$gz$$g@:0 
-..@zhmyzhmy@$$g@$$g@ h.@zhmyz.my@$$g@$$g@:-0.5 .m@zhmyzh.y@$$g@$$g@:0 .@.zhmyzhmy@$$g@$$g@:-0.75 
-h.@zhmyz.my@$$g@$$g@ ..@zhmyzhmy@$$g@$$g@:-0.75 hm@zhmyz..y@$$g@$$g@:-0.5 h@.zhmyz.my@$$g@$$g@:0 
-hm@zhmyz..y@$$g@$$g@ hm@zhmyz$$y@$$g@..g@:0 .m@zhmyzh.y@$$g@$$g@:0 h.@zhmyz.my@$$g@$$g@:-0.5 
-.m@zhmyzh.y@$$g@$$g@ hm@zhmyz..y@$$g@$$g@:0 ..@zhmyzhmy@$$g@$$g@:0 
-@.yzhmyzhmg@$$g.$$@@ @myzhmyzh.g@$$g.$$@@:0 .@yzhmyzhmg@$$g.$$@@:0 @.yzhmyzhmg.$$g@$$@@:0 @.yzhmyzhmg@$$g@$$@.:0 
-hm@yhm@y$$gz$$gz@@.. hm@yhm@y$$.z$$gz@@g.:-6.7116241455078125 hm@yhm@y$$gz$$gz@.@.:-6.938743591308594 hm@yhm@y$$g.$$gz@@.z:-6.975475311279297 
+@my.hmy.h@@z$$gz$$g@ @m.yhm.yh@@z$$gz$$g@:0.0 @my.hmyzh@@z$$g.$$g@:-0.5 
+@m.yhm.yh@@z$$gz$$g@ @.myh.myh@@z$$gz$$g@:0.0 @my.hmy.h@@z$$gz$$g@:0.0 @m.yhm@yh@.z$$gz$$g@:0.0 
+..@zhmyzhmy@$$g@$$g@ h.@zhmyz.my@$$g@$$g@:-0.5 .m@zhmyzh.y@$$g@$$g@:0.0 .@.zhmyzhmy@$$g@$$g@:-0.75 
+h.@zhmyz.my@$$g@$$g@ ..@zhmyzhmy@$$g@$$g@:-0.75 hm@zhmyz..y@$$g@$$g@:-0.5 h@.zhmyz.my@$$g@$$g@:0.0 
+hm@zhmyz..y@$$g@$$g@ hm@zhmyz$$y@$$g@..g@:0.0 .m@zhmyzh.y@$$g@$$g@:0.0 h.@zhmyz.my@$$g@$$g@:-0.5 
+.m@zhmyzh.y@$$g@$$g@ hm@zhmyz..y@$$g@$$g@:0.0 ..@zhmyzhmy@$$g@$$g@:0.0 
+@.yzhmyzhmg@$$g.$$@@ @myzhmyzh.g@$$g.$$@@:0.0 .@yzhmyzhmg@$$g.$$@@:0.0 @.yzhmyzhmg.$$g@$$@@:0.0 @.yzhmyzhmg@$$g@$$@.:0.0 
+hm@yhm@y$$gz$$gz@@.. hm@yhm@y$$.z$$gz@@g.:-7.995236396789551 hm@yhm@y$$gz$$gz@.@.:-7.4543962478637695 hm@yhm@y$$g.$$gz@@.z:-8.034742712974548 
 hm@@hmgy$$gy$$@z..@z hm@@hmgy..gy$$@z$$@z:-5.8300580978393555 hm@@hmgy$$gy$$@z.@.z:-5.879405975341797 
 hm@@hmgy..gy$$@z$$@z hm@@hmgy$$gy$$@z..@z:-5.7630109786987305 .m@@hmgyh.gy$$@z$$@z:-5.262939453125 h.@@hmgy.mgy$$@z$$@z:-5.175666809082031 
 .m@@hmgyh.gy$$@z$$@z hm@@hmgy..gy$$@z$$@z:-5.285285949707031 ..@@hmgyhmgy$$@z$$@z:-4.631103515625 
@@ -272,23 +272,23 @@ hm@@hmgy..gy$$@z$$@z hm@@hmgy$$gy$$@z..@z:-5.7630109786987305 .m@@hmgyh.gy$$@z$$
 .@@yhmgyhmgz$$@z$$@. h@@yhmgy.mgz$$@z$$@.:-3.28515625 @.@yhmgyhmgz$$@z$$@.:-3.46875 .@@yhmgyhmg.$$@z$$@z:-3.26171875 .@@yhmgyhmgz$$@z$$.@:-3.40234375 
 h@@yhmgy.mg.$$@z$$@z .@@yhmgyhmg.$$@z$$@z:-3.587890625 h@@.hmgy.mgy$$@z$$@z:-3.88671875 h@@yhmgy.mgz$$@z$$@.:-3.501953125 
 @.@yhmgyhmgz$$@z$$@. @m@yhmgyh.gz$$@z$$@.:-3.5390625 .@@yhmgyhmgz$$@z$$@.:-3.0703125 @@.yhmgyhmgz$$@z$$@.:-3.09375 @.@yhmgyhmg.$$@z$$@z:-3.21875 @.@yhmgyhmgz$$@z$$.@:-3.2734375 
-@.@yhmgyhmgz$$@z$$.@ @m@yhmgyh.gz$$@z$$.@:-3.2109375 .@@yhmgyhmgz$$@z$$.@:-3.0390625 @@.yhmgyhmgz$$@z$$.@:-2.99609375 @.@yhmgyhmgz$$.z$$@@:-3.0390625 @.@yhmgyhmgz$$@z$$@.:-3.1015625 
-@.@yhmgyhmgz$$.z$$@@ @m@yhmgyh.gz$$.z$$@@:-3.380859375 .@@yhmgyhmgz$$.z$$@@:-3.521484375 @@.yhmgyhmgz$$.z$$@@:-3.0234375 @.@yhm.yhmgz$$gz$$@@:-3.234375 @.@yhmgyhmgz$$@z$$.@:-2.96875 
+@.@yhmgyhmgz$$@z$$.@ @m@yhmgyh.gz$$@z$$.@:-3.2109375 .@@yhmgyhmgz$$@z$$.@:-3.0390625 @@.yhmgyhmgz$$@z$$.@:-3.154296875 @.@yhmgyhmgz$$.z$$@@:-3.0390625 @.@yhmgyhmgz$$@z$$@.:-3.1015625 
+@.@yhmgyhmgz$$.z$$@@ @m@yhmgyh.gz$$.z$$@@:-3.380859375 .@@yhmgyhmgz$$.z$$@@:-3.521484375 @@.yhmgyhmgz$$.z$$@@:-3.509765625 @.@yhm.yhmgz$$gz$$@@:-3.234375 @.@yhmgyhmgz$$@z$$.@:-3.482421875 
 .@@yhmgyhmgz$$@z$$.@ h@@yhmgy.mgz$$@z$$.@:-3.1640625 @.@yhmgyhmgz$$@z$$.@:-3.3203125 .@@yhmgyhmgz$$.z$$@@:-3.494140625 .@@yhmgyhmgz$$@z$$@.:-3.6640625 
-@@.yhmgyhmgz$$.z$$@@ @@gyhmgyhm.z$$.z$$@@:178.8193359375 @.@yhmgyhmgz$$.z$$@@:-2.5 @@.yhm.yhmgz$$gz$$@@:-2.8671875 @@.yhmgyhmgz$$@z$$.@:-2.734375 
+@@.yhmgyhmgz$$.z$$@@ @@gyhmgyhm.z$$.z$$@@:178.8193359375 @.@yhmgyhmgz$$.z$$@@:242.34912109375 @@.yhm.yhmgz$$gz$$@@:177.9907741546631 @@.yhmgyhmgz$$@z$$.@:-2.734375 
 @@gyhmgyhm.z$$.z$$@@ @@gyhmgyhmz.$$z.$$@@:-1.7981947880095082 @@.yhmgyhmgz$$.z$$@@:-2.0625 @@gyhmgyhm.z$$@z$$.@:488.1982421875 
-@@gyhmgyhm.z$$@z$$.@ @@.yhmgyhmgz$$@z$$.@:-1.96875 @@gyhmgyhm@z$$.z$$.@:866.12109375 @@gyhmgyhm.z$$.z$$@@:-1.625 @@gyhmgyhm.z$$@z$$@.:-1.90625 
-@@.yhmgyhmgz$$@z$$.@ @@gyhmgyhm.z$$@z$$.@:-2.3125 @.@yhmgyhmgz$$@z$$.@:-2.859375 @@.yhmgyhmgz$$.z$$@@:-2.85546875 @@.yhmgyhmgz$$@z$$@.:-2.859375 
-@@.yhm.yhmgz$$gz$$@@ @@y.hmy.hmgz$$gz$$@@:-3.05078125 @.@yhm.yhmgz$$gz$$@@:-3.34375 @@.yhmgyhmgz$$.z$$@@:57.2509765625 
+@@gyhmgyhm.z$$@z$$.@ @@.yhmgyhmgz$$@z$$.@:-1.96875 @@gyhmgyhm@z$$.z$$.@:932.072021484375 @@gyhmgyhm.z$$.z$$@@:-1.625 @@gyhmgyhm.z$$@z$$@.:-1.90625 
+@@.yhmgyhmgz$$@z$$.@ @@gyhmgyhm.z$$@z$$.@:431.404296875 @.@yhmgyhmgz$$@z$$.@:-2.859375 @@.yhmgyhmgz$$.z$$@@:-2.85546875 @@.yhmgyhmgz$$@z$$@.:-2.859375 
+@@.yhm.yhmgz$$gz$$@@ @@y.hmy.hmgz$$gz$$@@:-3.05078125 @.@yhm.yhmgz$$gz$$@@:-3.34375 @@.yhmgyhmgz$$.z$$@@:177.7099094390869 
 @@.yhmgyhmgz$$@z$$@. @@gyhmgyhm.z$$@z$$@.:-2.5625 @.@yhmgyhmgz$$@z$$@.:-3.140625 @@.yhmgyhmg.$$@z$$@z:-2.640625 @@.yhmgyhmgz$$@z$$.@:-2.765625 
-@.@yhm.yhmgz$$gz$$@@ @m@yhm.yh.gz$$gz$$@@:-3.36328125 .@@yhm.yhmgz$$gz$$@@:-3.46875 @@.yhm.yhmgz$$gz$$@@:-3.44921875 @.@yhmgyhmgz$$.z$$@@:-3.443359375 @..yhm@yhmgz$$gz$$@@:-3.76171875 
+@.@yhm.yhmgz$$gz$$@@ @m@yhm.yh.gz$$gz$$@@:-3.814453125 .@@yhm.yhmgz$$gz$$@@:-3.46875 @@.yhm.yhmgz$$gz$$@@:-3.44921875 @.@yhmgyhmgz$$.z$$@@:-3.443359375 @..yhm@yhmgz$$gz$$@@:-3.76171875 
 h@@yhmgy.mgz$$@z$$.@ .@@yhmgyhmgz$$@z$$.@:-3.203125 h@@yhmgy.mgz$$.z$$@@:-3.73046875 h@@yhmgy.mgz$$@z$$@.:-3.646484375 
 h@@yhmgy.mgz$$@z$$@. .@@yhmgyhmgz$$@z$$@.:-3.31640625 h@@yhmgy.mg.$$@z$$@z:-3.75390625 h@@yhmgy.mgz$$@z$$.@:-3.501953125 
 @m@yhmgyh.gz$$@z$$.@ @.@yhmgyhmgz$$@z$$.@:-3.09375 @m@yhmgyh.gz$$.z$$@@:-3.154296875 @m@yhmgyh.gz$$@z$$@.:-3.1875 
 @m@yhmgyh.gz$$@z$$@. @.@yhmgyhmgz$$@z$$@.:-3.38671875 @m@yhmgyh.g.$$@z$$@z:-3.54296875 @m@yhmgyh.gz$$@z$$.@:-3.05859375 
-@m@yhmgyh.gz$$.z$$@@ @.@yhmgyhmgz$$.z$$@@:-3.564453125 @m@yhm.yh.gz$$gz$$@@:-2.9765625 @m@yhmgyh.gz$$@z$$.@:-3.15625 
+@m@yhmgyh.gz$$.z$$@@ @.@yhmgyhmgz$$.z$$@@:-3.564453125 @m@yhm.yh.gz$$gz$$@@:-3.62109375 @m@yhmgyh.gz$$@z$$.@:-3.15625 
 @m@yhmgyh.g.$$@z$$@z @.@yhmgyhmg.$$@z$$@z:-3.265625 @m@.hmgyh.gy$$@z$$@z:-3.6171875 @m@yhmgyh.gz$$@z$$@.:-3.052734375 
-@@gyhmgyhm@z$$.z$$.@ @@gyhmgyhm@z.$$z.$$@:999.02294921875 @@gyhmgyhm.z$$@z$$.@:0 @@gyhmgyhm@z$$.z$$@.:-0.5 
+@@gyhmgyhm@z$$.z$$.@ @@gyhmgyhm@z.$$z.$$@:999.511474609375 @@gyhmgyhm.z$$@z$$.@:0.0 @@gyhmgyhm@z$$.z$$@.:-0.5 
 @@gyhmgyhm@z$$.z$$@. @@gyhmgyhm.z$$@z$$@.:-1.5625 @@gyhmgyhm@z$$@z$$..:-1.5 @@gyhmgyhm@.$$.z$$@z:-1.0 @@gyhmgyhm@z$$.z$$.@:861.29833984375 
 @@gyhmgyhm.z$$@z$$@. @@.yhmgyhmgz$$@z$$@.:-1.8125 @@gyhmgyhm@z$$.z$$@.:232.5390625 @@gyhmgyhm..$$@z$$@z:-2.03125 @@gyhmgyhm.z$$@z$$.@:-1.75 
 @.@yhmgyhmg.$$@z$$@z @m@yhmgyh.g.$$@z$$@z:-3.1640625 .@@yhmgyhmg.$$@z$$@z:-3.37890625 @@.yhmgyhmg.$$@z$$@z:-3.09765625 @.@.hmgyhmgy$$@z$$@z:-3.365234375 @.@yhmgyhmgz$$@z$$@.:-3.01171875 
@@ -296,8 +296,8 @@ h@@yhmgy.mgz$$@z$$@. .@@yhmgyhmgz$$@z$$@.:-3.31640625 h@@yhmgy.mg.$$@z$$@z:-3.75
 @.@.hmgyhmgy$$@z$$@z @m@.hmgyh.gy$$@z$$@z:-3.63671875 .@@.hmgyhmgy$$@z$$@z:-3.5244140625 @@..hmgyhmgy$$@z$$@z:-3.275390625 @.@yhmgyhmg.$$@z$$@z:-3.09765625 @..@hmgyhmgy$$@z$$@z:-3.568359375 
 @m@.hmgyh.gy$$@z$$@z @.@.hmgyhmgy$$@z$$@z:-3.59375 @m@yhmgyh.g.$$@z$$@z:-3.296875 @m.@hmgyh.gy$$@z$$@z:-3.3828125 
 @..@hmgyhmgy$$@z$$@z @m.@hmgyh.gy$$@z$$@z:-3.509765625 .@.@hmgyhmgy$$@z$$@z:-3.4921875 @.g@hmgyhm.y$$@z$$@z:-3.76171875 @.@.hmgyhmgy$$@z$$@z:-3.59375 
-@m@yhm.yh.gz$$gz$$@@ @.@yhm.yhmgz$$gz$$@@:-3.55078125 @m@yhmgyh.gz$$.z$$@@:-3.15234375 @m.yhm@yh.gz$$gz$$@@:-3.265625 
-.@@yhmgyhmgz$$.z$$@@ h@@yhmgy.mgz$$.z$$@@:-3.72265625 @.@yhmgyhmgz$$.z$$@@:-3.482421875 .@@yhm.yhmgz$$gz$$@@:-3.84375 .@@yhmgyhmgz$$@z$$.@:-3.802734375 
+@m@yhm.yh.gz$$gz$$@@ @.@yhm.yhmgz$$gz$$@@:-4.009765625 @m@yhmgyh.gz$$.z$$@@:-3.564453125 @m.yhm@yh.gz$$gz$$@@:-3.8671875 
+.@@yhmgyhmgz$$.z$$@@ h@@yhmgy.mgz$$.z$$@@:-3.72265625 @.@yhmgyhmgz$$.z$$@@:-3.7255859375 .@@yhm.yhmgz$$gz$$@@:-3.84375 .@@yhmgyhmgz$$@z$$.@:-3.802734375 
 @@gyhmgyhm..$$@z$$@z @@.yhmgyhmg.$$@z$$@z:-2.65625 @@gyhmgyhm@.$$.z$$@z:-2.2890625 @@g.hmgyhm.y$$@z$$@z:-2.125 @@gyhmgyhm.z$$@z$$@.:-2.109375 
 @@..hmgyhmgy$$@z$$@z @@g.hmgyhm.y$$@z$$@z:-2.6875 @.@.hmgyhmgy$$@z$$@z:-3.140625 @@.yhmgyhmg.$$@z$$@z:-2.7109375 
 @@gyhmgyhm@.$$.z$$@z @@gyhmgyhm..$$@z$$@z:-2.1640625 @@gyhmgyhm@.$$@z$$.z:-1.5 @@g.hmgyhm@y$$.z$$@z:-1.5 @@gyhmgyhm@z$$.z$$@.:361.525390625 @@gyhmgyhm.@$$.z$$@z:-1.5 
@@ -310,27 +310,27 @@ h@@yhmgy.mgz$$@z$$@. .@@yhmgyhmgz$$@z$$@.:-3.31640625 h@@yhmgy.mg.$$@z$$@z:-3.75
 @@g.hmgyhm@y$$.z$$@z @@g.hmgyhm.y$$@z$$@z:-2.0625 @@g.hmgyhm@y$$@z$$.z:-1.625 @@gyhmgyhm@.$$.z$$@z:-2.0625 
 @@g.hmgyhm.y$$@z$$@z @@..hmgyhmgy$$@z$$@z:-2.6484375 @@g.hmgyhm@y$$.z$$@z:-2.0625 @@gyhmgyhm..$$@z$$@z:-2.390625 
 @@gyhmgyhmz.$$z.$$@@ @@gyhmgyhm.z$$.z$$@@:-2.1401688272494193 @@g.hmgyhmzy$$z.$$@@:-2.171875 @@gyhmgyhmz.$$z@$$@.:-2.618963473235983 
-@@gyhmgyhm@z.$$z.$$@ @@gyhmgyhm@z$$.z$$.@:0 @@gy.mgyhm@zh$$z.$$@:0 
-hm@yhm@y$$gz$$gz.@@. hm@yhm@y$$gz$$gz@.@.:-6.6825714111328125 hm@yhm@y$$g.$$gz.@@z:-6.7654266357421875 hm@yhm@y$$gz$$gz.@.@:-6.656257629394531 
-hm@yhm@y$$gz$$gz.@.@ hm@yhm@y$$gz$$gz@..@:-6.5366973876953125 hm@yhm@y$$.z$$gz.@g@:-6.528919219970703 hm@yhm@y$$gz$$gz..@@:-6.387014627456665 hm@yhm@y$$gz$$gz.@@.:-6.143033981323242 
-hm@yhm@y$$gz$$gz@..@ hm@yhm@y$$gz$$gz.@.@:-6.563866138458252 hm@yhm@y$$.z$$gz@.g@:-6.529392242431641 hm@yhm@y$$gz$$gz@.@.:-6.385540008544922 
-hm@yhm@y$$.z$$gz@.g@ hm@yhm@y$$.z$$gz.@g@:-6.571678161621094 hm@yhm@y$$gz$$gz@..@:-6.54241943359375 hm@yhm.y$$@z$$gz@.g@:-6.865653991699219 
+@@gyhmgyhm@z.$$z.$$@ @@gyhmgyhm@z$$.z$$.@:0.0 @@gy.mgyhm@zh$$z.$$@:0.0 
+hm@yhm@y$$gz$$gz.@@. hm@yhm@y$$gz$$gz@.@.:-7.283941268920898 hm@yhm@y$$g.$$gz.@@z:-7.568042993545532 hm@yhm@y$$gz$$gz.@.@:-7.143330216407776 
+hm@yhm@y$$gz$$gz.@.@ hm@yhm@y$$gz$$gz@..@:-6.729447364807129 hm@yhm@y$$.z$$gz.@g@:-6.528919219970703 hm@yhm@y$$gz$$gz..@@:-6.5903559923172 hm@yhm@y$$gz$$gz.@@.:-6.912802696228027 
+hm@yhm@y$$gz$$gz@..@ hm@yhm@y$$gz$$gz.@.@:-7.181227505207062 hm@yhm@y$$.z$$gz@.g@:-7.035905838012695 hm@yhm@y$$gz$$gz@.@.:-7.542201042175293 
+hm@yhm@y$$.z$$gz@.g@ hm@yhm@y$$.z$$gz.@g@:-6.571678161621094 hm@yhm@y$$gz$$gz@..@:-7.053142786026001 hm@yhm.y$$@z$$gz@.g@:-6.865653991699219 
 hm@yhm@y$$.z$$gz.@g@ hm@yhm@y$$.z$$gz@.g@:-6.515239715576172 hm@yhm@y$$gz$$gz.@.@:-6.706966161727905 hm@yhm.y$$@z$$gz.@g@:-6.6147918701171875 
-hm@yhm@y$$gz$$gz..@@ hm@yhm@y..gz$$gz$$@@:-5.793697357177734 hm@yhm@y$$gz$$gz.@.@:-6.048301696777344 
+hm@yhm@y$$gz$$gz..@@ hm@yhm@y..gz$$gz$$@@:-6.004758834838867 hm@yhm@y$$gz$$gz.@.@:-6.048301696777344 
 hm@yhm.y$$@z$$gz.@g@ hm@yhm.y$$@z$$gz@.g@:-6.772712707519531 hm.yhm@y$$@z$$gz.@g@:-6.654075622558594 hm@yhm@y$$.z$$gz.@g@:-6.869299411773682 
 hm.yhm@y$$@z$$gz.@g@ hm.yhm@y$$@z$$gz@.g@:-6.944587707519531 hm@yhm.y$$@z$$gz.@g@:-6.708160400390625 
 hm@yhm.y$$@z$$gz@.g@ hm@yhm.y$$@z$$gz.@g@:-6.924717903137207 hm.yhm@y$$@z$$gz@.g@:-6.897712707519531 hm@yhm@y$$.z$$gz@.g@:-6.827995300292969 
 hm.yhm@y$$@z$$gz@.g@ hm.yhm@y$$@z$$gz.@g@:-6.9281005859375 hm@yhm.y$$@z$$gz@.g@:-6.943450927734375 
-hm@yhm@y..gz$$gz$$@@ hm@yhm@y$$gz$$gz..@@:-5.649162292480469 .m@yhm@yh.gz$$gz$$@@:-5.26416015625 h.@yhm@y.mgz$$gz$$@@:-5.2158203125 
-h.@yhm@y.mgz$$gz$$@@ ..@yhm@yhmgz$$gz$$@@:-4.611328125 hm@yhm@y..gz$$gz$$@@:-4.78271484375 h@.yhm@y.mgz$$gz$$@@:-4.8763427734375 
+hm@yhm@y..gz$$gz$$@@ hm@yhm@y$$gz$$gz..@@:-5.649162292480469 .m@yhm@yh.gz$$gz$$@@:-5.26416015625 h.@yhm@y.mgz$$gz$$@@:-5.41357421875 
+h.@yhm@y.mgz$$gz$$@@ ..@yhm@yhmgz$$gz$$@@:-4.96484375 hm@yhm@y..gz$$gz$$@@:-4.78271484375 h@.yhm@y.mgz$$gz$$@@:-4.8763427734375 
 .m@yhm@yh.gz$$gz$$@@ hm@yhm@y..gz$$gz$$@@:-4.997314453125 ..@yhm@yhmgz$$gz$$@@:-4.904541015625 
-..@yhm@yhmgz$$gz$$@@ h.@yhm@y.mgz$$gz$$@@:-4.638671875 .m@yhm@yh.gz$$gz$$@@:-4.6826171875 .@.yhm@yhmgz$$gz$$@@:-4.318359375 
-.@.yhm@yhmgz$$gz$$@@ h@.yhm@y.mgz$$gz$$@@:-4.34716796875 @..yhm@yhmgz$$gz$$@@:-3.8046875 .@@yhm.yhmgz$$gz$$@@:-4.0830078125 ..@yhm@yhmgz$$gz$$@@:-4.05859375 
-.@@yhm.yhmgz$$gz$$@@ h@@yhm.y.mgz$$gz$$@@:-3.556640625 @.@yhm.yhmgz$$gz$$@@:-3.818359375 .@@yhmgyhmgz$$.z$$@@:-3.703125 .@.yhm@yhmgz$$gz$$@@:-4.0029296875 
+..@yhm@yhmgz$$gz$$@@ h.@yhm@y.mgz$$gz$$@@:-4.638671875 .m@yhm@yh.gz$$gz$$@@:-4.6826171875 .@.yhm@yhmgz$$gz$$@@:-4.68310546875 
+.@.yhm@yhmgz$$gz$$@@ h@.yhm@y.mgz$$gz$$@@:-4.34716796875 @..yhm@yhmgz$$gz$$@@:-4.17578125 .@@yhm.yhmgz$$gz$$@@:-4.31982421875 ..@yhm@yhmgz$$gz$$@@:-4.302734375 
+.@@yhm.yhmgz$$gz$$@@ h@@yhm.y.mgz$$gz$$@@:-4.1884765625 @.@yhm.yhmgz$$gz$$@@:-3.818359375 .@@yhmgyhmgz$$.z$$@@:-4.0927734375 .@.yhm@yhmgz$$gz$$@@:-4.0029296875 
 h@.yhm@y.mgz$$gz$$@@ .@.yhm@yhmgz$$gz$$@@:-4.2548828125 h@@yhm.y.mgz$$gz$$@@:-4.346923828125 h.@yhm@y.mgz$$gz$$@@:-4.466064453125 
-h@@yhm.y.mgz$$gz$$@@ .@@yhm.yhmgz$$gz$$@@:-3.8203125 h@@yhmgy.mgz$$.z$$@@:-4.22314453125 h@.yhm@y.mgz$$gz$$@@:-3.84375 
-@..yhm@yhmgz$$gz$$@@ @m.yhm@yh.gz$$gz$$@@:-3.546875 .@.yhm@yhmgz$$gz$$@@:-3.599609375 @.@yhm.yhmgz$$gz$$@@:-3.83203125 
-@m.yhm@yh.gz$$gz$$@@ @..yhm@yhmgz$$gz$$@@:-3.46875 @m@yhm.yh.gz$$gz$$@@:-3.46875 
+h@@yhm.y.mgz$$gz$$@@ .@@yhm.yhmgz$$gz$$@@:-4.26171875 h@@yhmgy.mgz$$.z$$@@:-4.22314453125 h@.yhm@y.mgz$$gz$$@@:-3.84375 
+@..yhm@yhmgz$$gz$$@@ @m.yhm@yh.gz$$gz$$@@:-4.0078125 .@.yhm@yhmgz$$gz$$@@:-4.34130859375 @.@yhm.yhmgz$$gz$$@@:-3.83203125 
+@m.yhm@yh.gz$$gz$$@@ @..yhm@yhmgz$$gz$$@@:-4.0341796875 @m@yhm.yh.gz$$gz$$@@:-3.810546875 
 h@@yhmgy.mgz$$.z$$@@ .@@yhmgyhmgz$$.z$$@@:-4.0498046875 h@@yhm.y.mgz$$gz$$@@:-4.04052734375 h@@yhmgy.mgz$$@z$$.@:-3.71875 
 @@y.hmy.hmgz$$gz$$@@ @@.yhm.yhmgz$$gz$$@@:-3.20703125 @@y.hmyzhmgz$$g.$$@@:-2.927734375 
 h@@.hmgy.mgy$$@z$$@z .@@.hmgyhmgy$$@z$$@z:-3.728515625 h@@yhmgy.mg.$$@z$$@z:-3.681640625 h@.@hmgy.mgy$$@z$$@z:-3.6357421875 
@@ -347,25 +347,25 @@ h@g@hmgy.m.y$$@z$$@z .@g@hmgyhm.y$$@z$$@z:-3.20703125 h@.@hmgy.mgy$$@z$$@z:-3.69
 h@g@hmgy.m@y$$.z$$@z .@g@hmgyhm@y$$.z$$@z:-3.08984375 h@g@hmgy.m.y$$@z$$@z:-3.265625 h@g@hmgy.m@y$$@z$$.z:-3.337890625 
 h@g@hmgy.m@y$$@z$$.z .@g@hmgyhm@y$$@z$$.z:-3.046875 h@g@hmgy.m@y$$.z$$@z:-3.1875 
 .@g@hmgyhm@y$$@z$$.z h@g@hmgy.m@y$$@z$$.z:-2.98046875 @.g@hmgyhm@y$$@z$$.z:-2.8046875 .@g@hmgyhm@y$$.z$$@z:-2.98046875 
-hm.yhm@y$$g@$$gz@.@z hm.yhm@y$$g@$$gz.@@z:-6.402229309082031 hm.yhm@y$$g@$$gz@@.z:-6.905701637268066 hm@yhm.y$$g@$$gz@.@z:-6.336338043212891 
-hm@yhm.y$$g@$$gz@.@z hm@yhm.y$$g@$$gz.@@z:-6.4019775390625 hm@yhm.y$$g@$$gz@@.z:-6.4857635498046875 hm@yhmgy$$g@$$.z@.@z:-6.285614013671875 hm.yhm@y$$g@$$gz@.@z:-6.437507629394531 
+hm.yhm@y$$g@$$gz@.@z hm.yhm@y$$g@$$gz.@@z:-6.402229309082031 hm.yhm@y$$g@$$gz@@.z:-6.9174017906188965 hm@yhm.y$$g@$$gz@.@z:-6.654611587524414 
+hm@yhm.y$$g@$$gz@.@z hm@yhm.y$$g@$$gz.@@z:-6.4019775390625 hm@yhm.y$$g@$$gz@@.z:-6.744743347167969 hm@yhmgy$$g@$$.z@.@z:-6.285614013671875 hm.yhm@y$$g@$$gz@.@z:-6.437507629394531 
 hm.yhm@y$$g@$$gz.@@z hm.yhm@y$$g@$$gz@.@z:-6.211307525634766 hm@yhm.y$$g@$$gz.@@z:-6.3244476318359375 
-hm@yhmgy$$g@$$.z@@.z hm@yhmgy$$g@$$z.@@z.:-6.448329925537109 hm@yhm.y$$g@$$gz@@.z:-6.695512771606445 hm@yhmgy$$g@$$.z@.@z:-6.054473876953125 
-hm@yhmgy$$g@$$z.@@z. hm@yhmgy$$g@$$.z@@.z:-6.257883071899414 hm@yhmgy$$g.$$z@@@z.:-6.565151214599609 
-hm@yhm.y$$g@$$gz.@@z hm@yhm.y$$g@$$gz@.@z:-6.256305694580078 hm@yhmgy$$g@$$.z.@@z:-6.304035186767578 hm.yhm@y$$g@$$gz.@@z:-6.2577362060546875 
-hm@yhmgy$$g@$$.z@.@z hm@yhmgy$$g@$$.z.@@z:-6.257789611816406 hm@yhmgy$$g@$$.z@@.z:-6.408084869384766 hm@yhm.y$$g@$$gz@.@z:-6.06781005859375 hm@yhmgy$$g@$$@z@..z:-6.016693115234375 
-hm@yhmgy$$g@$$@z@..z hm@yhmgy$$g@$$@z.@.z:-5.7186431884765625 hm@yhmgy$$g@$$.z@.@z:-6.1217041015625 
-hm@yhmgy$$g.$$z@@@z. hm@.hmgy$$gy$$z@@@z.:-6.245826721191406 hm@yhmgy$$g@$$z.@@z.:-6.562755584716797 hm@yhmgy$$g.$$z.@@z@:-6.0163421630859375 
-hm@.hmgy$$gy$$z@@@z. hm@yhmgy$$g.$$z@@@z.:-6.166648864746094 hm.@hmgy$$gy$$z@@@z.:-6.2736663818359375 hm@.hmgy$$gy$$z.@@z@:-6.00201416015625 
-hm@.hmgy$$gy$$z.@@z@ hm@yhmgy$$g.$$z.@@z@:-5.6143798828125 hm.@hmgy$$gy$$z.@@z@:-6.241668701171875 hm@.hmg.$$gy$$zy@@z@:-5.6126708984375 hm@.hmgy$$gy$$z@@@z.:-6.1765594482421875 
+hm@yhmgy$$g@$$.z@@.z hm@yhmgy$$g@$$z.@@z.:-6.281564712524414 hm@yhm.y$$g@$$gz@@.z:-6.328892946243286 hm@yhmgy$$g@$$.z@.@z:-6.282073974609375 
+hm@yhmgy$$g@$$z.@@z. hm@yhmgy$$g@$$.z@@.z:-6.153526306152344 hm@yhmgy$$g.$$z@@@z.:-6.148963928222656 
+hm@yhm.y$$g@$$gz.@@z hm@yhm.y$$g@$$gz@.@z:-6.473568916320801 hm@yhmgy$$g@$$.z.@@z:-6.188529968261719 hm.yhm@y$$g@$$gz.@@z:-6.2577362060546875 
+hm@yhmgy$$g@$$.z@.@z hm@yhmgy$$g@$$.z.@@z:-6.595651626586914 hm@yhmgy$$g@$$.z@@.z:-6.484460830688477 hm@yhm.y$$g@$$gz@.@z:-6.06781005859375 hm@yhmgy$$g@$$@z@..z:-6.016693115234375 
+hm@yhmgy$$g@$$@z@..z hm@yhmgy$$g@$$@z.@.z:-5.7186431884765625 hm@yhmgy$$g@$$.z@.@z:-5.47967529296875 
+hm@yhmgy$$g.$$z@@@z. hm@.hmgy$$gy$$z@@@z.:-6.245826721191406 hm@yhmgy$$g@$$z.@@z.:-6.087364196777344 hm@yhmgy$$g.$$z.@@z@:-6.0163421630859375 
+hm@.hmgy$$gy$$z@@@z. hm@yhmgy$$g.$$z@@@z.:-6.169044494628906 hm.@hmgy$$gy$$z@@@z.:-6.2736663818359375 hm@.hmgy$$gy$$z.@@z@:-6.307342529296875 
+hm@.hmgy$$gy$$z.@@z@ hm@yhmgy$$g.$$z.@@z@:-5.6143798828125 hm.@hmgy$$gy$$z.@@z@:-5.94085693359375 hm@.hmg.$$gy$$zy@@z@:-6.07757568359375 hm@.hmgy$$gy$$z@@@z.:-6.359519958496094 
 hm.@hmgy$$gy$$z@@@z. hmg@hmgy$$.y$$z@@@z.:-5.85260009765625 hm@.hmgy$$gy$$z@@@z.:-6.11077880859375 hm.@hmgy$$gy$$z.@@z@:-6.07855224609375 
-hm@.hmg.$$gy$$zy@@z@ hm.@hmg.$$gy$$zy@@z@:-5.54248046875 hm@.hmgy$$gy$$z.@@z@:-6.057830810546875 
+hm@.hmg.$$gy$$zy@@z@ hm.@hmg.$$gy$$zy@@z@:-6.1078338623046875 hm@.hmgy$$gy$$z.@@z@:-6.057830810546875 
 hm.@hmg.$$gy$$zy@@z@ hmg@hmg.$$.y$$zy@@z@:-6.152496337890625 hm@.hmg.$$gy$$zy@@z@:-6.017730712890625 hm.@hmgy$$gy$$z.@@z@:-5.69171142578125 hm..hmg@$$gy$$zy@@z@:-5.9364013671875 
 hmg@hmg.$$.y$$zy@@z@ hm.@hmg.$$gy$$zy@@z@:-6.05126953125 hmg@hmg.$$zy$$zy@@.@:-5.9420013427734375 hmg@hmgy$$.y$$z.@@z@:-5.856353759765625 hmg.hmg@$$.y$$zy@@z@:-5.753021240234375 
 hmg.hmg@$$.y$$zy@@z@ hm..hmg@$$gy$$zy@@z@:-5.8634033203125 hmg.hmg@$$zy$$zy@@.@:-5.505615234375 hmg@hmg.$$.y$$zy@@z@:-5.82611083984375 
 hmg@hmg.$$zy$$zy@@.@ hmg@hmg.$$.y$$zy@@z@:-5.712799072265625 hmg@hmg.$$zy$$zy@.@@:-5.5478515625 hmg@hmg.$$zy$$zy@@@.:-5.5526123046875 hmg@hmgy$$zy$$z.@@.@:-5.72674560546875 hmg.hmg@$$zy$$zy@@.@:-5.572509765625 
 hm..hmg@$$gy$$zy@@z@ hmg.hmg@$$.y$$zy@@z@:-5.849090576171875 hm.@hmg.$$gy$$zy@@z@:-5.9793701171875 
-hm.@hmgy$$gy$$z.@@z@ hmg@hmgy$$.y$$z.@@z@:-6.038665771484375 hm@.hmgy$$gy$$z.@@z@:-5.966400146484375 hm.@hmg.$$gy$$zy@@z@:-6.1766204833984375 hm.@hmgy$$gy$$z@@@z.:-5.80450439453125 
+hm.@hmgy$$gy$$z.@@z@ hmg@hmgy$$.y$$z.@@z@:-6.038665771484375 hm@.hmgy$$gy$$z.@@z@:-5.966400146484375 hm.@hmg.$$gy$$zy@@z@:-5.6800537109375 hm.@hmgy$$gy$$z@@@z.:-5.80450439453125 
 hmg@hmgy$$.y$$z@@@z. hm.@hmgy$$gy$$z@@@z.:-6.085296630859375 hmg@hmgy$$zy$$z@@@..:-5.74603271484375 hmg@hmgy$$.y$$z.@@z@:-5.782318115234375 
 hmg@hmgy$$zy$$z@@@.. hmg@hmgy$$.y$$z@@@z.:-5.948944091796875 hmg@hmgy$$zy$$z@@.@.:-5.66033935546875 hmg@hmgy$$zy$$z.@@.@:-5.541015625 
 hmg.hmg@$$zy$$zy@@.@ hmg.hmg@$$.y$$zy@@z@:-5.488525390625 hmg.hmg@$$zy$$zy@.@@:-5.611328125 hmg.hmg@$$zy$$zy@@@.:-5.0634765625 hmg@hmg.$$zy$$zy@@.@:-5.406494140625 
@@ -378,36 +378,36 @@ hmg@hmgy$$zy$$z.@@@. hmg@hmg.$$zy$$zy@@@.:-5.55419921875 hmg@hmgy$$zy$$z.@@.@:-5
 hmg@hmgy$$zy$$z.@.@@ hmg@hmgy$$zy$$z..@@@:-5.327392578125 hmg@hmgy$$zy$$z.@@.@:-5.61669921875 hmg@hmg.$$zy$$zy@.@@:-5.188720703125 hmg@hmgy$$zy$$z@@.@.:-5.2049560546875 
 hmg@hmgy$$zy$$z@@.@. hmg@hmgy$$zy$$z@.@@.:-5.629150390625 hmg@hmgy$$zy$$z@@@..:-5.63983154296875 hmg@hmgy$$zy$$z.@.@@:-5.314453125 hmg@hmgy$$zy$$z@@..@:-5.6102294921875 
 hmg@hmgy$$zy$$z@@..@ hmg@hmgy$$zy$$z@.@.@:-5.431640625 hmg@hmgy$$.y$$z@@.z@:-5.6400146484375 hmg@hmgy$$zy$$z@@.@.:-5.643310546875 
-hmg@hmgy$$.y$$z@@.z@ hmg@hmgy$$.y$$z@.@z@:-5.162841796875 hm.@hmgy$$gy$$z@@.z@:-5.378173828125 hmg@hmgy$$zy$$z@@..@:-5.7332763671875 
-hmg@hmgy$$.y$$z@.@z@ hmg@hmgy$$.y$$z@@.z@:-5.423095703125 hm.@hmgy$$gy$$z@.@z@:-5.17626953125 hmg@hmgy$$zy$$z@.@.@:-5.2314453125 
-hm.@hmgy$$gy$$z@.@z@ hm.@hmgy$$gy$$z@@.z@:-5.22265625 hmg@hmgy$$.y$$z@.@z@:-5.4888916015625 hm@.hmgy$$gy$$z@.@z@:-5.046142578125 
-hm@.hmgy$$gy$$z@.@z@ hm@.hmgy$$gy$$z@@.z@:-5.234619140625 hm@yhmgy$$g.$$z@.@z@:-4.99462890625 hm.@hmgy$$gy$$z@.@z@:-5.292236328125 
-hmg@hmgy$$zy$$z@.@.@ hmg@hmgy$$zy$$z@@..@:-5.341796875 hmg@hmgy$$.y$$z@.@z@:-5.252197265625 hmg@hmgy$$zy$$z@..@@:-5.1968994140625 hmg@hmgy$$zy$$z@.@@.:-5.522216796875 
-hmg@hmgy$$zy$$z@..@@ hmg@hmgy..zy$$z@$$@@:-5.1207275390625 hmg@hmgy$$zy$$z@.@.@:-5.2974853515625 
-hmg@hmgy..zy$$z@$$@@ hmg@hmgy$$zy$$z@..@@:-5.3824462890625 .mg@hmgyh.zy$$z@$$@@:-5.2620849609375 h.g@hmgy.mzy$$z@$$@@:-5.1514892578125 
-h.g@hmgy.mzy$$z@$$@@ ..g@hmgyhmzy$$z@$$@@:-5.294677734375 hmg@hmgy..zy$$z@$$@@:-5.1956787109375 
-..g@hmgyhmzy$$z@$$@@ h.g@hmgy.mzy$$z@$$@@:-5.2269287109375 .mg@hmgyh.zy$$z@$$@@:-5.4134521484375 
-.mg@hmgyh.zy$$z@$$@@ hmg@hmgy..zy$$z@$$@@:-5.4351806640625 ..g@hmgyhmzy$$z@$$@@:-5.28955078125 
+hmg@hmgy$$.y$$z@@.z@ hmg@hmgy$$.y$$z@.@z@:-5.6695556640625 hm.@hmgy$$gy$$z@@.z@:-5.378173828125 hmg@hmgy$$zy$$z@@..@:-5.7325439453125 
+hmg@hmgy$$.y$$z@.@z@ hmg@hmgy$$.y$$z@@.z@:-5.856689453125 hm.@hmgy$$gy$$z@.@z@:-5.6112060546875 hmg@hmgy$$zy$$z@.@.@:-5.71417236328125 
+hm.@hmgy$$gy$$z@.@z@ hm.@hmgy$$gy$$z@@.z@:-5.22265625 hmg@hmgy$$.y$$z@.@z@:-5.88214111328125 hm@.hmgy$$gy$$z@.@z@:-5.5203857421875 
+hm@.hmgy$$gy$$z@.@z@ hm@.hmgy$$gy$$z@@.z@:-5.7161865234375 hm@yhmgy$$g.$$z@.@z@:-5.541015625 hm.@hmgy$$gy$$z@.@z@:-5.7574462890625 
+hmg@hmgy$$zy$$z@.@.@ hmg@hmgy$$zy$$z@@..@:-5.341796875 hmg@hmgy$$.y$$z@.@z@:-5.837646484375 hmg@hmgy$$zy$$z@..@@:-5.6588134765625 hmg@hmgy$$zy$$z@.@@.:-5.522216796875 
+hmg@hmgy$$zy$$z@..@@ hmg@hmgy..zy$$z@$$@@:-5.94415283203125 hmg@hmgy$$zy$$z@.@.@:-5.77484130859375 
+hmg@hmgy..zy$$z@$$@@ hmg@hmgy$$zy$$z@..@@:-6.0687255859375 .mg@hmgyh.zy$$z@$$@@:-6.26702880859375 h.g@hmgy.mzy$$z@$$@@:-6.20123291015625 
+h.g@hmgy.mzy$$z@$$@@ ..g@hmgyhmzy$$z@$$@@:-6.389190673828125 hmg@hmgy..zy$$z@$$@@:-6.252349853515625 
+..g@hmgyhmzy$$z@$$@@ h.g@hmgy.mzy$$z@$$@@:-6.30743408203125 .mg@hmgyh.zy$$z@$$@@:-6.41656494140625 
+.mg@hmgyh.zy$$z@$$@@ hmg@hmgy..zy$$z@$$@@:-6.3743896484375 ..g@hmgyhmzy$$z@$$@@:-6.259521484375 
 hmg@hmgy$$zy$$z@.@@. hmg@hmgy$$zy$$z@@.@.:-5.5838623046875 hmg@hmgy$$zy$$z..@@@:-5.5208740234375 hmg@hmgy$$zy$$z@.@.@:-5.28857421875 
 hm.@hmgy$$gy$$z@@.z@ hm.@hmgy$$gy$$z@.@z@:-5.520751953125 hmg@hmgy$$.y$$z@@.z@:-5.275390625 hm@.hmgy$$gy$$z@@.z@:-5.4869384765625 
 hmg.hmg@$$zy$$zy@.@@ hmg.hmg@$$zy$$zy.@@@:-5.7178955078125 hmg.hmg@$$zy$$zy@@.@:-5.4310302734375 hmg@hmg.$$zy$$zy@.@@:-5.64306640625 
-hmg.hmg@$$zy$$zy@@@. hmg@hmg.$$zy$$zy@@@.:-5.0322265625 hmg.hmg@$$z.$$zy@@@y:-4.862548828125 hmg.hmg@$$zy$$zy@@.@:-5.0244140625 
+hmg.hmg@$$zy$$zy@@@. hmg@hmg.$$zy$$zy@@@.:-5.0322265625 hmg.hmg@$$z.$$zy@@@y:-4.9520263671875 hmg.hmg@$$zy$$zy@@.@:-5.0244140625 
 hmg.hmg@$$zy$$zy.@@@ hmg.hmg@$$zy$$zy@.@@:-5.7330322265625 hmg@hmg.$$zy$$zy.@@@:-5.435546875 
 hmg@hmgy$$zy$$z..@@@ hmg@hmgy$$zy$$z.@.@@:-5.2001953125 hmg@hmg.$$zy$$zy.@@@:-5.3848876953125 hmg@hmgy$$zy$$z@.@@.:-5.291015625 
-.my@hmyzh$$z.$$g@@@g hmy@hmyz.$$z.$$g@@@g:-2.734375 .my@.myzh$$zh$$g@@@g:-2.7734375 .my@hmyzh$$z@$$g.@@g:-2.8828125 
+.my@hmyzh$$z.$$g@@@g hmy@hmyz.$$z.$$g@@@g:860.4417873269556 .my@.myzh$$zh$$g@@@g:-2.7734375 .my@hmyzh$$z@$$g.@@g:-2.8828125 
 .my@.myzh$$zh$$g@@@g m.y@m.yzh$$zh$$g@@@g:-2.8515625 .my@hmyzh$$z.$$g@@@g:-2.8828125 
-.my@hmyzh$$z@$$g.@@g hmy@hmyz.$$z@$$g.@@g:-2.8125 .my@hmyzh$$z.$$g@@@g:-2.484375 .my@hmyzh$$z@$$g@.@g:-2.640625 
-hmy@hmyz.$$z@$$g.@@g .my@hmyzh$$z@$$g.@@g:-2.375 hmy@hmyz@$$z.$$g.@@g:-2.5 hmy@hmyz.$$z.$$g@@@g:-2.390625 hmy@hmyz.$$z@$$g@.@g:995.0 
-.my@hmyzh$$z@$$g@.@g hmy@hmyz.$$z@$$g@.@g:348.7315738714833 .my@hmyzh$$z@$$g.@@g:-2.578125 .my@hmyzh$$z@$$g@@.g:-2.4375 
-hmy@hmyz@$$z.$$g.@@g hmy@hmyz.$$z@$$g.@@g:-2.3125 hmy@hmyz@$$z.$$g@.@g:30.90236413492326 
-hmy@hmyz@$$z.$$g@.@g hmy@hmyz.$$z@$$g@.@g:39.9691821463002 hmy@hmyz@$$z@$$g..@g:10.796296296296232 hmy@hmyz@$$z.$$g.@@g:-1.75 hmy@hmyz@$$z.$$g@@.g:997.0 
-hmy@hmyz.$$z@$$g@.@g .my@hmyzh$$z@$$g@.@g:425.45346563384777 hmy@hmyz@$$z.$$g@.@g:996.0 hmy@hmyz.$$z@$$g.@@g:-2.03125 hmy@hmyz.$$z@$$g@@.g:496.9375 
-hmy@hmyz.$$z@$$g@@.g .my@hmyzh$$z@$$g@@.g:36.00185906085571 hmy@hmyz@$$z.$$g@@.g:518.9995803665769 hmy@hmyz.$$z@$$g@.@g:-2.125 
+.my@hmyzh$$z@$$g.@@g hmy@hmyz.$$z@$$g.@@g:-2.8125 .my@hmyzh$$z.$$g@@@g:-3.109375 .my@hmyzh$$z@$$g@.@g:871.1087707870956 
+hmy@hmyz.$$z@$$g.@@g .my@hmyzh$$z@$$g.@@g:963.7446179794456 hmy@hmyz@$$z.$$g.@@g:494.85138769547507 hmy@hmyz.$$z.$$g@@@g:496.3046875 hmy@hmyz.$$z@$$g@.@g:995.0 
+.my@hmyzh$$z@$$g@.@g hmy@hmyz.$$z@$$g@.@g:984.8998016413457 .my@hmyzh$$z@$$g.@@g:-2.578125 .my@hmyzh$$z@$$g@@.g:-2.4375 
+hmy@hmyz@$$z.$$g.@@g hmy@hmyz.$$z@$$g.@@g:496.755315396058 hmy@hmyz@$$z.$$g@.@g:875.2862790732316 
+hmy@hmyz@$$z.$$g@.@g hmy@hmyz.$$z@$$g@.@g:937.1778923037518 hmy@hmyz@$$z@$$g..@g:10.796296296296232 hmy@hmyz@$$z.$$g.@@g:872.1526148452573 hmy@hmyz@$$z.$$g@@.g:997.0 
+hmy@hmyz.$$z@$$g@.@g .my@hmyzh$$z@$$g@.@g:853.3555948410782 hmy@hmyz@$$z.$$g@.@g:996.0 hmy@hmyz.$$z@$$g.@@g:933.5886744368746 hmy@hmyz.$$z@$$g@@.g:496.9375 
+hmy@hmyz.$$z@$$g@@.g .my@hmyzh$$z@$$g@@.g:36.00185906085571 hmy@hmyz@$$z.$$g@@.g:967.1249721778615 hmy@hmyz.$$z@$$g@.@g:-2.125 
 .my@hmyzh$$z@$$g@@.g hmy@hmyz.$$z@$$g@@.g:-2.5 .my@hmyzh$$z@$$g@.@g:-2.65625 
-hmy@hmyz@$$z.$$g@@.g hmy@hmyz.$$z@$$g@@.g:41.020103972556974 hmy@hmyz@$$z@$$g.@.g:998.0 hmy@hmyz@$$z.$$g@.@g:40.917296229915365 
-hmy@hmyz@$$z@$$g.@.g hmy@hmyz@$$z.$$g@@.g:520.2328858369998 hmy@hmyz@$$z@$$g@..g:999.0 hmy@hmyz@$$z@$$g..@g:504.6061930801619 
-hmy@hmyz@$$z@$$g..@g hmy@hmyz@$$z.$$g@.@g:92.10605075113361 hmy@hmyz@$$z@$$g.@.g:-1.375 
-hmy@hmyz@$$z@$$g@..g hmy@hmyz@..z@$$g@$$g:1000.0 hmy@hmyz@$$z@$$g.@.g:-0.5 
+hmy@hmyz@$$z.$$g@@.g hmy@hmyz.$$z@$$g@@.g:938.1887561078674 hmy@hmyz@$$z@$$g.@.g:998.0 hmy@hmyz@$$z.$$g@.@g:990.522791376637 
+hmy@hmyz@$$z@$$g.@.g hmy@hmyz@$$z.$$g@@.g:984.0385274350238 hmy@hmyz@$$z@$$g@..g:999.0 hmy@hmyz@$$z@$$g..@g:998.5171933150992 
+hmy@hmyz@$$z@$$g..@g hmy@hmyz@$$z.$$g@.@g:994.2339712514924 hmy@hmyz@$$z@$$g.@.g:497.3125 
+hmy@hmyz@$$z@$$g@..g hmy@hmyz@..z@$$g@$$g:1000.0 hmy@hmyz@$$z@$$g.@.g:-0.984375 
 m.y@m.yzh$$zh$$g@@@g .my@.myzh$$zh$$g@@@g:-3.0546875 my.@my.zh$$zh$$g@@@g:-2.8828125 
 my.@my.zh$$zh$$g@@@g m.y@m.yzh$$zh$$g@@@g:-3.08984375 my@.my.zh$$zh$$g@@@g:-2.8125 
 my@.my.zh$$zh$$g@@@g my..my@zh$$zh$$g@@@g:-2.84375 my@zmy.zh$$.h$$g@@@g:-2.7734375 my.@my.zh$$zh$$g@@@g:-3.08203125 
@@ -415,128 +415,128 @@ my..my@zh$$zh$$g@@@g my@.my.zh$$zh$$g@@@g:-2.671875 my.zmy@zh$$.h$$g@@@g:-2.8281
 my.zmy@zh$$.h$$g@@@g my@zmy.zh$$.h$$g@@@g:-2.99609375 my..my@zh$$zh$$g@@@g:-2.625 my.zmy@zh$$gh$$g@@@.:-2.625 
 my@zmy.zh$$.h$$g@@@g my.zmy@zh$$.h$$g@@@g:-2.875 my@.my.zh$$zh$$g@@@g:-3.14453125 my@zmy.zh$$gh$$g@@@.:-2.9140625 
 my@zmy.zh$$gh$$g@@@. my.zmy@zh$$gh$$g@@@.:-2.9609375 my@zmy.zh$$.h$$g@@@g:-3.08203125 my@zmy.zh$$gh$$g@@.@:-2.6640625 
-hmy@hmyz@..z@$$g@$$g hmy@hmyz@$$z@$$g@..g:0 h.y@hmyz@m.z@$$g@$$g:0 hmy@hmyz.@.z@$$g@$$g:0 hm.@hmyz@.yz@$$g@$$g:0 
-hm@yhmgy$$g@$$.z.@@z hm@yhmgy$$g@$$.z@.@z:-6.194000244140625 hm@yhm.y$$g@$$gz.@@z:-6.177585601806641 hm@yhmgy$$g@$$@z.@.z:-6.045539855957031 
-hm@yhmgy$$g@$$@z.@.z hm@yhmgy$$g@$$@z@..z:-5.867156982421875 hm@yhmgy$$g@$$.z.@@z:-5.917877197265625 hm@yhmgy$$g@$$@z..@z:-5.3530426025390625 
+hmy@hmyz@..z@$$g@$$g hmy@hmyz@$$z@$$g@..g:0.0 h.y@hmyz@m.z@$$g@$$g:0.0 hmy@hmyz.@.z@$$g@$$g:0.0 hm.@hmyz@.yz@$$g@$$g:0.0 
+hm@yhmgy$$g@$$.z.@@z hm@yhmgy$$g@$$.z@.@z:-6.236297607421875 hm@yhm.y$$g@$$gz.@@z:-6.094486236572266 hm@yhmgy$$g@$$@z.@.z:-5.8364410400390625 
+hm@yhmgy$$g@$$@z.@.z hm@yhmgy$$g@$$@z@..z:-5.254638671875 hm@yhmgy$$g@$$.z.@@z:-5.917877197265625 hm@yhmgy$$g@$$@z..@z:-5.3530426025390625 
 hm@yhmgy$$g@$$@z..@z hm@yhmgy..g@$$@z$$@z:-4.8897705078125 hm@yhmgy$$g@$$@z.@.z:-4.742431640625 
 hm@yhmgy..g@$$@z$$@z hm@yhmgy$$g@$$@z..@z:-4.185546875 .m@yhmgyh.g@$$@z$$@z:-4.266845703125 h.@yhmgy.mg@$$@z$$@z:-4.254638671875 
 .m@yhmgyh.g@$$@z$$@z hm@yhmgy..g@$$@z$$@z:-3.873046875 ..@yhmgyhmg@$$@z$$@z:-3.90234375 
 ..@yhmgyhmg@$$@z$$@z h.@yhmgy.mg@$$@z$$@z:-3.427734375 .m@yhmgyh.g@$$@z$$@z:-3.568359375 .@.yhmgyhmg@$$@z$$@z:-3.5615234375 
 h.@yhmgy.mg@$$@z$$@z ..@yhmgyhmg@$$@z$$@z:-3.7216796875 hm@yhmgy..g@$$@z$$@z:-4.01904296875 h@.yhmgy.mg@$$@z$$@z:-3.552734375 
-@@.yhm.yhmg@$$gz$$@z @@y.hmy.hmg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:0 @@.yhmgyhmg@$$.z$$@z:-0.5 
-@.@yhmgyhmg@$$.z$$@z @m@yhmgyh.g@$$.z$$@z:0 .@@yhmgyhmg@$$.z$$@z:-0.5 @@.yhmgyhmg@$$.z$$@z:0 @.@yhm.yhmg@$$gz$$@z:-0.5 @.@yhmgyhmg@$$@z$$.z:-0.5 
-@@y.hmy.hmg@$$gz$$@z @@.yhm.yhmg@$$gz$$@z:0 @@y.hmy@hmg.$$gz$$@z:-0.5 
-@@y.hmy@hmg.$$gz$$@z @@y@hmy.hmg.$$gz$$@z:0 @@y.hmy@hmgz$$gz$$@.:-0.5 @@y.hmy.hmg@$$gz$$@z:0 
-@@y.hmy@hmgz$$gz$$@. @@y@hmy.hmgz$$gz$$@.:-0.5 @@y.hmy@hmg.$$gz$$@z:0 @@y.hmy@hmgz$$gz$$.@:-0.5 
-@@y@hmy.hmgz$$gz$$@. @@y@hmyzhmgz$$g.$$@.:0 @@y.hmy@hmgz$$gz$$@.:-0.5 @@y@hmy.hmg.$$gz$$@z:0 @@y@hmy.hmgz$$gz$$.@:0 
-@@y.hmy@hmgz$$gz$$.@ @@y.hmy@hm.z$$gz$$g@:-0.5 @@y.hmy@hmgz$$gz$$@.:0 @@y@hmy.hmgz$$gz$$.@:0 
-@@y.hmy@hm.z$$gz$$g@ @@..hmy@hmyz$$gz$$g@:-0.5 @@y.hmy@hmgz$$gz$$.@:0 @@y@hmy.hm.z$$gz$$g@:0 
-@@y@hmy.hmgz$$gz$$.@ @@y@hmy.hm.z$$gz$$g@:0 @@y@hmy.hmgz$$gz$$@.:0 @@y@hmyzhmgz$$g.$$.@:0 @@y.hmy@hmgz$$gz$$.@:0 
-@@..hmy@hmyz$$gz$$g@ @@y.hmy@hm.z$$gz$$g@:0 @.@.hmy@hmyz$$gz$$g@:0 @@.@hmy.hmyz$$gz$$g@:-0.5 
-@@y@hmy.hm.z$$gz$$g@ @@.@hmy.hmyz$$gz$$g@:0 @@y@hmy.hmgz$$gz$$.@:0 @@y@hmyzhm.z$$g.$$g@:0 @@y.hmy@hm.z$$gz$$g@:0 
-@@.@hmy.hmyz$$gz$$g@ @@y@hmy.hm.z$$gz$$g@:0 @.@@hmy.hmyz$$gz$$g@:-0.5 @@@.hmy.hmyz$$gz$$g@:-0.5 @@.@hmyzhmyz$$g.$$g@:0 @@..hmy@hmyz$$gz$$g@:0 
-@.@@hmy.hmyz$$gz$$g@ @m@@hmy.h.yz$$gz$$g@:0 .@@@hmy.hmyz$$gz$$g@:0 @@.@hmy.hmyz$$gz$$g@:-0.5 @.@@hmyzhmyz$$g.$$g@:0 @.@.hmy@hmyz$$gz$$g@:0 
-@@@.hmy.hmyz$$gz$$g@ @@.@hmy.hmyz$$gz$$g@:0 @@@.hmyzhmyz$$g.$$g@:-0.5 
-@@@.hmyzhmyz$$g.$$g@ @@@zhmyzhmy.$$g.$$g@:0 @@.@hmyzhmyz$$g.$$g@:0 @@@.hmy.hmyz$$gz$$g@:0 @@@.hmyzhmyz$$g@$$g.:-0.5 
-@@@.hmyzhmyz$$g@$$g. @@@zhmyzhmy.$$g@$$g.:-0.5 @@.@hmyzhmyz$$g@$$g.:0 @@@.hmyzhmyz$$g.$$g@:0 
-@@.@hmyzhmyz$$g.$$g@ @@y@hmyzhm.z$$g.$$g@:0 @.@@hmyzhmyz$$g.$$g@:0 @@@.hmyzhmyz$$g.$$g@:0 @@.@hmy.hmyz$$gz$$g@:0 @@.@hmyzhmyz$$g@$$g.:0 
-@@@zhmyzhmy.$$g@$$g. @@@.hmyzhmyz$$g@$$g.:0 @@@zhmyzhmy@$$g.$$g.:-0.5 @@@zhmyzhmy.$$g.$$g@:0 
-@@.@hmyzhmyz$$g@$$g. @@y@hmyzhm.z$$g@$$g.:0 @.@@hmyzhmyz$$g@$$g.:0 @@@.hmyzhmyz$$g@$$g.:0 @@.@hmyzhmyz$$g.$$g@:0 
-@@@zhmyzhmy@$$g.$$g. @@@zhmyzhmy@$$.g$$.g:-0.5 @@@zhmyzhmy.$$g@$$g.:0 
-@@@zhmyzhmy.$$g.$$g@ @@@.hmyzhmyz$$g.$$g@:0 @@@zhmyzhmy.$$g@$$g.:0 
-@@@zhmyzhmy@$$.g$$.g @@@zhmyzhmy@.$$g.$$g:0 @@@zhmyzhmy@$$g.$$g.:0 @@@zhm.zhmy@$$yg$$.g:-0.5 
-@@@zhm.zhmy@$$yg$$.g @@@zhmyzhmy@$$.g$$.g:0 @@.zhm@zhmy@$$yg$$.g:0 @@@zhm.zhm.@$$yg$$yg:-0.5 
-@@@zhm.zhm.@$$yg$$yg @@@zh.mzh.m@$$yg$$yg:-0.5 @@.zhm@zhm.@$$yg$$yg:-0.5 @@@zhm.zhmy@$$yg$$.g:0 @@@zhm.zhm@.$$yg$$yg:-0.5 
-@@@zh.mzh.m@$$yg$$yg @@@z.hmz.hm@$$yg$$yg:0 @@@zhm.zhm.@$$yg$$yg:-0.5 @.@zh@mzh.m@$$yg$$yg:0 
-@@@zhm.zhm@.$$yg$$yg @@.zhm@zhm@.$$yg$$yg:0 @@@zhm@zhm..$$yg$$yg:0 @@@.hm.zhm@z$$yg$$yg:-0.5 @@@zhm.zhm@g$$yg$$y.:-0.5 @@@zhm.zhm.@$$yg$$yg:0 
-@.@zh@mzh.m@$$yg$$yg @@@zh.mzh.m@$$yg$$yg:0 .@@zh@mzh.m@$$yg$$yg:0 @@.zh@mzh.m@$$yg$$yg:0 @.@zh.mzh@m@$$yg$$yg:0 
-@@.zhm@zhm.@$$yg$$yg @@@zhm.zhm.@$$yg$$yg:-0.5 @.@zhm@zhm.@$$yg$$yg:-0.5 @@.zhm@zhmy@$$yg$$.g:0 @@.zhm.zhm@@$$yg$$yg:0 @@.zhm@zhm@.$$yg$$yg:0 
-@.@zhm@zhm.@$$yg$$yg @m@zhm@zh..@$$yg$$yg:-0.5 .@@zhm@zhm.@$$yg$$yg:0 @@.zhm@zhm.@$$yg$$yg:0 @.@zhm@zhmy@$$yg$$.g:0 @.@zhm.zhm@@$$yg$$yg:-0.5 @.@zhm@zhm@.$$yg$$yg:0 
-@m@zhm@zh..@$$yg$$yg @.@zhm@zhm.@$$yg$$yg:-0.5 @m@zhm@zh.y@$$yg$$.g:-0.5 @m@zhm.zh.@@$$yg$$yg:0 @m@zhm@zh.@.$$yg$$yg:0 
-@m@zhm@zh.y@$$yg$$.g @.@zhm@zhmy@$$yg$$.g:0 @m@zhm@zh..@$$yg$$yg:-0.5 
-@m@zhm.zh.@@$$yg$$yg @.@zhm.zhm@@$$yg$$yg:0 @m@zhm.zh@.@$$yg$$yg:0 @m.zhm@zh.@@$$yg$$yg:0 @m@zhm@zh..@$$yg$$yg:0 
-@m@zhm@zh.@.$$yg$$yg @.@zhm@zhm@.$$yg$$yg:0 @m@zhm@zh@..$$yg$$yg:0 @m@.hm@zh.@z$$yg$$yg:0 @m@zhm@zh.@g$$yg$$y.:0 @m@zhm@zh..@$$yg$$yg:0 
-@.@zhm.zhm@@$$yg$$yg @m@zhm.zh.@@$$yg$$yg:0 .@@zhm.zhm@@$$yg$$yg:0 @@.zhm.zhm@@$$yg$$yg:-0.5 @..zhm@zhm@@$$yg$$yg:0 @.@zhm@zhm.@$$yg$$yg:0 
-@.@zhm@zhmy@$$yg$$.g @m@zhm@zh.y@$$yg$$.g:0 .@@zhm@zhmy@$$yg$$.g:0 @@.zhm@zhmy@$$yg$$.g:0 @.@zhm@zhm.@$$yg$$yg:0 
-@@.zhm.zhm@@$$yg$$yg @@z.hmz.hm@@$$yg$$yg:0 @.@zhm.zhm@@$$yg$$yg:0 @@.zhm@zhm.@$$yg$$yg:-0.5 
-.@@zhm.zhm@@$$yg$$yg h@@zhm.z.m@@$$yg$$yg:0 @.@zhm.zhm@@$$yg$$yg:0 .@.zhm@zhm@@$$yg$$yg:0 .@@zhm@zhm.@$$yg$$yg:0 
-@@.zhm@zhm@.$$yg$$yg @@@zhm.zhm@.$$yg$$yg:0 @.@zhm@zhm@.$$yg$$yg:0 @@..hm@zhm@z$$yg$$yg:0 @@.zhm@zhm@g$$yg$$y.:0 @@.zhm@zhm.@$$yg$$yg:0 
-@@@.hm.zhm@z$$yg$$yg @@..hm@zhm@z$$yg$$yg:-0.5 @@@.hm@zhm.z$$yg$$yg:0 @@@zhm.zhm@.$$yg$$yg:-0.5 @@.@hm.zhm@z$$yg$$yg:0 
-@@..hm@zhm@z$$yg$$yg @@@.hm.zhm@z$$yg$$yg:-0.5 @.@.hm@zhm@z$$yg$$yg:0 @@.zhm@zhm@.$$yg$$yg:0 
-@@.@hm.zhm@z$$yg$$yg @.@@hm.zhm@z$$yg$$yg:0 @@@.hm.zhm@z$$yg$$yg:0 @@.@hm@zhm.z$$yg$$yg:0 
-@@@zhm.zhm@g$$yg$$y. @@.zhm@zhm@g$$yg$$y.:0 @@@zhm@zhm.g$$yg$$y.:-0.5 @@@zhm.zhm@.$$yg$$yg:0 
-@@@zhm@zhm.g$$yg$$y. @@@zhm@zhmyg$$yg$$..:-0.5 @@@zhm.zhm@g$$yg$$y.:0 @@@zhm@zhm..$$yg$$yg:-0.5 
-@@.zhm@zhm@g$$yg$$y. @@@zhm.zhm@g$$yg$$y.:0 @.@zhm@zhm@g$$yg$$y.:0 @@.zhm@zhm@.$$yg$$yg:0 
-@@@zhm@zhm..$$yg$$yg @@@zhm@zhmy.$$yg$$.g:0 @@@zhm.zhm@.$$yg$$yg:0 @@@.hm@zhm.z$$yg$$yg:0 @@@zhm@zhm.g$$yg$$y.:-0.5 
-@@@.hm@zhm.z$$yg$$yg @@@.hm@zhmyz$$yg$$.g:0 @@@.hm.zhm@z$$yg$$yg:0 @@@zhm@zhm..$$yg$$yg:0 @@.@hm@zhm.z$$yg$$yg:0 
-@@@zhm@zhmyg$$yg$$.. @@@zhm@zhm.g$$yg$$y.:0 @@@zhm@zhmy.$$yg$$.g:-0.5 
-@@@zhm@zhmy.$$yg$$.g @@@zhm@zhm..$$yg$$yg:0 @@@.hm@zhmyz$$yg$$.g:-0.5 @@@zhm@zhmyg$$yg$$..:0 
-@@@.hm@zhmyz$$yg$$.g @@@.hm@zhm.z$$yg$$yg:0 @@@zhm@zhmy.$$yg$$.g:0 @@.@hm@zhmyz$$yg$$.g:-0.5 
-@@.@hm@zhmyz$$yg$$.g @@@@hm.zhmyz$$yg$$.g:-0.5 @.@@hm@zhmyz$$yg$$.g:0 @@@.hm@zhmyz$$yg$$.g:0 @@.@hm@zhm.z$$yg$$yg:0 
-@@@@hm.zhmyz$$yg$$.g @@@@hmyzhmyz$$.g$$.g:0 @@.@hm@zhmyz$$yg$$.g:0 @@@@hm.zhm.z$$yg$$yg:-0.5 
-@@@@hm.zhm.z$$yg$$yg @@@@h.mzh.mz$$yg$$yg:0 @@@@hmz.hmz.$$yg$$yg:-0.5 @@.@hm@zhm.z$$yg$$yg:0 @@@@hm.zhmyz$$yg$$.g:0 
-@@@@hmz.hmz.$$yg$$yg @@@@hm.zhm.z$$yg$$yg:0 @@@.hmz@hmz.$$yg$$yg:-0.5 @@@@hmz.hmzg$$yg$$y.:0 
-@@@@h.mzh.mz$$yg$$yg @@@@.hmz.hmz$$yg$$yg:0 @@@@hm.zhm.z$$yg$$yg:0 @.@@h@mzh.mz$$yg$$yg:0 
-@@@.hmz@hmz.$$yg$$yg @@@@hmz.hmz.$$yg$$yg:0 @@.@hmz@hmz.$$yg$$yg:0 @@@.hmz@hmzg$$yg$$y.:-0.5 @@@.hmz.hmz@$$yg$$yg:0 
-@@@.hmz@hmzg$$yg$$y. @@@@hmz.hmzg$$yg$$y.:0 @@.@hmz@hmzg$$yg$$y.:-0.5 @@@.hmz@hmz.$$yg$$yg:0 
-@@.@hmz@hmzg$$yg$$y. @@z@hmz@hm.g$$yg$$y.:0 @.@@hmz@hmzg$$yg$$y.:-0.75 @@@.hmz@hmzg$$yg$$y.:0 @@.@hmz@hmz.$$yg$$yg:-0.5 
+@@.yhm.yhmg@$$gz$$@z @@y.hmy.hmg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:0.0 @@.yhmgyhmg@$$.z$$@z:-0.5 
+@.@yhmgyhmg@$$.z$$@z @m@yhmgyh.g@$$.z$$@z:0.0 .@@yhmgyhmg@$$.z$$@z:-0.5 @@.yhmgyhmg@$$.z$$@z:0.0 @.@yhm.yhmg@$$gz$$@z:-0.5 @.@yhmgyhmg@$$@z$$.z:-0.5 
+@@y.hmy.hmg@$$gz$$@z @@.yhm.yhmg@$$gz$$@z:0.0 @@y.hmy@hmg.$$gz$$@z:-0.5 
+@@y.hmy@hmg.$$gz$$@z @@y@hmy.hmg.$$gz$$@z:0.0 @@y.hmy@hmgz$$gz$$@.:-0.5 @@y.hmy.hmg@$$gz$$@z:0.0 
+@@y.hmy@hmgz$$gz$$@. @@y@hmy.hmgz$$gz$$@.:-0.5 @@y.hmy@hmg.$$gz$$@z:0.0 @@y.hmy@hmgz$$gz$$.@:-0.5 
+@@y@hmy.hmgz$$gz$$@. @@y@hmyzhmgz$$g.$$@.:0.0 @@y.hmy@hmgz$$gz$$@.:-0.5 @@y@hmy.hmg.$$gz$$@z:0.0 @@y@hmy.hmgz$$gz$$.@:0.0 
+@@y.hmy@hmgz$$gz$$.@ @@y.hmy@hm.z$$gz$$g@:-0.5 @@y.hmy@hmgz$$gz$$@.:0.0 @@y@hmy.hmgz$$gz$$.@:0.0 
+@@y.hmy@hm.z$$gz$$g@ @@..hmy@hmyz$$gz$$g@:-0.5 @@y.hmy@hmgz$$gz$$.@:0.0 @@y@hmy.hm.z$$gz$$g@:0.0 
+@@y@hmy.hmgz$$gz$$.@ @@y@hmy.hm.z$$gz$$g@:0.0 @@y@hmy.hmgz$$gz$$@.:0.0 @@y@hmyzhmgz$$g.$$.@:0.0 @@y.hmy@hmgz$$gz$$.@:0.0 
+@@..hmy@hmyz$$gz$$g@ @@y.hmy@hm.z$$gz$$g@:0.0 @.@.hmy@hmyz$$gz$$g@:0.0 @@.@hmy.hmyz$$gz$$g@:-0.5 
+@@y@hmy.hm.z$$gz$$g@ @@.@hmy.hmyz$$gz$$g@:0.0 @@y@hmy.hmgz$$gz$$.@:0.0 @@y@hmyzhm.z$$g.$$g@:0.0 @@y.hmy@hm.z$$gz$$g@:0.0 
+@@.@hmy.hmyz$$gz$$g@ @@y@hmy.hm.z$$gz$$g@:0.0 @.@@hmy.hmyz$$gz$$g@:-0.5 @@@.hmy.hmyz$$gz$$g@:-0.5 @@.@hmyzhmyz$$g.$$g@:0.0 @@..hmy@hmyz$$gz$$g@:0.0 
+@.@@hmy.hmyz$$gz$$g@ @m@@hmy.h.yz$$gz$$g@:0.0 .@@@hmy.hmyz$$gz$$g@:0.0 @@.@hmy.hmyz$$gz$$g@:-0.5 @.@@hmyzhmyz$$g.$$g@:0.0 @.@.hmy@hmyz$$gz$$g@:0.0 
+@@@.hmy.hmyz$$gz$$g@ @@.@hmy.hmyz$$gz$$g@:0.0 @@@.hmyzhmyz$$g.$$g@:-0.5 
+@@@.hmyzhmyz$$g.$$g@ @@@zhmyzhmy.$$g.$$g@:0.0 @@.@hmyzhmyz$$g.$$g@:0.0 @@@.hmy.hmyz$$gz$$g@:0.0 @@@.hmyzhmyz$$g@$$g.:-0.5 
+@@@.hmyzhmyz$$g@$$g. @@@zhmyzhmy.$$g@$$g.:-0.5 @@.@hmyzhmyz$$g@$$g.:0.0 @@@.hmyzhmyz$$g.$$g@:0.0 
+@@.@hmyzhmyz$$g.$$g@ @@y@hmyzhm.z$$g.$$g@:0.0 @.@@hmyzhmyz$$g.$$g@:0.0 @@@.hmyzhmyz$$g.$$g@:0.0 @@.@hmy.hmyz$$gz$$g@:0.0 @@.@hmyzhmyz$$g@$$g.:0.0 
+@@@zhmyzhmy.$$g@$$g. @@@.hmyzhmyz$$g@$$g.:0.0 @@@zhmyzhmy@$$g.$$g.:-0.5 @@@zhmyzhmy.$$g.$$g@:0.0 
+@@.@hmyzhmyz$$g@$$g. @@y@hmyzhm.z$$g@$$g.:0.0 @.@@hmyzhmyz$$g@$$g.:0.0 @@@.hmyzhmyz$$g@$$g.:0.0 @@.@hmyzhmyz$$g.$$g@:0.0 
+@@@zhmyzhmy@$$g.$$g. @@@zhmyzhmy@$$.g$$.g:-0.5 @@@zhmyzhmy.$$g@$$g.:0.0 
+@@@zhmyzhmy.$$g.$$g@ @@@.hmyzhmyz$$g.$$g@:0.0 @@@zhmyzhmy.$$g@$$g.:0.0 
+@@@zhmyzhmy@$$.g$$.g @@@zhmyzhmy@.$$g.$$g:0.0 @@@zhmyzhmy@$$g.$$g.:0.0 @@@zhm.zhmy@$$yg$$.g:-0.5 
+@@@zhm.zhmy@$$yg$$.g @@@zhmyzhmy@$$.g$$.g:0.0 @@.zhm@zhmy@$$yg$$.g:0.0 @@@zhm.zhm.@$$yg$$yg:-0.5 
+@@@zhm.zhm.@$$yg$$yg @@@zh.mzh.m@$$yg$$yg:-0.5 @@.zhm@zhm.@$$yg$$yg:-0.5 @@@zhm.zhmy@$$yg$$.g:0.0 @@@zhm.zhm@.$$yg$$yg:-0.5 
+@@@zh.mzh.m@$$yg$$yg @@@z.hmz.hm@$$yg$$yg:0.0 @@@zhm.zhm.@$$yg$$yg:-0.5 @.@zh@mzh.m@$$yg$$yg:0.0 
+@@@zhm.zhm@.$$yg$$yg @@.zhm@zhm@.$$yg$$yg:0.0 @@@zhm@zhm..$$yg$$yg:0.0 @@@.hm.zhm@z$$yg$$yg:-0.5 @@@zhm.zhm@g$$yg$$y.:-0.5 @@@zhm.zhm.@$$yg$$yg:0.0 
+@.@zh@mzh.m@$$yg$$yg @@@zh.mzh.m@$$yg$$yg:0.0 .@@zh@mzh.m@$$yg$$yg:0.0 @@.zh@mzh.m@$$yg$$yg:0.0 @.@zh.mzh@m@$$yg$$yg:0.0 
+@@.zhm@zhm.@$$yg$$yg @@@zhm.zhm.@$$yg$$yg:-0.5 @.@zhm@zhm.@$$yg$$yg:-0.5 @@.zhm@zhmy@$$yg$$.g:0.0 @@.zhm.zhm@@$$yg$$yg:0.0 @@.zhm@zhm@.$$yg$$yg:0.0 
+@.@zhm@zhm.@$$yg$$yg @m@zhm@zh..@$$yg$$yg:-0.5 .@@zhm@zhm.@$$yg$$yg:0.0 @@.zhm@zhm.@$$yg$$yg:0.0 @.@zhm@zhmy@$$yg$$.g:0.0 @.@zhm.zhm@@$$yg$$yg:-0.5 @.@zhm@zhm@.$$yg$$yg:0.0 
+@m@zhm@zh..@$$yg$$yg @.@zhm@zhm.@$$yg$$yg:-0.5 @m@zhm@zh.y@$$yg$$.g:-0.5 @m@zhm.zh.@@$$yg$$yg:0.0 @m@zhm@zh.@.$$yg$$yg:0.0 
+@m@zhm@zh.y@$$yg$$.g @.@zhm@zhmy@$$yg$$.g:0.0 @m@zhm@zh..@$$yg$$yg:-0.5 
+@m@zhm.zh.@@$$yg$$yg @.@zhm.zhm@@$$yg$$yg:0.0 @m@zhm.zh@.@$$yg$$yg:0.0 @m.zhm@zh.@@$$yg$$yg:0.0 @m@zhm@zh..@$$yg$$yg:0.0 
+@m@zhm@zh.@.$$yg$$yg @.@zhm@zhm@.$$yg$$yg:0.0 @m@zhm@zh@..$$yg$$yg:0.0 @m@.hm@zh.@z$$yg$$yg:0.0 @m@zhm@zh.@g$$yg$$y.:0.0 @m@zhm@zh..@$$yg$$yg:0.0 
+@.@zhm.zhm@@$$yg$$yg @m@zhm.zh.@@$$yg$$yg:0.0 .@@zhm.zhm@@$$yg$$yg:0.0 @@.zhm.zhm@@$$yg$$yg:-0.5 @..zhm@zhm@@$$yg$$yg:0.0 @.@zhm@zhm.@$$yg$$yg:0.0 
+@.@zhm@zhmy@$$yg$$.g @m@zhm@zh.y@$$yg$$.g:0.0 .@@zhm@zhmy@$$yg$$.g:0.0 @@.zhm@zhmy@$$yg$$.g:0.0 @.@zhm@zhm.@$$yg$$yg:0.0 
+@@.zhm.zhm@@$$yg$$yg @@z.hmz.hm@@$$yg$$yg:0.0 @.@zhm.zhm@@$$yg$$yg:0.0 @@.zhm@zhm.@$$yg$$yg:-0.5 
+.@@zhm.zhm@@$$yg$$yg h@@zhm.z.m@@$$yg$$yg:0.0 @.@zhm.zhm@@$$yg$$yg:0.0 .@.zhm@zhm@@$$yg$$yg:0.0 .@@zhm@zhm.@$$yg$$yg:0.0 
+@@.zhm@zhm@.$$yg$$yg @@@zhm.zhm@.$$yg$$yg:0.0 @.@zhm@zhm@.$$yg$$yg:0.0 @@..hm@zhm@z$$yg$$yg:0.0 @@.zhm@zhm@g$$yg$$y.:0.0 @@.zhm@zhm.@$$yg$$yg:0.0 
+@@@.hm.zhm@z$$yg$$yg @@..hm@zhm@z$$yg$$yg:-0.5 @@@.hm@zhm.z$$yg$$yg:0.0 @@@zhm.zhm@.$$yg$$yg:-0.5 @@.@hm.zhm@z$$yg$$yg:0.0 
+@@..hm@zhm@z$$yg$$yg @@@.hm.zhm@z$$yg$$yg:-0.5 @.@.hm@zhm@z$$yg$$yg:0.0 @@.zhm@zhm@.$$yg$$yg:0.0 
+@@.@hm.zhm@z$$yg$$yg @.@@hm.zhm@z$$yg$$yg:0.0 @@@.hm.zhm@z$$yg$$yg:0.0 @@.@hm@zhm.z$$yg$$yg:0.0 
+@@@zhm.zhm@g$$yg$$y. @@.zhm@zhm@g$$yg$$y.:0.0 @@@zhm@zhm.g$$yg$$y.:-0.5 @@@zhm.zhm@.$$yg$$yg:0.0 
+@@@zhm@zhm.g$$yg$$y. @@@zhm@zhmyg$$yg$$..:-0.5 @@@zhm.zhm@g$$yg$$y.:0.0 @@@zhm@zhm..$$yg$$yg:-0.5 
+@@.zhm@zhm@g$$yg$$y. @@@zhm.zhm@g$$yg$$y.:0.0 @.@zhm@zhm@g$$yg$$y.:0.0 @@.zhm@zhm@.$$yg$$yg:0.0 
+@@@zhm@zhm..$$yg$$yg @@@zhm@zhmy.$$yg$$.g:0.0 @@@zhm.zhm@.$$yg$$yg:0.0 @@@.hm@zhm.z$$yg$$yg:0.0 @@@zhm@zhm.g$$yg$$y.:-0.5 
+@@@.hm@zhm.z$$yg$$yg @@@.hm@zhmyz$$yg$$.g:0.0 @@@.hm.zhm@z$$yg$$yg:0.0 @@@zhm@zhm..$$yg$$yg:0.0 @@.@hm@zhm.z$$yg$$yg:0.0 
+@@@zhm@zhmyg$$yg$$.. @@@zhm@zhm.g$$yg$$y.:0.0 @@@zhm@zhmy.$$yg$$.g:-0.5 
+@@@zhm@zhmy.$$yg$$.g @@@zhm@zhm..$$yg$$yg:0.0 @@@.hm@zhmyz$$yg$$.g:-0.5 @@@zhm@zhmyg$$yg$$..:0.0 
+@@@.hm@zhmyz$$yg$$.g @@@.hm@zhm.z$$yg$$yg:0.0 @@@zhm@zhmy.$$yg$$.g:0.0 @@.@hm@zhmyz$$yg$$.g:-0.5 
+@@.@hm@zhmyz$$yg$$.g @@@@hm.zhmyz$$yg$$.g:-0.5 @.@@hm@zhmyz$$yg$$.g:0.0 @@@.hm@zhmyz$$yg$$.g:0.0 @@.@hm@zhm.z$$yg$$yg:0.0 
+@@@@hm.zhmyz$$yg$$.g @@@@hmyzhmyz$$.g$$.g:0.0 @@.@hm@zhmyz$$yg$$.g:0.0 @@@@hm.zhm.z$$yg$$yg:-0.5 
+@@@@hm.zhm.z$$yg$$yg @@@@h.mzh.mz$$yg$$yg:0.0 @@@@hmz.hmz.$$yg$$yg:-0.5 @@.@hm@zhm.z$$yg$$yg:0.0 @@@@hm.zhmyz$$yg$$.g:0.0 
+@@@@hmz.hmz.$$yg$$yg @@@@hm.zhm.z$$yg$$yg:0.0 @@@.hmz@hmz.$$yg$$yg:-0.5 @@@@hmz.hmzg$$yg$$y.:0.0 
+@@@@h.mzh.mz$$yg$$yg @@@@.hmz.hmz$$yg$$yg:0.0 @@@@hm.zhm.z$$yg$$yg:0.0 @.@@h@mzh.mz$$yg$$yg:0.0 
+@@@.hmz@hmz.$$yg$$yg @@@@hmz.hmz.$$yg$$yg:0.0 @@.@hmz@hmz.$$yg$$yg:0.0 @@@.hmz@hmzg$$yg$$y.:-0.5 @@@.hmz.hmz@$$yg$$yg:0.0 
+@@@.hmz@hmzg$$yg$$y. @@@@hmz.hmzg$$yg$$y.:0.0 @@.@hmz@hmzg$$yg$$y.:-0.5 @@@.hmz@hmz.$$yg$$yg:0.0 
+@@.@hmz@hmzg$$yg$$y. @@z@hmz@hm.g$$yg$$y.:0.0 @.@@hmz@hmzg$$yg$$y.:-0.75 @@@.hmz@hmzg$$yg$$y.:0.0 @@.@hmz@hmz.$$yg$$yg:-0.5 
 @.@@hmz@hmzg$$yg$$y. @m@@hmz@h.zg$$yg$$y.:-0.5 .@@@hmz@hmzg$$yg$$y.:-0.5 @@.@hmz@hmzg$$yg$$y.:-0.5 @.@@hmz@hmz.$$yg$$yg:-0.75 
-@@z@hmz@hm.g$$yg$$y. @@.@hmz@hmzg$$yg$$y.:0 @@z@hmz@hmyg$$yg$$..:0 @@z@hmz@hm..$$yg$$yg:0 
+@@z@hmz@hm.g$$yg$$y. @@.@hmz@hmzg$$yg$$y.:0.0 @@z@hmz@hmyg$$yg$$..:0.0 @@z@hmz@hm..$$yg$$yg:0.0 
 @.@@hmz@hmz.$$yg$$yg @m@@hmz@h.z.$$yg$$yg:-0.75 .@@@hmz@hmz.$$yg$$yg:-0.75 @@.@hmz@hmz.$$yg$$yg:-0.5 @.@@hmz@hmzg$$yg$$y.:-0.5 @.@@hmz.hmz@$$yg$$yg:-0.5 
-@@.@hmz@hmz.$$yg$$yg @@z@hmz@hm..$$yg$$yg:0 @.@@hmz@hmz.$$yg$$yg:-0.5 @@@.hmz@hmz.$$yg$$yg:0 @@.@hmz@hmzg$$yg$$y.:-0.5 @@.@hmz.hmz@$$yg$$yg:0 
+@@.@hmz@hmz.$$yg$$yg @@z@hmz@hm..$$yg$$yg:0.0 @.@@hmz@hmz.$$yg$$yg:-0.5 @@@.hmz@hmz.$$yg$$yg:0.0 @@.@hmz@hmzg$$yg$$y.:-0.5 @@.@hmz.hmz@$$yg$$yg:0.0 
 @m@@hmz@h.z.$$yg$$yg @.@@hmz@hmz.$$yg$$yg:-0.75 @m@@hmz@h.zg$$yg$$y.:-0.5 @m@@hmz.h.z@$$yg$$yg:-0.5 
-@.@@hmz.hmz@$$yg$$yg @m@@hmz.h.z@$$yg$$yg:-0.75 .@@@hmz.hmz@$$yg$$yg:-0.5 @@.@hmz.hmz@$$yg$$yg:0 @.@.hmz@hmz@$$yg$$yg:-0.5 @.@@hmz@hmz.$$yg$$yg:-0.5 
+@.@@hmz.hmz@$$yg$$yg @m@@hmz.h.z@$$yg$$yg:-0.75 .@@@hmz.hmz@$$yg$$yg:-0.5 @@.@hmz.hmz@$$yg$$yg:0.0 @.@.hmz@hmz@$$yg$$yg:-0.5 @.@@hmz@hmz.$$yg$$yg:-0.5 
 @m@@hmz.h.z@$$yg$$yg @.@@hmz.hmz@$$yg$$yg:-0.5 @m@.hmz@h.z@$$yg$$yg:-0.5 @m@@hmz@h.z.$$yg$$yg:-0.5 
-@m@.hmz@h.z@$$yg$$yg @.@.hmz@hmz@$$yg$$yg:0 @m@@hmz.h.z@$$yg$$yg:-0.5 @m.@hmz@h.z@$$yg$$yg:0 
-@m.@hmz@h.z@$$yg$$yg @..@hmz@hmz@$$yg$$yg:0 @mz@hmz@h..@$$yg$$yg:-0.5 @m@.hmz@h.z@$$yg$$yg:0 
+@m@.hmz@h.z@$$yg$$yg @.@.hmz@hmz@$$yg$$yg:0.0 @m@@hmz.h.z@$$yg$$yg:-0.5 @m.@hmz@h.z@$$yg$$yg:0.0 
+@m.@hmz@h.z@$$yg$$yg @..@hmz@hmz@$$yg$$yg:0.0 @mz@hmz@h..@$$yg$$yg:-0.5 @m@.hmz@h.z@$$yg$$yg:0.0 
 @m@@hmz@h.zg$$yg$$y. @.@@hmz@hmzg$$yg$$y.:-0.5 @m@@hmz@h.z.$$yg$$yg:-0.5 
 .@@@hmz@hmz.$$yg$$yg h@@@hmz@.mz.$$yg$$yg:-1.0 @.@@hmz@hmz.$$yg$$yg:-0.5 .@@@hmz@hmzg$$yg$$y.:-0.5 .@@@hmz.hmz@$$yg$$yg:-1.0 
 .@@@hmz@hmzg$$yg$$y. h@@@hmz@.mzg$$yg$$y.:-0.5 @.@@hmz@hmzg$$yg$$y.:-0.75 .@@@hmz@hmz.$$yg$$yg:-1.125 
 .@@@hmz.hmz@$$yg$$yg h@@@hmz..mz@$$yg$$yg:-0.5 @.@@hmz.hmz@$$yg$$yg:-0.5 .@@.hmz@hmz@$$yg$$yg:-1.0 .@@@hmz@hmz.$$yg$$yg:-0.5 
-@@z@hmz@hm..$$yg$$yg @@.@hmz@hmz.$$yg$$yg:0 @@z@hmz@hmy.$$yg$$.g:0 @@z@hmz@hm.g$$yg$$y.:0 @@z@hmz.hm.@$$yg$$yg:0 
+@@z@hmz@hm..$$yg$$yg @@.@hmz@hmz.$$yg$$yg:0.0 @@z@hmz@hmy.$$yg$$.g:0.0 @@z@hmz@hm.g$$yg$$y.:0.0 @@z@hmz.hm.@$$yg$$yg:0.0 
 h@@@hmz@.mzg$$yg$$y. .@@@hmz@hmzg$$yg$$y.:-1.0 h@@@hmz@.mz.$$yg$$yg:-0.75 
 h@@@hmz@.mz.$$yg$$yg .@@@hmz@hmz.$$yg$$yg:-0.75 h@@@hmz@.mzg$$yg$$y.:-1.0 h@@@hmz..mz@$$yg$$yg:-0.5 
-@.@.hmz@hmz@$$yg$$yg @m@.hmz@h.z@$$yg$$yg:0 .@@.hmz@hmz@$$yg$$yg:-0.75 @@..hmz@hmz@$$yg$$yg:0 @.@@hmz.hmz@$$yg$$yg:-0.5 @..@hmz@hmz@$$yg$$yg:0 
-@@.@hmz.hmz@$$yg$$yg @@z@hmz.hm.@$$yg$$yg:0 @.@@hmz.hmz@$$yg$$yg:0 @@@.hmz.hmz@$$yg$$yg:0 @@..hmz@hmz@$$yg$$yg:0 @@.@hmz@hmz.$$yg$$yg:0 
+@.@.hmz@hmz@$$yg$$yg @m@.hmz@h.z@$$yg$$yg:0.0 .@@.hmz@hmz@$$yg$$yg:-0.75 @@..hmz@hmz@$$yg$$yg:0.0 @.@@hmz.hmz@$$yg$$yg:-0.5 @..@hmz@hmz@$$yg$$yg:0.0 
+@@.@hmz.hmz@$$yg$$yg @@z@hmz.hm.@$$yg$$yg:0.0 @.@@hmz.hmz@$$yg$$yg:0.0 @@@.hmz.hmz@$$yg$$yg:0.0 @@..hmz@hmz@$$yg$$yg:0.0 @@.@hmz@hmz.$$yg$$yg:0.0 
 .@@.hmz@hmz@$$yg$$yg h@@.hmz@.mz@$$yg$$yg:-0.5 @.@.hmz@hmz@$$yg$$yg:-0.5 .@@@hmz.hmz@$$yg$$yg:-0.5 .@.@hmz@hmz@$$yg$$yg:-0.75 
 h@@@hmz..mz@$$yg$$yg .@@@hmz.hmz@$$yg$$yg:-0.5 h@@.hmz@.mz@$$yg$$yg:-0.5 h@@@hmz@.mz.$$yg$$yg:-0.5 
 h@@.hmz@.mz@$$yg$$yg .@@.hmz@hmz@$$yg$$yg:-0.5 h@@@hmz..mz@$$yg$$yg:-0.5 h@.@hmz@.mz@$$yg$$yg:-0.5 
 .@.@hmz@hmz@$$yg$$yg h@.@hmz@.mz@$$yg$$yg:-0.5 @..@hmz@hmz@$$yg$$yg:-0.5 .@z@hmz@hm.@$$yg$$yg:-0.5 ..@@hmz@hmz@$$yg$$yg:-1.0 .@@.hmz@hmz@$$yg$$yg:-0.5 
 h@.@hmz@.mz@$$yg$$yg .@.@hmz@hmz@$$yg$$yg:-0.5 h@z@hmz@.m.@$$yg$$yg:-0.5 h.@@hmz@.mz@$$yg$$yg:-0.5 h@@.hmz@.mz@$$yg$$yg:-0.5 
-.@z@hmz@hm.@$$yg$$yg h@z@hmz@.m.@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:-0.5 .@.@hmz@hmz@$$yg$$yg:-0.5 .@z@hmz@hmy@$$yg$$.g:0 .@z@hmz@hm@.$$yg$$yg:-0.5 
+.@z@hmz@hm.@$$yg$$yg h@z@hmz@.m.@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:-0.5 .@.@hmz@hmz@$$yg$$yg:-0.5 .@z@hmz@hmy@$$yg$$.g:0.0 .@z@hmz@hm@.$$yg$$yg:-0.5 
 ..@@hmz@hmz@$$yg$$yg h.@@hmz@.mz@$$yg$$yg:-0.5 .m@@hmz@h.z@$$yg$$yg:-0.75 .@.@hmz@hmz@$$yg$$yg:-0.5 
-@.z@hmz@hm.@$$yg$$yg @mz@hmz@h..@$$yg$$yg:0 .@z@hmz@hm.@$$yg$$yg:-0.5 @..@hmz@hmz@$$yg$$yg:-0.5 @.z@hmz@hmy@$$yg$$.g:-0.5 @.z@hmz@hm@.$$yg$$yg:-0.5 
-@..@hmz@hmz@$$yg$$yg @m.@hmz@h.z@$$yg$$yg:-0.5 .@.@hmz@hmz@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:0 @.@.hmz@hmz@$$yg$$yg:0 
-@mz@hmz@h..@$$yg$$yg @.z@hmz@hm.@$$yg$$yg:-0.5 @m.@hmz@h.z@$$yg$$yg:0 @mz@hmz@h.y@$$yg$$.g:-0.5 @mz@hmz@h.@.$$yg$$yg:0 
+@.z@hmz@hm.@$$yg$$yg @mz@hmz@h..@$$yg$$yg:0.0 .@z@hmz@hm.@$$yg$$yg:-0.5 @..@hmz@hmz@$$yg$$yg:-0.5 @.z@hmz@hmy@$$yg$$.g:-0.5 @.z@hmz@hm@.$$yg$$yg:-0.5 
+@..@hmz@hmz@$$yg$$yg @m.@hmz@h.z@$$yg$$yg:-0.5 .@.@hmz@hmz@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:0.0 @.@.hmz@hmz@$$yg$$yg:0.0 
+@mz@hmz@h..@$$yg$$yg @.z@hmz@hm.@$$yg$$yg:-0.5 @m.@hmz@h.z@$$yg$$yg:0.0 @mz@hmz@h.y@$$yg$$.g:-0.5 @mz@hmz@h.@.$$yg$$yg:0.0 
 @mz@hmz@h.y@$$yg$$.g @.z@hmz@hmy@$$yg$$.g:-0.5 @mz@hmz@h..@$$yg$$yg:-0.5 
 @.z@hmz@hmy@$$yg$$.g @mz@hmz@h.y@$$yg$$.g:-0.5 .@z@hmz@hmy@$$yg$$.g:-0.5 @.z@hmz@hm.@$$yg$$yg:-0.5 
-@.z@hmz@hm@.$$yg$$yg @mz@hmz@h.@.$$yg$$yg:0 .@z@hmz@hm@.$$yg$$yg:-0.5 @.z@hmz@hm@g$$yg$$y.:-0.75 @.z@hmz.hm@@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:-0.5 
+@.z@hmz@hm@.$$yg$$yg @mz@hmz@h.@.$$yg$$yg:0.0 .@z@hmz@hm@.$$yg$$yg:-0.5 @.z@hmz@hm@g$$yg$$y.:-0.75 @.z@hmz.hm@@$$yg$$yg:-0.5 @.z@hmz@hm.@$$yg$$yg:-0.5 
 @.z@hmz@hm@g$$yg$$y. @mz@hmz@h.@g$$yg$$y.:-0.5 .@z@hmz@hm@g$$yg$$y.:-0.5 @.z@hmz@hm@.$$yg$$yg:-0.5 
-@mz@hmz@h.@.$$yg$$yg @.z@hmz@hm@.$$yg$$yg:-0.5 @mz@hmz@h@..$$yg$$yg:0 @mz@hmz@h.@g$$yg$$y.:0 @mz@hmz.h.@@$$yg$$yg:-0.5 @mz@hmz@h..@$$yg$$yg:0 
-@mz@hmz@h.@g$$yg$$y. @.z@hmz@hm@g$$yg$$y.:0 @mz@hmz@h@.g$$yg$$y.:0 @mz@hmz@h.@.$$yg$$yg:-0.5 
-.@z@hmz@hm@g$$yg$$y. h@z@hmz@.m@g$$yg$$y.:0 @.z@hmz@hm@g$$yg$$y.:-0.5 .@z@hmz@hm@.$$yg$$yg:-0.5 
-@mz@hmz.h.@@$$yg$$yg @.z@hmz.hm@@$$yg$$yg:0 @mz@hmz.h@.@$$yg$$yg:-0.5 @mz.hmz@h.@@$$yg$$yg:0 @mz@hmz@h.@.$$yg$$yg:-0.5 
-@mz@hmz.h@.@$$yg$$yg @m.@hmz.h@z@$$yg$$yg:0 @mz@hmz.h@y@$$yg$$.g:-0.5 @mz@hmz.h.@@$$yg$$yg:-0.5 @mz@hmz.h@@.$$yg$$yg:0 @mz.hmz@h@.@$$yg$$yg:0 @mz@hmz@h@..$$yg$$yg:0 
-@mz.hmz@h.@@$$yg$$yg @.z.hmz@hm@@$$yg$$yg:0 @mz.hmz@h@.@$$yg$$yg:0 @mz@hmz.h.@@$$yg$$yg:0 
-@mz@hmz.h@y@$$yg$$.g @mz@hmz.h@.@$$yg$$yg:-0.5 @mz.hmz@h@y@$$yg$$.g:0 @mz@hmz@h@y.$$yg$$.g:-0.5 
-@mz@hmz@h@y.$$yg$$.g @mz@hmz@h@..$$yg$$yg:0 @mz@hmz@h@yg$$yg$$..:0 @mz@hmz.h@y@$$yg$$.g:-0.5 
-@mz.hmz@h@y@$$yg$$.g @mz.hmz@h@.@$$yg$$yg:0 @mz@hmz.h@y@$$yg$$.g:0 
-@.z@hmz.hm@@$$yg$$yg @mz@hmz.h.@@$$yg$$yg:0 .@z@hmz.hm@@$$yg$$yg:-0.5 @.z.hmz@hm@@$$yg$$yg:0 @.z@hmz@hm@.$$yg$$yg:-0.5 
+@mz@hmz@h.@.$$yg$$yg @.z@hmz@hm@.$$yg$$yg:-0.5 @mz@hmz@h@..$$yg$$yg:0.0 @mz@hmz@h.@g$$yg$$y.:0.0 @mz@hmz.h.@@$$yg$$yg:-0.5 @mz@hmz@h..@$$yg$$yg:0.0 
+@mz@hmz@h.@g$$yg$$y. @.z@hmz@hm@g$$yg$$y.:0.0 @mz@hmz@h@.g$$yg$$y.:0.0 @mz@hmz@h.@.$$yg$$yg:-0.5 
+.@z@hmz@hm@g$$yg$$y. h@z@hmz@.m@g$$yg$$y.:0.0 @.z@hmz@hm@g$$yg$$y.:-0.5 .@z@hmz@hm@.$$yg$$yg:-0.5 
+@mz@hmz.h.@@$$yg$$yg @.z@hmz.hm@@$$yg$$yg:0.0 @mz@hmz.h@.@$$yg$$yg:-0.5 @mz.hmz@h.@@$$yg$$yg:0.0 @mz@hmz@h.@.$$yg$$yg:-0.5 
+@mz@hmz.h@.@$$yg$$yg @m.@hmz.h@z@$$yg$$yg:0.0 @mz@hmz.h@y@$$yg$$.g:-0.5 @mz@hmz.h.@@$$yg$$yg:-0.5 @mz@hmz.h@@.$$yg$$yg:0.0 @mz.hmz@h@.@$$yg$$yg:0.0 @mz@hmz@h@..$$yg$$yg:0.0 
+@mz.hmz@h.@@$$yg$$yg @.z.hmz@hm@@$$yg$$yg:0.0 @mz.hmz@h@.@$$yg$$yg:0.0 @mz@hmz.h.@@$$yg$$yg:0.0 
+@mz@hmz.h@y@$$yg$$.g @mz@hmz.h@.@$$yg$$yg:-0.5 @mz.hmz@h@y@$$yg$$.g:0.0 @mz@hmz@h@y.$$yg$$.g:-0.5 
+@mz@hmz@h@y.$$yg$$.g @mz@hmz@h@..$$yg$$yg:0.0 @mz@hmz@h@yg$$yg$$..:0.0 @mz@hmz.h@y@$$yg$$.g:-0.5 
+@mz.hmz@h@y@$$yg$$.g @mz.hmz@h@.@$$yg$$yg:0.0 @mz@hmz.h@y@$$yg$$.g:0.0 
+@.z@hmz.hm@@$$yg$$yg @mz@hmz.h.@@$$yg$$yg:0.0 .@z@hmz.hm@@$$yg$$yg:-0.5 @.z.hmz@hm@@$$yg$$yg:0.0 @.z@hmz@hm@.$$yg$$yg:-0.5 
 .@z@hmz.hm@@$$yg$$yg h@z@hmz..m@@$$yg$$yg:-0.5 @.z@hmz.hm@@$$yg$$yg:-0.5 .@z.hmz@hm@@$$yg$$yg:-0.5 .@z@hmz@hm@.$$yg$$yg:-0.5 
-.@z@hmz@hm@.$$yg$$yg h@z@hmz@.m@.$$yg$$yg:0 @.z@hmz@hm@.$$yg$$yg:-0.5 .@z@hmz@hm@g$$yg$$y.:-0.5 .@z@hmz.hm@@$$yg$$yg:-0.5 .@z@hmz@hm.@$$yg$$yg:-0.5 
-h@z@hmz@.m@.$$yg$$yg .@z@hmz@hm@.$$yg$$yg:0 h@z@hmz@.m@g$$yg$$y.:0 h@z@hmz..m@@$$yg$$yg:-0.5 h@z@hmz@.m.@$$yg$$yg:-0.5 
-.@z.hmz@hm@@$$yg$$yg h@z.hmz@.m@@$$yg$$yg:0 @.z.hmz@hm@@$$yg$$yg:0 .@z@hmz.hm@@$$yg$$yg:-0.5 
+.@z@hmz@hm@.$$yg$$yg h@z@hmz@.m@.$$yg$$yg:0.0 @.z@hmz@hm@.$$yg$$yg:-0.5 .@z@hmz@hm@g$$yg$$y.:-0.5 .@z@hmz.hm@@$$yg$$yg:-0.5 .@z@hmz@hm.@$$yg$$yg:-0.5 
+h@z@hmz@.m@.$$yg$$yg .@z@hmz@hm@.$$yg$$yg:0.0 h@z@hmz@.m@g$$yg$$y.:0.0 h@z@hmz..m@@$$yg$$yg:-0.5 h@z@hmz@.m.@$$yg$$yg:-0.5 
+.@z.hmz@hm@@$$yg$$yg h@z.hmz@.m@@$$yg$$yg:0.0 @.z.hmz@hm@@$$yg$$yg:0.0 .@z@hmz.hm@@$$yg$$yg:-0.5 
 h@z@hmz..m@@$$yg$$yg .@z@hmz.hm@@$$yg$$yg:-0.5 h@z.hmz@.m@@$$yg$$yg:-0.5 h@z@hmz@.m@.$$yg$$yg:-0.5 
-@.z.hmz@hm@@$$yg$$yg @mz.hmz@h.@@$$yg$$yg:0 .@z.hmz@hm@@$$yg$$yg:0 @.z@hmz.hm@@$$yg$$yg:0 
+@.z.hmz@hm@@$$yg$$yg @mz.hmz@h.@@$$yg$$yg:0.0 .@z.hmz@hm@@$$yg$$yg:0.0 @.z@hmz.hm@@$$yg$$yg:0.0 
 h@z@hmz@.m.@$$yg$$yg .@z@hmz@hm.@$$yg$$yg:-0.5 h@.@hmz@.mz@$$yg$$yg:-0.5 h@z@hmz@.my@$$yg$$.g:-0.5 h@z@hmz@.m@.$$yg$$yg:-0.5 
 h@z@hmz@.my@$$yg$$.g .@z@hmz@hmy@$$yg$$.g:-0.5 h@z@hmz@.m.@$$yg$$yg:-0.5 
-.@z@hmz@hmy@$$yg$$.g h@z@hmz@.my@$$yg$$.g:-0.5 @.z@hmz@hmy@$$yg$$.g:-0.5 .@z@hmz@hm.@$$yg$$yg:0 
-h@z.hmz@.m@@$$yg$$yg .@z.hmz@hm@@$$yg$$yg:0 h@z@hmz..m@@$$yg$$yg:-0.5 
-h@z@hmz@.m@g$$yg$$y. .@z@hmz@hm@g$$yg$$y.:0 h@z@hmz@.m@.$$yg$$yg:0 
+.@z@hmz@hmy@$$yg$$.g h@z@hmz@.my@$$yg$$.g:-0.5 @.z@hmz@hmy@$$yg$$.g:-0.5 .@z@hmz@hm.@$$yg$$yg:0.0 
+h@z.hmz@.m@@$$yg$$yg .@z.hmz@hm@@$$yg$$yg:0.0 h@z@hmz..m@@$$yg$$yg:-0.5 
+h@z@hmz@.m@g$$yg$$y. .@z@hmz@hm@g$$yg$$y.:0.0 h@z@hmz@.m@.$$yg$$yg:0.0 
 h.@@hmz@.mz@$$yg$$yg ..@@hmz@hmz@$$yg$$yg:-0.5 hm@@hmz@..z@$$yg$$yg:-0.5 h@.@hmz@.mz@$$yg$$yg:-0.5 
-hm@@hmz@..z@$$yg$$yg hm@@hmz@$$z@$$yg..yg:-500.25 .m@@hmz@h.z@$$yg$$yg:0 h.@@hmz@.mz@$$yg$$yg:-0.75 
+hm@@hmz@..z@$$yg$$yg hm@@hmz@$$z@$$yg..yg:-500.25 .m@@hmz@h.z@$$yg$$yg:0.0 h.@@hmz@.mz@$$yg$$yg:-0.75 
 .m@@hmz@h.z@$$yg$$yg hm@@hmz@..z@$$yg$$yg:-0.5 ..@@hmz@hmz@$$yg$$yg:-0.5 
-hm@@hmz@$$z@$$yg..yg hm@@hmz@..z@$$yg$$yg:0 
+hm@@hmz@$$z@$$yg..yg hm@@hmz@..z@$$yg$$yg:0.0 
 @@gyhmgyhmz.$$z@$$@. @@g.hmgyhmzy$$z@$$@.:-2.802734375 @@gyhmgyhmz@$$z.$$@.:-2.40625 @@gyhmgyhmz.$$z.$$@@:-2.5124805187594452 @@gyhmgyhmz.$$z@$$.@:-2.4375 
 @@g.hmgyhmzy$$z@$$@. @@gyhmgyhmz.$$z@$$@.:-2.546875 @@g.hmgyhmzy$$z.$$@@:-2.841796875 @@g.hmgyhmzy$$z@$$.@:-2.453125 
 @@g.hmgyhmzy$$z@$$.@ @@g.hmgyhm.y$$z@$$z@:-2.453125 @@g.hmgyhmzy$$z@$$@.:-2.171875 @@gyhmgyhmz.$$z@$$.@:-2.21875 
@@ -567,7 +567,7 @@ h@@yhmgy.mg.$$z@$$z@ .@@yhmgyhmg.$$z@$$z@:-2.3125 h@@.hmgy.mgy$$z@$$z@:-2.0625 h
 @m.@hmgyh@gy$$.z$$@z @mg@hmgyh@.y$$.z$$@z:-1.4375 @m@.hmgyh@gy$$.z$$@z:-0.75 @m.@hm.yh@gy$$gz$$@z:-1.0 @m.@hmgyh@gy$$@z$$.z:-1.0 
 @mg@hmgyh@.y$$@z$$.z @m.@hmgyh@gy$$@z$$.z:-1.0 @mg@hmgyh@@y$$.z$$.z:988.2587890625 @mg@hmgyh.@y$$@z$$.z:-0.75 @mg@hmgyh@.y$$.z$$@z:-1.125 
 h.mzh.mz$$@g$$yg@@y@ .hmz.hmz$$@g$$yg@@y@:-500.0 hm.zhm.z$$@g$$yg@@y@:-3.5166015625 
-.hmz.hmz$$@g$$yg@@y@ h.mzh.mz$$@g$$yg@@y@:0 
+.hmz.hmz$$@g$$yg@@y@ h.mzh.mz$$@g$$yg@@y@:0.0 
 @myzhmyzh.@@$$@g$$.g @.yzhmyzhm@@$$@g$$.g:-2.15625 @myzhmyzh@.@$$@g$$.g:67.54675301628517 @myzhmyzh.@@$$.g$$@g:-2.21875 
 @myzhmyzh@.@$$.g$$@g @m.zhmyzh@y@$$.g$$@g:48.23563019985752 @myzhmyzh.@@$$.g$$@g:-1.875 @myzhmyzh@@.$$.g$$@g:-1.5625 @myzhmyzh@.@$$@g$$.g:52.01564980151757 
 @myzhmyzh@.@$$@g$$.g @m.zhmyzh@y@$$@g$$.g:53.5357987624995 @myzhmyzh@@@$$.g$$.g:48.860965645735405 @myzhmyzh.@@$$@g$$.g:28.64254978467776 @myzhmyzh@@.$$@g$$.g:53.66094064251092 @myzhmyzh@.@$$.g$$@g:52.03448650807287 
@@ -583,7 +583,7 @@ h.mzh.mz$$@g$$yg@@y@ .hmz.hmz$$@g$$yg@@y@:-500.0 hm.zhm.z$$@g$$yg@@y@:-3.5166015
 @m.zhm.zh@y@$$yg$$@g @.mzh.mzh@y@$$yg$$@g:-1.0 @mz.hmz.h@y@$$yg$$@g:-1.125 @m.zhmyzh@y@$$.g$$@g:-1.0 
 @mz.hmz.h@y@$$yg$$@g @m.zhm.zh@y@$$yg$$@g:-1.0 @mz.hmz@h@y.$$yg$$@g:-0.75 
 @mz.hmz@h@y.$$yg$$@g @mz@hmz.h@y.$$yg$$@g:-0.5 @mz.hmz@h@yg$$yg$$@.:-0.75 @mz.hmz.h@y@$$yg$$@g:-0.5 
-@myzhmyzh@@@.$$g.$$g @myzhmyzh@@@$$.g$$.g:0 @myz.myzh@@@h$$g.$$g:0 
+@myzhmyzh@@@.$$g.$$g @myzhmyzh@@@$$.g$$.g:0.0 @myz.myzh@@@h$$g.$$g:0.0 
 @@gyhmgyhm@.$$z.$$z@ @@g.hmgyhm@y$$z.$$z@:-1.5 @@gyhmgyhm.@$$z.$$z@:-1.84375 @@gyhmgyhm@.$$z@$$z.:-1.5 
 @@gyhmgyhm@.$$z@$$z. @@g.hmgyhm@y$$z@$$z.:-1.625 @@gyhmgyhm@@$$z.$$z.:123.5 @@gyhmgyhm.@$$z@$$z.:-1.25 @@gyhmgyhm@.$$z.$$z@:-1.5625 
 @@g.hmgyhm@y$$z@$$z. @@gyhmgyhm@.$$z@$$z.:-1.875 @@g.hmgyhm@y$$z.$$z@:-1.625 
@@ -593,62 +593,62 @@ h.mzh.mz$$@g$$yg@@y@ .hmz.hmz$$@g$$yg@@y@:-500.0 hm.zhm.z$$@g$$yg@@y@:-3.5166015
 @.@ghm.ghm@y$$zy$$z@ @m@ghm.gh.@y$$zy$$z@:-0.5 .@@ghm.ghm@y$$zy$$z@:-0.5 @@.ghm.ghm@y$$zy$$z@:-1.0 @..ghm@ghm@y$$zy$$z@:-0.5 @.@ghm@ghm.y$$zy$$z@:-0.5 
 @m@ghm.gh.@y$$zy$$z@ @.@ghm.ghm@y$$zy$$z@:-0.5 @m@ghm.gh@.y$$zy$$z@:-0.5 @m.ghm@gh.@y$$zy$$z@:-0.5 @m@ghm@gh..y$$zy$$z@:-0.5 
 @m.ghm@gh.@y$$zy$$z@ @..ghm@ghm@y$$zy$$z@:-0.5 @m.ghm@gh@.y$$zy$$z@:-0.5 @m@ghm.gh.@y$$zy$$z@:-0.5 
-@m@ghm@gh..y$$zy$$z@ @.@ghm@ghm.y$$zy$$z@:0 @m@ghm@gh.zy$$zy$$.@:-0.5 @m@ghm.gh.@y$$zy$$z@:-0.5 
+@m@ghm@gh..y$$zy$$z@ @.@ghm@ghm.y$$zy$$z@:0.0 @m@ghm@gh.zy$$zy$$.@:-0.5 @m@ghm.gh.@y$$zy$$z@:-0.5 
 @..ghm@ghm@y$$zy$$z@ @m.ghm@gh.@y$$zy$$z@:-0.5 .@.ghm@ghm@y$$zy$$z@:-0.5 @.@ghm.ghm@y$$zy$$z@:-0.75 
 .@.ghm@ghm@y$$zy$$z@ h@.ghm@g.m@y$$zy$$z@:-0.5 @..ghm@ghm@y$$zy$$z@:-0.5 .@@ghm.ghm@y$$zy$$z@:-0.5 ..@ghm@ghm@y$$zy$$z@:-0.5 
-..@ghm@ghm@y$$zy$$z@ h.@ghm@g.m@y$$zy$$z@:0 .m@ghm@gh.@y$$zy$$z@:-0.5 .@.ghm@ghm@y$$zy$$z@:-0.75 
-h.@ghm@g.m@y$$zy$$z@ ..@ghm@ghm@y$$zy$$z@:-0.5 hm@ghm@g..@y$$zy$$z@:-0.5 h@.ghm@g.m@y$$zy$$z@:0 
-h@.ghm@g.m@y$$zy$$z@ .@.ghm@ghm@y$$zy$$z@:0 h@@ghm.g.m@y$$zy$$z@:-0.5 h.@ghm@g.m@y$$zy$$z@:-0.5 
+..@ghm@ghm@y$$zy$$z@ h.@ghm@g.m@y$$zy$$z@:0.0 .m@ghm@gh.@y$$zy$$z@:-0.5 .@.ghm@ghm@y$$zy$$z@:-0.75 
+h.@ghm@g.m@y$$zy$$z@ ..@ghm@ghm@y$$zy$$z@:-0.5 hm@ghm@g..@y$$zy$$z@:-0.5 h@.ghm@g.m@y$$zy$$z@:0.0 
+h@.ghm@g.m@y$$zy$$z@ .@.ghm@ghm@y$$zy$$z@:0.0 h@@ghm.g.m@y$$zy$$z@:-0.5 h.@ghm@g.m@y$$zy$$z@:-0.5 
 h@@ghm.g.m@y$$zy$$z@ .@@ghm.ghm@y$$zy$$z@:-0.5 h@.ghm@g.m@y$$zy$$z@:-0.5 h@@ghm@g.m.y$$zy$$z@:-0.5 
-h@@ghm@g.m.y$$zy$$z@ .@@ghm@ghm.y$$zy$$z@:-0.5 h@@ghm@g.mzy$$zy$$.@:0 h@@ghm.g.m@y$$zy$$z@:-0.5 
-.@@ghm@ghm.y$$zy$$z@ h@@ghm@g.m.y$$zy$$z@:-0.5 @.@ghm@ghm.y$$zy$$z@:-0.5 .@@ghm@ghmzy$$zy$$.@:0 .@@ghm.ghm@y$$zy$$z@:-0.5 
+h@@ghm@g.m.y$$zy$$z@ .@@ghm@ghm.y$$zy$$z@:-0.5 h@@ghm@g.mzy$$zy$$.@:0.0 h@@ghm.g.m@y$$zy$$z@:-0.5 
+.@@ghm@ghm.y$$zy$$z@ h@@ghm@g.m.y$$zy$$z@:-0.5 @.@ghm@ghm.y$$zy$$z@:-0.5 .@@ghm@ghmzy$$zy$$.@:0.0 .@@ghm.ghm@y$$zy$$z@:-0.5 
 .@@ghm.ghm@y$$zy$$z@ h@@ghm.g.m@y$$zy$$z@:-0.5 @.@ghm.ghm@y$$zy$$z@:-0.5 .@.ghm@ghm@y$$zy$$z@:-0.5 .@@ghm@ghm.y$$zy$$z@:-0.5 
-.@@ghm@ghmzy$$zy$$.@ h@@ghm@g.mzy$$zy$$.@:0 @.@ghm@ghmzy$$zy$$.@:0 .@@ghm@ghm.y$$zy$$z@:-0.5 .@@ghm@ghmzy$$zy$$@.:0 
-@.@ghm@ghm.y$$zy$$z@ @m@ghm@gh..y$$zy$$z@:0 .@@ghm@ghm.y$$zy$$z@:0 @@.ghm@ghm.y$$zy$$z@:-0.5 @.@ghm@ghmzy$$zy$$.@:-0.5 @.@ghm.ghm@y$$zy$$z@:-0.5 
+.@@ghm@ghmzy$$zy$$.@ h@@ghm@g.mzy$$zy$$.@:0.0 @.@ghm@ghmzy$$zy$$.@:0.0 .@@ghm@ghm.y$$zy$$z@:-0.5 .@@ghm@ghmzy$$zy$$@.:0.0 
+@.@ghm@ghm.y$$zy$$z@ @m@ghm@gh..y$$zy$$z@:0.0 .@@ghm@ghm.y$$zy$$z@:0.0 @@.ghm@ghm.y$$zy$$z@:-0.5 @.@ghm@ghmzy$$zy$$.@:-0.5 @.@ghm.ghm@y$$zy$$z@:-0.5 
 @@.ghm@ghm.y$$zy$$z@ @@@ghm.ghm.y$$zy$$z@:-0.5 @.@ghm@ghm.y$$zy$$z@:-0.5 @@.ghm@ghmzy$$zy$$.@:-0.5 @@.ghm.ghm@y$$zy$$z@:-0.75 
-@@@ghm.ghm.y$$zy$$z@ @@@gh.mgh.my$$zy$$z@:0 @@.ghm@ghm.y$$zy$$z@:-0.5 @@@ghm.ghmzy$$zy$$.@:0 
-@.@ghm@ghmzy$$zy$$.@ @m@ghm@gh.zy$$zy$$.@:-0.5 .@@ghm@ghmzy$$zy$$.@:-0.5 @@.ghm@ghmzy$$zy$$.@:-0.5 @.@ghm@ghm.y$$zy$$z@:0 @.@ghm@ghmzy$$zy$$@.:0 
+@@@ghm.ghm.y$$zy$$z@ @@@gh.mgh.my$$zy$$z@:0.0 @@.ghm@ghm.y$$zy$$z@:-0.5 @@@ghm.ghmzy$$zy$$.@:0.0 
+@.@ghm@ghmzy$$zy$$.@ @m@ghm@gh.zy$$zy$$.@:-0.5 .@@ghm@ghmzy$$zy$$.@:-0.5 @@.ghm@ghmzy$$zy$$.@:-0.5 @.@ghm@ghm.y$$zy$$z@:0.0 @.@ghm@ghmzy$$zy$$@.:0.0 
 .m@ghm@gh.@y$$zy$$z@ hm@ghm@g..@y$$zy$$z@:-0.5 ..@ghm@ghm@y$$zy$$z@:-0.5 .m@ghm@gh@.y$$zy$$z@:-0.5 
-hm@ghm@g..@y$$zy$$z@ hm@ghm@g$$@y$$zy..z@:-500.0 .m@ghm@gh.@y$$zy$$z@:-0.5 h.@ghm@g.m@y$$zy$$z@:-0.5 hm@ghm@g.@.y$$zy$$z@:0 
+hm@ghm@g..@y$$zy$$z@ hm@ghm@g$$@y$$zy..z@:-500.0 .m@ghm@gh.@y$$zy$$z@:-0.5 h.@ghm@g.m@y$$zy$$z@:-0.5 hm@ghm@g.@.y$$zy$$z@:0.0 
 .m@ghm@gh@.y$$zy$$z@ hm@ghm@g.@.y$$zy$$z@:-0.75 .m@ghm@gh@zy$$zy$$.@:-0.75 .m@ghm.gh@@y$$zy$$z@:-0.75 .m@ghm@gh.@y$$zy$$z@:-0.75 
-hm@ghm@g$$@y$$zy..z@ hm@ghm@g..@y$$zy$$z@:0 
+hm@ghm@g$$@y$$zy..z@ hm@ghm@g..@y$$zy$$z@:0.0 
 hm@ghm@g.@.y$$zy$$z@ .m@ghm@gh@.y$$zy$$z@:-0.5 hm@ghm@g@..y$$zy$$z@:-0.5 hm@ghm@g.@zy$$zy$$.@:-0.5 hm@ghm.g.@@y$$zy$$z@:-0.5 hm@ghm@g..@y$$zy$$z@:-0.5 
-@m.ghm@gh@.y$$zy$$z@ @m@ghm.gh@.y$$zy$$z@:0 @m.ghm@gh@zy$$zy$$.@:-0.5 @m.ghm.gh@@y$$zy$$z@:0 @m.ghm@gh.@y$$zy$$z@:-0.5 
-@m.ghm@gh@zy$$zy$$.@ @m@ghm.gh@zy$$zy$$.@:0 @m.ghm@gh@.y$$zy$$z@:-0.5 @m.ghm@gh@zy$$zy$$@.:0 
-@m@ghm.gh@.y$$zy$$z@ @m.ghm@gh@.y$$zy$$z@:0 @m@ghm.gh@zy$$zy$$.@:0 @m@ghm.gh.@y$$zy$$z@:-0.5 
-@m.ghm@gh@zy$$zy$$@. @m@ghm.gh@zy$$zy$$@.:0 @m.ghm@gh@z.$$zy$$@y:0 @m.ghm@gh@zy$$zy$$.@:0 
-@m@ghm@gh.zy$$zy$$.@ @.@ghm@ghmzy$$zy$$.@:-0.5 @m@ghm@gh..y$$zy$$z@:-0.5 @m@ghm@gh.zy$$zy$$@.:0 
-@.@ghm@ghmzy$$zy$$@. @m@ghm@gh.zy$$zy$$@.:0 .@@ghm@ghmzy$$zy$$@.:0 @@.ghm@ghmzy$$zy$$@.:0 @.@ghm@ghmz.$$zy$$@y:0 @.@ghm@ghmzy$$zy$$.@:0 
+@m.ghm@gh@.y$$zy$$z@ @m@ghm.gh@.y$$zy$$z@:0.0 @m.ghm@gh@zy$$zy$$.@:-0.5 @m.ghm.gh@@y$$zy$$z@:0.0 @m.ghm@gh.@y$$zy$$z@:-0.5 
+@m.ghm@gh@zy$$zy$$.@ @m@ghm.gh@zy$$zy$$.@:0.0 @m.ghm@gh@.y$$zy$$z@:-0.5 @m.ghm@gh@zy$$zy$$@.:0.0 
+@m@ghm.gh@.y$$zy$$z@ @m.ghm@gh@.y$$zy$$z@:0.0 @m@ghm.gh@zy$$zy$$.@:0.0 @m@ghm.gh.@y$$zy$$z@:-0.5 
+@m.ghm@gh@zy$$zy$$@. @m@ghm.gh@zy$$zy$$@.:0.0 @m.ghm@gh@z.$$zy$$@y:0.0 @m.ghm@gh@zy$$zy$$.@:0.0 
+@m@ghm@gh.zy$$zy$$.@ @.@ghm@ghmzy$$zy$$.@:-0.5 @m@ghm@gh..y$$zy$$z@:-0.5 @m@ghm@gh.zy$$zy$$@.:0.0 
+@.@ghm@ghmzy$$zy$$@. @m@ghm@gh.zy$$zy$$@.:0.0 .@@ghm@ghmzy$$zy$$@.:0.0 @@.ghm@ghmzy$$zy$$@.:0.0 @.@ghm@ghmz.$$zy$$@y:0.0 @.@ghm@ghmzy$$zy$$.@:0.0 
 @@.ghm@ghmzy$$zy$$.@ @@@ghm.ghmzy$$zy$$.@:-0.5 @.@ghm@ghmzy$$zy$$.@:-0.5 @@.ghm@ghm.y$$zy$$z@:-0.5 @@.ghm@ghmzy$$zy$$@.:-0.5 
-@@.ghm@ghmzy$$zy$$@. @@@ghm.ghmzy$$zy$$@.:0 @.@ghm@ghmzy$$zy$$@.:0 @@.ghm@ghmz.$$zy$$@y:0 @@.ghm@ghmzy$$zy$$.@:-0.5 
-@@@ghm.ghmzy$$zy$$.@ @@@ghmzghmzy$$.y$$.@:0 @@.ghm@ghmzy$$zy$$.@:-0.5 @@@ghm.ghm.y$$zy$$z@:0 @@@ghm.ghmzy$$zy$$@.:0 
-@@.ghm@ghmz.$$zy$$@y @@@ghm.ghmz.$$zy$$@y:0 @.@ghm@ghmz.$$zy$$@y:0 @@..hm@ghmzg$$zy$$@y:0 @@.ghm@ghmzy$$zy$$@.:0 
-@@@gh.mgh.my$$zy$$z@ @@@g.hmg.hmy$$zy$$z@:0 @@@ghm.ghm.y$$zy$$z@:0 @.@gh@mgh.my$$zy$$z@:0 
+@@.ghm@ghmzy$$zy$$@. @@@ghm.ghmzy$$zy$$@.:0.0 @.@ghm@ghmzy$$zy$$@.:0.0 @@.ghm@ghmz.$$zy$$@y:0.0 @@.ghm@ghmzy$$zy$$.@:-0.5 
+@@@ghm.ghmzy$$zy$$.@ @@@ghmzghmzy$$.y$$.@:0.0 @@.ghm@ghmzy$$zy$$.@:-0.5 @@@ghm.ghm.y$$zy$$z@:0.0 @@@ghm.ghmzy$$zy$$@.:0.0 
+@@.ghm@ghmz.$$zy$$@y @@@ghm.ghmz.$$zy$$@y:0.0 @.@ghm@ghmz.$$zy$$@y:0.0 @@..hm@ghmzg$$zy$$@y:0.0 @@.ghm@ghmzy$$zy$$@.:0.0 
+@@@gh.mgh.my$$zy$$z@ @@@g.hmg.hmy$$zy$$z@:0.0 @@@ghm.ghm.y$$zy$$z@:0.0 @.@gh@mgh.my$$zy$$z@:0.0 
 @@gyhmgyhm@@$$z.$$z. @@gyhmgyhm@@$$.z$$.z:561.625 @@gyhmgyhm@.$$z@$$z.:-1.0 
 @@gyhmgyhm@@$$.z$$.z @@gyhmgyhm@@.$$z.$$z:937.5 @@gyhmgyhm@@$$z.$$z.:-0.5 @@gyhmgyhm.@$$@z$$.z:-0.5 
 @@.yhmgyhmg@$$@z$$.z @@gyhmgyhm.@$$@z$$.z:-1.125 @.@yhmgyhmg@$$@z$$.z:-0.75 @@.yhmgyhmg@$$.z$$@z:-0.75 
-@m@ghm.gh@zy$$zy$$.@ @m@ghmzgh@zy$$.y$$.@:0 @m.ghm@gh@zy$$zy$$.@:0 @m@ghm.gh@.y$$zy$$z@:0 @m@ghm.gh@zy$$zy$$@.:0 
+@m@ghm.gh@zy$$zy$$.@ @m@ghmzgh@zy$$.y$$.@:0.0 @m.ghm@gh@zy$$zy$$.@:0.0 @m@ghm.gh@.y$$zy$$z@:0.0 @m@ghm.gh@zy$$zy$$@.:0.0 
 .@@yhmgyhmg@$$z@$$z. h@@yhmgy.mg@$$z@$$z.:-2.140625 @.@yhmgyhmg@$$z@$$z.:-2.140625 .@@yhmgyhmg@$$z.$$z@:-2.40625 
 .@@yhmgyhmg@$$z.$$z@ h@@yhmgy.mg@$$z.$$z@:-2.46875 @.@yhmgyhmg@$$z.$$z@:-2.3125 .@@yhmgyhmg.$$z@$$z@:-2.125 .@@yhmgyhmg@$$z@$$z.:-2.125 
 h@@yhmgy.mg@$$z.$$z@ .@@yhmgyhmg@$$z.$$z@:-2.09375 h@@yhmgy.mg.$$z@$$z@:-2.46875 h@@yhmgy.mg@$$z@$$z.:-2.1875 
 .@@yhmgyhmg.$$z@$$z@ h@@yhmgy.mg.$$z@$$z@:-2.15625 @.@yhmgyhmg.$$z@$$z@:-2.0 .@@.hmgyhmgy$$z@$$z@:-2.28125 .@@yhmgyhmg@$$z.$$z@:-2.46875 
 h@@yhmgy.mg@$$z@$$z. .@@yhmgyhmg@$$z@$$z.:-2.3125 h@@yhmgy.mg@$$z.$$z@:-2.0 
 hmg@hmg.$$z.$$zy@@@y hmg.hmg@$$z.$$zy@@@y:-4.73193359375 hmg@hmg.$$zy$$zy@@@.:-4.61376953125 
-hmg.hmg@$$z.$$zy@@@y hmg@hmg.$$z.$$zy@@@y:-4.4033203125 hmg.hmg@$$zy$$zy@@@.:-4.4228515625 hmg.hmg.$$z@$$zy@@@y:-4.4910888671875 
-hmg.hmg.$$z@$$zy@@@y hm.ghm.g$$z@$$zy@@@y:-3.9237060546875 hmg.hmg@$$z.$$zy@@@y:-4.4454345703125 
+hmg.hmg@$$z.$$zy@@@y hmg@hmg.$$z.$$zy@@@y:-4.4033203125 hmg.hmg@$$zy$$zy@@@.:-4.50146484375 hmg.hmg.$$z@$$zy@@@y:-4.310791015625 
+hmg.hmg.$$z@$$zy@@@y hm.ghm.g$$z@$$zy@@@y:-4.4910888671875 hmg.hmg@$$z.$$zy@@@y:-3.580078125 
 hm.ghm.g$$z@$$zy@@@y h.mgh.mg$$z@$$zy@@@y:-3.25830078125 hmg.hmg.$$z@$$zy@@@y:-3.666259765625 hm.ghmzg$$z@$$.y@@@y:-3.4493408203125 
-hm.ghmzg$$z@$$.y@@@y hmzghmzg$$.@$$.y@@@y:-2.90625 hm.ghm.g$$z@$$zy@@@y:-3.013671875 hm.ghmzg$$z@$$@y@@.y:-3.033203125 
-hmzghmzg$$.@$$.y@@@y hmzghmzg.$$@.$$y@@@y:-2.234375 hm.ghmzg$$z@$$.y@@@y:-2.6640625 hmzghmzg$$@.$$.y@@@y:-2.15625 hmzghmzg$$.@$$@y@@.y:-2.484375 
+hm.ghmzg$$z@$$.y@@@y hmzghmzg$$.@$$.y@@@y:-3.03125 hm.ghm.g$$z@$$zy@@@y:-3.013671875 hm.ghmzg$$z@$$@y@@.y:-3.033203125 
+hmzghmzg$$.@$$.y@@@y hmzghmzg.$$@.$$y@@@y:-2.234375 hm.ghmzg$$z@$$.y@@@y:-2.48828125 hmzghmzg$$@.$$.y@@@y:-2.234375 hmzghmzg$$.@$$@y@@.y:-2.484375 
 hmg@hmg.$$zy$$zy.@@@ hmg@hmg.$$zy$$zy@.@@:-5.41552734375 hmg@hmgy$$zy$$z..@@@:-5.2060546875 hmg.hmg@$$zy$$zy.@@@:-5.3817138671875 
-hm@.hmgy$$gy$$z@@.z@ hm@.hmgy$$gy$$z@.@z@:-5.342529296875 hm@yhmgy$$g.$$z@@.z@:-5.19775390625 hm.@hmgy$$gy$$z@@.z@:-5.543212890625 
-hm@yhmgy$$g.$$z@@.z@ hm@yhmgy$$g.$$z@.@z@:-5.171875 hm@.hmgy$$gy$$z@@.z@:-5.44287109375 hm@yhmgy$$g@$$z.@.z@:-5.23828125 
-hm@yhmgy$$g@$$z.@.z@ hm@yhmgy$$g@$$z..@z@:-5.171875 hm@yhmgy$$g.$$z@@.z@:-5.563232421875 hm@yhmgy$$g@$$z@@.z.:-5.3642578125 
-hm@yhmgy$$g@$$z@@.z. hm@yhmgy$$g@$$z@.@z.:-5.300537109375 hm@yhmgy$$g@$$z.@.z@:-5.5841064453125 
-hm@yhmgy$$g@$$z..@z@ hm@yhmgy$$g@$$z.@.z@:-5.37451171875 hm@yhmgy$$g.$$z@.@z@:-5.25244140625 hm@yhmgy$$g@$$z@.@z.:-5.460693359375 
-hm@yhmgy$$g@$$z@.@z. hm@yhmgy$$g@$$z@@.z.:-5.5714111328125 hm@yhmgy$$g@$$z..@z@:-5.326171875 
-hm@yhmgy$$g.$$z@.@z@ hm@yhmgy$$g.$$z@@.z@:-5.297119140625 hm@.hmgy$$gy$$z@.@z@:-5.08740234375 hm@yhmgy$$g@$$z..@z@:-5.320556640625 
+hm@.hmgy$$gy$$z@@.z@ hm@.hmgy$$gy$$z@.@z@:-5.8173828125 hm@yhmgy$$g.$$z@@.z@:-5.684814453125 hm.@hmgy$$gy$$z@@.z@:-5.543212890625 
+hm@yhmgy$$g.$$z@@.z@ hm@yhmgy$$g.$$z@.@z@:-5.7344970703125 hm@.hmgy$$gy$$z@@.z@:-5.8927001953125 hm@yhmgy$$g@$$z.@.z@:-5.705078125 
+hm@yhmgy$$g@$$z.@.z@ hm@yhmgy$$g@$$z..@z@:-5.712158203125 hm@yhmgy$$g.$$z@@.z@:-6.0030517578125 hm@yhmgy$$g@$$z@@.z.:-5.8323974609375 
+hm@yhmgy$$g@$$z@@.z. hm@yhmgy$$g@$$z@.@z.:-5.8133544921875 hm@yhmgy$$g@$$z.@.z@:-6.07366943359375 
+hm@yhmgy$$g@$$z..@z@ hm@yhmgy$$g@$$z.@.z@:-5.869384765625 hm@yhmgy$$g.$$z@.@z@:-5.7864990234375 hm@yhmgy$$g@$$z@.@z.:-6.01605224609375 
+hm@yhmgy$$g@$$z@.@z. hm@yhmgy$$g@$$z@@.z.:-6.0777587890625 hm@yhmgy$$g@$$z..@z@:-5.8934326171875 
+hm@yhmgy$$g.$$z@.@z@ hm@yhmgy$$g.$$z@@.z@:-5.7677001953125 hm@.hmgy$$gy$$z@.@z@:-5.6610107421875 hm@yhmgy$$g@$$z..@z@:-5.8475341796875 
 h.mgh.mg$$z@$$zy@@@y .hmg.hmg$$z@$$zy@@@y:-500.0 hm.ghm.g$$z@$$zy@@@y:-3.37255859375 
-.hmg.hmg$$z@$$zy@@@y h.mgh.mg$$z@$$zy@@@y:0 
+.hmg.hmg$$z@$$zy@@@y h.mgh.mg$$z@$$zy@@@y:0.0 
 hm.ghmzg$$z@$$@y@@.y hmzghmzg$$.@$$@y@@.y:-2.75 hm.ghmzg$$z@$$.y@@@y:-2.859375 hm.ghmzg$$z@$$@y@.@y:-2.4921875 
 hm.ghmzg$$z@$$@y@.@y hm.ghmzg$$z@$$@y.@@y:-2.25 hm.ghmzg$$z@$$@y@@.y:-2.359375 hmzghmzg$$.@$$@y@.@y:-2.390625 
 hmzghmzg$$.@$$@y@@.y hm.ghmzg$$z@$$@y@@.y:-2.4609375 hmzghmzg$$@@$$.y@@.y:-2.390625 hmzghmzg$$@.$$@y@@.y:-2.328125 hmzghmzg$$.@$$.y@@@y:-2.65625 hmzghmzg$$.@$$@y@.@y:-2.34375 
@@ -659,11 +659,11 @@ hmzghmzg$$@.$$@y@@.y hmzghmzg$$@.$$.y@@@y:-2.28125 hmzghmzg$$@.$$@y@.@y:-2.09375
 hmz.hmzg$$@g$$@y@@.y hmz.hmzg$$@g$$.y@@@y:-2.125 hmz.hmzg$$@g$$@y@.@y:-2.21875 hmzghmzg$$@.$$@y@@.y:-2.421875 
 hmzghmzg$$@.$$@y@.@y hmzghmzg$$@.$$@y.@@y:-2.5625 hmzghmzg$$@.$$@y@@.y:-2.171875 hmz.hmzg$$@g$$@y@.@y:-2.0 hmzghmzg$$@y$$@y@.@.:-2.0625 hmzghmzg$$.@$$@y@.@y:-2.28125 
 hmz.hmzg$$@g$$@y@.@y hmz.hmzg$$@g$$@y.@@y:-2.3125 hmz.hmzg$$@g$$@y@@.y:-2.40625 hmzghmzg$$@.$$@y@.@y:-2.03125 
-hmz.hmzg$$@g$$.y@@@y hmz.hmzg$$.g$$@y@@@y:-2.03125 hmz.hmzg$$@g$$@y@@.y:-2.03125 hmzghmzg$$@.$$.y@@@y:-2.375 
-hmzghmzg$$@.$$.y@@@y hmzghmzg$$..$$@y@@@y:-2.0 hmzghmzg$$@.$$@y@@.y:-2.25 hmz.hmzg$$@g$$.y@@@y:-2.25 hmzghmzg$$@y$$.y@@@.:-2.34375 hmzghmzg$$.@$$.y@@@y:-2.125 
-hmz.hmzg$$.g$$@y@@@y hm..hmzg$$zg$$@y@@@y:-2.15625 hmz.hmzg$$@g$$.y@@@y:-2.0 hmzghmzg$$..$$@y@@@y:-2.0 
+hmz.hmzg$$@g$$.y@@@y hmz.hmzg$$.g$$@y@@@y:-2.515625 hmz.hmzg$$@g$$@y@@.y:-2.03125 hmzghmzg$$@.$$.y@@@y:-2.375 
+hmzghmzg$$@.$$.y@@@y hmzghmzg$$..$$@y@@@y:-2.5 hmzghmzg$$@.$$@y@@.y:-2.25 hmz.hmzg$$@g$$.y@@@y:-2.25 hmzghmzg$$@y$$.y@@@.:-2.34375 hmzghmzg$$.@$$.y@@@y:-2.640625 
+hmz.hmzg$$.g$$@y@@@y hm..hmzg$$zg$$@y@@@y:-2.15625 hmz.hmzg$$@g$$.y@@@y:-2.515625 hmzghmzg$$..$$@y@@@y:-2.515625 
 hmzghmzg$$@y$$.y@@@. hmzghmzg$$.y$$@y@@@.:-2.21875 hmzghmzg$$@y$$@y@@..:-2.40625 hmzghmzg$$@.$$.y@@@y:-2.25 hmzghmzg$$@y$$.y@@.@:-1.9375 
-hmzghmzg$$..$$@y@@@y hm.ghmzg$$z.$$@y@@@y:-2.0 hmzghmzg$$@.$$.y@@@y:-2.03125 hmz.hmzg$$.g$$@y@@@y:-2.03125 hmzghmzg$$.y$$@y@@@.:-2.484375 
+hmzghmzg$$..$$@y@@@y hm.ghmzg$$z.$$@y@@@y:-2.5 hmzghmzg$$@.$$.y@@@y:-2.578125 hmz.hmzg$$.g$$@y@@@y:-2.03125 hmzghmzg$$.y$$@y@@@.:-2.484375 
 hmzghmzg$$@y$$.y@@.@ hmzghmzg$$.y$$@y@@.@:-2.0625 hmzghmzg$$@y$$.y@.@@:-2.3125 hmzghmzg$$@y$$.y@@@.:-1.5625 
 hmzghmzg$$.y$$@y@@@. hm.ghmzg$$zy$$@y@@@.:-2.0 hmzghmzg$$@y$$.y@@@.:-2.359375 hmzghmzg$$..$$@y@@@y:-2.4375 hmzghmzg$$.y$$@y@@.@:-2.0 
 hmzghmzg$$@y$$@y@@.. hmzghmzg$$@y$$.y@@@.:-2.25 hmzghmzg$$@y$$@y@.@.:-2.34375 hmzghmzg$$@.$$@y@@.y:-2.15625 
@@ -674,21 +674,21 @@ hm.ghmzg$$zy$$@y@.@@ hm.ghmzg$$zy$$@y.@@@:-2.125 hm.ghmzg$$zy$$@y@@.@:-2.0 hmzgh
 hm.ghm.g$$zy$$zy@@@@ h.mgh.mg$$zy$$zy@@@@:-1.8125 hmg.hmg.$$zy$$zy@@@@:-2.09375 hm.ghmzg$$zy$$.y@@@@:-2.0625 
 hmzghmzg$$.y$$.y@@@@ hmzghmzg.$$y.$$y@@@@:-2.125 hmzghmzg$$y.$$y.@@@@:-2.375 hm.ghmzg$$zy$$.y@@@@:-1.90625 hmzghmzg$$.y$$@y@@.@:-2.0 
 hmzghmzg.$$@.$$y@@@y hmzghmzg$$.@$$.y@@@y:-1.8125 .mzghmzgh$$@.$$y@@@y:-1.90625 hmzghmzg.$$@@$$y.@@y:-1.65625 
-hm.ghmzg$$z.$$@y@@@y hmzghmzg$$..$$@y@@@y:-2.125 hm..hmzg$$zg$$@y@@@y:-2.0 hm.ghmzg$$zy$$@y@@@.:-2.0 
+hm.ghmzg$$z.$$@y@@@y hmzghmzg$$..$$@y@@@y:-2.125 hm..hmzg$$zg$$@y@@@y:-2.5 hm.ghmzg$$zy$$@y@@@.:-2.0 
 hm.ghmzg$$zy$$@y@@@. hmzghmzg$$.y$$@y@@@.:-2.03125 hm.ghmzg$$z.$$@y@@@y:-1.8125 hm.ghmzg$$zy$$@y@@.@:-1.8125 
-hm..hmzg$$zg$$@y@@@y hmz.hmzg$$.g$$@y@@@y:-2.0 hm.ghmzg$$z.$$@y@@@y:-2.25 
+hm..hmzg$$zg$$@y@@@y hmz.hmzg$$.g$$@y@@@y:-2.5 hm.ghmzg$$z.$$@y@@@y:-2.25 
 hmzghmzg$$y.$$y.@@@@ hmzghmzg$$.y$$.y@@@@:-2.28125 hmz.hmzg$$yg$$y.@@@@:-2.71875 hmzghmzg$$y.$$y@@@@.:-2.40625 
 hmzghmzg.$$@@$$y.@@y .mzghmzgh$$@@$$y.@@y:-1.25 hmzghmzg@$$@.$$y.@@y:-1.5 hmzghmzg.$$@.$$y@@@y:-1.5 hmzghmzg.$$@@$$y@.@y:-1.25 
-hmzghmzg.$$@@$$y@.@y .mzghmzgh$$@@$$y@.@y:-1.125 hmzghmzg@$$@.$$y@.@y:-1.5 hmzghmzg.$$@@$$y.@@y:-1.25 hmzghmzg.$$@@$$y@@.y:-1.25 
-hmzghmzg.$$@@$$y@@.y .mzghmzgh$$@@$$y@@.y:-1.0 hmzghmzg@$$@.$$y@@.y:-1.5 hmzghmzg.$$@@$$y@.@y:-1.25 
-.mzghmzgh$$@@$$y@@.y hmzghmzg.$$@@$$y@@.y:-1.25 .mzghmzgh$$@@$$y@.@y:-1.0 
-hmzghmzg@$$@.$$y@@.y hmzghmzg.$$@@$$y@@.y:-1.0 hmzghmzg@$$@@$$y.@.y:-1.125 hmzghmzg@$$@.$$y@.@y:-1.0 
-.mzghmzgh$$@@$$y@.@y hmzghmzg.$$@@$$y@.@y:-1.25 .mzghmzgh$$@@$$y.@@y:-1.0 .mzghmzgh$$@@$$y@@.y:-1.0 
+hmzghmzg.$$@@$$y@.@y .mzghmzgh$$@@$$y@.@y:-0.75 hmzghmzg@$$@.$$y@.@y:-1.0 hmzghmzg.$$@@$$y.@@y:-1.25 hmzghmzg.$$@@$$y@@.y:-1.0 
+hmzghmzg.$$@@$$y@@.y .mzghmzgh$$@@$$y@@.y:-0.5 hmzghmzg@$$@.$$y@@.y:-1.0 hmzghmzg.$$@@$$y@.@y:-0.5 
+.mzghmzgh$$@@$$y@@.y hmzghmzg.$$@@$$y@@.y:-0.5 .mzghmzgh$$@@$$y@.@y:-1.0 
+hmzghmzg@$$@.$$y@@.y hmzghmzg.$$@@$$y@@.y:-0.5 hmzghmzg@$$@@$$y.@.y:-0.75 hmzghmzg@$$@.$$y@.@y:-1.0 
+.mzghmzgh$$@@$$y@.@y hmzghmzg.$$@@$$y@.@y:-0.5 .mzghmzgh$$@@$$y.@@y:-1.0 .mzghmzgh$$@@$$y@@.y:-1.0 
 .mzghmzgh$$@@$$y.@@y hmzghmzg.$$@@$$y.@@y:-1.5 .mzghmzgh$$@.$$y@@@y:-1.5 .mzghmzgh$$@@$$y@.@y:-1.0 
 .mzghmzgh$$@.$$y@@@y hmzghmzg.$$@.$$y@@@y:-1.625 .mzg.mzgh$$@h$$y@@@y:-2.03125 .mzghmzgh$$@@$$y.@@y:-1.75 
 hmzghmzg@$$@.$$y.@@y hmzghmzg.$$@@$$y.@@y:-1.25 hmzghmzg@$$@.$$y@.@y:-1.5 
-hmzghmzg@$$@.$$y@.@y hmzghmzg.$$@@$$y@.@y:-1.25 hmzghmzg@$$@@$$y..@y:-1.0 hmzghmzg@$$@.$$y.@@y:-1.0 hmzghmzg@$$@.$$y@@.y:-1.25 
-hmzghmzg@$$@@$$y..@y hmzghmzg@$$@.$$y@.@y:-1.0 hmzghmzg@$$@@$$y.@.y:-0.5 
+hmzghmzg@$$@.$$y@.@y hmzghmzg.$$@@$$y@.@y:-1.0 hmzghmzg@$$@@$$y..@y:-1.25 hmzghmzg@$$@.$$y.@@y:-1.0 hmzghmzg@$$@.$$y@@.y:-1.0 
+hmzghmzg@$$@@$$y..@y hmzghmzg@$$@.$$y@.@y:-1.0 hmzghmzg@$$@@$$y.@.y:-1.0 
 hmzghmzg$$@.$$@y.@@y hmzghmzg$$@.$$@y@.@y:-2.421875 hmz.hmzg$$@g$$@y.@@y:-2.578125 hmzghmzg$$@y$$@y.@@.:-2.578125 hmzghmzg$$.@$$@y.@@y:-2.21875 
 hmz.hmzg$$@g$$@y.@@y hmz.hmzg$$@g$$@y@.@y:-2.46875 hmzghmzg$$@.$$@y.@@y:-2.671875 
 hmzghmzg$$@@$$.y.@@y hmzghmzg$$@@$$.y@.@y:-2.0625 hmzghmzg$$.@$$@y.@@y:-2.0625 hmzghmzg$$@@$$@y.@.y:-1.5 
@@ -755,23 +755,23 @@ h@yzhmyz@m@g$$.g$$@. h@yzhmyz@m.g$$@g$$@.:-1.125 h@yzhmyz@m@g$$@g$$..:-1.125 h@y
 h@yzhmyz@m@g$$@g$$.. h@yzhmyz@m@g$$.g$$@.:-1.125 h@yzhmyz@m@.$$@g$$.g:-0.75 
 h@yzhmyz@m@.$$@g$$.g h@yzhmyz@m@.$$.g$$@g:-1.0 h@y.hmyz@m@z$$@g$$.g:-0.5 h@yzhmyz@m@g$$@g$$..:-0.75 h@yzhmyz@m.@$$@g$$.g:-0.75 
 h@yzhmyz@m.@$$@g$$.g h@.zhmyz@my@$$@g$$.g:-0.5 h@yzhmyz@m@@$$.g$$.g:-0.5 h@yzhmyz@m@.$$@g$$.g:-0.75 h@yzhmyz@m.@$$.g$$@g:-0.5 
-h@yzhmyz@m@@$$.g$$.g h@yzhmyz@m@@.$$g.$$g:500.0 h@yzhmyz@m@@$$g.$$g.:0 h@yzhmyz@m.@$$@g$$.g:0 
-h@.zhmyz@my@$$@g$$.g h@yzhmyz@m.@$$@g$$.g:-0.5 h.@zhmyz@my@$$@g$$.g:0 h@.zhmyz@my@$$.g$$@g:-0.5 
-h@yzhmyz@m@@.$$g.$$g h@yzhmyz@m@@$$.g$$.g:0 h@yzhmyz.m@@@$$g.$$g:0 
+h@yzhmyz@m@@$$.g$$.g h@yzhmyz@m@@.$$g.$$g:500.0 h@yzhmyz@m@@$$g.$$g.:0.0 h@yzhmyz@m.@$$@g$$.g:0.0 
+h@.zhmyz@my@$$@g$$.g h@yzhmyz@m.@$$@g$$.g:-0.5 h.@zhmyz@my@$$@g$$.g:0.0 h@.zhmyz@my@$$.g$$@g:-0.5 
+h@yzhmyz@m@@.$$g.$$g h@yzhmyz@m@@$$.g$$.g:0.0 h@yzhmyz.m@@@$$g.$$g:0.0 
 @.g@hmgyhm@y$$@z$$.z @mg@hmgyh.@y$$@z$$.z:502.1376953125 .@g@hmgyhm@y$$@z$$.z:-2.609375 @.g@hmgyhm@y$$.z$$@z:-2.6796875 
-@mg@hmgyh@@y$$.z$$.z @mg@hmgyh@@y.$$z.$$z:999.0234375 @mg@hmgyh@@y$$z.$$z.:-0.5 @mg@hmgyh@.y$$@z$$.z:0 
+@mg@hmgyh@@y$$.z$$.z @mg@hmgyh@@y.$$z.$$z:999.0234375 @mg@hmgyh@@y$$z.$$z.:-0.5 @mg@hmgyh@.y$$@z$$.z:0.0 
 @m.@hmgyh@gy$$@z$$.z @mg@hmgyh@.y$$@z$$.z:-1.125 @m@.hmgyh@gy$$@z$$.z:-0.75 @m.@hmgyh@gy$$.z$$@z:-1.0 
 @mg@hmgyh@@y$$z.$$z. @mg@hmgyh@@y$$.z$$.z:-0.5 @mg@hmg.h@@y$$zy$$z.:-0.5 
-@mg@hmgyh@@y.$$z.$$z @mg@hmgyh@@y$$.z$$.z:0 @mg@.mgyh@@yh$$z.$$z:0 
-@mg@hmg.h@@y$$zy$$z. @mg@hmgyh@@y$$z.$$z.:-0.5 @mg.hmg@h@@y$$zy$$z.:0 @mg@hmg.h@@.$$zy$$zy:0 
-@mg.hmg@h@@y$$zy$$z. @mg@hmg.h@@y$$zy$$z.:0 @mg.hmg@h@@.$$zy$$zy:0 
+@mg@hmgyh@@y.$$z.$$z @mg@hmgyh@@y$$.z$$.z:0.0 @mg@.mgyh@@yh$$z.$$z:0.0 
+@mg@hmg.h@@y$$zy$$z. @mg@hmgyh@@y$$z.$$z.:-0.5 @mg.hmg@h@@y$$zy$$z.:0.0 @mg@hmg.h@@.$$zy$$zy:0.0 
+@mg.hmg@h@@y$$zy$$z. @mg@hmg.h@@y$$zy$$z.:0.0 @mg.hmg@h@@.$$zy$$zy:0.0 
 h@yzhmyz@m.@$$.g$$@g h@.zhmyz@my@$$.g$$@g:-0.5 h@yzhmyz@m@.$$.g$$@g:-1.125 h@yzhmyz@m.@$$@g$$.g:-0.75 
 h@y.hmyz@m@z$$.g$$@g h@y.hmyz@m.z$$@g$$@g:-1.25 h@y.hmyz@m@z$$@g$$.g:-1.0 h@yzhmyz@m@.$$.g$$@g:-0.5 
 h@y.hmyz@m@z$$@g$$.g h@y.hmyz@m@z$$.g$$@g:-0.75 h@yzhmyz@m@.$$@g$$.g:-1.0 
-h@.zhmyz@my@$$.g$$@g h@yzhmyz@m.@$$.g$$@g:-0.5 h.@zhmyz@my@$$.g$$@g:0 h@.zhm.z@my@$$yg$$@g:0 h@.zhmyz@my@$$@g$$.g:-0.5 
-h.@zhmyz@my@$$.g$$@g hm@zhmyz@.y@$$.g$$@g:0 h@.zhmyz@my@$$.g$$@g:0 h.@zhm.z@my@$$yg$$@g:0 h.@zhmyz@my@$$@g$$.g:0 
-h.@zhmyz@my@$$@g$$.g hm@zhmyz@.y@$$@g$$.g:0 h@.zhmyz@my@$$@g$$.g:0 h.@zhmyz@my@$$.g$$@g:0 
-h@yzhmyz@m@g.$$g.$$@ h@yzhmyz@m@g$$.g$$.@:0 h@yzhmyz.m@g@$$g.$$@:0 
+h@.zhmyz@my@$$.g$$@g h@yzhmyz@m.@$$.g$$@g:-0.5 h.@zhmyz@my@$$.g$$@g:0.0 h@.zhm.z@my@$$yg$$@g:0.0 h@.zhmyz@my@$$@g$$.g:-0.5 
+h.@zhmyz@my@$$.g$$@g hm@zhmyz@.y@$$.g$$@g:0.0 h@.zhmyz@my@$$.g$$@g:0.0 h.@zhm.z@my@$$yg$$@g:0.0 h.@zhmyz@my@$$@g$$.g:0.0 
+h.@zhmyz@my@$$@g$$.g hm@zhmyz@.y@$$@g$$.g:0.0 h@.zhmyz@my@$$@g$$.g:0.0 h.@zhmyz@my@$$.g$$@g:0.0 
+h@yzhmyz@m@g.$$g.$$@ h@yzhmyz@m@g$$.g$$.@:0.0 h@yzhmyz.m@g@$$g.$$@:0.0 
 .m@zhmyzh@yg$$.g$$@@ hm@zhmyz.@yg$$.g$$@@:-1.125 .m@zhm.zh@yg$$yg$$@@:-1.375 .m@zhmyzh@yg$$@g$$.@:-1.6875 
 .m@zhm.zh@yg$$yg$$@@ hm@zhm.z.@yg$$yg$$@@:-1.0 .m@zhmyzh@yg$$.g$$@@:-1.0 .m.zhm@zh@yg$$yg$$@@:-1.375 
 hm@zhm.z.@yg$$yg$$@@ .m@zhm.zh@yg$$yg$$@@:-0.75 hm@zhm.z@.yg$$yg$$@@:-1.125 hm@zhmyz.@yg$$.g$$@@:-0.75 hm.zhm@z.@yg$$yg$$@@:-1.125 
@@ -785,9 +785,9 @@ h@z.hmzg@myg$$y@$$@. h@zghmzg@my.$$y@$$@.:-0.5 h@z.hmzg@myg$$y.$$@@:-1.0 h@z.hmz
 h@z.hmzg@myg$$y@$$.@ h@z.hmzg@m.g$$y@$$y@:-0.75 h@z.hmzg@myg$$y@$$@.:-1.0 h@zghmzg@my.$$y@$$.@:-0.5 
 h@zghmzg@my.$$y@$$.@ h@zghmzg@m..$$y@$$y@:-0.5 h@zghmzg@my.$$y@$$@.:-0.5 h@z.hmzg@myg$$y@$$.@:-1.0 h@zghmzg@my@$$y.$$.@:-0.5 
 h@z.hmzg@m.g$$y@$$y@ h@..hmzg@mzg$$y@$$y@:-1.0 h@z.hmzg@myg$$y@$$.@:-0.5 h@zghmzg@m..$$y@$$y@:-0.5 
-h@zghmzg@my@$$y.$$.@ h@zghmzg@m.@$$y.$$y@:-0.5 h@zghmzg@my@$$y.$$@.:0 h@zghmzg@my.$$y@$$.@:-0.75 h@zghmzg@my@$$y@$$..:0 
+h@zghmzg@my@$$y.$$.@ h@zghmzg@m.@$$y.$$y@:-0.5 h@zghmzg@my@$$y.$$@.:0.0 h@zghmzg@my.$$y@$$.@:-0.75 h@zghmzg@my@$$y@$$..:0.0 
 h@zghmzg@my.$$y@$$@. h@z.hmzg@myg$$y@$$@.:-0.5 h@zghmzg@my@$$y.$$@.:-0.5 h@zghmzg@my.$$y.$$@@:-0.5 h@zghmzg@my.$$y@$$.@:-1.0 
-h@zghmzg@my@$$y.$$@. h@zghmzg@my.$$y@$$@.:-0.5 h@zghmzg@my@$$y.$$.@:0 
+h@zghmzg@my@$$y.$$@. h@zghmzg@my.$$y@$$@.:-0.5 h@zghmzg@my@$$y.$$.@:0.0 
 @m.zhmyzh@yg$$@g$$.@ @myzhmyzh@.g$$@g$$.@:-0.9491935346180357 @m.zhmyzh@yg$$.g$$@@:-1.1051030198971774 @m.zhmyzh@yg$$@g$$@.:-0.3625249782041736 
 @m.zhm.zh@yg$$yg$$@@ @.mzh.mzh@yg$$yg$$@@:-1.6664726119938653 @mz.hmz.h@yg$$yg$$@@:-1.5 @m.zhmyzh@yg$$.g$$@@:-1.3986802781409564 
 @m.zhmyzh@yg$$@g$$@. @myzhmyzh@.g$$@g$$@.:-0.7825838326352517 @m.zhmyzh@y.$$@g$$@g:-1.375 @m.zhmyzh@yg$$@g$$.@:-0.75 
@@ -803,8 +803,8 @@ h@mzh.mz.@yg$$yg$$@@ .@mzh.mzh@yg$$yg$$@@:-0.5 h@mzh.mz@.yg$$yg$$@@:-0.5 h.mzh@m
 h.mzh@mz.@yg$$yg$$@@ ..mzh@mzh@yg$$yg$$@@:-1.0 h.mzh@mz@.yg$$yg$$@@:-1.0 h@mzh.mz.@yg$$yg$$@@:-0.75 
 h@mzh@mz..yg$$yg$$@@ h@mzh@mz$$yg$$yg..@@:-0.75 .@mzh@mzh.yg$$yg$$@@:-1.0 h@mzh.mz.@yg$$yg$$@@:-0.75 
 @mz.hmz.h@yg$$yg$$@@ @m.zhm.zh@yg$$yg$$@@:-1.625 @mz.hmzgh@yg$$y.$$@@:-1.25 
-@myzhmyzh@@g$$.g$$.@ @myzhmyzh@@g.$$g.$$@:968.75 @myzhmyzh@.g$$@g$$.@:0 @myzhmyzh@@g$$.g$$@.:0 
-@myzhmyzh@@g.$$g.$$@ @myzhmyzh@@g$$.g$$.@:0 @myz.myzh@@gh$$g.$$@:0 
+@myzhmyzh@@g$$.g$$.@ @myzhmyzh@@g.$$g.$$@:968.75 @myzhmyzh@.g$$@g$$.@:0.0 @myzhmyzh@@g$$.g$$@.:0.0 
+@myzhmyzh@@g.$$g.$$@ @myzhmyzh@@g$$.g$$.@:0.0 @myz.myzh@@gh$$g.$$@:0.0 
 @..@hmgyhmgy$$z@$$z@ @m.@hmgyh.gy$$z@$$z@:-2.0 .@.@hmgyhmgy$$z@$$z@:-2.25 @.g@hmgyhm.y$$z@$$z@:-2.0 @.@.hmgyhmgy$$z@$$z@:-2.53125 
 @m@.hmgyh.gy$$z@$$z@ @.@.hmgyhmgy$$z@$$z@:-2.0625 @m@yhmgyh.g.$$z@$$z@:-2.4609375 @m.@hmgyh.gy$$z@$$z@:-2.53125 
 @.g@hmgyhm.y$$z@$$z@ @mg@hmgyh..y$$z@$$z@:-2.0 .@g@hmgyhm.y$$z@$$z@:-2.34375 @..@hmgyhmgy$$z@$$z@:-2.28125 @.g@hmgyhmzy$$z@$$.@:-2.0 
@@ -839,7 +839,7 @@ h@g.hmg@.mzy$$zy$$@@ .@g.hmg@hmzy$$zy$$@@:-2.5 h@g@hmg..mzy$$zy$$@@:-2.609375
 h@g@hmgy.m.y$$z@$$z@ .@g@hmgyhm.y$$z@$$z@:-2.40625 h@.@hmgy.mgy$$z@$$z@:-2.0 h@g@hmgy.mzy$$z@$$.@:-2.390625 
 h.@@hmgy.mgy$$z@$$z@ ..@@hmgyhmgy$$z@$$z@:-1.5 hm@@hmgy..gy$$z@$$z@:-1.8125 h@.@hmgy.mgy$$z@$$z@:-1.8125 
 hm@@hmgy..gy$$z@$$z@ hm@@hmgy$$gy$$z@..z@:-500.0 .m@@hmgyh.gy$$z@$$z@:-1.125 h.@@hmgy.mgy$$z@$$z@:-1.4375 
-hm@@hmgy$$gy$$z@..z@ hm@@hmgy..gy$$z@$$z@:0 
+hm@@hmgy$$gy$$z@..z@ hm@@hmgy..gy$$z@$$z@:0.0 
 @myzhmyzh@@g$$@g$$.. @myzhmyzh@@g$$.g$$@.:-1.375 @myzhmyzh@@.$$@g$$.g:-1.375 
 @m..hmyzh@yz$$@g$$@g @my.hmyzh@.z$$@g$$@g:-1.75 @m.zhmyzh@y.$$@g$$@g:-1.5 
 @m.@hm.yh@gy$$gz$$@z @.m@h.myh@gy$$gz$$@z:-0.75 @m@.hm.yh@gy$$gz$$@z:-1.0 @m.@hmgyh@gy$$.z$$@z:-1.125 
@@ -847,12 +847,12 @@ hm@@hmgy$$gy$$z@..z@ hm@@hmgy..gy$$z@$$z@:0
 @m@yhmgyh@g.$$@z$$.z @m@yhmgyh@g.$$.z$$@z:-0.5 @m@.hmgyh@gy$$@z$$.z:-1.0 @m@yhmgyh@gz$$@z$$..:-0.75 
 @m@.hmgyh@gy$$.z$$@z @m@.hm.yh@gy$$gz$$@z:-1.0 @m@.hmgyh@gy$$@z$$.z:-0.5 @m@yhmgyh@g.$$.z$$@z:-0.75 @m.@hmgyh@gy$$.z$$@z:-0.5 
 @m@yhmgyh@gz$$@z$$.. @m@yhmgyh@gz$$.z$$@.:-0.5 @m@yhmgyh@g.$$@z$$.z:-0.5 
-@m@yhmgyh@gz$$.z$$@. @m@yhm.yh@gz$$gz$$@.:0 @m@yhmgyh@gz$$@z$$..:-0.5 @m@yhmgyh@g.$$.z$$@z:0 @m@yhmgyh@gz$$.z$$.@:-0.5 
+@m@yhmgyh@gz$$.z$$@. @m@yhm.yh@gz$$gz$$@.:0.0 @m@yhmgyh@gz$$@z$$..:-0.5 @m@yhmgyh@g.$$.z$$@z:0.0 @m@yhmgyh@gz$$.z$$.@:-0.5 
 @m@yhmgyh@g.$$.z$$@z @m@yhm.yh@g.$$gz$$@z:-0.75 @m@yhmgyh@g.$$@z$$.z:-0.75 @m@.hmgyh@gy$$.z$$@z:-0.75 @m@yhmgyh@gz$$.z$$@.:-0.5 
-@m@yhm.yh@g.$$gz$$@z @m@yhmgyh@g.$$.z$$@z:-0.5 @m.yhm@yh@g.$$gz$$@z:0 @m@.hm.yh@gy$$gz$$@z:-0.5 @m@yhm.yh@gz$$gz$$@.:-0.5 
-@m.yhm@yh@g.$$gz$$@z @m@yhm.yh@g.$$gz$$@z:0 @m..hm@yh@gy$$gz$$@z:0 @m.yhm@yh@gz$$gz$$@.:0 
-@m@yhmgyh@gz$$.z$$.@ @m@yhmgyh@gz.$$z.$$@:500.0 @m@yhm.yh@gz$$gz$$.@:0 @m@yhmgyh@gz$$.z$$@.:0 
-@m@yhmgyh@gz.$$z.$$@ @m@yhmgyh@gz$$.z$$.@:0 @m@y.mgyh@gzh$$z.$$@:0 
+@m@yhm.yh@g.$$gz$$@z @m@yhmgyh@g.$$.z$$@z:-0.5 @m.yhm@yh@g.$$gz$$@z:0.0 @m@.hm.yh@gy$$gz$$@z:-0.5 @m@yhm.yh@gz$$gz$$@.:-0.5 
+@m.yhm@yh@g.$$gz$$@z @m@yhm.yh@g.$$gz$$@z:0.0 @m..hm@yh@gy$$gz$$@z:0.0 @m.yhm@yh@gz$$gz$$@.:0.0 
+@m@yhmgyh@gz$$.z$$.@ @m@yhmgyh@gz.$$z.$$@:500.0 @m@yhm.yh@gz$$gz$$.@:0.0 @m@yhmgyh@gz$$.z$$@.:0.0 
+@m@yhmgyh@gz.$$z.$$@ @m@yhmgyh@gz$$.z$$.@:0.0 @m@y.mgyh@gzh$$z.$$@:0.0 
 my.zmy@zh$$gh$$g@@@. my@zmy.zh$$gh$$g@@@.:-3.03515625 my.zmy@zh$$.h$$g@@@g:-2.4375 my.zmy@zh$$gh$$g@@.@:-3.015625 
 my.zmy@zh$$gh$$g@@.@ my@zmy.zh$$gh$$g@@.@:-3.0 my.zmy@zh$$gh$$g@.@@:-2.8828125 my.zmy@zh$$gh$$g@@@.:-2.90625 
 my@zmy.zh$$gh$$g@@.@ my.zmy@zh$$gh$$g@@.@:-2.5 my@zmy.zh$$gh$$g@.@@:-2.78125 my@zmy.zh$$gh$$g@@@.:-2.7734375 
@@ -864,9 +864,9 @@ my.zmy@z.$$gh$$gh@@@ .y.zmy@zm$$gh$$gh@@@:-2.125 my.zmy@zh$$gh$$g.@@@:-2.515625 
 my@zmy.z.$$gh$$gh@@@ .y@zmy.zm$$gh$$gh@@@:-2.46875 my@zmy.zh$$gh$$g.@@@:-2.8125 my.zmy@z.$$gh$$gh@@@:-2.46875 
 .y.zmy@zm$$gh$$gh@@@ my.zmy@z.$$gh$$gh@@@:-2.0625 .y@zmy.zm$$gh$$gh@@@:-2.5 
 .y@zmy.zm$$gh$$gh@@@ my@zmy.z.$$gh$$gh@@@:-2.609375 .y.zmy@zm$$gh$$gh@@@:-2.546875 
-@.m@h.myh@gy$$gz$$@z @m.@hm.yh@gy$$gz$$@z:-0.5 .@m@h.myh@gy$$gz$$@z:-0.5 @.m@h@myh.gy$$gz$$@z:0 
+@.m@h.myh@gy$$gz$$@z @m.@hm.yh@gy$$gz$$@z:-0.5 .@m@h.myh@gy$$gz$$@z:-0.5 @.m@h@myh.gy$$gz$$@z:0.0 
 .@m@h.myh@gy$$gz$$@z h@m@h.my.@gy$$gz$$@z:-0.75 @.m@h.myh@gy$$gz$$@z:-0.5 ..m@h@myh@gy$$gz$$@z:-1.0 .@m@h@myh.gy$$gz$$@z:-0.75 
-@.m@h@myh.gy$$gz$$@z @@m@h.myh.gy$$gz$$@z:-0.75 .@m@h@myh.gy$$gz$$@z:-0.5 @.m@h.myh@gy$$gz$$@z:0 
+@.m@h@myh.gy$$gz$$@z @@m@h.myh.gy$$gz$$@z:-0.75 .@m@h@myh.gy$$gz$$@z:-0.5 @.m@h.myh@gy$$gz$$@z:0.0 
 ..m@h@myh@gy$$gz$$@z h.m@h@my.@gy$$gz$$@z:-1.25 .@m@h.myh@gy$$gz$$@z:-1.0 
 h.m@h@my.@gy$$gz$$@z ..m@h@myh@gy$$gz$$@z:-1.25 h.m@h@my@.gy$$gz$$@z:-1.0 h@m@h.my.@gy$$gz$$@z:-1.0 
 h@m@h.my.@gy$$gz$$@z .@m@h.myh@gy$$gz$$@z:-1.0 h@m@h.my@.gy$$gz$$@z:-1.0 h.m@h@my.@gy$$gz$$@z:-1.0 h@m@h@my..gy$$gz$$@z:-1.0 
@@ -892,22 +892,22 @@ hm.zhm@z@@y.$$yg$$@g hm@zhm.z@@y.$$yg$$@g:-1.0 hm..hm@z@@yz$$yg$$@g:-1.0 hm.zhm@
 hm.zhm@z@@yg$$yg$$@. hm@zhm.z@@yg$$yg$$@.:-0.5 hm.zhm@z@@y.$$yg$$@g:-0.75 hm.zhm@z@@yg$$yg$$.@:-0.5 
 hm@zhm.z@@yg$$yg$$@. hm@zhmyz@@yg$$.g$$@.:-1.125 hm.zhm@z@@yg$$yg$$@.:-0.5 hm@zhm.z@@y.$$yg$$@g:-0.5 hm@zhm.z@@yg$$yg$$.@:-1.125 
 hm@zhmyz@@yg$$.g$$@. hm@zhm.z@@yg$$yg$$@.:-1.0 hm@zhmyz@@yg$$@g$$..:-0.5 hm@zhmyz@@y.$$.g$$@g:-1.125 hm@zhmyz@@yg$$.g$$.@:-0.5 
-hm@zhmyz@@yg$$.g$$.@ hm@zhmyz@@yg.$$g.$$@:500.0 hm@zhm.z@@yg$$yg$$.@:-0.5 hm@zhmyz@@yg$$.g$$@.:0 
+hm@zhmyz@@yg$$.g$$.@ hm@zhmyz@@yg.$$g.$$@:500.0 hm@zhm.z@@yg$$yg$$.@:-0.5 hm@zhmyz@@yg$$.g$$@.:0.0 
 hm@zhm.z@@yg$$yg$$.@ hm@zhmyz@@yg$$.g$$.@:-0.5 hm.zhm@z@@yg$$yg$$.@:-0.5 hm@zhm.z@@.g$$yg$$y@:123.875 hm@zhm.z@@yg$$yg$$@.:-0.5 
 hm.zhm@z@@yg$$yg$$.@ hm@zhm.z@@yg$$yg$$.@:-0.5 hm.zhm@z@@.g$$yg$$y@:-0.5 hm.zhm@z@@yg$$yg$$@.:-0.5 
 hm@zhm.z@@.g$$yg$$y@ hm.zhm@z@@.g$$yg$$y@:-1.0 hm@zhm.z@@yg$$yg$$.@:-1.0 hm@zhm.z@.@g$$yg$$y@:60.9375 
 hm.zhm@z@@.g$$yg$$y@ hm@zhm.z@@.g$$yg$$y@:-1.25 hm.zhm@z@@yg$$yg$$.@:-0.5 hm.zhm.z@@@g$$yg$$y@:-0.5 hm.zhm@z@.@g$$yg$$y@:-1.0 
 hm@zhm.z@.@g$$yg$$y@ h.@zhm.z@m@g$$yg$$y@:-1.125 hm@zhm.z.@@g$$yg$$y@:-1.125 hm@zhm.z@@.g$$yg$$y@:-1.125 hm.zhm@z@.@g$$yg$$y@:-1.0 hm@zhm@z@..g$$yg$$y@:-1.0 
-hm@zhmyz@@yg.$$g.$$@ hm@zhmyz@@yg$$.g$$.@:0 hm@zhmyz.@yg@$$g.$$@:0 
+hm@zhmyz@@yg.$$g.$$@ hm@zhmyz@@yg$$.g$$.@:0.0 hm@zhmyz.@yg@$$g.$$@:0.0 
 hmy@hmyz@@@z$$.g$$.g hmy@hmyz@@@z.$$g.$$g:875.0 hmy@hmyz@@@z$$g.$$g.:-0.5 hmy@hmyz@@.z$$@g$$.g:-0.5 
 hmy@hmyz@@@z$$g.$$g. hmy@hmyz@@@z$$.g$$.g:-0.5 hmy@hmy.@@@z$$gz$$g.:-0.5 
-hmy@hmy.@@@z$$gz$$g. hmy@hmyz@@@z$$g.$$g.:-0.5 hmy.hmy@@@@z$$gz$$g.:-0.5 hmy@hmy.@@@.$$gz$$gz:0 
+hmy@hmy.@@@z$$gz$$g. hmy@hmyz@@@z$$g.$$g.:-0.5 hmy.hmy@@@@z$$gz$$g.:-0.5 hmy@hmy.@@@.$$gz$$gz:0.0 
 hmy.hmy@@@@z$$gz$$g. hmy@hmy.@@@z$$gz$$g.:-0.5 hmy.hmy@@@@.$$gz$$gz:-0.5 
-hmy@hmy.@@@.$$gz$$gz hmy.hmy@@@@.$$gz$$gz:-0.5 hmy@hmy.@@@z$$gz$$g.:0 hmy@hmy.@@.@$$gz$$gz:0 
-hmy.hmy@@@@.$$gz$$gz hmy@hmy.@@@.$$gz$$gz:-0.5 hmy.hmy@@@@z$$gz$$g.:-0.5 hmy.hmy.@@@@$$gz$$gz:-0.5 hmy.hmy@@@.@$$gz$$gz:0 
-hmy.hmy.@@@@$$gz$$gz hm.yhm.y@@@@$$gz$$gz:0 hmy.hmy@@@@.$$gz$$gz:-0.5 
-hm.yhm.y@@@@$$gz$$gz h.myh.my@@@@$$gz$$gz:0 hmy.hmy.@@@@$$gz$$gz:0 hm.yhm@y@@.@$$gz$$gz:0 
-hmy@hmyz@@@z.$$g.$$g hmy@hmyz@@@z$$.g$$.g:0 hmy@hmyz.@@z@$$g.$$g:0 
+hmy@hmy.@@@.$$gz$$gz hmy.hmy@@@@.$$gz$$gz:-0.5 hmy@hmy.@@@z$$gz$$g.:0.0 hmy@hmy.@@.@$$gz$$gz:0.0 
+hmy.hmy@@@@.$$gz$$gz hmy@hmy.@@@.$$gz$$gz:-0.5 hmy.hmy@@@@z$$gz$$g.:-0.5 hmy.hmy.@@@@$$gz$$gz:-0.5 hmy.hmy@@@.@$$gz$$gz:0.0 
+hmy.hmy.@@@@$$gz$$gz hm.yhm.y@@@@$$gz$$gz:0.0 hmy.hmy@@@@.$$gz$$gz:-0.5 
+hm.yhm.y@@@@$$gz$$gz h.myh.my@@@@$$gz$$gz:0.0 hmy.hmy.@@@@$$gz$$gz:0.0 hm.yhm@y@@.@$$gz$$gz:0.0 
+hmy@hmyz@@@z.$$g.$$g hmy@hmyz@@@z$$.g$$.g:0.0 hmy@hmyz.@@z@$$g.$$g:0.0 
 hmzghmzg$$@@$$@y@..y hmzghmzg$$@@$$@y.@.y:-1.75 hmzghmzg$$@@$$.y@.@y:-2.078125 
 hmzghmzg$$@@$$y.@@y. hmzghmzg$$@@$$.y@@.y:-2.28125 hmzghmzg$$@.$$y@@@y.:-2.734375 
 hmzghmzg$$@.$$y@@@y. hmz.hmzg$$@g$$y@@@y.:-2.75 hmzghmzg$$@@$$y.@@y.:-2.609375 hmzghmzg$$.@$$y@@@y.:-2.859375 hmzghmzg$$@.$$y.@@y@:-3.13671875 
@@ -952,9 +952,9 @@ h.zghmzg.m@@$$@y$$@y ..zghmzghm@@$$@y$$@y:-0.5 hmzghmzg..@@$$@y$$@y:-1.25
 m.zgm.zgh$$@h$$y@@@y .mzg.mzgh$$@h$$y@@@y:-1.75 mz.gmz.gh$$@h$$y@@@y:-1.78125 
 mz.gmz.gh$$@h$$y@@@y m.zgm.zgh$$@h$$y@@@y:-1.5625 mzg.mzg.h$$@h$$y@@@y:-1.5 
 mzg.mzg.h$$@h$$y@@@y mz.gmz.gh$$@h$$y@@@y:-1.125 mzg.mzg@h$$.h$$y@@@y:-1.375 
-hmzghmzg@$$@@$$y.@.y hmzghmzg@$$@.$$y@@.y:-0.5 hmzghmzg@$$@@$$y@..y:-1.25 hmzghmzg@$$@@$$y..@y:-0.5 
-hmzghmzg@$$@@$$y@..y hmzghmzg@..@@$$y@$$y:750.0 hmzghmzg@$$@@$$y.@.y:0 
-hmzghmzg@..@@$$y@$$y hmzghmzg@$$@@$$y@..y:0 h.zghmzg@m.@@$$y@$$y:0 hmzghmzg.@.@@$$y@$$y:0 hm.ghmzg@.z@@$$y@$$y:0 hmzghmzg@.@.@$$y@$$y:0 
+hmzghmzg@$$@@$$y.@.y hmzghmzg@$$@.$$y@@.y:-0.5 hmzghmzg@$$@@$$y@..y:-1.0 hmzghmzg@$$@@$$y..@y:-0.5 
+hmzghmzg@$$@@$$y@..y hmzghmzg@..@@$$y@$$y:750.0 hmzghmzg@$$@@$$y.@.y:0.0 
+hmzghmzg@..@@$$y@$$y hmzghmzg@$$@@$$y@..y:0.0 h.zghmzg@m.@@$$y@$$y:0.0 hmzghmzg.@.@@$$y@$$y:0.0 hm.ghmzg@.z@@$$y@$$y:0.0 hmzghmzg@.@.@$$y@$$y:0.0 
 hmzghmzg$$y@$$y@.@.@ hmzghmzg$$y@$$y@@..@:-3.17578125 hmzghmzg$$.@$$y@.@y@:-2.875 hmzghmzg$$y@$$y@..@@:-3.01953125 hmzghmzg$$y@$$y@.@@.:-3.17578125 
 hmzghmzg$$.@$$y@.@y@ hmzghmzg$$.@$$y@@.y@:-3.0 hm.ghmzg$$z@$$y@.@y@:-2.921875 hmzghmzg$$y@$$y@.@.@:-3.1484375 hmzghmzg$$@.$$y@.@y@:-2.671875 
 hmzghmzg$$.@$$y@@.y@ hmzghmzg$$.@$$y@.@y@:-3.03515625 hm.ghmzg$$z@$$y@@.y@:-2.625 hmzghmzg$$y@$$y@@..@:-2.703125 hmzghmzg$$@.$$y@@.y@:-2.7578125 
@@ -987,16 +987,16 @@ h.zghmzg@m@y$$@y$$.@ hmzghmzg@.@y$$@y$$.@:-1.0 h.zghmzg@m@y$$.y$$@@:-0.75 h.zghm
 h.zghmzg@m@y$$@y$$@. hmzghmzg@.@y$$@y$$@.:-1.0 h.zghmzg@m@.$$@y$$@y:-1.0 h.zghmzg@m@y$$@y$$.@:-1.0 
 h..ghmzg@mzy$$@y$$@@ hm.ghmzg@.zy$$@y$$@@:-1.5625 h.zghmzg@m.y$$@y$$@@:-1.125 
 .mzghmzgh@.y$$@y$$@@ hmzghmzg.@.y$$@y$$@@:-1.6875 .m.ghmzgh@zy$$@y$$@@:-1.5 .mzghmzgh@@y$$.y$$@@:-1.25 .mzghmzgh.@y$$@y$$@@:-1.25 
-.hmg.hmg$$zy$$zy@@@@ h.mgh.mg$$zy$$zy@@@@:0 
+.hmg.hmg$$zy$$zy@@@@ h.mgh.mg$$zy$$zy@@@@:0.0 
 @.mzh.mzh@y@$$yg$$@g @m.zhm.zh@y@$$yg$$@g:-1.125 .@mzh.mzh@y@$$yg$$@g:-0.75 @.mzh@mzh.y@$$yg$$@g:-0.75 
 .@mzh.mzh@y@$$yg$$@g h@mzh.mz.@y@$$yg$$@g:-0.5 @.mzh.mzh@y@$$yg$$@g:-1.125 ..mzh@mzh@y@$$yg$$@g:-0.75 .@mzh@mzh.y@$$yg$$@g:-1.0 
 h@mzh.mz.@y@$$yg$$@g .@mzh.mzh@y@$$yg$$@g:-1.0 h@mzh.mz@.y@$$yg$$@g:-0.5 h.mzh@mz.@y@$$yg$$@g:-1.0 h@mzh@mz..y@$$yg$$@g:-0.5 
 @.mzh@mzh.y@$$yg$$@g @@mzh.mzh.y@$$yg$$@g:-0.75 .@mzh@mzh.y@$$yg$$@g:-1.0 @.mzh.mzh@y@$$yg$$@g:-1.0 
 @@mzh.mzh.y@$$yg$$@g @@mz.hmz.hy@$$yg$$@g:-0.5 @.mzh@mzh.y@$$yg$$@g:-1.125 
 .@mzh@mzh.y@$$yg$$@g h@mzh@mz..y@$$yg$$@g:-1.0 @.mzh@mzh.y@$$yg$$@g:-1.0 .@mzh.mzh@y@$$yg$$@g:-0.75 
-@mz.hmz@h@yg$$yg$$@. @mz@hmz.h@yg$$yg$$@.:0 @mz.hmz@h@y.$$yg$$@g:-0.5 @mz.hmz@h@yg$$yg$$.@:0 
-@mz.hmz@h@yg$$yg$$.@ @mz.hmz@h@.g$$yg$$y@:0 @mz.hmz@h@yg$$yg$$@.:0 @mz@hmz.h@yg$$yg$$.@:0 
-@mz@hmz.h@y.$$yg$$@g @mz.hmz@h@y.$$yg$$@g:0 @mz@hmz.h@yg$$yg$$@.:-0.75 
+@mz.hmz@h@yg$$yg$$@. @mz@hmz.h@yg$$yg$$@.:0.0 @mz.hmz@h@y.$$yg$$@g:-0.5 @mz.hmz@h@yg$$yg$$.@:0.0 
+@mz.hmz@h@yg$$yg$$.@ @mz.hmz@h@.g$$yg$$y@:0.0 @mz.hmz@h@yg$$yg$$@.:0.0 @mz@hmz.h@yg$$yg$$.@:0.0 
+@mz@hmz.h@y.$$yg$$@g @mz.hmz@h@y.$$yg$$@g:0.0 @mz@hmz.h@yg$$yg$$@.:-0.75 
 h.mzh@mz.@y@$$yg$$@g ..mzh@mzh@y@$$yg$$@g:-1.125 h.mzh@mz@.y@$$yg$$@g:-0.75 h@mzh.mz.@y@$$yg$$@g:-0.75 
 h@mzh.mz@.y@$$yg$$@g h.mzh@mz@.y@$$yg$$@g:-1.0 h@mzh.mz.@y@$$yg$$@g:-0.75 
 ..mzh@mzh@y@$$yg$$@g h.mzh@mz.@y@$$yg$$@g:-0.75 .@mzh.mzh@y@$$yg$$@g:-1.25 
@@ -1004,36 +1004,36 @@ h.mzh@mz@.y@$$yg$$@g h@mzh.mz@.y@$$yg$$@g:-1.0 h.mzh.mz@@y@$$yg$$@g:-0.5 h.mzh@m
 h@mzh@mz..y@$$yg$$@g h@mzh@mz$$y@$$yg..@g:-1.0 .@mzh@mzh.y@$$yg$$@g:-0.75 h@mzh.mz.@y@$$yg$$@g:-1.0 
 h@mzh@mz$$y@$$yg..@g h@mzh@mz..y@$$yg$$@g:-1.0 h@mzh@mz$$y@$$yg.@.g:-1.0 
 h@mzh@mz$$y@$$yg.@.g h@mzh@mz$$y@$$yg@..g:-0.5 h@mzh@mz$$.@$$yg.@yg:-0.5 h@mzh@mz$$y@$$yg..@g:-0.75 
-h@mzh@mz$$y@$$yg@..g h@mzh@mz$$y@$$yg.@.g:-0.5 h@mzh@mz$$.@$$yg@.yg:0 
-h@mzh@mz$$.@$$yg.@yg h@mzh@mz$$.@$$yg@.yg:-0.5 h@.zh@mz$$m@$$yg.@yg:0 h@mzh@mz$$y@$$yg.@.g:-0.5 h@mzh@mz$$@.$$yg.@yg:0 
-h@mzh@mz$$.@$$yg@.yg h@mzh@mz$$.@$$yg.@yg:-0.5 h@.zh@mz$$m@$$yg@.yg:0 h@mzh@mz$$y@$$yg@..g:0 h@mzh@mz$$@.$$yg@.yg:0 
-h@mzh@mz$$@.$$yg.@yg h@mzh@mz$$@.$$yg@.yg:0 h@m.h@mz$$@z$$yg.@yg:0 h@mzh@mz$$@g$$yg.@y.:0 h@mzh@mz$$.@$$yg.@yg:0 
-h@.zh@mz$$m@$$yg@.yg h@.zh@mz$$m@$$yg.@yg:0 h@mzh@mz$$.@$$yg@.yg:0 h.@zh@mz$$m@$$yg@.yg:0 
+h@mzh@mz$$y@$$yg@..g h@mzh@mz$$y@$$yg.@.g:-0.5 h@mzh@mz$$.@$$yg@.yg:0.0 
+h@mzh@mz$$.@$$yg.@yg h@mzh@mz$$.@$$yg@.yg:-0.5 h@.zh@mz$$m@$$yg.@yg:0.0 h@mzh@mz$$y@$$yg.@.g:-0.5 h@mzh@mz$$@.$$yg.@yg:0.0 
+h@mzh@mz$$.@$$yg@.yg h@mzh@mz$$.@$$yg.@yg:-0.5 h@.zh@mz$$m@$$yg@.yg:0.0 h@mzh@mz$$y@$$yg@..g:0.0 h@mzh@mz$$@.$$yg@.yg:0.0 
+h@mzh@mz$$@.$$yg.@yg h@mzh@mz$$@.$$yg@.yg:0.0 h@m.h@mz$$@z$$yg.@yg:0.0 h@mzh@mz$$@g$$yg.@y.:0.0 h@mzh@mz$$.@$$yg.@yg:0.0 
+h@.zh@mz$$m@$$yg@.yg h@.zh@mz$$m@$$yg.@yg:0.0 h@mzh@mz$$.@$$yg@.yg:0.0 h.@zh@mz$$m@$$yg@.yg:0.0 
 @@mz.hmz.hy@$$yg$$@g @@mzh.mzh.y@$$yg$$@g:-0.75 .@mz@hmz.hy@$$yg$$@g:-0.75 
 .@mz@hmz.hy@$$yg$$@g @@mz.hmz.hy@$$yg$$@g:-0.5 @.mz@hmz.hy@$$yg$$@g:-0.5 .@mz.hmz@hy@$$yg$$@g:-0.5 
-.@mz.hmz@hy@$$yg$$@g @.mz.hmz@hy@$$yg$$@g:0 .@mz@hmz.hy@$$yg$$@g:-0.5 
-@.mz@hmz.hy@$$yg$$@g @.mz.hmz@hy@$$yg$$@g:0 @hmz@hmz..y@$$yg$$@g:0 .@mz@hmz.hy@$$yg$$@g:-0.5 
-@.mz.hmz@hy@$$yg$$@g ..mz@hmz@hy@$$yg$$@g:0 @.mz@hmz.hy@$$yg$$@g:0 @hmz.hmz@.y@$$yg$$@g:0 .@mz.hmz@hy@$$yg$$@g:0 
+.@mz.hmz@hy@$$yg$$@g @.mz.hmz@hy@$$yg$$@g:0.0 .@mz@hmz.hy@$$yg$$@g:-0.5 
+@.mz@hmz.hy@$$yg$$@g @.mz.hmz@hy@$$yg$$@g:0.0 @hmz@hmz..y@$$yg$$@g:0.0 .@mz@hmz.hy@$$yg$$@g:-0.5 
+@.mz.hmz@hy@$$yg$$@g ..mz@hmz@hy@$$yg$$@g:0.0 @.mz@hmz.hy@$$yg$$@g:0.0 @hmz.hmz@.y@$$yg$$@g:0.0 .@mz.hmz@hy@$$yg$$@g:0.0 
 h.mzh.mz@@y@$$yg$$@g .hmz.hmz@@y@$$yg$$@g:-0.5 hm.zhm.z@@y@$$yg$$@g:-0.75 h.mzh@mz@.y@$$yg$$@g:-0.75 
-.hmz.hmz@@y@$$yg$$@g h.mzh.mz@@y@$$yg$$@g:-0.5 .hmz@hmz.@y@$$yg$$@g:0 
+.hmz.hmz@@y@$$yg$$@g h.mzh.mz@@y@$$yg$$@g:-0.5 .hmz@hmz.@y@$$yg$$@g:0.0 
 hm.zhm.z@@y@$$yg$$@g h.mzh.mz@@y@$$yg$$@g:-0.5 hmz.hmz.@@y@$$yg$$@g:-0.5 hm.zhmyz@@y@$$.g$$@g:-0.5 
-.hmz@hmz.@y@$$yg$$@g @hmz.hmz.@y@$$yg$$@g:0 .hmz.hmz@@y@$$yg$$@g:0 .hmz@hmz@.y@$$yg$$@g:0 
+.hmz@hmz.@y@$$yg$$@g @hmz.hmz.@y@$$yg$$@g:0.0 .hmz.hmz@@y@$$yg$$@g:0.0 .hmz@hmz@.y@$$yg$$@g:0.0 
 hm.zhmyz@@y@$$.g$$@g hmyzhmyz@@.@$$.g$$@g:-0.5 hm.zhm.z@@y@$$yg$$@g:-0.5 hm.zhmyz@@y@$$@g$$.g:-0.5 
 hmyzhmyz@@.@$$.g$$@g hm.zhmyz@@y@$$.g$$@g:-0.5 hmyzhmyz@.@@$$.g$$@g:-0.5 hmyzhmyz@@@.$$.g$$@g:-0.5 hmyzhmyz@@.@$$@g$$.g:-0.5 
 hmz.hmz.@@y@$$yg$$@g hm.zhm.z@@y@$$yg$$@g:-0.5 hmz.hmz@@@y.$$yg$$@g:-0.5 
-hmz.hmz@@@y.$$yg$$@g hmz@hmz.@@y.$$yg$$@g:-0.5 hmz.hmz@@@yg$$yg$$@.:0 hmz.hmz.@@y@$$yg$$@g:-0.5 
-hmz@hmz.@@y.$$yg$$@g hmz.hmz@@@y.$$yg$$@g:-0.5 hmz@hmz.@@yg$$yg$$@.:0 
-hmz@hmz.@@yg$$yg$$@. hmz@hmzg@@yg$$y.$$@.:0 hmz.hmz@@@yg$$yg$$@.:0 hmz@hmz.@@y.$$yg$$@g:0 hmz@hmz.@@yg$$yg$$.@:0 
-hmz.hmz@@@yg$$yg$$@. hmz@hmz.@@yg$$yg$$@.:0 hmz.hmz@@@y.$$yg$$@g:0 hmz.hmz@@@yg$$yg$$.@:0 
-@mz@hmz.h@yg$$yg$$@. @mz@hmzgh@yg$$y.$$@.:-0.5 @mz.hmz@h@yg$$yg$$@.:0 @mz@hmz.h@y.$$yg$$@g:0 @mz@hmz.h@yg$$yg$$.@:0 
-@mz@hmzgh@yg$$y.$$@. @mz@hmz.h@yg$$yg$$@.:0 @mz@hmzgh@yg$$y.$$.@:-0.5 
-@mz@hmzgh@yg$$y.$$.@ @mz@hmzgh@.g$$y.$$y@:-0.5 @mz@hmzgh@yg$$y.$$@.:0 @mz@hmz.h@yg$$yg$$.@:0 @mz@hmzgh@yg$$y@$$..:0 
-@mz@hmzgh@.g$$y.$$y@ @m.@hmzgh@zg$$y.$$y@:0 @mz@hmzgh@yg$$y.$$.@:0 @mz@hmzgh.@g$$y.$$y@:-0.5 @mz@hmz.h@.g$$yg$$y@:0 @mz@hmzgh@.g$$y@$$y.:0 
-@mz@hmzgh@yg$$y@$$.. @mz@hmzgh@.g$$y@$$y.:0 @mz@hmzgh@yg$$y.$$.@:0 
-@mz@hmzgh.@g$$y.$$y@ @.z@hmzghm@g$$y.$$y@:-0.5 @mz@hmzgh@.g$$y.$$y@:0 @mz@hmz.h.@g$$yg$$y@:-0.5 @mz@hmzgh.@g$$y@$$y.:0 
-@mz@hmz.h.@g$$yg$$y@ @.z@hmz.hm@g$$yg$$y@:0 @mz@hmz.h@.g$$yg$$y@:0 @mz@hmzgh.@g$$y.$$y@:-0.5 @mz.hmz@h.@g$$yg$$y@:0 
-@mz@hmzgh.@g$$y@$$y. @.z@hmzghm@g$$y@$$y.:0 @mz@hmzgh@.g$$y@$$y.:0 @mz@hmzgh.@g$$y.$$y@:0 
-@.z@hmzghm@g$$y.$$y@ @mz@hmzgh.@g$$y.$$y@:0 .@z@hmzghm@g$$y.$$y@:0 @.z@hmz.hm@g$$yg$$y@:0 @.z@hmzghm@g$$y@$$y.:0 
+hmz.hmz@@@y.$$yg$$@g hmz@hmz.@@y.$$yg$$@g:-0.5 hmz.hmz@@@yg$$yg$$@.:0.0 hmz.hmz.@@y@$$yg$$@g:-0.5 
+hmz@hmz.@@y.$$yg$$@g hmz.hmz@@@y.$$yg$$@g:-0.5 hmz@hmz.@@yg$$yg$$@.:0.0 
+hmz@hmz.@@yg$$yg$$@. hmz@hmzg@@yg$$y.$$@.:0.0 hmz.hmz@@@yg$$yg$$@.:0.0 hmz@hmz.@@y.$$yg$$@g:0.0 hmz@hmz.@@yg$$yg$$.@:0.0 
+hmz.hmz@@@yg$$yg$$@. hmz@hmz.@@yg$$yg$$@.:0.0 hmz.hmz@@@y.$$yg$$@g:0.0 hmz.hmz@@@yg$$yg$$.@:0.0 
+@mz@hmz.h@yg$$yg$$@. @mz@hmzgh@yg$$y.$$@.:-0.5 @mz.hmz@h@yg$$yg$$@.:0.0 @mz@hmz.h@y.$$yg$$@g:0.0 @mz@hmz.h@yg$$yg$$.@:0.0 
+@mz@hmzgh@yg$$y.$$@. @mz@hmz.h@yg$$yg$$@.:0.0 @mz@hmzgh@yg$$y.$$.@:-0.5 
+@mz@hmzgh@yg$$y.$$.@ @mz@hmzgh@.g$$y.$$y@:-0.5 @mz@hmzgh@yg$$y.$$@.:0.0 @mz@hmz.h@yg$$yg$$.@:0.0 @mz@hmzgh@yg$$y@$$..:0.0 
+@mz@hmzgh@.g$$y.$$y@ @m.@hmzgh@zg$$y.$$y@:0.0 @mz@hmzgh@yg$$y.$$.@:0.0 @mz@hmzgh.@g$$y.$$y@:-0.5 @mz@hmz.h@.g$$yg$$y@:0.0 @mz@hmzgh@.g$$y@$$y.:0.0 
+@mz@hmzgh@yg$$y@$$.. @mz@hmzgh@.g$$y@$$y.:0.0 @mz@hmzgh@yg$$y.$$.@:0.0 
+@mz@hmzgh.@g$$y.$$y@ @.z@hmzghm@g$$y.$$y@:-0.5 @mz@hmzgh@.g$$y.$$y@:0.0 @mz@hmz.h.@g$$yg$$y@:-0.5 @mz@hmzgh.@g$$y@$$y.:0.0 
+@mz@hmz.h.@g$$yg$$y@ @.z@hmz.hm@g$$yg$$y@:0.0 @mz@hmz.h@.g$$yg$$y@:0.0 @mz@hmzgh.@g$$y.$$y@:-0.5 @mz.hmz@h.@g$$yg$$y@:0.0 
+@mz@hmzgh.@g$$y@$$y. @.z@hmzghm@g$$y@$$y.:0.0 @mz@hmzgh@.g$$y@$$y.:0.0 @mz@hmzgh.@g$$y.$$y@:0.0 
+@.z@hmzghm@g$$y.$$y@ @mz@hmzgh.@g$$y.$$y@:0.0 .@z@hmzghm@g$$y.$$y@:0.0 @.z@hmz.hm@g$$yg$$y@:0.0 @.z@hmzghm@g$$y@$$y.:0.0 
 .mzghmzgh@@y$$.y$$@@ hmzghmzg.@@y$$.y$$@@:-1.5 .mzghmzgh@.y$$@y$$@@:-1.0 .mzghmzgh@@y$$@y$$.@:-1.5 
 hm.ghmzg.@zy$$@y$$@@ .m.ghmzgh@zy$$@y$$@@:-1.5625 hm.ghmzg@.zy$$@y$$@@:-1.5625 hmzghmzg.@.y$$@y$$@@:-1.25 
 hm.ghmzg@.zy$$@y$$@@ h..ghmzg@mzy$$@y$$@@:-1.5625 hm.ghmzg.@zy$$@y$$@@:-1.5 hmzghmzg@..y$$@y$$@@:-1.5625 
@@ -1049,7 +1049,7 @@ hmz.hmzg@.@g$$@y$$@y h.z.hmzg@m@g$$@y$$@y:-0.5 hmz.hmzg.@@g$$@y$$@y:-1.0 hmz.hmz
 .mzghmzgh@@y$$@y$$@. hmzghmzg.@@y$$@y$$@.:-0.75 .mzghmzgh@@.$$@y$$@y:-1.0 .mzghmzgh@@y$$@y$$.@:-0.75 
 hmzghmzg@.@y$$@y$$.@ h.zghmzg@m@y$$@y$$.@:-0.75 hmzghmzg.@@y$$@y$$.@:-1.0 hmzghmzg@@.y$$@y$$.@:-1.0 hmzghmzg@.@y$$.y$$@@:-0.75 hmzghmzg@.@y$$@y$$@.:-0.75 
 hmzghmzg@@.y$$.y$$@@ hmzghmzg@@y.$$y.$$@@:-0.5 hm.ghmzg@@zy$$.y$$@@:-0.5 hmzghmzg@.@y$$.y$$@@:-0.75 hmzghmzg@@.y$$@y$$.@:-0.5 
-hmzghmzg@@y.$$y.$$@@ hmzghmzg@@.y$$.y$$@@:-0.5 hmz.hmzg@@yg$$y.$$@@:-0.5 hmzghmzg@@y.$$y@$$@.:0 
+hmzghmzg@@y.$$y.$$@@ hmzghmzg@@.y$$.y$$@@:-0.5 hmz.hmzg@@yg$$y.$$@@:-0.5 hmzghmzg@@y.$$y@$$@.:0.0 
 .mzghmzgh@@.$$@y$$@y hmzghmzg.@@.$$@y$$@y:-1.0 .mz.hmzgh@@g$$@y$$@y:-0.5 .mzghmzgh@@y$$@y$$@.:-0.5 .mzghmzgh@.@$$@y$$@y:-0.5 
 .mz.hmzgh@@g$$@y$$@y hmz.hmzg.@@g$$@y$$@y:-1.0 .mzghmzgh@@.$$@y$$@y:-0.5 
 h.zghmzg@m@.$$@y$$@y hmzghmzg@.@.$$@y$$@y:-0.5 h.z.hmzg@m@g$$@y$$@y:-0.5 h.zghmzg@m@y$$@y$$@.:-1.0 h.zghmzg@m.@$$@y$$@y:-1.0 
@@ -1065,7 +1065,7 @@ hmzghmzg@.@@$$.y$$@y h.zghmzg@m@@$$.y$$@y:-0.5 hmzghmzg.@@@$$.y$$@y:-1.0 hmzghmz
 h.zghmzg@m@@$$@y$$.y hmzghmzg@.@@$$@y$$.y:-0.5 h.zghmzg@m@@$$.y$$@y:-0.5 
 hmzghmzg@.@@$$@y$$.y h.zghmzg@m@@$$@y$$.y:-0.5 hmzghmzg.@@@$$@y$$.y:-0.5 hmzghmzg@@.@$$@y$$.y:-0.5 hmzghmzg@.@@$$.y$$@y:-0.5 
 hm.zhmyz@@y@$$@g$$.g hmyzhmyz@@.@$$@g$$.g:-0.5 hm.zhmyz@@y@$$.g$$@g:-0.5 
-hmyzhmyz@@.@$$@g$$.g hm.zhmyz@@y@$$@g$$.g:-0.5 hmyzhmyz@@@@$$.g$$.g:-0.5 hmyzhmyz@.@@$$@g$$.g:-0.5 hmyzhmyz@@@.$$@g$$.g:0 hmyzhmyz@@.@$$.g$$@g:0 
+hmyzhmyz@@.@$$@g$$.g hm.zhmyz@@y@$$@g$$.g:-0.5 hmyzhmyz@@@@$$.g$$.g:-0.5 hmyzhmyz@.@@$$@g$$.g:-0.5 hmyzhmyz@@@.$$@g$$.g:0.0 hmyzhmyz@@.@$$.g$$@g:0.0 
 hmzghmzg.@@@$$@y$$.y .mzghmzgh@@@$$@y$$.y:-0.5 hmzghmzg@.@@$$@y$$.y:-0.5 hmzghmzg.@@@$$.y$$@y:-0.5 
 .mzghmzgh@@@$$@y$$.y hmzghmzg.@@@$$@y$$.y:-0.5 .mzghmzgh@@@$$.y$$@y:-0.5 
 .m.ghmzgh@z@$$@y$$@y hm.ghmzg.@z@$$@y$$@y:-0.5 .mzghmzgh@.@$$@y$$@y:-0.5 
@@ -1075,7 +1075,7 @@ hmzghmzg@@..$$@y$$@y hm.ghmzg@@z.$$@y$$@y:-1.0 hmzghmzg@@@.$$.y$$@y:-0.5 hmzghmz
 hm.ghmzg@@z.$$@y$$@y hmzghmzg@@..$$@y$$@y:-0.5 hm..hmzg@@zg$$@y$$@y:-0.5 hm.ghmzg@@zy$$@y$$@.:-1.0 
 hmz.hmzg@@.g$$@y$$@y hm..hmzg@@zg$$@y$$@y:-1.0 hmz.hmzg@@@g$$.y$$@y:-0.75 hmz.hmzg@.@g$$@y$$@y:-1.0 hmzghmzg@@..$$@y$$@y:-0.875 
 hm..hmzg@@zg$$@y$$@y hmz.hmzg@@.g$$@y$$@y:-1.0 hm.ghmzg@@z.$$@y$$@y:-0.5 
-hmz.hmzg@@@g$$.y$$@y hmz.hmzg@@.g$$@y$$@y:-0.5 hmz.hmzg@@@g$$@y$$.y:0 hmzghmzg@@@.$$.y$$@y:0 
+hmz.hmzg@@@g$$.y$$@y hmz.hmzg@@.g$$@y$$@y:-0.5 hmz.hmzg@@@g$$@y$$.y:0.0 hmzghmzg@@@.$$.y$$@y:0.0 
 hm.ghmzg@@zy$$@y$$@. hmzghmzg@@.y$$@y$$@.:-1.0 hm.ghmzg@@z.$$@y$$@y:-0.5 hm.ghmzg@@zy$$@y$$.@:-1.0 
 hm.ghmzg@@zy$$@y$$.@ hmzghmzg@@.y$$@y$$.@:-0.5 hm.ghmzg@@zy$$.y$$@@:-0.75 hm.ghmzg@@zy$$@y$$@.:-1.0 
 hm.ghmzg@@zy$$.y$$@@ hmzghmzg@@.y$$.y$$@@:-0.5 hm.ghm.g@@zy$$zy$$@@:-0.5 hm.ghmzg@@zy$$@y$$.@:-1.0 
@@ -1084,40 +1084,40 @@ h.mgh.mg@@zy$$zy$$@@ .hmg.hmg@@zy$$zy$$@@:-0.5 hm.ghm.g@@zy$$zy$$@@:-1.0 h.mgh@m
 hmg.hmg.@@zy$$zy$$@@ hm.ghm.g@@zy$$zy$$@@:-0.75 hmg.hmgy@@zy$$z.$$@@:-1.0 
 .hmg.hmg@@zy$$zy$$@@ h.mgh.mg@@zy$$zy$$@@:-0.5 .hmg@hmg.@zy$$zy$$@@:-0.5 
 hmzghmzg@@.y$$@y$$.@ hm.ghmzg@@zy$$@y$$.@:-0.5 hmzghmzg@@@y$$.y$$.@:-1.0 hmzghmzg@.@y$$@y$$.@:-0.5 hmzghmzg@@.y$$.y$$@@:-0.5 hmzghmzg@@.y$$@y$$@.:-0.5 
-hmzghmzg@@@y$$.y$$@. hmzghmzg@@.y$$@y$$@.:-0.5 hmzghmzg@@@y$$@y$$..:-0.5 hmzghmzg@@@.$$.y$$@y:0 hmzghmzg@@@y$$.y$$.@:0 
-hmzghmzg@@y.$$y@$$@. hmz.hmzg@@yg$$y@$$@.:0 hmzghmzg@@y@$$y.$$@.:0 hmzghmzg@@y.$$y.$$@@:0 hmzghmzg@@y.$$y@$$.@:0 
-hmzghmzg@@@y$$.y$$.@ hmzghmzg@@@y.$$y.$$@:750.0 hmzghmzg@@.y$$@y$$.@:0 hmzghmzg@@@y$$.y$$@.:0 
-hmyzhmyz@@@@$$.g$$.g hmyzhmyz@@@@.$$g.$$g:500.0 hmyzhmyz@@@@$$g.$$g.:-0.75 hmyzhmyz@@.@$$@g$$.g:0 
+hmzghmzg@@@y$$.y$$@. hmzghmzg@@.y$$@y$$@.:-0.5 hmzghmzg@@@y$$@y$$..:-0.5 hmzghmzg@@@.$$.y$$@y:0.0 hmzghmzg@@@y$$.y$$.@:0.0 
+hmzghmzg@@y.$$y@$$@. hmz.hmzg@@yg$$y@$$@.:0.0 hmzghmzg@@y@$$y.$$@.:0.0 hmzghmzg@@y.$$y.$$@@:0.0 hmzghmzg@@y.$$y@$$.@:0.0 
+hmzghmzg@@@y$$.y$$.@ hmzghmzg@@@y.$$y.$$@:750.0 hmzghmzg@@.y$$@y$$.@:0.0 hmzghmzg@@@y$$.y$$@.:0.0 
+hmyzhmyz@@@@$$.g$$.g hmyzhmyz@@@@.$$g.$$g:500.0 hmyzhmyz@@@@$$g.$$g.:-0.75 hmyzhmyz@@.@$$@g$$.g:0.0 
 hmyzhmyz@@@@$$g.$$g. hmyzhmyz@@@@$$.g$$.g:-0.75 hmyzhmyz@@@.$$g@$$g.:-0.5 
-hmyzhmyz@@@@.$$g.$$g hmyzhmyz@@@@$$.g$$.g:0 hmyzhmyz.@@@@$$g.$$g:0 
+hmyzhmyz@@@@.$$g.$$g hmyzhmyz@@@@$$.g$$.g:0.0 hmyzhmyz.@@@@$$g.$$g:0.0 
 hmyzhmyz@@@.$$g@$$g. hmy.hmyz@@@z$$g@$$g.:-0.5 hmyzhmyz@@@@$$g.$$g.:-0.5 hmyzhmyz@@.@$$g@$$g.:-0.5 hmyzhmyz@@@.$$g.$$g@:-0.5 
-hmyzhmyz@@.@$$g@$$g. hm.zhmyz@@y@$$g@$$g.:-0.5 hmyzhmyz@@g@$$g@$$..:0 hmyzhmyz@.@@$$g@$$g.:0 hmyzhmyz@@@.$$g@$$g.:-0.5 hmyzhmyz@@.@$$g.$$g@:-0.5 
-.@mz@hmz.hyg$$yg$$@@ @@mz.hmz.hyg$$yg$$@@:-0.5 @.mz@hmz.hyg$$yg$$@@:0 .@mz.hmz@hyg$$yg$$@@:0 
-.@mz.hmz@hyg$$yg$$@@ @.mz.hmz@hyg$$yg$$@@:0 .@mz@hmz.hyg$$yg$$@@:0 
+hmyzhmyz@@.@$$g@$$g. hm.zhmyz@@y@$$g@$$g.:-0.5 hmyzhmyz@@g@$$g@$$..:0.0 hmyzhmyz@.@@$$g@$$g.:0.0 hmyzhmyz@@@.$$g@$$g.:-0.5 hmyzhmyz@@.@$$g.$$g@:-0.5 
+.@mz@hmz.hyg$$yg$$@@ @@mz.hmz.hyg$$yg$$@@:-0.5 @.mz@hmz.hyg$$yg$$@@:0.0 .@mz.hmz@hyg$$yg$$@@:0.0 
+.@mz.hmz@hyg$$yg$$@@ @.mz.hmz@hyg$$yg$$@@:0.0 .@mz@hmz.hyg$$yg$$@@:0.0 
 h@mzh@mz$$yg$$yg..@@ h@mzh@mz..yg$$yg$$@@:-0.5 h@mzh@mz$$yg$$yg.@.@:-1.0 
-h@mzh@mz$$yg$$yg.@.@ h@mzh@mz$$yg$$yg@..@:-0.5 h@mzh@mz$$.g$$yg.@y@:0 h@mzh@mz$$yg$$yg..@@:-0.5 h@mzh@mz$$yg$$yg.@@.:-0.5 
-h@mzh@mz$$yg$$yg@..@ h@mzh@mz$$yg$$yg.@.@:-0.5 h@mzh@mz$$.g$$yg@.y@:0 h@mzh@mz$$yg$$yg@.@.:0 
-h@mzh@mz$$yg$$yg@.@. h@mzh@mz$$yg$$yg.@@.:0 h@mzh@mz$$yg$$yg@@..:-0.5 h@mzh@mz$$y.$$yg@.@g:0 h@mzh@mz$$yg$$yg@..@:0 
-h@mzh@mz$$yg$$yg.@@. h@mzh@mz$$yg$$yg@.@.:-0.5 h@mzh@mz$$y.$$yg.@@g:0 h@mzh@mz$$yg$$yg.@.@:0 
-h@mzh@mz$$.g$$yg.@y@ h@mzh@mz$$.g$$yg@.y@:0 h@.zh@mz$$mg$$yg.@y@:0 h@mzh@mz$$yg$$yg.@.@:0 
-h@mzh@mz$$y.$$yg.@@g h@mzh@mz$$y.$$yg@.@g:0 h@m.h@mz$$yz$$yg.@@g:0 h@mzh@mz$$yg$$yg.@@.:0 
-h@mzh@mz$$yg$$yg@@.. h@mzh@mz$$.g$$yg@@y.:-0.5 h@mzh@mz$$yg$$yg@.@.:0 h@mzh@mz$$y.$$yg@@.g:0 
-h@mzh@mz$$y.$$yg@.@g h@mzh@mz$$y.$$yg.@@g:0 h@mzh@mz$$y.$$yg@@.g:0 h@m.h@mz$$yz$$yg@.@g:0 h@mzh@mz$$yg$$yg@.@.:0 
-h@mzh@mz$$.g$$yg@@y. h@.zh@mz$$mg$$yg@@y.:0 h@mzh@mz$$yg$$yg@@..:0 h@mzh@mz$$..$$yg@@yg:-0.5 
-h@mzh@mz$$..$$yg@@yg h@.zh@mz$$m.$$yg@@yg:-0.5 h@mzh@mz$$y.$$yg@@.g:0 h@m.h@mz$$.z$$yg@@yg:0 h@mzh@mz$$.g$$yg@@y.:0 
-h@.zh@mz$$m.$$yg@@yg h@mzh@mz$$..$$yg@@yg:0 h.@zh@mz$$m.$$yg@@yg:-0.5 h@..h@mz$$mz$$yg@@yg:-0.5 h@.zh@mz$$mg$$yg@@y.:0 
-h@mzh@mz$$y.$$yg@@.g h@mzh@mz$$..$$yg@@yg:0 h@mzh@mz$$y.$$yg@.@g:0 h@m.h@mz$$yz$$yg@@.g:0 h@mzh@mz$$yg$$yg@@..:0 
-h.@zh@mz$$m.$$yg@@yg h@@zh.mz$$m.$$yg@@yg:-0.5 h@.zh@mz$$m.$$yg@@yg:0 h.@.h@mz$$mz$$yg@@yg:-0.5 h.@zh@mz$$mg$$yg@@y.:0 
-h@.zh@mz$$mg$$yg@@y. h@mzh@mz$$.g$$yg@@y.:0 h.@zh@mz$$mg$$yg@@y.:0 h@.zh@mz$$m.$$yg@@yg:0 
-h@@zh.mz$$m.$$yg@@yg h.@zh@mz$$m.$$yg@@yg:-0.5 h@@.h.mz$$mz$$yg@@yg:0 h@@zh.mz$$mg$$yg@@y.:0 
-h@@.h.mz$$mz$$yg@@yg h.@.h@mz$$mz$$yg@@yg:0 h@@zh.mz$$m.$$yg@@yg:0 h@.@h.mz$$mz$$yg@@yg:-0.5 
-h.@.h@mz$$mz$$yg@@yg h@@.h.mz$$mz$$yg@@yg:-0.5 h@..h@mz$$mz$$yg@@yg:-0.5 h.@zh@mz$$m.$$yg@@yg:0 h..@h@mz$$mz$$yg@@yg:-0.5 
-h@..h@mz$$mz$$yg@@yg h@m.h@mz$$.z$$yg@@yg:0 h.@.h@mz$$mz$$yg@@yg:-0.5 h@.zh@mz$$m.$$yg@@yg:-0.5 
-h..@h@mz$$mz$$yg@@yg h@.@h.mz$$mz$$yg@@yg:0 h.m@h@mz$$.z$$yg@@yg:0 h.@.h@mz$$mz$$yg@@yg:-0.5 
-h@m.h@mz$$.z$$yg@@yg h@..h@mz$$mz$$yg@@yg:0 h@m.h@mz$$yz$$yg@@.g:0 h@mzh@mz$$..$$yg@@yg:0 
-h@.@h.mz$$mz$$yg@@yg h..@h@mz$$mz$$yg@@yg:0 h@m@h.mz$$.z$$yg@@yg:0 h.@@h.mz$$mz$$yg@@yg:-0.5 h@@.h.mz$$mz$$yg@@yg:0 
-h.@@h.mz$$mz$$yg@@yg .h@@.hmz$$mz$$yg@@yg:-500.0 h@.@h.mz$$mz$$yg@@yg:0 
-.h@@.hmz$$mz$$yg@@yg h.@@h.mz$$mz$$yg@@yg:0 
+h@mzh@mz$$yg$$yg.@.@ h@mzh@mz$$yg$$yg@..@:-0.5 h@mzh@mz$$.g$$yg.@y@:0.0 h@mzh@mz$$yg$$yg..@@:-0.5 h@mzh@mz$$yg$$yg.@@.:-0.5 
+h@mzh@mz$$yg$$yg@..@ h@mzh@mz$$yg$$yg.@.@:-0.5 h@mzh@mz$$.g$$yg@.y@:0.0 h@mzh@mz$$yg$$yg@.@.:0.0 
+h@mzh@mz$$yg$$yg@.@. h@mzh@mz$$yg$$yg.@@.:0.0 h@mzh@mz$$yg$$yg@@..:-0.5 h@mzh@mz$$y.$$yg@.@g:0.0 h@mzh@mz$$yg$$yg@..@:0.0 
+h@mzh@mz$$yg$$yg.@@. h@mzh@mz$$yg$$yg@.@.:-0.5 h@mzh@mz$$y.$$yg.@@g:0.0 h@mzh@mz$$yg$$yg.@.@:0.0 
+h@mzh@mz$$.g$$yg.@y@ h@mzh@mz$$.g$$yg@.y@:0.0 h@.zh@mz$$mg$$yg.@y@:0.0 h@mzh@mz$$yg$$yg.@.@:0.0 
+h@mzh@mz$$y.$$yg.@@g h@mzh@mz$$y.$$yg@.@g:0.0 h@m.h@mz$$yz$$yg.@@g:0.0 h@mzh@mz$$yg$$yg.@@.:0.0 
+h@mzh@mz$$yg$$yg@@.. h@mzh@mz$$.g$$yg@@y.:-0.5 h@mzh@mz$$yg$$yg@.@.:0.0 h@mzh@mz$$y.$$yg@@.g:0.0 
+h@mzh@mz$$y.$$yg@.@g h@mzh@mz$$y.$$yg.@@g:0.0 h@mzh@mz$$y.$$yg@@.g:0.0 h@m.h@mz$$yz$$yg@.@g:0.0 h@mzh@mz$$yg$$yg@.@.:0.0 
+h@mzh@mz$$.g$$yg@@y. h@.zh@mz$$mg$$yg@@y.:0.0 h@mzh@mz$$yg$$yg@@..:0.0 h@mzh@mz$$..$$yg@@yg:-0.5 
+h@mzh@mz$$..$$yg@@yg h@.zh@mz$$m.$$yg@@yg:-0.5 h@mzh@mz$$y.$$yg@@.g:0.0 h@m.h@mz$$.z$$yg@@yg:0.0 h@mzh@mz$$.g$$yg@@y.:0.0 
+h@.zh@mz$$m.$$yg@@yg h@mzh@mz$$..$$yg@@yg:0.0 h.@zh@mz$$m.$$yg@@yg:-0.5 h@..h@mz$$mz$$yg@@yg:-0.5 h@.zh@mz$$mg$$yg@@y.:0.0 
+h@mzh@mz$$y.$$yg@@.g h@mzh@mz$$..$$yg@@yg:0.0 h@mzh@mz$$y.$$yg@.@g:0.0 h@m.h@mz$$yz$$yg@@.g:0.0 h@mzh@mz$$yg$$yg@@..:0.0 
+h.@zh@mz$$m.$$yg@@yg h@@zh.mz$$m.$$yg@@yg:-0.5 h@.zh@mz$$m.$$yg@@yg:0.0 h.@.h@mz$$mz$$yg@@yg:-0.5 h.@zh@mz$$mg$$yg@@y.:0.0 
+h@.zh@mz$$mg$$yg@@y. h@mzh@mz$$.g$$yg@@y.:0.0 h.@zh@mz$$mg$$yg@@y.:0.0 h@.zh@mz$$m.$$yg@@yg:0.0 
+h@@zh.mz$$m.$$yg@@yg h.@zh@mz$$m.$$yg@@yg:-0.5 h@@.h.mz$$mz$$yg@@yg:0.0 h@@zh.mz$$mg$$yg@@y.:0.0 
+h@@.h.mz$$mz$$yg@@yg h.@.h@mz$$mz$$yg@@yg:0.0 h@@zh.mz$$m.$$yg@@yg:0.0 h@.@h.mz$$mz$$yg@@yg:-0.5 
+h.@.h@mz$$mz$$yg@@yg h@@.h.mz$$mz$$yg@@yg:-0.5 h@..h@mz$$mz$$yg@@yg:-0.5 h.@zh@mz$$m.$$yg@@yg:0.0 h..@h@mz$$mz$$yg@@yg:-0.5 
+h@..h@mz$$mz$$yg@@yg h@m.h@mz$$.z$$yg@@yg:0.0 h.@.h@mz$$mz$$yg@@yg:-0.5 h@.zh@mz$$m.$$yg@@yg:-0.5 
+h..@h@mz$$mz$$yg@@yg h@.@h.mz$$mz$$yg@@yg:0.0 h.m@h@mz$$.z$$yg@@yg:0.0 h.@.h@mz$$mz$$yg@@yg:-0.5 
+h@m.h@mz$$.z$$yg@@yg h@..h@mz$$mz$$yg@@yg:0.0 h@m.h@mz$$yz$$yg@@.g:0.0 h@mzh@mz$$..$$yg@@yg:0.0 
+h@.@h.mz$$mz$$yg@@yg h..@h@mz$$mz$$yg@@yg:0.0 h@m@h.mz$$.z$$yg@@yg:0.0 h.@@h.mz$$mz$$yg@@yg:-0.5 h@@.h.mz$$mz$$yg@@yg:0.0 
+h.@@h.mz$$mz$$yg@@yg .h@@.hmz$$mz$$yg@@yg:-500.0 h@.@h.mz$$mz$$yg@@yg:0.0 
+.h@@.hmz$$mz$$yg@@yg h.@@h.mz$$mz$$yg@@yg:0.0 
 h@zghmzg@m..$$y@$$y@ h@.ghmzg@mz.$$y@$$y@:-0.5 h@zghmzg@my.$$y@$$.@:-0.5 h@z.hmzg@m.g$$y@$$y@:-0.75 h@zghmzg@m.@$$y.$$y@:-0.75 
 h@.ghmzg@mz.$$y@$$y@ h@zghmzg@m..$$y@$$y@:-0.5 h.@ghmzg@mz.$$y@$$y@:-0.5 h@..hmzg@mzg$$y@$$y@:-0.5 h@.ghmzg@mz@$$y.$$y@:-0.5 
 h.@ghmzg@mz.$$y@$$y@ hm@ghmzg@.z.$$y@$$y@:-0.5 h@.ghmzg@mz.$$y@$$y@:-0.5 h.@.hmzg@mzg$$y@$$y@:-0.5 h.@ghmzg@mz@$$y.$$y@:-0.5 
@@ -1127,10 +1127,10 @@ h..@hmzg@mzg$$y@$$y@ hm.@hmzg@.zg$$y@$$y@:-1.125 h.z@hmzg@m.g$$y@$$y@:-1.0 h.@.h
 hm@.hmzg@.zg$$y@$$y@ h.@.hmzg@mzg$$y@$$y@:-0.5 hm@.hmzg.@zg$$y@$$y@:-0.75 hm@ghmzg@.z.$$y@$$y@:-1.0 hm.@hmzg@.zg$$y@$$y@:-1.0 
 h@..hmzg@mzg$$y@$$y@ h@z.hmzg@m.g$$y@$$y@:-0.5 h.@.hmzg@mzg$$y@$$y@:-0.75 h@.ghmzg@mz.$$y@$$y@:-0.5 
 h@.ghmzg@mz@$$y.$$y@ h@zghmzg@m.@$$y.$$y@:-0.5 h.@ghmzg@mz@$$y.$$y@:-0.5 h@.ghmzg@mz.$$y@$$y@:-0.5 h@.ghmzg@mz@$$y@$$y.:-0.5 
-h@zghmzg@m.@$$y.$$y@ h@.ghmzg@mz@$$y.$$y@:-0.5 h@zghmzg@my@$$y.$$.@:-0.5 h@zghmzg@m@.$$y.$$y@:0 h@zghmzg@m..$$y@$$y@:-0.5 h@zghmzg@m.@$$y@$$y.:-0.5 
-h@zghmzg@m.@$$y@$$y. h@.ghmzg@mz@$$y@$$y.:-0.5 h@zghmzg@my@$$y@$$..:-0.5 h@zghmzg@m@.$$y@$$y.:0 h@zghmzg@m.@$$y.$$y@:-0.5 
+h@zghmzg@m.@$$y.$$y@ h@.ghmzg@mz@$$y.$$y@:-0.5 h@zghmzg@my@$$y.$$.@:-0.5 h@zghmzg@m@.$$y.$$y@:0.0 h@zghmzg@m..$$y@$$y@:-0.5 h@zghmzg@m.@$$y@$$y.:-0.5 
+h@zghmzg@m.@$$y@$$y. h@.ghmzg@mz@$$y@$$y.:-0.5 h@zghmzg@my@$$y@$$..:-0.5 h@zghmzg@m@.$$y@$$y.:0.0 h@zghmzg@m.@$$y.$$y@:-0.5 
 h@.ghmzg@mz@$$y@$$y. h@zghmzg@m.@$$y@$$y.:-0.5 h.@ghmzg@mz@$$y@$$y.:-0.5 h@.ghmzg@mz@$$y.$$y@:-0.5 
-h@zghmzg@my@$$y@$$.. h@zghmzg@m.@$$y@$$y.:-0.5 h@zghmzg@my@$$y.$$.@:0 
+h@zghmzg@my@$$y@$$.. h@zghmzg@m.@$$y@$$y.:-0.5 h@zghmzg@my@$$y.$$.@:0.0 
 h.@ghmzg@mz@$$y.$$y@ hm@ghmzg@.z@$$y.$$y@:-0.75 h@.ghmzg@mz@$$y.$$y@:-0.5 h.@ghmzg@mz.$$y@$$y@:-0.5 h.@ghmzg@mz@$$y@$$y.:-0.5 
 hm@ghmzg@.z@$$y.$$y@ h.@ghmzg@mz@$$y.$$y@:-0.75 hm@ghmzg.@z@$$y.$$y@:-0.75 hm@ghmzg@.z.$$y@$$y@:-1.0 hm@ghmzg@.z@$$y@$$y.:-0.75 
 h.@ghmzg@mz@$$y@$$y. hm@ghmzg@.z@$$y@$$y.:-0.5 h@.ghmzg@mz@$$y@$$y.:-0.75 h.@ghmzg@mz@$$y.$$y@:-0.5 
@@ -1141,48 +1141,48 @@ hm@.hmzg.@zg$$y@$$y@ .m@.hmzgh@zg$$y@$$y@:-1.0 hm@.hmzg@.zg$$y@$$y@:-0.5 hm@ghmz
 hm.@hmzg.@zg$$y@$$y@ .m.@hmzgh@zg$$y@$$y@:-0.5 hm.@hmzg@.zg$$y@$$y@:-1.0 hmz@hmzg.@.g$$y@$$y@:-1.0 hm@.hmzg.@zg$$y@$$y@:-1.0 
 hmz@hmzg.@.g$$y@$$y@ .mz@hmzgh@.g$$y@$$y@:-0.5 hmz@hmzg@..g$$y@$$y@:-0.75 hm.@hmzg.@zg$$y@$$y@:-1.0 hmz@hmzg.@yg$$y@$$.@:-1.0 hmz@hmzg..@g$$y@$$y@:-0.5 
 .m.@hmzgh@zg$$y@$$y@ hm.@hmzg.@zg$$y@$$y@:-0.75 .mz@hmzgh@.g$$y@$$y@:-0.5 .m@.hmzgh@zg$$y@$$y@:-0.5 
-hmz@hmzg..@g$$y@$$y@ hmz@hmzg$$@g$$y@..y@:-500.0 .mz@hmzgh.@g$$y@$$y@:0 h.z@hmzg.m@g$$y@$$y@:-0.5 hmz@hmzg.@.g$$y@$$y@:-0.5 
+hmz@hmzg..@g$$y@$$y@ hmz@hmzg$$@g$$y@..y@:-500.0 .mz@hmzgh.@g$$y@$$y@:0.0 h.z@hmzg.m@g$$y@$$y@:-0.5 hmz@hmzg.@.g$$y@$$y@:-0.5 
 hmz@hmzg.@yg$$y@$$.@ .mz@hmzgh@yg$$y@$$.@:-0.5 hmz@hmzg@.yg$$y@$$.@:-1.0 hmz@hmzg.@.g$$y@$$y@:-1.0 hmz@hmzg.@yg$$y@$$@.:-1.0 
 h.z@hmzg.m@g$$y@$$y@ ..z@hmzghm@g$$y@$$y@:-0.5 hmz@hmzg..@g$$y@$$y@:-0.5 
 ..z@hmzghm@g$$y@$$y@ h.z@hmzg.m@g$$y@$$y@:-0.5 .mz@hmzgh.@g$$y@$$y@:-0.5 
 hmz@hmzg@..g$$y@$$y@ h.z@hmzg@m.g$$y@$$y@:-1.0 hmz@hmzg.@.g$$y@$$y@:-1.0 hm.@hmzg@.zg$$y@$$y@:-1.0 hmz@hmzg@.yg$$y@$$.@:-1.0 
 hm.@hmzg@.zg$$y@$$y@ h..@hmzg@mzg$$y@$$y@:-1.125 hm.@hmzg.@zg$$y@$$y@:-1.0 hmz@hmzg@..g$$y@$$y@:-1.0 hm@.hmzg@.zg$$y@$$y@:-1.0 
-.mz@hmzgh@.g$$y@$$y@ hmz@hmzg.@.g$$y@$$y@:-0.75 .m.@hmzgh@zg$$y@$$y@:0 .mz@hmzgh@yg$$y@$$.@:-0.5 .mz@hmzgh.@g$$y@$$y@:-0.5 
+.mz@hmzgh@.g$$y@$$y@ hmz@hmzg.@.g$$y@$$y@:-0.75 .m.@hmzgh@zg$$y@$$y@:0.0 .mz@hmzgh@yg$$y@$$.@:-0.5 .mz@hmzgh.@g$$y@$$y@:-0.5 
 .m@.hmzgh@zg$$y@$$y@ hm@.hmzg.@zg$$y@$$y@:-0.5 .m@ghmzgh@z.$$y@$$y@:-1.0 .m.@hmzgh@zg$$y@$$y@:-0.75 
 .m@ghmzgh@z.$$y@$$y@ hm@ghmzg.@z.$$y@$$y@:-1.0 .m@.hmzgh@zg$$y@$$y@:-1.0 .m@ghmzgh@z@$$y.$$y@:-1.0 
 .m@ghmzgh@z@$$y.$$y@ hm@ghmzg.@z@$$y.$$y@:-1.0 .m@ghmzgh@z.$$y@$$y@:-1.0 .m@ghmzgh@z@$$y@$$y.:-1.0 
 hm@ghmzg.@z@$$y@$$y. .m@ghmzgh@z@$$y@$$y.:-1.0 hm@ghmzg@.z@$$y@$$y.:-1.0 hm@ghmzg.@z@$$y.$$y@:-1.0 
 .m@ghmzgh@z@$$y@$$y. hm@ghmzg.@z@$$y@$$y.:-1.125 .m@ghmzgh@z@$$y.$$y@:-1.0 
 .mz@hmzgh@yg$$y@$$.@ hmz@hmzg.@yg$$y@$$.@:-0.5 .mz@hmzgh@.g$$y@$$y@:-0.5 .mz@hmzgh@yg$$y@$$@.:-0.5 
-.mz@hmzgh.@g$$y@$$y@ hmz@hmzg..@g$$y@$$y@:-0.5 ..z@hmzghm@g$$y@$$y@:-0.5 .mz@hmzgh@.g$$y@$$y@:0 
+.mz@hmzgh.@g$$y@$$y@ hmz@hmzg..@g$$y@$$y@:-0.5 ..z@hmzghm@g$$y@$$y@:-0.5 .mz@hmzgh@.g$$y@$$y@:0.0 
 .mz@hmzgh@yg$$y@$$@. hmz@hmzg.@yg$$y@$$@.:-1.0 .mz@hmzgh@yg$$y.$$@@:-0.5 .mz@hmzgh@yg$$y@$$.@:-0.5 
 .mz@hmzgh@yg$$y.$$@@ hmz@hmzg.@yg$$y.$$@@:-1.0 .mz@hmz.h@yg$$yg$$@@:-0.5 .mz@hmzgh@yg$$y@$$@.:-0.5 
-hmz@hmzg$$@g$$y@..y@ hmz@hmzg..@g$$y@$$y@:0 
+hmz@hmzg$$@g$$y@..y@ hmz@hmzg..@g$$y@$$y@:0.0 
 @.@yhmgyhmg@$$@z$$.z @m@yhmgyh.g@$$@z$$.z:-0.5 .@@yhmgyhmg@$$@z$$.z:-0.5 @@.yhmgyhmg@$$@z$$.z:-0.5 @.@yhmgyhmg@$$.z$$@z:-0.5 
 @m@yhmgyh.g@$$@z$$.z @.@yhmgyhmg@$$@z$$.z:-0.5 @m@yhmgyh.g@$$.z$$@z:-0.5 
-@m@yhmgyh.g@$$.z$$@z @.@yhmgyhmg@$$.z$$@z:0 @m@yhm.yh.g@$$gz$$@z:0 @m@yhmgyh.g@$$@z$$.z:-0.5 
+@m@yhmgyh.g@$$.z$$@z @.@yhmgyhmg@$$.z$$@z:0.0 @m@yhm.yh.g@$$gz$$@z:0.0 @m@yhmgyh.g@$$@z$$.z:-0.5 
 .@@yhmgyhmg@$$@z$$.z h@@yhmgy.mg@$$@z$$.z:-0.5 @.@yhmgyhmg@$$@z$$.z:-0.5 .@@yhmgyhmg@$$.z$$@z:-0.5 
 .@@yhmgyhmg@$$.z$$@z h@@yhmgy.mg@$$.z$$@z:-0.5 @.@yhmgyhmg@$$.z$$@z:-0.5 .@@yhm.yhmg@$$gz$$@z:-0.5 .@@yhmgyhmg@$$@z$$.z:-0.5 
-@.@yhm.yhmg@$$gz$$@z @m@yhm.yh.g@$$gz$$@z:0 .@@yhm.yhmg@$$gz$$@z:-0.5 @@.yhm.yhmg@$$gz$$@z:-0.5 @.@yhmgyhmg@$$.z$$@z:0 @..yhm@yhmg@$$gz$$@z:-0.5 
+@.@yhm.yhmg@$$gz$$@z @m@yhm.yh.g@$$gz$$@z:0.0 .@@yhm.yhmg@$$gz$$@z:-0.5 @@.yhm.yhmg@$$gz$$@z:-0.5 @.@yhmgyhmg@$$.z$$@z:0.0 @..yhm@yhmg@$$gz$$@z:-0.5 
 h@@yhmgy.mg@$$@z$$.z .@@yhmgyhmg@$$@z$$.z:-0.5 h@@yhmgy.mg@$$.z$$@z:-0.5 
-.@@yhm.yhmg@$$gz$$@z h@@yhm.y.mg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:-0.5 .@@yhmgyhmg@$$.z$$@z:-0.5 .@.yhm@yhmg@$$gz$$@z:0 
-@..yhm@yhmg@$$gz$$@z @m.yhm@yh.g@$$gz$$@z:0 .@.yhm@yhmg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:-0.5 
-.@.yhm@yhmg@$$gz$$@z h@.yhm@y.mg@$$gz$$@z:-0.5 @..yhm@yhmg@$$gz$$@z:-0.5 .@@yhm.yhmg@$$gz$$@z:0 ..@yhm@yhmg@$$gz$$@z:0 
+.@@yhm.yhmg@$$gz$$@z h@@yhm.y.mg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:-0.5 .@@yhmgyhmg@$$.z$$@z:-0.5 .@.yhm@yhmg@$$gz$$@z:0.0 
+@..yhm@yhmg@$$gz$$@z @m.yhm@yh.g@$$gz$$@z:0.0 .@.yhm@yhmg@$$gz$$@z:-0.5 @.@yhm.yhmg@$$gz$$@z:-0.5 
+.@.yhm@yhmg@$$gz$$@z h@.yhm@y.mg@$$gz$$@z:-0.5 @..yhm@yhmg@$$gz$$@z:-0.5 .@@yhm.yhmg@$$gz$$@z:0.0 ..@yhm@yhmg@$$gz$$@z:0.0 
 h@.yhm@y.mg@$$gz$$@z .@.yhm@yhmg@$$gz$$@z:-0.5 h@@yhm.y.mg@$$gz$$@z:-0.5 h.@yhm@y.mg@$$gz$$@z:-0.5 
-h.@yhm@y.mg@$$gz$$@z ..@yhm@yhmg@$$gz$$@z:0 hm@yhm@y..g@$$gz$$@z:-0.5 h@.yhm@y.mg@$$gz$$@z:-0.5 
-hm@yhm@y..g@$$gz$$@z hm@yhm@y$$g@$$gz..@z:0 .m@yhm@yh.g@$$gz$$@z:0 h.@yhm@y.mg@$$gz$$@z:-0.5 
-..@yhm@yhmg@$$gz$$@z h.@yhm@y.mg@$$gz$$@z:0 .m@yhm@yh.g@$$gz$$@z:0 .@.yhm@yhmg@$$gz$$@z:0 
-.m@yhm@yh.g@$$gz$$@z hm@yhm@y..g@$$gz$$@z:0 ..@yhm@yhmg@$$gz$$@z:0 
+h.@yhm@y.mg@$$gz$$@z ..@yhm@yhmg@$$gz$$@z:0.0 hm@yhm@y..g@$$gz$$@z:-0.5 h@.yhm@y.mg@$$gz$$@z:-0.5 
+hm@yhm@y..g@$$gz$$@z hm@yhm@y$$g@$$gz..@z:0.0 .m@yhm@yh.g@$$gz$$@z:0.0 h.@yhm@y.mg@$$gz$$@z:-0.5 
+..@yhm@yhmg@$$gz$$@z h.@yhm@y.mg@$$gz$$@z:0.0 .m@yhm@yh.g@$$gz$$@z:0.0 .@.yhm@yhmg@$$gz$$@z:0.0 
+.m@yhm@yh.g@$$gz$$@z hm@yhm@y..g@$$gz$$@z:0.0 ..@yhm@yhmg@$$gz$$@z:0.0 
 h@@yhm.y.mg@$$gz$$@z .@@yhm.yhmg@$$gz$$@z:-0.5 h@@yhmgy.mg@$$.z$$@z:-0.5 h@.yhm@y.mg@$$gz$$@z:-0.5 
 h@@yhmgy.mg@$$.z$$@z .@@yhmgyhmg@$$.z$$@z:-0.5 h@@yhm.y.mg@$$gz$$@z:-0.5 h@@yhmgy.mg@$$@z$$.z:-0.5 
-@m@yhm.yh.g@$$gz$$@z @.@yhm.yhmg@$$gz$$@z:0 @m@yhmgyh.g@$$.z$$@z:0 @m.yhm@yh.g@$$gz$$@z:0 
-@@gyhmgyhm@@.$$z.$$z @@gyhmgyhm@@$$.z$$.z:0 @@gy.mgyhm@@h$$z.$$z:0 
-hmzghmzg@@@y$$@y$$.. hmzghmzg@@@y$$.y$$@.:0 hmzghmzg@@@.$$@y$$.y:-0.5 
-hmzghmzg@@@.$$@y$$.y hmzghmzg@@@.$$.y$$@y:-0.5 hmz.hmzg@@@g$$@y$$.y:0 hmzghmzg@@@y$$@y$$..:0 hmzghmzg@@.@$$@y$$.y:0 
-hmzghmzg@@@.$$.y$$@y hmzghmzg@@..$$@y$$@y:-0.75 hmzghmzg@@@.$$@y$$.y:0 hmz.hmzg@@@g$$.y$$@y:0 hmzghmzg@@@y$$.y$$@.:0 hmzghmzg@@.@$$.y$$@y:-0.5 
-hmzghmzg@@@y.$$y.$$@ hmzghmzg@@@y$$.y$$.@:0 hmzghmzg.@@y@$$y.$$@:0 
-@m..hm@yh@gy$$gz$$@z @m@.hm.yh@gy$$gz$$@z:-0.5 @m.yhm@yh@g.$$gz$$@z:0 
-@m@yhm.yh@gz$$gz$$@. @m@yhmgyh@gz$$.z$$@.:0 @m.yhm@yh@gz$$gz$$@.:0 @m@yhm.yh@g.$$gz$$@z:-0.5 @m@yhm.yh@gz$$gz$$.@:0 
+@m@yhm.yh.g@$$gz$$@z @.@yhm.yhmg@$$gz$$@z:0.0 @m@yhmgyh.g@$$.z$$@z:0.0 @m.yhm@yh.g@$$gz$$@z:0.0 
+@@gyhmgyhm@@.$$z.$$z @@gyhmgyhm@@$$.z$$.z:0.0 @@gy.mgyhm@@h$$z.$$z:0.0 
+hmzghmzg@@@y$$@y$$.. hmzghmzg@@@y$$.y$$@.:0.0 hmzghmzg@@@.$$@y$$.y:-0.5 
+hmzghmzg@@@.$$@y$$.y hmzghmzg@@@.$$.y$$@y:-0.5 hmz.hmzg@@@g$$@y$$.y:0.0 hmzghmzg@@@y$$@y$$..:0.0 hmzghmzg@@.@$$@y$$.y:0.0 
+hmzghmzg@@@.$$.y$$@y hmzghmzg@@..$$@y$$@y:-0.75 hmzghmzg@@@.$$@y$$.y:0.0 hmz.hmzg@@@g$$.y$$@y:0.0 hmzghmzg@@@y$$.y$$@.:0.0 hmzghmzg@@.@$$.y$$@y:-0.5 
+hmzghmzg@@@y.$$y.$$@ hmzghmzg@@@y$$.y$$.@:0.0 hmzghmzg.@@y@$$y.$$@:0.0 
+@m..hm@yh@gy$$gz$$@z @m@.hm.yh@gy$$gz$$@z:-0.5 @m.yhm@yh@g.$$gz$$@z:0.0 
+@m@yhm.yh@gz$$gz$$@. @m@yhmgyh@gz$$.z$$@.:0.0 @m.yhm@yh@gz$$gz$$@.:0.0 @m@yhm.yh@g.$$gz$$@z:-0.5 @m@yhm.yh@gz$$gz$$.@:0.0 
 .mzghmzgh$$y.$$y@@@@ hmzghmzg.$$y.$$y@@@@:-1.84375 .mzg.mzgh$$yh$$y@@@@:-1.84375 .mzghmzgh$$y@$$y.@@@:-1.25 
 .mzghmzgh$$y@$$y.@@@ hmzghmzg.$$y@$$y.@@@:-1.5625 .mzghmzgh$$y.$$y@@@@:-1.125 .mzghmzgh$$y@$$y@.@@:-1.25 
 .mzghmzgh$$y@$$y@.@@ hmzghmzg.$$y@$$y@.@@:-1.0 .mzghmzgh$$y@$$y.@@@:-1.4375 .mzghmzgh$$y@$$y@@.@:-1.0 
@@ -1197,11 +1197,11 @@ hmzghmzg@$$y.$$y@.@@ hmzghmzg.$$y@$$y@.@@:-1.125 hmzghmzg@$$y@$$y..@@:-1.125 hmz
 hmzghmzg@$$y@$$y..@@ hmzghmzg@$$y.$$y@.@@:-1.0 hmzghmzg@$$y@$$y.@.@:-1.0 
 mzg.mzgyh$$yh$$.@@@@ mzgymzgyh$$.h$$.@@@@:-1.0 mzg.mzg.h$$yh$$y@@@@:-1.125 mzg.mzgyh$$yh$$@@@@.:-0.5 
 mzgymzgyh$$.h$$.@@@@ mzgymzgyh.$$h.$$@@@@:-0.5 mzg.mzgyh$$yh$$.@@@@:-1.0 mzgymzgyh$$.h$$@@@@.:-0.5 
-mzgymzgyh.$$h.$$@@@@ mzgymzgyh$$.h$$.@@@@:-0.5 mzgymzgy.h$$.h$$@@@@:-0.5 m.gymzgyhz$$h.$$@@@@:0 mzgymzgyh.$$h@$$@.@@:0 
-mzgymzgy.h$$.h$$@@@@ mzgymzgyh.$$h.$$@@@@:-0.5 .zgymzgymh$$.h$$@@@@:-0.5 mzgymzgy.h$$@h$$.@@@:0 
-.zgymzgymh$$.h$$@@@@ mzgymzgy.h$$.h$$@@@@:-0.5 .zgy.zgymh$$mh$$@@@@:0 .zgymzgymh$$@h$$.@@@:0 
-.zgymzgymh$$@h$$.@@@ mzgymzgy.h$$@h$$.@@@:0 .zgymzgymh$$.h$$@@@@:0 .zgymzgymh$$@h$$@.@@:0 
-mzgymzgy.h$$@h$$.@@@ .zgymzgymh$$@h$$.@@@:0 mzgymzgy@h$$.h$$.@@@:0 mzgymzgy.h$$.h$$@@@@:0 mzgymzgy.h$$@h$$@.@@:0 
+mzgymzgyh.$$h.$$@@@@ mzgymzgyh$$.h$$.@@@@:-0.5 mzgymzgy.h$$.h$$@@@@:-0.5 m.gymzgyhz$$h.$$@@@@:0.0 mzgymzgyh.$$h@$$@.@@:0.0 
+mzgymzgy.h$$.h$$@@@@ mzgymzgyh.$$h.$$@@@@:-0.5 .zgymzgymh$$.h$$@@@@:-0.5 mzgymzgy.h$$@h$$.@@@:0.0 
+.zgymzgymh$$.h$$@@@@ mzgymzgy.h$$.h$$@@@@:-0.5 .zgy.zgymh$$mh$$@@@@:0.0 .zgymzgymh$$@h$$.@@@:0.0 
+.zgymzgymh$$@h$$.@@@ mzgymzgy.h$$@h$$.@@@:0.0 .zgymzgymh$$.h$$@@@@:0.0 .zgymzgymh$$@h$$@.@@:0.0 
+mzgymzgy.h$$@h$$.@@@ .zgymzgymh$$@h$$.@@@:0.0 mzgymzgy@h$$.h$$.@@@:0.0 mzgymzgy.h$$.h$$@@@@:0.0 mzgymzgy.h$$@h$$@.@@:0.0 
 mzgymzgyh$$.h$$@@@@. mzg.mzgyh$$yh$$@@@@.:-0.5 mzgymzgyh$$@h$$.@@@.:-0.5 mzgymzgyh$$.h$$.@@@@:-0.5 mzgymzgyh$$.h$$@@@.@:-0.5 
 mzg.mzgyh$$yh$$@@@@. mzgymzgyh$$.h$$@@@@.:-0.5 mzg.mzgyh$$yh$$.@@@@:-0.5 mzg.mzgyh$$yh$$@@@.@:-0.5 
 mzgymzgyh$$@h$$.@@@. mzgymzgyh$$.h$$@@@@.:-0.5 mzgymzgyh$$@h$$.@@.@:-0.5 
@@ -1210,21 +1210,21 @@ mzgymzgyh$$.h$$@@@.@ mzgymzgyh$$.h$$@@.@@:-0.5 mzgymzgyh$$.h$$@@@@.:-0.5 mzg.mzg
 mzgymzgyh$$@h$$.@@.@ mzgymzgyh$$@h$$.@.@@:-0.5 mzgymzgyh$$@h$$.@@@.:-0.5 mzgymzgyh$$.h$$@@@.@:-0.5 mzgymzgyh$$@h$$@@@..:-0.5 
 mzgymzgyh$$.h$$@@.@@ mzgymzgyh$$.h$$@.@@@:-0.5 mzgymzgyh$$.h$$@@@.@:-0.5 mzg.mzgyh$$yh$$@@.@@:-0.5 mzgymzgyh$$@h$$.@.@@:-0.5 
 mzg.mzgyh$$yh$$@@.@@ mzg.mzgyh$$yh$$@.@@@:-0.5 mzg.mzgyh$$yh$$@@@.@:-0.5 mzgymzgyh$$.h$$@@.@@:-0.5 
-mzg.mzgyh$$yh$$@.@@@ mzg.mzgy.$$yh$$@h@@@:0 mzg.mzgyh$$yh$$@@.@@:-0.5 mzgymzgyh$$.h$$@.@@@:0 
-mzg.mzgy.$$yh$$@h@@@ .zg.mzgym$$yh$$@h@@@:0 mzg.mzgyh$$yh$$@.@@@:0 mzgymzgy.$$.h$$@h@@@:0 
-mzgymzgyh$$.h$$@.@@@ mzgymzgy.$$.h$$@h@@@:0 mzgymzgyh$$.h$$@@.@@:-0.5 mzg.mzgyh$$yh$$@.@@@:0 mzgymzgyh$$@h$$..@@@:-0.5 
+mzg.mzgyh$$yh$$@.@@@ mzg.mzgy.$$yh$$@h@@@:0.0 mzg.mzgyh$$yh$$@@.@@:-0.5 mzgymzgyh$$.h$$@.@@@:0.0 
+mzg.mzgy.$$yh$$@h@@@ .zg.mzgym$$yh$$@h@@@:0.0 mzg.mzgyh$$yh$$@.@@@:0.0 mzgymzgy.$$.h$$@h@@@:0.0 
+mzgymzgyh$$.h$$@.@@@ mzgymzgy.$$.h$$@h@@@:0.0 mzgymzgyh$$.h$$@@.@@:-0.5 mzg.mzgyh$$yh$$@.@@@:0.0 mzgymzgyh$$@h$$..@@@:-0.5 
 mzgymzgyh$$@h$$..@@@ mzgymzgy.$$@h$$.h@@@:-0.5 mzgymzgyh$$@h$$.@.@@:-0.5 mzgymzgyh$$.h$$@.@@@:-0.5 mzgymzgyh$$@h$$@.@@.:-0.5 
 mzgymzgyh$$@h$$.@.@@ mzgymzgyh$$@h$$..@@@:-0.5 mzgymzgyh$$@h$$.@@.@:-0.5 mzgymzgyh$$.h$$@@.@@:-0.5 mzgymzgyh$$@h$$@@.@.:-0.5 
 mzgymzgyh$$@h$$@@.@. mzgymzgyh$$@h$$@.@@.:-0.5 mzgymzgyh$$@h$$@@@..:-0.5 mzgymzgyh$$@h$$.@.@@:-0.5 mzgymzgyh$$@h$$@@..@:-0.5 
-mzgymzgy.$$@h$$.h@@@ .zgymzgym$$@h$$.h@@@:-0.5 mzgymzgyh$$@h$$..@@@:-0.5 mzgymzgy.$$.h$$@h@@@:0 mzgymzgy.$$@h$$@h@@.:-0.5 
+mzgymzgy.$$@h$$.h@@@ .zgymzgym$$@h$$.h@@@:-0.5 mzgymzgyh$$@h$$..@@@:-0.5 mzgymzgy.$$.h$$@h@@@:0.0 mzgymzgy.$$@h$$@h@@.:-0.5 
 mzgymzgyh$$@h$$@.@@. mzgymzgy.$$@h$$@h@@.:-0.5 mzgymzgyh$$@h$$@@.@.:-0.5 mzgymzgyh$$@h$$..@@@:-0.5 mzgymzgyh$$@h$$@.@.@:-0.5 
-mzgymzgyh$$@h$$@.@.@ mzgymzgy.$$@h$$@h@.@:0 mzgymzgyh$$@h$$@@..@:-0.5 mzgymzgyh$$@h$$@..@@:0 mzgymzgyh$$@h$$@.@@.:-0.5 
-mzgymzgyh$$@h$$@@..@ mzgymzgyh..@h$$@@$$@:0 mzgymzgyh$$@h$$@.@.@:-0.5 mzgymzgyh$$@h$$@@.@.:-0.5 
-mzgymzgy.$$@h$$@h@@. .zgymzgym$$@h$$@h@@.:-0.5 mzgymzgyh$$@h$$@.@@.:-0.5 mzgymzgy.$$@h$$.h@@@:-0.5 mzgymzgy.$$@h$$@h@.@:0 
-.zgymzgym$$@h$$@h@@. mzgymzgy.$$@h$$@h@@.:-0.5 .zgymzgym$$@h$$.h@@@:-0.5 .zgymzgym$$@h$$@h@.@:0 
-mzgymzgy.$$.h$$@h@@@ .zgymzgym$$.h$$@h@@@:0 mzgymzgyh$$.h$$@.@@@:0 mzg.mzgy.$$yh$$@h@@@:0 mzgymzgy.$$@h$$.h@@@:0 
-.zgymzgym$$@h$$.h@@@ mzgymzgy.$$@h$$.h@@@:-0.5 .zgymzgym$$.h$$@h@@@:0 .zgymzgym$$@h$$@h@@.:-0.5 
-mzgymzgy.$$@h$$@h@.@ .zgymzgym$$@h$$@h@.@:0 mzgymzgyh$$@h$$@.@.@:0 mzgymzgy.$$@h$$@h.@@:0 mzgymzgy.$$@h$$@h@@.:0 
+mzgymzgyh$$@h$$@.@.@ mzgymzgy.$$@h$$@h@.@:0.0 mzgymzgyh$$@h$$@@..@:-0.5 mzgymzgyh$$@h$$@..@@:0.0 mzgymzgyh$$@h$$@.@@.:-0.5 
+mzgymzgyh$$@h$$@@..@ mzgymzgyh..@h$$@@$$@:0.0 mzgymzgyh$$@h$$@.@.@:-0.5 mzgymzgyh$$@h$$@@.@.:-0.5 
+mzgymzgy.$$@h$$@h@@. .zgymzgym$$@h$$@h@@.:-0.5 mzgymzgyh$$@h$$@.@@.:-0.5 mzgymzgy.$$@h$$.h@@@:-0.5 mzgymzgy.$$@h$$@h@.@:0.0 
+.zgymzgym$$@h$$@h@@. mzgymzgy.$$@h$$@h@@.:-0.5 .zgymzgym$$@h$$.h@@@:-0.5 .zgymzgym$$@h$$@h@.@:0.0 
+mzgymzgy.$$.h$$@h@@@ .zgymzgym$$.h$$@h@@@:0.0 mzgymzgyh$$.h$$@.@@@:0.0 mzg.mzgy.$$yh$$@h@@@:0.0 mzgymzgy.$$@h$$.h@@@:0.0 
+.zgymzgym$$@h$$.h@@@ mzgymzgy.$$@h$$.h@@@:-0.5 .zgymzgym$$.h$$@h@@@:0.0 .zgymzgym$$@h$$@h@@.:-0.5 
+mzgymzgy.$$@h$$@h@.@ .zgymzgym$$@h$$@h@.@:0.0 mzgymzgyh$$@h$$@.@.@:0.0 mzgymzgy.$$@h$$@h.@@:0.0 mzgymzgy.$$@h$$@h@@.:0.0 
 mzgymzgyh$$@h$$@@@.. mzgymzgyh$$@h$$@@.@.:-0.5 mzgymzgyh$$@h$$.@@.@:-0.5 
 hmz.hmzg$$@g$$y@@.y@ hmz.hmzg$$@g$$y@.@y@:-2.515625 hmzghmzg$$@.$$y@@.y@:-2.84375 
 hmzghmzg$$@@$$y.@.y@ hmzghmzg$$@@$$y..@y@:-2.8828125 hmzghmzg$$@.$$y@@.y@:-3.015625 hmzghmzg$$@@$$y@@.y.:-3.28125 
@@ -1243,12 +1243,12 @@ mzg@mzg.h$$yh$$y.@@@ mzg@mzg..$$yh$$yh@@@:-0.5 mzg@mzg.h$$yh$$y@.@@:-0.5 mzg@mzg
 mzg@mzgyh$$yh$$..@@@ mzg@mzgy.$$yh$$.h@@@:-0.5 mzg@mzgyh$$yh$$.@.@@:-0.5 mzg@mzg.h$$yh$$y.@@@:-0.5 mzg@mzgyh$$yh$$@.@@.:-0.5 
 mzg@mzgy.$$yh$$.h@@@ .zg@mzgym$$yh$$.h@@@:-0.5 mzg@mzgyh$$yh$$..@@@:-0.5 mzg@mzg..$$yh$$yh@@@:-0.5 mzg@mzgy.$$yh$$@h@@.:-0.5 
 mzg@mzgyh$$yh$$@.@@. mzg@mzgy.$$yh$$@h@@.:-0.5 mzg@mzgyh$$yh$$@@.@.:-0.5 mzg@mzgyh$$yh$$..@@@:-0.5 mzg@mzgyh$$yh$$@.@.@:-0.5 
-mzg@mzgyh$$yh$$@.@.@ mzg@mzgy.$$yh$$@h@.@:-0.5 mzg@mzgyh$$yh$$@@..@:0 mzg@mzgyh$$yh$$@..@@:0 mzg@mzgyh$$yh$$@.@@.:-0.5 
-mzg@mzgy.$$yh$$@h@.@ .zg@mzgym$$yh$$@h@.@:-0.5 mzg@mzgyh$$yh$$@.@.@:-0.5 mzg@mzgy.$$yh$$@h.@@:0 mzg@mzgy.$$yh$$@h@@.:0 
-mzg@mzgyh$$yh$$@..@@ mzg@mzgy.$$yh$$@h.@@:0 mzg@mzgyh$$yh$$@.@.@:0 
-.zg@mzgym$$yh$$@h@.@ mzg@mzgy.$$yh$$@h@.@:-0.5 .zg@mzgym$$yh$$@h.@@:0 .zg@mzgym$$yh$$@h@@.:-0.5 
-.zg@mzgym$$yh$$@h.@@ mzg@mzgy.$$yh$$@h.@@:0 .zg@mzgym$$yh$$@h@.@:0 
-mzg@mzgy.$$yh$$@h@@. .zg@mzgym$$yh$$@h@@.:-0.5 mzg@mzgyh$$yh$$@.@@.:-0.5 mzg@mzgy.$$yh$$.h@@@:-0.5 mzg@mzgy.$$yh$$@h@.@:0 
+mzg@mzgyh$$yh$$@.@.@ mzg@mzgy.$$yh$$@h@.@:-0.5 mzg@mzgyh$$yh$$@@..@:0.0 mzg@mzgyh$$yh$$@..@@:0.0 mzg@mzgyh$$yh$$@.@@.:-0.5 
+mzg@mzgy.$$yh$$@h@.@ .zg@mzgym$$yh$$@h@.@:-0.5 mzg@mzgyh$$yh$$@.@.@:-0.5 mzg@mzgy.$$yh$$@h.@@:0.0 mzg@mzgy.$$yh$$@h@@.:0.0 
+mzg@mzgyh$$yh$$@..@@ mzg@mzgy.$$yh$$@h.@@:0.0 mzg@mzgyh$$yh$$@.@.@:0.0 
+.zg@mzgym$$yh$$@h@.@ mzg@mzgy.$$yh$$@h@.@:-0.5 .zg@mzgym$$yh$$@h.@@:0.0 .zg@mzgym$$yh$$@h@@.:-0.5 
+.zg@mzgym$$yh$$@h.@@ mzg@mzgy.$$yh$$@h.@@:0.0 .zg@mzgym$$yh$$@h@.@:0.0 
+mzg@mzgy.$$yh$$@h@@. .zg@mzgym$$yh$$@h@@.:-0.5 mzg@mzgyh$$yh$$@.@@.:-0.5 mzg@mzgy.$$yh$$.h@@@:-0.5 mzg@mzgy.$$yh$$@h@.@:0.0 
 .zg@mzgym$$yh$$@h@@. mzg@mzgy.$$yh$$@h@@.:-0.5 .zg@mzgym$$yh$$.h@@@:-0.5 .zg@mzgym$$yh$$@h@.@:-0.5 
 mzg@mzg..$$yh$$yh@@@ .zg@mzg.m$$yh$$yh@@@:-0.5 mzg@mzg.h$$yh$$y.@@@:-1.0 mzg@mzgy.$$yh$$.h@@@:-0.5 mzg.mzg@.$$yh$$yh@@@:-0.5 
 mzg.mzg@.$$yh$$yh@@@ .zg.mzg@m$$yh$$yh@@@:-1.0 mzg.mzg@h$$yh$$y.@@@:-0.5 mzg@mzg..$$yh$$yh@@@:-0.5 
@@ -1259,38 +1259,38 @@ mzg@mzgyh$$yh$$@@.@. mzg@mzgyh$$yh$$@.@@.:-0.5 mzg@mzgyh$$yh$$@@@..:-0.75 mzg@mz
 mzg.mzg@h$$yh$$y@.@@ mzg.mzg@h$$yh$$y.@@@:-0.75 mzg.mzg@h$$yh$$y@@.@:-1.125 mzg@mzg.h$$yh$$y@.@@:-1.125 
 mzg.mzg@h$$yh$$y@@.@ mzg.mzg@h$$yh$$y@.@@:-0.75 mzg.mzg@h$$yh$$y@@@.:-1.0 mzg@mzg.h$$yh$$y@@.@:-1.25 
 mzg.mzg@h$$yh$$y.@@@ mzg.mzg@.$$yh$$yh@@@:-0.875 mzg.mzg@h$$yh$$y@.@@:-1.0 mzg@mzg.h$$yh$$y.@@@:-0.5 
-mzg@mzgyh$$yh$$@@..@ mzg@mzgyh..yh$$@@$$@:500.0 mzg@mzgyh$$yh$$@.@.@:0 mzg@mzgyh$$yh$$@@.@.:-0.5 
-mzg@mzgyh..yh$$@@$$@ mzg@mzgyh$$yh$$@@..@:0 m.g@mzgyhz.yh$$@@$$@:0 mz.@mzgyh.gyh$$@@$$@:0 
+mzg@mzgyh$$yh$$@@..@ mzg@mzgyh..yh$$@@$$@:500.0 mzg@mzgyh$$yh$$@.@.@:0.0 mzg@mzgyh$$yh$$@@.@.:-0.5 
+mzg@mzgyh..yh$$@@$$@ mzg@mzgyh$$yh$$@@..@:0.0 m.g@mzgyhz.yh$$@@$$@:0.0 mz.@mzgyh.gyh$$@@$$@:0.0 
 .hm@.hmy@@gy$$gz$$@z h.m@h.my@@gy$$gz$$@z:-0.5 .hm@@hmy.@gy$$gz$$@z:-0.5 
 .hm@@hmy.@gy$$gz$$@z @hm@.hmy.@gy$$gz$$@z:-0.5 .hm@.hmy@@gy$$gz$$@z:-0.5 .hm@@hmy@.gy$$gz$$@z:-0.5 
 @hm@.hmy.@gy$$gz$$@z .hm@@hmy.@gy$$gz$$@z:-0.5 @hm@.hmy@.gy$$gz$$@z:-0.75 
-@hm@.hmy@.gy$$gz$$@z .hm@@hmy@.gy$$gz$$@z:-0.5 @hm@@hmy..gy$$gz$$@z:0 @.m@.hmy@hgy$$gz$$@z:0 @hm@.hmy.@gy$$gz$$@z:-0.75 
+@hm@.hmy@.gy$$gz$$@z .hm@@hmy@.gy$$gz$$@z:-0.5 @hm@@hmy..gy$$gz$$@z:0.0 @.m@.hmy@hgy$$gz$$@z:0.0 @hm@.hmy.@gy$$gz$$@z:-0.75 
 .hm@@hmy@.gy$$gz$$@z @hm@.hmy@.gy$$gz$$@z:-0.5 ..m@@hmy@hgy$$gz$$@z:-0.5 .hm@@hmy.@gy$$gz$$@z:-0.5 
-..m@@hmy@hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0 .hm@@hmy@.gy$$gz$$@z:-0.5 
-@hm@@hmy..gy$$gz$$@z @hm@@hmy$$gy$$gz..@z:-0.5 @hm@.hmy@.gy$$gz$$@z:0 @.m@@hmy.hgy$$gz$$@z:-0.5 
-@.m@.hmy@hgy$$gz$$@z ..m@@hmy@hgy$$gz$$@z:0 @.m@@hmy.hgy$$gz$$@z:0 @hm@.hmy@.gy$$gz$$@z:0 .@m@.hmy@hgy$$gz$$@z:0 
+..m@@hmy@hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0.0 .hm@@hmy@.gy$$gz$$@z:-0.5 
+@hm@@hmy..gy$$gz$$@z @hm@@hmy$$gy$$gz..@z:-0.5 @hm@.hmy@.gy$$gz$$@z:0.0 @.m@@hmy.hgy$$gz$$@z:-0.5 
+@.m@.hmy@hgy$$gz$$@z ..m@@hmy@hgy$$gz$$@z:0.0 @.m@@hmy.hgy$$gz$$@z:0.0 @hm@.hmy@.gy$$gz$$@z:0.0 .@m@.hmy@hgy$$gz$$@z:0.0 
 h@m@h@my$$gy$$gz..@z h@m@h@my..gy$$gz$$@z:-0.875 h@m@h@my$$gy$$gz.@.z:-0.75 
-h@m@h@my$$gy$$gz.@.z h@m@h@my$$gy$$gz@..z:0 h@m@h@my$$.y$$gz.@gz:0 h@m@h@my$$gy$$gz..@z:-0.5 
+h@m@h@my$$gy$$gz.@.z h@m@h@my$$gy$$gz@..z:0.0 h@m@h@my$$.y$$gz.@gz:0.0 h@m@h@my$$gy$$gz..@z:-0.5 
 @@m@h.myh.gy$$gz$$@z @@m@.hmy.hgy$$gz$$@z:-0.5 @.m@h@myh.gy$$gz$$@z:-0.5 
 @@m@.hmy.hgy$$gz$$@z @@m@h.myh.gy$$gz$$@z:-0.5 .@m@@hmy.hgy$$gz$$@z:-0.5 
-.@m@@hmy.hgy$$gz$$@z @@m@.hmy.hgy$$gz$$@z:-0.5 @.m@@hmy.hgy$$gz$$@z:-0.5 .@m@.hmy@hgy$$gz$$@z:0 
-@.m@@hmy.hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0 @hm@@hmy..gy$$gz$$@z:-0.5 .@m@@hmy.hgy$$gz$$@z:-0.5 
+.@m@@hmy.hgy$$gz$$@z @@m@.hmy.hgy$$gz$$@z:-0.5 @.m@@hmy.hgy$$gz$$@z:-0.5 .@m@.hmy@hgy$$gz$$@z:0.0 
+@.m@@hmy.hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0.0 @hm@@hmy..gy$$gz$$@z:-0.5 .@m@@hmy.hgy$$gz$$@z:-0.5 
 @hm@@hmy$$gy$$gz..@z @hm@@hmy..gy$$gz$$@z:-0.5 @hm@@hmy$$gy$$gz.@.z:-0.5 
-@hm@@hmy$$gy$$gz.@.z @hm@@hmy$$gy$$gz@..z:0 @hm@@hmy$$.y$$gz.@gz:0 @hm@@hmy$$gy$$gz..@z:-0.5 
-@hm@@hmy$$gy$$gz@..z @hm@@hmy$$gy$$gz.@.z:0 @hm@@hmy$$.y$$gz@.gz:0 
-.@m@.hmy@hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0 .@m@@hmy.hgy$$gz$$@z:0 
+@hm@@hmy$$gy$$gz.@.z @hm@@hmy$$gy$$gz@..z:0.0 @hm@@hmy$$.y$$gz.@gz:0.0 @hm@@hmy$$gy$$gz..@z:-0.5 
+@hm@@hmy$$gy$$gz@..z @hm@@hmy$$gy$$gz.@.z:0.0 @hm@@hmy$$.y$$gz@.gz:0.0 
+.@m@.hmy@hgy$$gz$$@z @.m@.hmy@hgy$$gz$$@z:0.0 .@m@@hmy.hgy$$gz$$@z:0.0 
 h.@zhm.z@m@g$$yg$$y@ hm@zhm.z@.@g$$yg$$y@:-1.125 h@.zhm.z@m@g$$yg$$y@:-0.5 h..zhm@z@m@g$$yg$$y@:-1.0 h.@zhm@z@m.g$$yg$$y@:-0.5 
 h..zhm@z@m@g$$yg$$y@ hm.zhm@z@.@g$$yg$$y@:-1.0 h.@zhm.z@m@g$$yg$$y@:-1.0 
 h.@zhm@z@m.g$$yg$$y@ hm@zhm@z@..g$$yg$$y@:-1.0 h@.zhm@z@m.g$$yg$$y@:-0.5 h.@zhm@z@myg$$yg$$.@:-0.5 h.@zhm.z@m@g$$yg$$y@:-0.5 
-h@.zhm.z@m@g$$yg$$y@ h@z.hmz.@m@g$$yg$$y@:0 h.@zhm.z@m@g$$yg$$y@:-0.75 h@.zhm@z@m.g$$yg$$y@:-0.5 
-h@.zhm@z@m.g$$yg$$y@ h@@zhm.z@m.g$$yg$$y@:0 h.@zhm@z@m.g$$yg$$y@:-0.5 h@.zhm@z@myg$$yg$$.@:-0.5 h@.zhm.z@m@g$$yg$$y@:-0.5 
+h@.zhm.z@m@g$$yg$$y@ h@z.hmz.@m@g$$yg$$y@:0.0 h.@zhm.z@m@g$$yg$$y@:-0.75 h@.zhm@z@m.g$$yg$$y@:-0.5 
+h@.zhm@z@m.g$$yg$$y@ h@@zhm.z@m.g$$yg$$y@:0.0 h.@zhm@z@m.g$$yg$$y@:-0.5 h@.zhm@z@myg$$yg$$.@:-0.5 h@.zhm.z@m@g$$yg$$y@:-0.5 
 h.@zhm@z@myg$$yg$$.@ hm@zhm@z@.yg$$yg$$.@:-0.5 h@.zhm@z@myg$$yg$$.@:-0.5 h.@zhm@z@m.g$$yg$$y@:-0.5 h.@zhm@z@myg$$yg$$@.:-0.5 
-h@z.hmz.@m@g$$yg$$y@ h@.zhm.z@m@g$$yg$$y@:0 h@z.hmzg@m@g$$y.$$y@:0 
-h@.zhm@z@myg$$yg$$.@ h@@zhm.z@myg$$yg$$.@:0 h.@zhm@z@myg$$yg$$.@:-0.5 h@.zhm@z@m.g$$yg$$y@:-0.5 h@.zhm@z@myg$$yg$$@.:-0.5 
-h@@zhm.z@m.g$$yg$$y@ h@@zh.mz@.mg$$yg$$y@:0 h@.zhm@z@m.g$$yg$$y@:0 h@@zhm.z@myg$$yg$$.@:0 
-h@.zhm@z@myg$$yg$$@. h@@zhm.z@myg$$yg$$@.:0 h.@zhm@z@myg$$yg$$@.:0 h@.zhm@z@my.$$yg$$@g:0 h@.zhm@z@myg$$yg$$.@:-0.5 
-h.@zhm@z@myg$$yg$$@. hm@zhm@z@.yg$$yg$$@.:0 h@.zhm@z@myg$$yg$$@.:0 h.@zhm@z@my.$$yg$$@g:0 h.@zhm@z@myg$$yg$$.@:-0.5 
-hm@zhm@z@.yg$$yg$$@. h.@zhm@z@myg$$yg$$@.:0 hm@zhm@z.@yg$$yg$$@.:-0.5 hm@zhm@z@.y.$$yg$$@g:0 hm@zhm@z@.yg$$yg$$.@:-0.5 
+h@z.hmz.@m@g$$yg$$y@ h@.zhm.z@m@g$$yg$$y@:0.0 h@z.hmzg@m@g$$y.$$y@:0.0 
+h@.zhm@z@myg$$yg$$.@ h@@zhm.z@myg$$yg$$.@:0.0 h.@zhm@z@myg$$yg$$.@:-0.5 h@.zhm@z@m.g$$yg$$y@:-0.5 h@.zhm@z@myg$$yg$$@.:-0.5 
+h@@zhm.z@m.g$$yg$$y@ h@@zh.mz@.mg$$yg$$y@:0.0 h@.zhm@z@m.g$$yg$$y@:0.0 h@@zhm.z@myg$$yg$$.@:0.0 
+h@.zhm@z@myg$$yg$$@. h@@zhm.z@myg$$yg$$@.:0.0 h.@zhm@z@myg$$yg$$@.:0.0 h@.zhm@z@my.$$yg$$@g:0.0 h@.zhm@z@myg$$yg$$.@:-0.5 
+h.@zhm@z@myg$$yg$$@. hm@zhm@z@.yg$$yg$$@.:0.0 h@.zhm@z@myg$$yg$$@.:0.0 h.@zhm@z@my.$$yg$$@g:0.0 h.@zhm@z@myg$$yg$$.@:-0.5 
+hm@zhm@z@.yg$$yg$$@. h.@zhm@z@myg$$yg$$@.:0.0 hm@zhm@z.@yg$$yg$$@.:-0.5 hm@zhm@z@.y.$$yg$$@g:0.0 hm@zhm@z@.yg$$yg$$.@:-0.5 
 hm.zhm@z@.@g$$yg$$y@ h..zhm@z@m@g$$yg$$y@:-1.0 hm.zhm@z.@@g$$yg$$y@:-0.5 hm.zhm@z@@.g$$yg$$y@:-1.0 hm@zhm.z@.@g$$yg$$y@:-1.0 
 hm.zhm@z.@@g$$yg$$y@ .m.zhm@zh@@g$$yg$$y@:-0.5 hm.zhm@z@.@g$$yg$$y@:-0.5 hm@zhm.z.@@g$$yg$$y@:-0.5 
 hm@zhm.z.@@g$$yg$$y@ .m@zhm.zh@@g$$yg$$y@:-0.75 hm@zhm.z@.@g$$yg$$y@:-0.5 hm.zhm@z.@@g$$yg$$y@:-0.5 hm@zhm@z.@.g$$yg$$y@:-0.5 
@@ -1298,108 +1298,108 @@ hm@zhm.z.@@g$$yg$$y@ .m@zhm.zh@@g$$yg$$y@:-0.75 hm@zhm.z@.@g$$yg$$y@:-0.5 hm.zhm
 hm@ghm@g.@zy$$zy$$.@ .m@ghm@gh@zy$$zy$$.@:-0.5 hm@ghm@g@.zy$$zy$$.@:-0.5 hm@ghm@g.@.y$$zy$$z@:-0.5 hm@ghm@g.@zy$$zy$$@.:-0.5 
 .m@ghm@gh@zy$$zy$$.@ hm@ghm@g.@zy$$zy$$.@:-0.5 .m@ghm@gh@.y$$zy$$z@:-0.5 .m@ghm@gh@zy$$zy$$@.:-0.5 
 .m.zhm@zh@@g$$yg$$y@ hm.zhm@z.@@g$$yg$$y@:-0.5 .m@zhm.zh@@g$$yg$$y@:-0.5 
-hm.zhm.z@@@g$$yg$$y@ h.mzh.mz@@@g$$yg$$y@:0 hmz.hmz.@@@g$$yg$$y@:-0.5 hm.zhm@z@@.g$$yg$$y@:-0.5 
+hm.zhm.z@@@g$$yg$$y@ h.mzh.mz@@@g$$yg$$y@:0.0 hmz.hmz.@@@g$$yg$$y@:-0.5 hm.zhm@z@@.g$$yg$$y@:-0.5 
 hmz.hmz.@@@g$$yg$$y@ hm.zhm.z@@@g$$yg$$y@:-0.5 hmz.hmzg@@@g$$y.$$y@:-0.5 
-hmz.hmzg@@@g$$y.$$y@ hmzghmzg@@@.$$y.$$y@:-0.5 hmz.hmz.@@@g$$yg$$y@:-0.5 hmz.hmzg@@@g$$y@$$y.:0 
+hmz.hmzg@@@g$$y.$$y@ hmzghmzg@@@.$$y.$$y@:-0.5 hmz.hmz.@@@g$$yg$$y@:-0.5 hmz.hmzg@@@g$$y@$$y.:0.0 
 hm@zhm@z@..g$$yg$$y@ h.@zhm@z@m.g$$yg$$y@:-1.0 hm@zhm@z.@.g$$yg$$y@:-0.5 hm@zhm@z@.yg$$yg$$.@:-0.5 hm@zhm.z@.@g$$yg$$y@:-1.0 
 hm@zhm@z@.yg$$yg$$.@ h.@zhm@z@myg$$yg$$.@:-0.5 hm@zhm@z.@yg$$yg$$.@:-0.5 hm@zhm@z@..g$$yg$$y@:-0.5 hm@zhm@z@.yg$$yg$$@.:-0.5 
-hm@ghm@g.@zy$$zy$$@. .m@ghm@gh@zy$$zy$$@.:-0.5 hm@ghm@g@.zy$$zy$$@.:-0.5 hm@ghm@g.@z.$$zy$$@y:0 hm@ghm@g.@zy$$zy$$.@:-0.5 
+hm@ghm@g.@zy$$zy$$@. .m@ghm@gh@zy$$zy$$@.:-0.5 hm@ghm@g@.zy$$zy$$@.:-0.5 hm@ghm@g.@z.$$zy$$@y:0.0 hm@ghm@g.@zy$$zy$$.@:-0.5 
 .m@ghm@gh@zy$$zy$$@. hm@ghm@g.@zy$$zy$$@.:-0.5 .m@ghm@gh@z.$$zy$$@y:-0.5 .m@ghm@gh@zy$$zy$$.@:-0.5 
-hm@ghm@g.@z.$$zy$$@y .m@ghm@gh@z.$$zy$$@y:0 hm@ghm@g@.z.$$zy$$@y:0 hm@.hm@g.@zg$$zy$$@y:0 hm@ghm@g.@zy$$zy$$@.:0 
-.m@ghm@gh@z.$$zy$$@y hm@ghm@g.@z.$$zy$$@y:0 .m@.hm@gh@zg$$zy$$@y:-0.5 .m@ghm@gh@zy$$zy$$@.:-0.5 
-hm@zhm@z@.y.$$yg$$@g h.@zhm@z@my.$$yg$$@g:0 hm@zhm@z.@y.$$yg$$@g:0 hm@.hm@z@.yz$$yg$$@g:0 hm@zhm@z@.yg$$yg$$@.:0 
-h@@zhm.z@myg$$yg$$.@ h@@zhmyz@myg$$.g$$.@:0 h@.zhm@z@myg$$yg$$.@:0 h@@zhm.z@m.g$$yg$$y@:0 h@@zhm.z@myg$$yg$$@.:0 
-h@.zhm@z@my.$$yg$$@g h@@zhm.z@my.$$yg$$@g:0 h.@zhm@z@my.$$yg$$@g:0 h@..hm@z@myz$$yg$$@g:0 h@.zhm@z@myg$$yg$$@.:0 
-.m@.hm@gh@zg$$zy$$@y hm@.hm@g.@zg$$zy$$@y:-0.5 .m@ghm@gh@z.$$zy$$@y:-0.5 .m.@hm@gh@zg$$zy$$@y:0 
-hm@.hm@g.@zg$$zy$$@y .m@.hm@gh@zg$$zy$$@y:-0.5 hm@.hm@g@.zg$$zy$$@y:0 hm@ghm@g.@z.$$zy$$@y:0 hm.@hm@g.@zg$$zy$$@y:0 
-.m.@hm@gh@zg$$zy$$@y hm.@hm@g.@zg$$zy$$@y:0 .m@@hm.gh@zg$$zy$$@y:0 .m@.hm@gh@zg$$zy$$@y:0 
+hm@ghm@g.@z.$$zy$$@y .m@ghm@gh@z.$$zy$$@y:0.0 hm@ghm@g@.z.$$zy$$@y:0.0 hm@.hm@g.@zg$$zy$$@y:0.0 hm@ghm@g.@zy$$zy$$@.:0.0 
+.m@ghm@gh@z.$$zy$$@y hm@ghm@g.@z.$$zy$$@y:0.0 .m@.hm@gh@zg$$zy$$@y:-0.5 .m@ghm@gh@zy$$zy$$@.:-0.5 
+hm@zhm@z@.y.$$yg$$@g h.@zhm@z@my.$$yg$$@g:0.0 hm@zhm@z.@y.$$yg$$@g:0.0 hm@.hm@z@.yz$$yg$$@g:0.0 hm@zhm@z@.yg$$yg$$@.:0.0 
+h@@zhm.z@myg$$yg$$.@ h@@zhmyz@myg$$.g$$.@:0.0 h@.zhm@z@myg$$yg$$.@:0.0 h@@zhm.z@m.g$$yg$$y@:0.0 h@@zhm.z@myg$$yg$$@.:0.0 
+h@.zhm@z@my.$$yg$$@g h@@zhm.z@my.$$yg$$@g:0.0 h.@zhm@z@my.$$yg$$@g:0.0 h@..hm@z@myz$$yg$$@g:0.0 h@.zhm@z@myg$$yg$$@.:0.0 
+.m@.hm@gh@zg$$zy$$@y hm@.hm@g.@zg$$zy$$@y:-0.5 .m@ghm@gh@z.$$zy$$@y:-0.5 .m.@hm@gh@zg$$zy$$@y:0.0 
+hm@.hm@g.@zg$$zy$$@y .m@.hm@gh@zg$$zy$$@y:-0.5 hm@.hm@g@.zg$$zy$$@y:0.0 hm@ghm@g.@z.$$zy$$@y:0.0 hm.@hm@g.@zg$$zy$$@y:0.0 
+.m.@hm@gh@zg$$zy$$@y hm.@hm@g.@zg$$zy$$@y:0.0 .m@@hm.gh@zg$$zy$$@y:0.0 .m@.hm@gh@zg$$zy$$@y:0.0 
 hmzghmzg@$$y.$$y@@.@ hmzghmzg.$$y@$$y@@.@:-0.75 hmzghmzg@$$y@$$y.@.@:-0.75 hmzghmzg@$$y.$$y@.@@:-0.75 hmzghmzg@$$y.$$y@@@.:-0.5 
 hmzghmzg@$$y@$$y.@.@ hmzghmzg@$$y.$$y@@.@:-0.5 hmzghmzg@$$y@$$y@..@:249.25 hmzghmzg@$$y@$$y..@@:-0.75 hmzghmzg@$$y@$$y.@@.:-0.5 
-hmzghmzg@$$y@$$y@..@ hmzghmzg@..y@$$y@$$@:750.0 hmzghmzg@$$y@$$y.@.@:0 hmzghmzg@$$y@$$y@.@.:-0.5 
-hmzghmzg@$$y.$$y@@@. hmzghmzg.$$y@$$y@@@.:-0.5 hmzghmzg@$$y@$$y.@@.:-0.5 hmzghmzg@$$..$$y@@@y:0 hmzghmzg@$$y.$$y@@.@:-0.5 
+hmzghmzg@$$y@$$y@..@ hmzghmzg@..y@$$y@$$@:750.0 hmzghmzg@$$y@$$y.@.@:0.0 hmzghmzg@$$y@$$y@.@.:-0.5 
+hmzghmzg@$$y.$$y@@@. hmzghmzg.$$y@$$y@@@.:-0.5 hmzghmzg@$$y@$$y.@@.:-0.5 hmzghmzg@$$..$$y@@@y:0.0 hmzghmzg@$$y.$$y@@.@:-0.5 
 hmzghmzg.$$y@$$y@@@. .mzghmzgh$$y@$$y@@@.:-0.5 hmzghmzg@$$y.$$y@@@.:-0.5 hmzghmzg.$$.@$$y@@@y:-0.5 hmzghmzg.$$y@$$y@@.@:-1.0 
-hmzghmzg@$$..$$y@@@y hmzghmzg.$$.@$$y@@@y:-0.5 hmzghmzg@$$.@$$y.@@y:-0.5 hmz.hmzg@$$g.$$y@@@y:0 hmzghmzg@$$y.$$y@@@.:0 
+hmzghmzg@$$..$$y@@@y hmzghmzg.$$.@$$y@@@y:-0.5 hmzghmzg@$$.@$$y.@@y:-0.5 hmz.hmzg@$$g.$$y@@@y:0.0 hmzghmzg@$$y.$$y@@@.:0.0 
 .mzghmzgh$$y@$$y@@.@ hmzghmzg.$$y@$$y@@.@:-1.0 .mzghmzgh$$y@$$y@.@@:-0.75 .mzghmzgh$$y@$$y@@@.:-0.5 
 .mzghmzgh$$y@$$y@@@. hmzghmzg.$$y@$$y@@@.:-0.75 .mzghmzgh$$.@$$y@@@y:-0.5 .mzghmzgh$$y@$$y@@.@:-0.5 
 .mzghmzgh$$.@$$y@@@y hmzghmzg.$$.@$$y@@@y:-0.5 .mz.hmzgh$$g@$$y@@@y:-0.5 .mzghmzgh$$y@$$y@@@.:-0.5 
 hmzghmzg.$$.@$$y@@@y .mzghmzgh$$.@$$y@@@y:-0.5 hmzghmzg@$$..$$y@@@y:-0.5 hmz.hmzg.$$g@$$y@@@y:-0.5 hmzghmzg.$$y@$$y@@@.:-0.5 
-hmzghmzg@$$.@$$y.@@y hmzghmzg@$$..$$y@@@y:0 hmzghmzg@$$.@$$y@.@y:0 hmz.hmzg@$$g@$$y.@@y:-0.5 hmzghmzg@$$y@$$y.@@.:0 
-hmz.hmzg@$$g@$$y.@@y hmz.hmzg@$$g.$$y@@@y:-0.5 hmz.hmzg@$$g@$$y@.@y:-0.5 hmzghmzg@$$.@$$y.@@y:0 
+hmzghmzg@$$.@$$y.@@y hmzghmzg@$$..$$y@@@y:0.0 hmzghmzg@$$.@$$y@.@y:0.0 hmz.hmzg@$$g@$$y.@@y:-0.5 hmzghmzg@$$y@$$y.@@.:0.0 
+hmz.hmzg@$$g@$$y.@@y hmz.hmzg@$$g.$$y@@@y:-0.5 hmz.hmzg@$$g@$$y@.@y:-0.5 hmzghmzg@$$.@$$y.@@y:0.0 
 hmz.hmzg@$$g@$$y@.@y hmz.hmzg@$$g@$$y.@@y:-0.5 hmz.hmzg@$$g@$$y@@.y:-0.5 hmzghmzg@$$.@$$y@.@y:-0.5 
-hmz.hmzg@$$g.$$y@@@y hmz.hmzg.$$g@$$y@@@y:0 hmz.hmzg@$$g@$$y.@@y:0 hmzghmzg@$$..$$y@@@y:-0.5 
+hmz.hmzg@$$g.$$y@@@y hmz.hmzg.$$g@$$y@@@y:0.0 hmz.hmzg@$$g@$$y.@@y:0.0 hmzghmzg@$$..$$y@@@y:-0.5 
 hmz.hmzg@$$g@$$y@@.y hmz.hmzg@$$g@$$y@.@y:-0.5 hmzghmzg@$$.@$$y@@.y:-0.5 
 hmzghmzg@$$.@$$y@@.y hmzghmzg@$$.@$$y@.@y:-0.5 hmz.hmzg@$$g@$$y@@.y:-0.5 hmzghmzg@$$y@$$y@@..:-0.5 
 hmzghmzg@$$y@$$y@@.. hmzghmzg@$$y@$$y@.@.:-0.5 hmzghmzg@$$.@$$y@@.y:-0.5 
 hmzghmzg@$$y@$$y@.@. hmzghmzg@$$y@$$y.@@.:-0.5 hmzghmzg@$$y@$$y@@..:-0.5 hmzghmzg@$$.@$$y@.@y:-0.5 hmzghmzg@$$y@$$y@..@:-0.5 
-hmzghmzg@..y@$$y@$$@ hmzghmzg@$$y@$$y@..@:0 h.zghmzg@m.y@$$y@$$@:0 hmzghmzg.@.y@$$y@$$@:0 hm.ghmzg@.zy@$$y@$$@:0 
-hmzghmzg@$$y@$$y.@@. hmzghmzg@$$y.$$y@@@.:-0.5 hmzghmzg@$$y@$$y@.@.:-0.5 hmzghmzg@$$.@$$y.@@y:0 hmzghmzg@$$y@$$y.@.@:-0.5 
-hmzghmzg@$$.@$$y@.@y hmzghmzg@$$.@$$y.@@y:0 hmzghmzg@$$.@$$y@@.y:-0.5 hmz.hmzg@$$g@$$y@.@y:-0.5 hmzghmzg@$$y@$$y@.@.:-0.5 
-hmz.hmzg.$$g@$$y@@@y .mz.hmzgh$$g@$$y@@@y:-0.5 hmz.hmzg@$$g.$$y@@@y:0 hmzghmzg.$$.@$$y@@@y:-0.5 
+hmzghmzg@..y@$$y@$$@ hmzghmzg@$$y@$$y@..@:0.0 h.zghmzg@m.y@$$y@$$@:0.0 hmzghmzg.@.y@$$y@$$@:0.0 hm.ghmzg@.zy@$$y@$$@:0.0 
+hmzghmzg@$$y@$$y.@@. hmzghmzg@$$y.$$y@@@.:-0.5 hmzghmzg@$$y@$$y@.@.:-0.5 hmzghmzg@$$.@$$y.@@y:0.0 hmzghmzg@$$y@$$y.@.@:-0.5 
+hmzghmzg@$$.@$$y@.@y hmzghmzg@$$.@$$y.@@y:0.0 hmzghmzg@$$.@$$y@@.y:-0.5 hmz.hmzg@$$g@$$y@.@y:-0.5 hmzghmzg@$$y@$$y@.@.:-0.5 
+hmz.hmzg.$$g@$$y@@@y .mz.hmzgh$$g@$$y@@@y:-0.5 hmz.hmzg@$$g.$$y@@@y:0.0 hmzghmzg.$$.@$$y@@@y:-0.5 
 h@mzh.mz@.yg$$yg$$@@ h.mzh@mz@.yg$$yg$$@@:-1.0 h@mzh.mz.@yg$$yg$$@@:-0.5 
 h.mzh@mz@.yg$$yg$$@@ h@mzh.mz@.yg$$yg$$@@:-1.0 h.mzh.mz@@yg$$yg$$@@:-1.0 h.mzh@mz.@yg$$yg$$@@:-0.75 
 .hmg@hmg.@zy$$zy$$@@ @hmg.hmg.@zy$$zy$$@@:-0.5 .hmg.hmg@@zy$$zy$$@@:-0.5 .hmg@hmg@.zy$$zy$$@@:-0.5 
-.hmg@hmg@.zy$$zy$$@@ @hmg.hmg@.zy$$zy$$@@:-0.5 ..mg@hmg@hzy$$zy$$@@:0 .hmg@hmg.@zy$$zy$$@@:-0.5 
+.hmg@hmg@.zy$$zy$$@@ @hmg.hmg@.zy$$zy$$@@:-0.5 ..mg@hmg@hzy$$zy$$@@:0.0 .hmg@hmg.@zy$$zy$$@@:-0.5 
 @hmg.hmg@.zy$$zy$$@@ .hmg@hmg@.zy$$zy$$@@:-0.5 @hmg@hmg..zy$$zy$$@@:-0.5 @.mg.hmg@hzy$$zy$$@@:-0.5 @hmg.hmg.@zy$$zy$$@@:-0.5 
-..mg@hmg@hzy$$zy$$@@ @.mg.hmg@hzy$$zy$$@@:0 .hmg@hmg@.zy$$zy$$@@:0 
-@.mg.hmg@hzy$$zy$$@@ ..mg@hmg@hzy$$zy$$@@:0 @.mg@hmg.hzy$$zy$$@@:0 @hmg.hmg@.zy$$zy$$@@:-0.5 .@mg.hmg@hzy$$zy$$@@:0 
-@hmg@hmg..zy$$zy$$@@ @hmg@hmg$$zy$$zy..@@:0 @hmg.hmg@.zy$$zy$$@@:-0.5 @.mg@hmg.hzy$$zy$$@@:0 
+..mg@hmg@hzy$$zy$$@@ @.mg.hmg@hzy$$zy$$@@:0.0 .hmg@hmg@.zy$$zy$$@@:0.0 
+@.mg.hmg@hzy$$zy$$@@ ..mg@hmg@hzy$$zy$$@@:0.0 @.mg@hmg.hzy$$zy$$@@:0.0 @hmg.hmg@.zy$$zy$$@@:-0.5 .@mg.hmg@hzy$$zy$$@@:0.0 
+@hmg@hmg..zy$$zy$$@@ @hmg@hmg$$zy$$zy..@@:0.0 @hmg.hmg@.zy$$zy$$@@:-0.5 @.mg@hmg.hzy$$zy$$@@:0.0 
 @hmg.hmg.@zy$$zy$$@@ .hmg@hmg.@zy$$zy$$@@:-0.5 @hmg.hmg@.zy$$zy$$@@:-0.5 
-@.mg@hmg.hzy$$zy$$@@ @.mg.hmg@hzy$$zy$$@@:0 @hmg@hmg..zy$$zy$$@@:0 .@mg@hmg.hzy$$zy$$@@:0 
+@.mg@hmg.hzy$$zy$$@@ @.mg.hmg@hzy$$zy$$@@:0.0 @hmg@hmg..zy$$zy$$@@:0.0 .@mg@hmg.hzy$$zy$$@@:0.0 
 hmg.hmgy@@zy$$z.$$@@ hmgyhmgy@@z.$$z.$$@@:-0.5 hmg.hmg.@@zy$$zy$$@@:-0.5 hmg.hmgy@@zy$$z@$$@.:-0.75 
-hmg.hmgy@@zy$$z@$$@. hmgyhmgy@@z.$$z@$$@.:0 hmg.hmgy@@zy$$z.$$@@:-0.5 hmg.hmgy@@zy$$z@$$.@:-0.5 
-hmg.hmgy@@zy$$z@$$.@ hmg.hmgy@@.y$$z@$$z@:0 hmg.hmgy@@zy$$z@$$@.:0 hmgyhmgy@@z.$$z@$$.@:-0.5 
-hmgyhmgy@@z.$$z@$$.@ hmgyhmgy@@..$$z@$$z@:-0.5 hmgyhmgy@@z.$$z@$$@.:0 hmg.hmgy@@zy$$z@$$.@:0 hmgyhmgy@@z@$$z.$$.@:0 
-hmg.hmgy@@.y$$z@$$z@ hm..hmgy@@gy$$z@$$z@:0 hmg.hmgy@@zy$$z@$$.@:0 hmg.hmgy@.@y$$z@$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:0 
-hmgyhmgy@@..$$z@$$z@ hm.yhmgy@@g.$$z@$$z@:-0.5 hmgyhmgy@@z.$$z@$$.@:0 hmgyhmgy@.@.$$z@$$z@:-0.5 hmg.hmgy@@.y$$z@$$z@:0 hmgyhmgy@@.@$$z.$$z@:-0.5 
-hmgyhmgy@.@.$$z@$$z@ h.gyhmgy@m@.$$z@$$z@:-0.5 hmgyhmgy.@@.$$z@$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:-0.5 hmg.hmgy@.@y$$z@$$z@:0 hmgyhmgy@.@@$$z.$$z@:-0.5 hmgyhmgy@..@$$z@$$z@:-0.5 
-hmgyhmgy@.@@$$z.$$z@ h.gyhmgy@m@@$$z.$$z@:-0.5 hmgyhmgy.@@@$$z.$$z@:0 hmgyhmgy@@.@$$z.$$z@:0 hmgyhmgy@.@.$$z@$$z@:-0.5 hmgyhmgy@.@@$$z@$$z.:0 
-hmgyhmgy@@.@$$z.$$z@ hm.yhmgy@@g@$$z.$$z@:-0.5 hmgyhmgy@@z@$$z.$$.@:0 hmgyhmgy@.@@$$z.$$z@:0 hmgyhmgy@@@.$$z.$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:-0.5 hmgyhmgy@@.@$$z@$$z.:-0.5 
+hmg.hmgy@@zy$$z@$$@. hmgyhmgy@@z.$$z@$$@.:0.0 hmg.hmgy@@zy$$z.$$@@:-0.5 hmg.hmgy@@zy$$z@$$.@:-0.5 
+hmg.hmgy@@zy$$z@$$.@ hmg.hmgy@@.y$$z@$$z@:0.0 hmg.hmgy@@zy$$z@$$@.:0.0 hmgyhmgy@@z.$$z@$$.@:-0.5 
+hmgyhmgy@@z.$$z@$$.@ hmgyhmgy@@..$$z@$$z@:-0.5 hmgyhmgy@@z.$$z@$$@.:0.0 hmg.hmgy@@zy$$z@$$.@:0.0 hmgyhmgy@@z@$$z.$$.@:0.0 
+hmg.hmgy@@.y$$z@$$z@ hm..hmgy@@gy$$z@$$z@:0.0 hmg.hmgy@@zy$$z@$$.@:0.0 hmg.hmgy@.@y$$z@$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:0.0 
+hmgyhmgy@@..$$z@$$z@ hm.yhmgy@@g.$$z@$$z@:-0.5 hmgyhmgy@@z.$$z@$$.@:0.0 hmgyhmgy@.@.$$z@$$z@:-0.5 hmg.hmgy@@.y$$z@$$z@:0.0 hmgyhmgy@@.@$$z.$$z@:-0.5 
+hmgyhmgy@.@.$$z@$$z@ h.gyhmgy@m@.$$z@$$z@:-0.5 hmgyhmgy.@@.$$z@$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:-0.5 hmg.hmgy@.@y$$z@$$z@:0.0 hmgyhmgy@.@@$$z.$$z@:-0.5 hmgyhmgy@..@$$z@$$z@:-0.5 
+hmgyhmgy@.@@$$z.$$z@ h.gyhmgy@m@@$$z.$$z@:-0.5 hmgyhmgy.@@@$$z.$$z@:0.0 hmgyhmgy@@.@$$z.$$z@:0.0 hmgyhmgy@.@.$$z@$$z@:-0.5 hmgyhmgy@.@@$$z@$$z.:0.0 
+hmgyhmgy@@.@$$z.$$z@ hm.yhmgy@@g@$$z.$$z@:-0.5 hmgyhmgy@@z@$$z.$$.@:0.0 hmgyhmgy@.@@$$z.$$z@:0.0 hmgyhmgy@@@.$$z.$$z@:-0.5 hmgyhmgy@@..$$z@$$z@:-0.5 hmgyhmgy@@.@$$z@$$z.:-0.5 
 hmgyhmgy@@@.$$z.$$z@ hmg.hmgy@@@y$$z.$$z@:-0.5 hmgyhmgy@@.@$$z.$$z@:-0.5 hmgyhmgy@@@.$$z@$$z.:-0.5 
-hm.yhmgy@@g@$$z.$$z@ hmgyhmgy@@.@$$z.$$z@:-0.5 hm.yhmgy@@g.$$z@$$z@:0 hm.yhmgy@@g@$$z@$$z.:-0.5 
+hm.yhmgy@@g@$$z.$$z@ hmgyhmgy@@.@$$z.$$z@:-0.5 hm.yhmgy@@g.$$z@$$z@:0.0 hm.yhmgy@@g@$$z@$$z.:-0.5 
 hm.zhmyz@@y@$$g@$$g. hmyzhmyz@@.@$$g@$$g.:-0.5 hm.zhmyz@@y@$$g.$$g@:-0.5 
-hmy.hmyz@@@z$$g@$$g. hmyzhmyz@@@.$$g@$$g.:-0.5 hmy.hmyz@@@z$$g.$$g@:0 
-hmyzhmyz@.@@$$g@$$g. h.yzhmyz@m@@$$g@$$g.:0 hmyzhmyz.@@@$$g@$$g.:0 hmyzhmyz@@.@$$g@$$g.:0 hmyzhmyz@.@@$$g.$$g@:0 
-hmgyhmgy@@z@$$z.$$.@ hmgyhmgy@@.@$$z.$$z@:0 hmgyhmgy@@z@$$z.$$@.:0 hmgyhmgy@@z.$$z@$$.@:0 hmgyhmgy@@z@$$z@$$..:0 
-hm.yhmgy@@g.$$z@$$z@ hmgyhmgy@@..$$z@$$z@:0 hm..hmgy@@gy$$z@$$z@:-0.5 hm.yhmgy@@g@$$z.$$z@:0 
-hm..hmgy@@gy$$z@$$z@ hmg.hmgy@@.y$$z@$$z@:-0.5 hm.yhmgy@@g.$$z@$$z@:0 
-hmg.hmgy@.@y$$z@$$z@ h.g.hmgy@m@y$$z@$$z@:0 hmg.hmgy.@@y$$z@$$z@:0 hmg.hmgy@@.y$$z@$$z@:0 hmgyhmgy@.@.$$z@$$z@:-0.5 
-hmgyhmgy@..@$$z@$$z@ h.gyhmgy@m.@$$z@$$z@:-0.5 hmgyhmgy.@.@$$z@$$z@:0 hm.yhmgy@.g@$$z@$$z@:-0.5 hmgyhmgy@.z@$$z@$$.@:0 hmgyhmgy@.@.$$z@$$z@:-0.5 
-h.gyhmgy@m@.$$z@$$z@ hmgyhmgy@.@.$$z@$$z@:-0.5 h.g.hmgy@m@y$$z@$$z@:0 h.gyhmgy@m@@$$z.$$z@:-0.5 h.gyhmgy@m.@$$z@$$z@:0 
-hm.yhmgy@.g@$$z@$$z@ h..yhmgy@mg@$$z@$$z@:-0.5 hm.yhmgy.@g@$$z@$$z@:0 hmgyhmgy@..@$$z@$$z@:0 
-hmgyhmgy@.z@$$z@$$.@ h.gyhmgy@mz@$$z@$$.@:0 hmgyhmgy.@z@$$z@$$.@:0 hmgyhmgy@..@$$z@$$z@:-0.5 hmgyhmgy@.z@$$z@$$@.:0 
-h..yhmgy@mg@$$z@$$z@ hm.yhmgy@.g@$$z@$$z@:0 h.gyhmgy@m.@$$z@$$z@:-0.5 
-h.gyhmgy@m.@$$z@$$z@ hmgyhmgy@..@$$z@$$z@:-0.5 h..yhmgy@mg@$$z@$$z@:0 h.gyhmgy@mz@$$z@$$.@:-0.5 h.gyhmgy@m@.$$z@$$z@:0 
-h.gyhmgy@mz@$$z@$$.@ hmgyhmgy@.z@$$z@$$.@:-0.5 h.gyhmgy@m.@$$z@$$z@:0 h.gyhmgy@mz@$$z@$$@.:0 
-h.gyhmgy@m@@$$z.$$z@ hmgyhmgy@.@@$$z.$$z@:-0.5 h.gyhmgy@m@.$$z@$$z@:-0.5 h.gyhmgy@m@@$$z@$$z.:0 
-hmgyhmgy.@@@$$z.$$z@ .mgyhmgyh@@@$$z.$$z@:0 hmgyhmgy@.@@$$z.$$z@:0 hmgyhmgy.@@.$$z@$$z@:0 hmgyhmgy.@@@$$z@$$z.:0 
-hmgyhmgy.@@.$$z@$$z@ .mgyhmgyh@@.$$z@$$z@:0 hmgyhmgy@.@.$$z@$$z@:0 hmg.hmgy.@@y$$z@$$z@:0 hmgyhmgy.@@@$$z.$$z@:0 hmgyhmgy.@.@$$z@$$z@:-0.5 
-h.g.hmgy@m@y$$z@$$z@ hmg.hmgy@.@y$$z@$$z@:0 h.gyhmgy@m@.$$z@$$z@:0 
-hmgyhmgy.@.@$$z@$$z@ .mgyhmgyh@.@$$z@$$z@:-0.5 hmgyhmgy@..@$$z@$$z@:0 hm.yhmgy.@g@$$z@$$z@:0 hmgyhmgy.@z@$$z@$$.@:0 hmgyhmgy..@@$$z@$$z@:-0.5 hmgyhmgy.@@.$$z@$$z@:0 
-.mgyhmgyh@.@$$z@$$z@ hmgyhmgy.@.@$$z@$$z@:-0.5 .m.yhmgyh@g@$$z@$$z@:0 .mgyhmgyh@z@$$z@$$.@:-0.5 .mgyhmgyh.@@$$z@$$z@:0 .mgyhmgyh@@.$$z@$$z@:0 
-hmgyhmgy..@@$$z@$$z@ hmgyhmgy$$@@$$z@..z@:-500.0 .mgyhmgyh.@@$$z@$$z@:0 h.gyhmgy.m@@$$z@$$z@:-0.5 hmgyhmgy.@.@$$z@$$z@:0 
-.mgyhmgyh@z@$$z@$$.@ hmgyhmgy.@z@$$z@$$.@:0 .mgyhmgyh@.@$$z@$$z@:-0.5 .mgyhmgyh@z@$$z@$$@.:0 
-.mgyhmgyh.@@$$z@$$z@ hmgyhmgy..@@$$z@$$z@:0 ..gyhmgyhm@@$$z@$$z@:0 .mgyhmgyh@.@$$z@$$z@:0 
-.m.yhmgyh@g@$$z@$$z@ hm.yhmgy.@g@$$z@$$z@:0 .mgyhmgyh@.@$$z@$$z@:0 
-hmgyhmgy.@z@$$z@$$.@ .mgyhmgyh@z@$$z@$$.@:0 hmgyhmgy@.z@$$z@$$.@:0 hmgyhmgy.@.@$$z@$$z@:0 hmgyhmgy.@z@$$z@$$@.:0 
-h.gyhmgy.m@@$$z@$$z@ ..gyhmgyhm@@$$z@$$z@:0 hmgyhmgy..@@$$z@$$z@:-0.5 
-hmgyhmgy$$@@$$z@..z@ hmgyhmgy..@@$$z@$$z@:0 
+hmy.hmyz@@@z$$g@$$g. hmyzhmyz@@@.$$g@$$g.:-0.5 hmy.hmyz@@@z$$g.$$g@:0.0 
+hmyzhmyz@.@@$$g@$$g. h.yzhmyz@m@@$$g@$$g.:0.0 hmyzhmyz.@@@$$g@$$g.:0.0 hmyzhmyz@@.@$$g@$$g.:0.0 hmyzhmyz@.@@$$g.$$g@:0.0 
+hmgyhmgy@@z@$$z.$$.@ hmgyhmgy@@.@$$z.$$z@:0.0 hmgyhmgy@@z@$$z.$$@.:0.0 hmgyhmgy@@z.$$z@$$.@:0.0 hmgyhmgy@@z@$$z@$$..:0.0 
+hm.yhmgy@@g.$$z@$$z@ hmgyhmgy@@..$$z@$$z@:0.0 hm..hmgy@@gy$$z@$$z@:-0.5 hm.yhmgy@@g@$$z.$$z@:0.0 
+hm..hmgy@@gy$$z@$$z@ hmg.hmgy@@.y$$z@$$z@:-0.5 hm.yhmgy@@g.$$z@$$z@:0.0 
+hmg.hmgy@.@y$$z@$$z@ h.g.hmgy@m@y$$z@$$z@:0.0 hmg.hmgy.@@y$$z@$$z@:0.0 hmg.hmgy@@.y$$z@$$z@:0.0 hmgyhmgy@.@.$$z@$$z@:-0.5 
+hmgyhmgy@..@$$z@$$z@ h.gyhmgy@m.@$$z@$$z@:-0.5 hmgyhmgy.@.@$$z@$$z@:0.0 hm.yhmgy@.g@$$z@$$z@:-0.5 hmgyhmgy@.z@$$z@$$.@:0.0 hmgyhmgy@.@.$$z@$$z@:-0.5 
+h.gyhmgy@m@.$$z@$$z@ hmgyhmgy@.@.$$z@$$z@:-0.5 h.g.hmgy@m@y$$z@$$z@:0.0 h.gyhmgy@m@@$$z.$$z@:-0.5 h.gyhmgy@m.@$$z@$$z@:0.0 
+hm.yhmgy@.g@$$z@$$z@ h..yhmgy@mg@$$z@$$z@:-0.5 hm.yhmgy.@g@$$z@$$z@:0.0 hmgyhmgy@..@$$z@$$z@:0.0 
+hmgyhmgy@.z@$$z@$$.@ h.gyhmgy@mz@$$z@$$.@:0.0 hmgyhmgy.@z@$$z@$$.@:0.0 hmgyhmgy@..@$$z@$$z@:-0.5 hmgyhmgy@.z@$$z@$$@.:0.0 
+h..yhmgy@mg@$$z@$$z@ hm.yhmgy@.g@$$z@$$z@:0.0 h.gyhmgy@m.@$$z@$$z@:-0.5 
+h.gyhmgy@m.@$$z@$$z@ hmgyhmgy@..@$$z@$$z@:-0.5 h..yhmgy@mg@$$z@$$z@:0.0 h.gyhmgy@mz@$$z@$$.@:-0.5 h.gyhmgy@m@.$$z@$$z@:0.0 
+h.gyhmgy@mz@$$z@$$.@ hmgyhmgy@.z@$$z@$$.@:-0.5 h.gyhmgy@m.@$$z@$$z@:0.0 h.gyhmgy@mz@$$z@$$@.:0.0 
+h.gyhmgy@m@@$$z.$$z@ hmgyhmgy@.@@$$z.$$z@:-0.5 h.gyhmgy@m@.$$z@$$z@:-0.5 h.gyhmgy@m@@$$z@$$z.:0.0 
+hmgyhmgy.@@@$$z.$$z@ .mgyhmgyh@@@$$z.$$z@:0.0 hmgyhmgy@.@@$$z.$$z@:0.0 hmgyhmgy.@@.$$z@$$z@:0.0 hmgyhmgy.@@@$$z@$$z.:0.0 
+hmgyhmgy.@@.$$z@$$z@ .mgyhmgyh@@.$$z@$$z@:0.0 hmgyhmgy@.@.$$z@$$z@:0.0 hmg.hmgy.@@y$$z@$$z@:0.0 hmgyhmgy.@@@$$z.$$z@:0.0 hmgyhmgy.@.@$$z@$$z@:-0.5 
+h.g.hmgy@m@y$$z@$$z@ hmg.hmgy@.@y$$z@$$z@:0.0 h.gyhmgy@m@.$$z@$$z@:0.0 
+hmgyhmgy.@.@$$z@$$z@ .mgyhmgyh@.@$$z@$$z@:-0.5 hmgyhmgy@..@$$z@$$z@:0.0 hm.yhmgy.@g@$$z@$$z@:0.0 hmgyhmgy.@z@$$z@$$.@:0.0 hmgyhmgy..@@$$z@$$z@:-0.5 hmgyhmgy.@@.$$z@$$z@:0.0 
+.mgyhmgyh@.@$$z@$$z@ hmgyhmgy.@.@$$z@$$z@:-0.5 .m.yhmgyh@g@$$z@$$z@:0.0 .mgyhmgyh@z@$$z@$$.@:-0.5 .mgyhmgyh.@@$$z@$$z@:0.0 .mgyhmgyh@@.$$z@$$z@:0.0 
+hmgyhmgy..@@$$z@$$z@ hmgyhmgy$$@@$$z@..z@:-500.0 .mgyhmgyh.@@$$z@$$z@:0.0 h.gyhmgy.m@@$$z@$$z@:-0.5 hmgyhmgy.@.@$$z@$$z@:0.0 
+.mgyhmgyh@z@$$z@$$.@ hmgyhmgy.@z@$$z@$$.@:0.0 .mgyhmgyh@.@$$z@$$z@:-0.5 .mgyhmgyh@z@$$z@$$@.:0.0 
+.mgyhmgyh.@@$$z@$$z@ hmgyhmgy..@@$$z@$$z@:0.0 ..gyhmgyhm@@$$z@$$z@:0.0 .mgyhmgyh@.@$$z@$$z@:0.0 
+.m.yhmgyh@g@$$z@$$z@ hm.yhmgy.@g@$$z@$$z@:0.0 .mgyhmgyh@.@$$z@$$z@:0.0 
+hmgyhmgy.@z@$$z@$$.@ .mgyhmgyh@z@$$z@$$.@:0.0 hmgyhmgy@.z@$$z@$$.@:0.0 hmgyhmgy.@.@$$z@$$z@:0.0 hmgyhmgy.@z@$$z@$$@.:0.0 
+h.gyhmgy.m@@$$z@$$z@ ..gyhmgyhm@@$$z@$$z@:0.0 hmgyhmgy..@@$$z@$$z@:-0.5 
+hmgyhmgy$$@@$$z@..z@ hmgyhmgy..@@$$z@$$z@:0.0 
 h.z@hmzg@m.g$$y@$$y@ hmz@hmzg@..g$$y@$$y@:-1.125 h..@hmzg@mzg$$y@$$y@:-1.0 h.z@hmzg@myg$$y@$$.@:-1.125 
 hmz@hmzg@.yg$$y@$$.@ h.z@hmzg@myg$$y@$$.@:-1.125 hmz@hmzg.@yg$$y@$$.@:-1.125 hmz@hmzg@..g$$y@$$y@:-1.125 hmz@hmzg@.yg$$y@$$@.:-1.125 
 h.z@hmzg@myg$$y@$$.@ hmz@hmzg@.yg$$y@$$.@:-1.0 h.z@hmzg@m.g$$y@$$y@:-1.125 h.z@hmzg@myg$$y@$$@.:-1.125 
 h.z@hmzg@myg$$y@$$@. hmz@hmzg@.yg$$y@$$@.:-1.0 h.z@hmzg@myg$$y.$$@@:-1.0 h.z@hmzg@myg$$y@$$.@:-1.0 
 hmz@hmzg@.yg$$y@$$@. h.z@hmzg@myg$$y@$$@.:-0.75 hmz@hmzg.@yg$$y@$$@.:-1.0 hmz@hmzg@.yg$$y.$$@@:-0.5 hmz@hmzg@.yg$$y@$$.@:-1.125 
 h.z@hmzg@myg$$y.$$@@ hmz@hmzg@.yg$$y.$$@@:-0.5 h.z@hmz.@myg$$yg$$@@:-0.5 h.z@hmzg@myg$$y@$$@.:-1.0 
-h.z@hmz.@myg$$yg$$@@ hmz@hmz.@.yg$$yg$$@@:-0.5 h.z@hmzg@myg$$y.$$@@:-0.5 h.z.hmz@@myg$$yg$$@@:0 
-hmz@hmzg@.yg$$y.$$@@ h.z@hmzg@myg$$y.$$@@:-0.5 hmz@hmzg.@yg$$y.$$@@:-0.75 hmz@hmz.@.yg$$yg$$@@:0 hmz@hmzg@.yg$$y@$$@.:-0.5 
-hmz@hmz.@.yg$$yg$$@@ h.z@hmz.@myg$$yg$$@@:0 hmz@hmz..@yg$$yg$$@@:0 hmz@hmzg@.yg$$y.$$@@:-0.5 hmz.hmz@@.yg$$yg$$@@:-0.5 
+h.z@hmz.@myg$$yg$$@@ hmz@hmz.@.yg$$yg$$@@:-0.5 h.z@hmzg@myg$$y.$$@@:-0.5 h.z.hmz@@myg$$yg$$@@:0.0 
+hmz@hmzg@.yg$$y.$$@@ h.z@hmzg@myg$$y.$$@@:-0.5 hmz@hmzg.@yg$$y.$$@@:-0.75 hmz@hmz.@.yg$$yg$$@@:0.0 hmz@hmzg@.yg$$y@$$@.:-0.5 
+hmz@hmz.@.yg$$yg$$@@ h.z@hmz.@myg$$yg$$@@:0.0 hmz@hmz..@yg$$yg$$@@:0.0 hmz@hmzg@.yg$$y.$$@@:-0.5 hmz.hmz@@.yg$$yg$$@@:-0.5 
 hmz@hmzg.@yg$$y@$$@. .mz@hmzgh@yg$$y@$$@.:-1.0 hmz@hmzg@.yg$$y@$$@.:-1.0 hmz@hmzg.@yg$$y.$$@@:-1.0 hmz@hmzg.@yg$$y@$$.@:-1.0 
 hmz@hmzg.@yg$$y.$$@@ .mz@hmzgh@yg$$y.$$@@:-1.0 hmz@hmzg@.yg$$y.$$@@:-0.5 hmz@hmz..@yg$$yg$$@@:-0.75 hmz@hmzg.@yg$$y@$$@.:-1.0 
 .mz@hmz.h@yg$$yg$$@@ hmz@hmz..@yg$$yg$$@@:-0.5 .mz@hmzgh@yg$$y.$$@@:-0.5 .mz.hmz@h@yg$$yg$$@@:-0.5 
 .mz.hmz@h@yg$$yg$$@@ hmz.hmz@.@yg$$yg$$@@:-0.5 .mz@hmz.h@yg$$yg$$@@:-0.5 
 hmz.hmz@.@yg$$yg$$@@ .mz.hmz@h@yg$$yg$$@@:-0.5 hmz.hmz@@.yg$$yg$$@@:-0.5 hmz@hmz..@yg$$yg$$@@:-0.5 
 hmz@hmz..@yg$$yg$$@@ .mz@hmz.h@yg$$yg$$@@:-0.5 hmz@hmz.@.yg$$yg$$@@:-0.5 hmz@hmzg.@yg$$y.$$@@:-0.5 hmz.hmz@.@yg$$yg$$@@:-0.5 
-hmz.hmz@@.yg$$yg$$@@ h.z.hmz@@myg$$yg$$@@:-0.5 hmz.hmz@.@yg$$yg$$@@:-0.5 hmz@hmz.@.yg$$yg$$@@:0 
-h.z.hmz@@myg$$yg$$@@ hmz.hmz@@.yg$$yg$$@@:0 h.z@hmz.@myg$$yg$$@@:-0.5 
-h@zghmzg@m@.$$y.$$y@ h@z.hmzg@m@g$$y.$$y@:0 h@zghmzg@m.@$$y.$$y@:0 h@zghmzg@m@.$$y@$$y.:0 
-h@zghmzg@m@.$$y@$$y. h@z.hmzg@m@g$$y@$$y.:0 h@zghmzg@m@@$$y.$$y.:0 h@zghmzg@m.@$$y@$$y.:0 h@zghmzg@m@.$$y.$$y@:0 
+hmz.hmz@@.yg$$yg$$@@ h.z.hmz@@myg$$yg$$@@:-0.5 hmz.hmz@.@yg$$yg$$@@:-0.5 hmz@hmz.@.yg$$yg$$@@:0.0 
+h.z.hmz@@myg$$yg$$@@ hmz.hmz@@.yg$$yg$$@@:0.0 h.z@hmz.@myg$$yg$$@@:-0.5 
+h@zghmzg@m@.$$y.$$y@ h@z.hmzg@m@g$$y.$$y@:0.0 h@zghmzg@m.@$$y.$$y@:0.0 h@zghmzg@m@.$$y@$$y.:0.0 
+h@zghmzg@m@.$$y@$$y. h@z.hmzg@m@g$$y@$$y.:0.0 h@zghmzg@m@@$$y.$$y.:0.0 h@zghmzg@m.@$$y@$$y.:0.0 h@zghmzg@m@.$$y.$$y@:0.0 
 .mz.hmzgh$$g@$$y@@@y hmz.hmzg.$$g@$$y@@@y:-0.5 .mzghmzgh$$.@$$y@@@y:-0.5 
