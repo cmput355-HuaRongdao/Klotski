@@ -28,8 +28,8 @@ def bfs_game(zhen, title):
 		f.write('\n')
 	f.write('\n')
 	f.write('========= Solution =============================\n')
-	f.write('Total number of steps: ' + str(len(path) - 1))
-	f.write('Total time used: ' + str(elapsed_time))
+	f.write('Total number of steps: ' + str(len(path) - 1) + '\n')
+	f.write('Total time used: ' + str(elapsed_time) + '\n')
 	for state in path:
 		hrd.buZhen(state)
 		for i in range(5):
@@ -165,7 +165,7 @@ def q_learning_game(hrd, num_episodes, title):
 
 def RTHS_game(hrd, num_episodes, title):
 	# specify the memory:
-	memoryPath = './rths_training_results/basic/basic_heuristic' + title + '.txt'
+	memoryPath = './rths_training_results/realtime_heuristic' + title + '.txt'
 	# solve the puzzle:
 	start_time = time.time()
 	result = RTHS_Solver(hrd, num_episodes).real_time_heuristic_search(memoryPath)
@@ -180,7 +180,7 @@ def RTHS_game(hrd, num_episodes, title):
 	path.reverse()
 	hrd = Huarongdao(path[0])
 	# write down the results:
-	f = open("./rths_solutions/basic/" + title + ".txt", 'w')
+	f = open("./rths_solutions/" + title + ".txt", 'w')
 	f.write('================================================\n')
 	f.write('=========' + title + ' by RTHS ======================\n')
 	if result[2]:
@@ -212,6 +212,7 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
+<<<<<<< HEAD
 	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
 	print('finished 逃之夭夭')
 	'''
@@ -220,63 +221,72 @@ def main():
 	RTHS_game(Huarongdao(zhen), 500, '无横之局')
 	print('finished 无横之局')
 	'''
+=======
+	bfs_game(Huarongdao(zhen), 'game_1')
+	print('finished game_1')
+	# Zhen form:
+	zhen = WHZJ()	# from games.py
+	bfs_game(Huarongdao(zhen), 'game_2')
+	print('finished game_2')
+>>>>>>> 58e59964bfeebee9553ea95dfeb6937254b7ac60
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '将当后路')
-	print('finished 将当后路')
+	bfs_game(Huarongdao(zhen), 'game_3')
+	print('finished game_3')
 	# Zhen form:
 	zhen = QHHY()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '前呼后拥')
-	print('finished 前呼后拥')
+	bfs_game(Huarongdao(zhen), 'game_4')
+	print('finished game_4')
 	# Zhen form:
 	zhen = BYHK()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '比翼横空')
-	print('finished 比翼横空')
+	bfs_game(Huarongdao(zhen), 'game_5')
+	print('finished game_5')
 	# Zhen form:
 	zhen = QGWG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '巧过五关')
-	print('finished 巧过五关')
+	bfs_game(Huarongdao(zhen), 'game_6')
+	print('finished game_6')
 	# Zhen form:
 	zhen = WJBG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '五将逼宫')
-	print('finished 五将逼宫')
+	bfs_game(Huarongdao(zhen), 'game_7')
+	print('finished game_7')
 	# Zhen form:
 	zhen = BLCY()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '兵临曹营')
-	print('finished 兵临曹营')
+	bfs_game(Huarongdao(zhen), 'game_8')
+	print('finished game_8')
 	# Zhen form:
 	zhen = SJLG()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '四将连关')
-	print('finished 四将连关')
+	bfs_game(Huarongdao(zhen), 'game_9')
+	print('finished game_9')
 	# Zhen form:
 	zhen = XJZZC()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '新近在咫尺')
-	print('finished 新近在咫尺')
+	bfs_game(Huarongdao(zhen), 'game_10')
+	print('finished game_10')
+	'''
 	# Zhen form:
 	zhen = XLQB()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '星罗棋布')
-	print('finished 星罗棋布')
+	bfs_game(Huarongdao(zhen), 'game_11')
+	print('finished game_11')
 	# Zhen form:
 	zhen = SMBF()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '四面八方')
-	print('finished 四面八方')
+	bfs_game(Huarongdao(zhen), 'game_12')
+	print('finished game_12')
 	# Zhen form:
 	zhen = NQCT()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '牛气冲天')
-	print('finished 牛气冲天')
+	bfs_game(Huarongdao(zhen), 'game_13')
+	print('finished game_13')
 	# Zhen form:
 	zhen = DBQJ()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '调兵谴将')
-	print('finished 调兵谴将')
+	bfs_game(Huarongdao(zhen), 'game_14')
+	print('finished game_14')
 	# Zhen form:
 	zhen = BSZL()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '背水列阵')
-	print('finished 背水列阵')
+	bfs_game(Huarongdao(zhen), 'game_15')
+	print('finished game_15')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '横刀立马2')
-	print('finished 横刀立马2')
-	'''
+	bfs_game(Huarongdao(zhen), 'game_16')
+	print('finished game_16')
+
 	print('finished all!')
 	time_elapsed = time.time() - start_time
 	print('total time took: ', time_elapsed)

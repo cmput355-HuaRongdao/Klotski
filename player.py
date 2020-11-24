@@ -93,12 +93,14 @@ def choose():
 			if event.type == pygame.QUIT:
 				pygame.quit()
 				sys.exit
-			elif event.type == pygame.MOUSEBUTTONDOWN: 
-				for i in range(len(textList)):
-					# start game
-					if position[i][1] < mouse_y < position[i][1]+40:
-						method = getattr(playMode, textList[i])
-						return method(),textList[i]
+			elif event.type == pygame.MOUSEBUTTONDOWN:
+				# mouse left click
+				if event.button == 1:
+					for i in range(len(textList)):
+						# start game
+						if position[i][1] < mouse_y < position[i][1]+40:
+							method = getattr(playMode, textList[i])
+							return method(),textList[i]
 		pygame.display.update()
 		
 		
@@ -166,7 +168,7 @@ def game(tileList,tile_group):
 					if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
 						f = open('search_solutions/'+num+'.txt')
 						solve(f)
-						return game_over
+						return player_main
 
 			elif event.type == pygame.MOUSEBUTTONUP:
 				current = None
@@ -176,8 +178,7 @@ def game(tileList,tile_group):
 				return success()
 	
 		window.fill(white)
-		for item in tileList :
-			display_rect(item)
+		tile_group.draw(window)
 		
 		mouse_x, mouse_y = pygame.mouse.get_pos()
 		if 64 < mouse_x <256 and 700 < mouse_y < 700+50:
@@ -197,9 +198,7 @@ def game(tileList,tile_group):
 		pygame.display.update()
 		clock.tick(200)
 
-	
-
-def main():
+def player_main():
 	while True:
 		modeTiles = startMenu()
 		tile_group = pygame.sprite.Group()
@@ -208,10 +207,10 @@ def main():
 		gameOver = game(modeTiles,tile_group)
 		if gameOver == True :
 			tile_group.empty()
-
+         
 
 
 
 if __name__ == "__main__":
-	main()
+	player_main()
 
