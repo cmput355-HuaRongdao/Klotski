@@ -212,80 +212,69 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
-<<<<<<< HEAD
-	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
-	print('finished 逃之夭夭')
-	'''
+	bfs_game(Huarongdao(zhen), 'Game1')
+	print('finished Game1')
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
-	RTHS_game(Huarongdao(zhen), 500, '无横之局')
-	print('finished 无横之局')
-	'''
-=======
-	bfs_game(Huarongdao(zhen), 'game_1')
-	print('finished game_1')
-	# Zhen form:
-	zhen = WHZJ()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_2')
-	print('finished game_2')
->>>>>>> 58e59964bfeebee9553ea95dfeb6937254b7ac60
+	bfs_game(Huarongdao(zhen), 'Game2')
+	print('finished Game2')
 	# Zhen form:
 	zhen = JDHL()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_3')
-	print('finished game_3')
+	bfs_game(Huarongdao(zhen), 'Game3')
+	print('finished Game3')
 	# Zhen form:
 	zhen = QHHY()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_4')
-	print('finished game_4')
+	bfs_game(Huarongdao(zhen), 'Game4')
+	print('finished Game4')
 	# Zhen form:
 	zhen = BYHK()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_5')
-	print('finished game_5')
+	bfs_game(Huarongdao(zhen), 'Game5')
+	print('finished Game5')
 	# Zhen form:
 	zhen = QGWG()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_6')
-	print('finished game_6')
+	bfs_game(Huarongdao(zhen), 'Game6')
+	print('finished Game6')
 	# Zhen form:
 	zhen = WJBG()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_7')
-	print('finished game_7')
+	bfs_game(Huarongdao(zhen), 'Game7')
+	print('finished Game7')
 	# Zhen form:
 	zhen = BLCY()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_8')
-	print('finished game_8')
+	bfs_game(Huarongdao(zhen), 'Game8')
+	print('finished Game8')
 	# Zhen form:
 	zhen = SJLG()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_9')
-	print('finished game_9')
+	bfs_game(Huarongdao(zhen), 'Game9')
+	print('finished Game9')
 	# Zhen form:
 	zhen = XJZZC()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_10')
-	print('finished game_10')
+	bfs_game(Huarongdao(zhen), 'Game10')
+	print('finished Game10')
 	'''
 	# Zhen form:
 	zhen = XLQB()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_11')
-	print('finished game_11')
+	bfs_game(Huarongdao(zhen), 'Game11')
+	print('finished Game11')
 	# Zhen form:
 	zhen = SMBF()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_12')
-	print('finished game_12')
+	bfs_game(Huarongdao(zhen), 'Game12')
+	print('finished Game12')
 	# Zhen form:
 	zhen = NQCT()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_13')
-	print('finished game_13')
+	bfs_game(Huarongdao(zhen), 'Game13')
+	print('finished Game13')
 	# Zhen form:
 	zhen = DBQJ()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_14')
-	print('finished game_14')
+	bfs_game(Huarongdao(zhen), 'Game14')
+	print('finished Game14')
 	# Zhen form:
 	zhen = BSZL()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_15')
-	print('finished game_15')
+	bfs_game(Huarongdao(zhen), 'Game15')
+	print('finished Game15')
 	# Zhen form:
 	zhen = HDLM2()	# from games.py
-	bfs_game(Huarongdao(zhen), 'game_16')
-	print('finished game_16')
+	bfs_game(Huarongdao(zhen), 'Game16')
+	print('finished Game16')
 
 	print('finished all!')
 	time_elapsed = time.time() - start_time
