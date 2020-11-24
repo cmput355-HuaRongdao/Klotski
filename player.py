@@ -2,7 +2,7 @@ import pygame
 import pygame.rect
 import sys
 import playMode
-#from huarong import solve
+from huarong import solve
 
 pygame.init()
 white = pygame.Color(255, 255, 255)
