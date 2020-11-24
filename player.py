@@ -50,7 +50,7 @@ def startMenu():
 		for event in pygame.event.get():
 			if event.type == pygame.QUIT:
 				pygame.quit()
-				sys.exit
+				sys.exit()
 			elif event.type == pygame.MOUSEBUTTONDOWN: 
 				# start game
 				if 200 < mouse_x < 200+200 and 450 < mouse_y < 450+50:
@@ -128,7 +128,7 @@ def success():
 		for event in pygame.event.get():
 			if event.type == pygame.QUIT:
 				pygame.quit()
-				sys.exit
+				sys.exit()
 			elif event.type == pygame.MOUSEBUTTONDOWN: 
 				# start game
 				if rect[0] < mouse_x < rect[0]+text_width and rect[1] < mouse_y < rect[1]+text_height:
