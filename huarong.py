@@ -136,35 +136,35 @@ def solve(f):
 
     # convert the images to a proper size.
 
-    img_huang1 = pygame.image.load("image/huang_1.png")
+    img_huang1 = pygame.image.load("image/huang_1.PNG")
     img_huang1 = pygame.transform.scale(img_huang1, (int(UNIT), int(2*UNIT)))
-    img_huang2 = pygame.image.load("image/huang_2.png")
+    img_huang2 = pygame.image.load("image/huang_2.PNG")
     img_huang2 = pygame.transform.scale(img_huang2, (int(2*UNIT), int(UNIT)))
 
-    img_ma1 = pygame.image.load("image/ma_1.png")
+    img_ma1 = pygame.image.load("image/ma_1.PNG")
     img_ma1 = pygame.transform.scale(img_ma1, (int(UNIT), int(2*UNIT)))
-    img_ma2 = pygame.image.load("image/ma_2.png")
+    img_ma2 = pygame.image.load("image/ma_2.PNG")
     img_ma2 = pygame.transform.scale(img_ma2, (int(2*UNIT), int(UNIT)))
 
-    img_yun1 = pygame.image.load("image/yun_1.png")
+    img_yun1 = pygame.image.load("image/yun_1.PNG")
     img_yun1 = pygame.transform.scale(img_yun1, (int(UNIT), int(2*UNIT)))
-    img_yun2= pygame.image.load("image/yun_2.png")
+    img_yun2= pygame.image.load("image/yun_2.PNG")
     img_yun2 = pygame.transform.scale(img_yun2, (int(2*UNIT), int(UNIT)))
 
-    img_guan1 = pygame.image.load("image/guan_1.png")
+    img_guan1 = pygame.image.load("image/guan_1.PNG")
     img_guan1 = pygame.transform.scale(img_guan1, (int(UNIT), int(2*UNIT)))
-    img_guan2= pygame.image.load("image/guan_2.png")
+    img_guan2= pygame.image.load("image/guan_2.PNG")
     img_guan2 = pygame.transform.scale(img_guan2, (int(2*UNIT), int(UNIT)))
 
-    img_zhang1 = pygame.image.load("image/zhang_1.png")
+    img_zhang1 = pygame.image.load("image/zhang_1.PNG")
     img_zhang1 = pygame.transform.scale(img_zhang1, (int(UNIT), int(2*UNIT)))
-    img_zhang2 = pygame.image.load("image/zhang_2.png")
+    img_zhang2 = pygame.image.load("image/zhang_2.PNG")
     img_zhang2 = pygame.transform.scale(img_zhang2, (int(2*UNIT), int(UNIT)))
 
-    img_cao = pygame.image.load("image/cao.png")
+    img_cao = pygame.image.load("image/cao.PNG")
     img_cao = pygame.transform.scale(img_cao, (int(2*UNIT), int(2*UNIT)))
 
-    img_bing = pygame.image.load("image/bing.png")
+    img_bing = pygame.image.load("image/bing.PNG")
     img_bing = pygame.transform.scale(img_bing, (int(UNIT), int(UNIT)))
 
     draw_border(screen)
