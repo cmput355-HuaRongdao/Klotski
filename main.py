@@ -212,12 +212,23 @@ def main():
 	'''
 	# Zhen form:
 	zhen = TZYY()	# from games.py
+<<<<<<< HEAD
+	RTHS_game(Huarongdao(zhen), 100, '逃之夭夭')
+	print('finished 逃之夭夭')
+	'''
+	# Zhen form:
+	zhen = WHZJ()	# from games.py
+	RTHS_game(Huarongdao(zhen), 500, '无横之局')
+	print('finished 无横之局')
+	'''
+=======
 	bfs_game(Huarongdao(zhen), 'game_1')
 	print('finished game_1')
 	# Zhen form:
 	zhen = WHZJ()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_2')
 	print('finished game_2')
+>>>>>>> 58e59964bfeebee9553ea95dfeb6937254b7ac60
 	# Zhen form:
 	zhen = JDHL()	# from games.py
 	bfs_game(Huarongdao(zhen), 'game_3')

@@ -12,7 +12,7 @@ red = pygame.Color(240,128,128)
 lightPurple = pygame.Color(153,0,153)
 
 #横刀立马
-def game_1():
+def Game1():
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     caocao_block = Tile(red, 256, 256,128,0,"image/cao.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,0,"image/huang_1.jpeg")
@@ -27,7 +27,7 @@ def game_1():
     return tileList
 
 #兵临曹营
-def game_2():
+def Game2():
     caocao_block = Tile(red, 256, 256,128,0,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,256,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,256,"image/huang_1.jpeg")
@@ -42,7 +42,7 @@ def game_2():
     return tileList
 
 #五将逼宫
-def game_3():
+def Game3():
     caocao_block = Tile(red, 256, 256,128,128,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,128,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,128,"image/huang_1.jpeg")
@@ -57,7 +57,7 @@ def game_3():
     return tileList
 
 #前呼后拥
-def game_4():
+def Game4():
     caocao_block = Tile(red, 256, 256,256,0,"image/cao.jpeg")
     hor_tile_one = Tile(grey, 256, 128,0,128,"image/guan_2.jpeg")
     hor_tile_two = Tile(grey, 256, 128,0,256,"image/huang_2.jpeg")
@@ -72,7 +72,7 @@ def game_4():
     return tileList
 
 #四将连关
-def game_5():
+def Game5():
     caocao_block = Tile(red, 256, 256,0,0,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,256,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,128,256,"image/huang_1.jpeg")
@@ -87,7 +87,7 @@ def game_5():
     return tileList
 
 #巧过五关
-def game_6():
+def Game6():
     caocao_block = Tile(red, 256, 256,128,0,"image/cao.jpeg")
     hor_tile_one = Tile(grey, 256, 128,0,256,"image/guan_2.jpeg")
     hor_tile_two = Tile(grey, 256, 128,0,384,"image/huang_2.jpeg")
@@ -102,7 +102,7 @@ def game_6():
     return tileList
 
 #将挡后路
-def game_7():
+def Game7():
     caocao_block = Tile(red, 256, 256,0,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,128,0,"image/huang_1.jpeg")
@@ -117,7 +117,7 @@ def game_7():
     return tileList
 
 #四面八方
-def game_8():
+def Game8():
     caocao_block = Tile(red, 256, 256,128,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,256,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,256,"image/huang_1.jpeg")
@@ -132,7 +132,7 @@ def game_8():
     return tileList
 
 #近在咫尺
-def game_9():
+def Game9():
     caocao_block = Tile(red, 256, 256,0,384,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,256,0,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,0,"image/huang_1.jpeg")
@@ -147,7 +147,7 @@ def game_9():
     return tileList
 
 #无横之局 samw with jiangdanghoulu
-def game_10():
+def Game10():
     caocao_block = Tile(red, 256, 256,0,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,128,0,"image/huang_1.jpeg")
@@ -162,7 +162,7 @@ def game_10():
     return tileList
 
 #星罗棋布
-def game_11():
+def Game11():
     caocao_block = Tile(red, 256, 256,128,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,128,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,128,"image/huang_1.jpeg")
@@ -177,7 +177,7 @@ def game_11():
     return tileList
 
 #比翼横空
-def game_13():
+def Game12():
     caocao_block = Tile(red, 256, 256,256,0,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,384,384,"image/guan_1.jpeg")
     hor_tile_one = Tile(grey, 256, 128,0,0,"image/huang_2.jpeg")
@@ -192,7 +192,7 @@ def game_13():
     return tileList
 
 #牛气冲天
-def game_14():
+def Game13():
     caocao_block = Tile(red, 256, 256,128,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,256,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,256,"image/huang_1.jpeg")
@@ -207,7 +207,7 @@ def game_14():
     return tileList
 
 #背水列阵
-def game_14():
+def Game14():
     caocao_block = Tile(red, 256, 256,128,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,384,0,"image/huang_1.jpeg")
@@ -222,7 +222,7 @@ def game_14():
     return tileList
 
 #调兵遣将
-def game_15():
+def Game15():
     caocao_block = Tile(red, 256, 256,0,0,"image/cao.jpeg")
     hor_tile_one = Tile(grey, 256, 128,0,256,"image/guan_2.jpeg")
     hor_tile_two = Tile(grey, 256, 128,0,384,"image/huang_2.jpeg")
@@ -237,7 +237,7 @@ def game_15():
     return tileList
 
 #逃之夭夭
-def game_16():
+def Game16():
     caocao_block = Tile(red, 256, 256,128,256,"image/cao.jpeg")
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     ver_tile_two = Tile(blue, 128, 256,0,256,"image/huang_1.jpeg")
