@@ -176,8 +176,7 @@ def game(tileList,tile_group):
 				return success()
 	
 		window.fill(white)
-		for item in tileList :
-			display_rect(item)
+		tile_group.draw(window)
 		
 		mouse_x, mouse_y = pygame.mouse.get_pos()
 		if 64 < mouse_x <256 and 700 < mouse_y < 700+50:
