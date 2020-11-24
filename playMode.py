@@ -88,7 +88,7 @@ def Game5():
 
 #巧过五关
 def Game6():
-    caocao_block = Tile(red, 256, 256,256,0,"image/cao.jpeg")
+    caocao_block = Tile(red, 256, 256,128,0,"image/cao.jpeg")
     hor_tile_one = Tile(grey, 256, 128,0,256,"image/guan_2.jpeg")
     hor_tile_two = Tile(grey, 256, 128,0,384,"image/huang_2.jpeg")
     hor_tile_three = Tile(dark_pink, 256,128,256,256,"image/yun_2.jpeg")
