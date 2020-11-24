@@ -72,7 +72,7 @@ def choose():
 		textList = []
 		for i in range(0,listLength):
 			num = str(i+1)
-			textList.append('Game'+num)
+			textList.append('game_'+num)
 		position = []
 		for i in range(len(textList)):
 			position.append((0,50*i))
@@ -134,7 +134,27 @@ def success():
 				if rect[0] < mouse_x < rect[0]+text_width and rect[1] < mouse_y < rect[1]+text_height:
 					return True
 		pygame.display.update()
-# def solution_button():
+def game_over_page():
+	
+		window.fill(white)
+		largeText = pygame.font.SysFont("comicsansms",80)
+		congratulations = largeText.render('GAME OVER', True, red)
+		rect = congratulations.get_rect()
+		rect.center = (window_width/2, window_height/2)
+		window.blit(congratulations,rect)
+
+		text = pygame.font.SysFont("comicsansms",80)
+		back = text.render("Back to menu", True, black)
+		rect = back.get_rect()
+		rect.center = (window_width/2, 2*window_height/3)
+		text_width = back.get_width()
+		text_height = back.get_height()
+		mouse_x, mouse_y = pygame.mouse.get_pos()
+		if rect[0] < mouse_x < rect[0]+text_width and rect[1] < mouse_y < rect[1]+text_height:
+				back = text.render("Back to menu", True, red)
+		window.blit(back,rect)
+
+		pygame.display.update()
 
 # main game 
 def game(tileList,tile_group):
@@ -168,7 +188,7 @@ def game(tileList,tile_group):
 					if 320 < mouse_x < 512 and 700 < mouse_y <700+50:
 						f = open('search_solutions/'+num+'.txt')
 						solve(f)
-						return player_main
+						game_over_page()
 
 			elif event.type == pygame.MOUSEBUTTONUP:
 				current = None
