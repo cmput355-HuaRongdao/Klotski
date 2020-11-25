@@ -34,7 +34,6 @@ yellow = pygame.Color(255, 255, 0)
 
 # create our windows
 
-
 def draw_border(screen):
     pygame.draw.rect(screen, black, (LEFT_b, UP_b, 10, five_units))
     pygame.draw.rect(screen, black, (LEFT_b, UP_b, four_units, 10))
@@ -49,10 +48,13 @@ def draw_border(screen):
 # file f comes from search_solution.
 
 def solve_no_picture(f):
+    # pygame initialization and variable initialization
     pygame.init()
     lines = f.readlines()
     temp_list = []
     row_num = 0
+    
+    # iterate, process input data
     for line in lines:
         if row_num > 11 or (row_num > 2 and row_num < 8) and row_num:
             line = line.replace("\n" or "[" or ']', "")
@@ -64,6 +66,8 @@ def solve_no_picture(f):
     display_list = temp_list.strip("[")
     display_list = display_list.strip("]")
     display_list = display_list.split(",")
+    
+    # display window
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Klotski")
     list_index = 0
@@ -73,6 +77,7 @@ def solve_no_picture(f):
         list_index = list_index + 1
     list_index = 0
 
+    # draw characters(blocks)
     draw_border(screen)
     while True:
         for event in pygame.event.get():
@@ -101,10 +106,13 @@ def solve_no_picture(f):
 # Same logic of solve_no_picture, but added pictures. Pictures come from http://www.4399.com/flash/2546_1.htm.
 
 def solve(f):
+    # initialization
     pygame.init()
     lines = f.readlines()
     temp_list = []
     row_num = 0
+    
+    # process input
     for line in lines:
         if row_num > 11 or (row_num > 2 and row_num < 8) and row_num:
             line = line.replace("\n" or "[" or ']', "")
@@ -116,6 +124,8 @@ def solve(f):
     display_list = temp_list.strip("[")
     display_list = display_list.strip("]")
     display_list = display_list.split(",")
+    
+    # display window
     screen = pygame.display.set_mode((WIDTH, HEIGHT))
     pygame.display.set_caption("Klotski")
     list_index = 0
@@ -123,10 +133,9 @@ def solve(f):
         for column in range(1,5):
             current_ch = display_list[list_index][column]
         list_index = list_index + 1
+        
     list_index = 0
-
     color = black
-
     check_huang = 0
     check_cao = 0
     check_ma = 0
@@ -134,8 +143,7 @@ def solve(f):
     check_guan = 0
     check_zhang = 0
 
-    # convert the images to a proper size.
-
+    # load images, and convert them to proper size.
     img_huang1 = pygame.image.load("image/huang_1.PNG")
     img_huang1 = pygame.transform.scale(img_huang1, (int(UNIT), int(2*UNIT)))
     img_huang2 = pygame.image.load("image/huang_2.PNG")
