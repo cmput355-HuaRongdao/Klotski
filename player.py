@@ -5,6 +5,7 @@ import playMode
 from huarong import solve
 
 pygame.init()
+# initialize colors
 white = pygame.Color(255, 255, 255)
 black = pygame.Color(0, 0, 0)
 red = pygame.Color(240, 128, 128)
@@ -80,7 +81,7 @@ def startMenu():
 
 def button_click(left_x, right_x, up_y, down_y, mouse_x, mouse_y):
 	# setting of clicking buttons
-	# the color will be changed when user's mouse is over it 
+	# change the text color if user's mouse moves over it 
 	if left_x < mouse_x < right_x and up_y < mouse_y < down_y:
 		pygame.draw.rect(window, lightPurple, (left_x, up_y, right_x - left_x, down_y - up_y))
 	else:
@@ -122,7 +123,7 @@ def choose():
 				# mouse left click
 				if event.button == 1:
 					for i in range(len(textList)):
-						# start game
+						# start selected game
 						if position[i][1] < mouse_y < position[i][1]+40:
 							method = getattr(playMode, textList[i])
 							return method(), textList[i]
