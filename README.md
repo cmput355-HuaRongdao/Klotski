@@ -1,7 +1,9 @@
-Huarongdao (or Klotski)
-Klotski is an one-player puzzle game where the goal is to figure out a way to move the largest block to the bottom of the board.
 
+### The explorer
+The explorer is a game of Klotski or Huarongdao.
+ Klotski is an one-player puzzle game where the goal is to figure out a way to move the largest block to the bottom of the board. 
 1, After cloning our project:
+
 Go under the directory called "Huarongdao". A folder called "env" should be there. Type into the terminal "source env/bin/activate" to load into the virtual setup(or environment).
 
 2, To open the graphical user interface:
@@ -21,3 +23,4 @@ After see the solution click anywhere to continue the game or quit directly
 
 7, If you want to see how RL and RTHS solves the game:
 Open the file called main.py, and modify the main function by changing the type of the game you want for each game. The four functions are in the same file. After modification, type into the terminal "python3 main.py" to see the reward recieved after each episode(if you are running RL).
+
