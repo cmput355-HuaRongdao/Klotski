@@ -10,5 +10,7 @@ To play any one of the 16 games, just click on any of them.
 Click on the edge of any of the piece to the direction you want it to move.
 >## 5, To see the solution to a certain game:
 Click on answer to view the solving process of the game.
->## 6, If you want to see how RL and RTHS solves the game:
+>## 6, To see the solution to a certain game:
+After see the solution click anywhere to continue the game or quit directly
+>## 7, If you want to see how RL and RTHS solves the game:
 Open the file called main.py, and modify the main function by changing the type of the game you want for each game. The four functions are in the same file. After modification, type into the terminal "python3 main.py" to see the reward recieved after each episode(if you are running RL).
