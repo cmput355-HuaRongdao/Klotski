@@ -1,4 +1,5 @@
-# Huarongdao (or Klotski)
+### The explorer
+The explorer is a game of Klotski or Huarongdao
 Klotski is an one-player puzzle game where the goal is to figure out a way to move the largest block to the bottom of the board. 
 >## 1, After cloning our project:
 Go under the directory called "Huarongdao". A folder called "env" should be there. Type into the terminal "source env/bin/activate" to load into the virtual setup(or environment).
