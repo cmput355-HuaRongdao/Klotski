@@ -1,9 +1,8 @@
 import pygame
 import pygame.rect
-#https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Sprite
-
-
-class Tile(pygame.sprite.Sprite):
+# Citation: https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Sprite
+# I am using this for solving the collide problem, I learnt how to use it from this website.
+class Tile(pygame.sprite.Sprite): 
 	def __init__(self, color=0, width=0, height=0,position_x = 0,position_y = 0,file = None):
 		pygame.sprite.Sprite.__init__(self)
 		self.width = width
@@ -18,6 +17,8 @@ class Tile(pygame.sprite.Sprite):
 		self.previous_y = 0
 
 	def check_collision(self,previous_pos,tile_group):
+		# Citation: https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.spritecollide
+		# learning how to use 
 		collision_list = pygame.sprite.spritecollide(self, tile_group, False)
 		if len(collision_list) > 1:
 			self.rect.x = self.previous_x
