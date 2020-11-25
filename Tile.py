@@ -30,8 +30,6 @@ class Tile(pygame.sprite.Sprite):
 		self.rect.x = new_x
 		self.rect.y = new_y
 
-		print(current_offset_x,current_offset_y)
-
 		# check for clicked position
 		if current_offset_x < -self.width/4*3 and -self.height/4*3 < current_offset_y < -self.height/4:
 			self.rect.x = self.previous_x + 128
