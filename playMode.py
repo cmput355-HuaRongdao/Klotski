@@ -11,6 +11,10 @@ grey = pygame.Color(100, 100, 100)
 red = pygame.Color(240,128,128)
 lightPurple = pygame.Color(153,0,153)
 
+
+#Pictures come from http://www.4399.com/flash/2546_1.htm.
+
+
 def Game1():
     ver_tile_one = Tile(yellow, 128, 256,0,0,"image/guan_1.jpeg")
     caocao_block = Tile(red, 256, 256,128,0,"image/cao.jpeg")

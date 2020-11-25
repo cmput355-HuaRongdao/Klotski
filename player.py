@@ -269,6 +269,8 @@ def game(tileList,tile_group):
 def player_main():
 	while True:
 		modeTiles = startMenu()
+		# citation: https://www.pygame.org/docs/ref/sprite.html#pygame.sprite.Group
+		# used for solving collide problem, I learnt how to use it from this website
 		tile_group = pygame.sprite.Group()
 		for item in modeTiles :
 			tile_group.add(item)
